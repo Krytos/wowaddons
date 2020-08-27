@@ -1,0 +1,37 @@
+
+MacroToolkitDB = {
+	["profileKeys"] = {
+		["Grillboost - Krag'jin"] = "profile",
+		["Grillboost - Zuluhed"] = "profile",
+		["Grillboost - Dun Morogh"] = "profile",
+		["Nexana - Blackmoore"] = "profile",
+		["Neaxa - Blackmoore"] = "profile",
+		["Grillpatrol - Blackmoore"] = "profile",
+		["Nexanâ - Blackmoore"] = "profile",
+		["Nexâna - Blackmoore"] = "profile",
+		["Grillboost - Antonidas"] = "profile",
+		["Nethenâ - Blackmoore"] = "profile",
+		["Noxiâ - Blackmoore"] = "profile",
+		["Lullidan - Blackmoore"] = "profile",
+		["Kaknooberpfi - Thrall"] = "profile",
+	},
+	["global"] = {
+		["extended"] = {
+			["1"] = {
+				["name"] = "BoostPreise",
+				["icon"] = "134400",
+				["body"] = "",
+			},
+		},
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
+	},
+	["profiles"] = {
+		["profile"] = {
+			["y"] = 527.1110229492188,
+			["x"] = 594.2696533203125,
+		},
+	},
+}

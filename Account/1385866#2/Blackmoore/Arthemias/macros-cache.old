@@ -1,0 +1,107 @@
+VER 3 0100000000000002 "Aimed" "INV_MISC_QUESTIONMARK"
+#showtooltip Aimed Shot
+/petattack
+/cast [nochanneling:Rapid Fire] Aimed Shot
+/use Claw(Basic Attack)
+/use Bite(Basic Attack)
+/use Smack(Basic Attack)
+END
+VER 3 0100000000000007 "Arcane" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Shot
+/petattack
+/cast [nochanneling:Rapid Fire] Arcane Shot
+/use Claw(Basic Attack)
+/use Bite(Basic Attack)
+/use Smack(Basic Attack)
+END
+VER 3 010000000000000B "Barbed" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/cast Barbed Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 010000000000000F "Beast" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Aspect of the WIld
+/use 14
+END
+VER 3 010000000000000D "CD" "INV_MISC_QUESTIONMARK"
+#showtooltip Double Tap
+/use [nochanneling:Rapid Fire] Double Tap;
+END
+VER 3 010000000000000C "Chimaera" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petassist
+/cast Chimaera Shot
+/petattack
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 010000000000000A "Cobra" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petassist
+/petattack
+/cast Cobra Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000011 "Counter Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Counter Shot
+/cast [@focus,exists,harm,nodead][] Counter Shot
+END
+VER 3 0100000000000012 "Feign Death" "INV_MISC_QUESTIONMARK"
+#showtooltip  feign death
+/cast play dead
+/cast feign death
+/cast [mod:alt]Wake up
+END
+VER 3 0100000000000005 "Flare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flare;
+END
+VER 3 0100000000000003 "Frost" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Freezing Trap
+END
+VER 3 0100000000000009 "Kill Command" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petassist
+/cast Kill Command
+/petattack
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 0100000000000001 "MD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,help,nodead] [@targettarget] [@pet,nodead] Misdirection
+END
+VER 3 0100000000000008 "Multi" "INV_MISC_QUESTIONMARK"
+#showtooltip Multi-Shot
+/petassist
+/petattack
+/cast [nochanneling:Rapid Fire] Multi-Shot
+/use Claw(Basic Attack)
+/use Bite(Basic Attack)
+/use Smack(Basic Attack)
+/use 14
+END
+VER 3 0100000000000006 "Steady" "INV_MISC_QUESTIONMARK"
+#showtooltip Spirit Mend
+/cast [@mouseover,help,nodead][@player]Spirit Mend
+END
+VER 3 010000000000000E "Steady Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Steady Shot
+/cast [nochanneling:Rapid Fire] Steady Shot
+END
+VER 3 0100000000000004 "Tar" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Tar Trap
+END
+VER 3 0100000000000010 "Turtle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+END

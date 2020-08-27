@@ -1,0 +1,24 @@
+VER 3 0100000000000001 "Agony" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Agony
+END
+VER 3 0100000000000006 "Cata" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Cataclysm
+END
+VER 3 0100000000000002 "Corruption" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Corruption
+END
+VER 3 0100000000000005 "Havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Havoc
+END
+VER 3 0100000000000003 "Immolate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Immolate
+END
+VER 3 0100000000000004 "RoF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Rain of Fire
+END

@@ -1,0 +1,12 @@
+Prat-3.0: disabled
+Prat-3.0_Libraries: disabled
+AtlasLoot_BurningCrusade: disabled
+AtlasLoot_Cataclysm: disabled
+AtlasLoot_Classic: disabled
+AtlasLoot_Legion: enabled
+AtlasLoot_MistsofPandaria: disabled
+AtlasLoot_WrathoftheLichKing: disabled
+ElvUI_SLE: enabled
+ElvUI_EverySecondCounts: disabled
+HeroCache: disabled
+TrufiGCD: disabled

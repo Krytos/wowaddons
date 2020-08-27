@@ -1,0 +1,30 @@
+
+LegionRaresTreasuresDB = {
+	["profileKeys"] = {
+		["Grillpatrol - Silvermoon"] = "Default",
+		["Noxiâ - Antonidas"] = "Default",
+		["Krytosboost - Arthas"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Azuhunterlol - Twisting Nether"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
+		["Kaknooberpfi - Thrall"] = "Default",
+		["Lûlidan - Blackmoore"] = "Default",
+		["Grillboost - Dun Morogh"] = "Default",
+		["Grillboost - Zuluhed"] = "Default",
+		["Nexana - Blackmoore"] = "Default",
+		["Grillboost - Krag'jin"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Grillboost - Antonidas"] = "Default",
+		["Grillpatrol - Ravencrest"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
+		["Grillboost - Alexstrasza"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

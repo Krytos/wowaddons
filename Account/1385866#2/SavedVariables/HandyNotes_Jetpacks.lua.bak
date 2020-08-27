@@ -1,0 +1,31 @@
+
+HandyNotes_JetpacksDB = {
+	["profileKeys"] = {
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Svenass - Kazzak"] = "Svenass - Kazzak",
+		["Ártèmis - Blackmoore"] = "Ártèmis - Blackmoore",
+		["Grillpatrol - Ravencrest"] = "Grillpatrol - Ravencrest",
+		["Hrst - Blackmoore"] = "Hrst - Blackmoore",
+		["Noxiâ - Antonidas"] = "Noxiâ - Antonidas",
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
+		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
+	},
+	["profiles"] = {
+		["Nethenâ - Blackmoore"] = {
+		},
+		["Svenass - Kazzak"] = {
+		},
+		["Ártèmis - Blackmoore"] = {
+		},
+		["Grillpatrol - Ravencrest"] = {
+		},
+		["Hrst - Blackmoore"] = {
+		},
+		["Noxiâ - Antonidas"] = {
+		},
+		["Nexana - Blackmoore"] = {
+		},
+		["Neaxa - Blackmoore"] = {
+		},
+	},
+}

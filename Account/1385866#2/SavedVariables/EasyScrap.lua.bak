@@ -1,0 +1,21 @@
+
+EasyScrap_SaveData = {
+	["addonSettings"] = {
+		["defaultFilter"] = 1,
+		["canScrapTooltip"] = false,
+	},
+	["addonVersion"] = 24,
+	["customFilters"] = {
+		{
+			["name"] = "CLA",
+			["rules"] = {
+				{
+					["data"] = {
+						"Coarse Leather", -- [1]
+					},
+					["filterType"] = "itemName",
+				}, -- [1]
+			},
+		}, -- [1]
+	},
+}

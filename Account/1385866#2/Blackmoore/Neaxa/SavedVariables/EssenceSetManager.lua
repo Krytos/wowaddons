@@ -1,0 +1,7 @@
+
+EssenceSetManager = {
+	["Arcane"] = {
+	},
+	["Fire"] = {
+	},
+}

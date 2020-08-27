@@ -1,0 +1,7 @@
+
+LazyCurveDB = {
+	["advertise"] = false,
+	["whisperOnApply"] = false,
+	["mythicThreshold"] = 0,
+	["disableAutolinkReminder"] = true,
+}

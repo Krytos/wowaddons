@@ -1,0 +1,78 @@
+VER 3 010000000000000B "Barrier" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Power Word: Barrier
+END
+VER 3 0100000000000005 "Dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][mod:shift]Dispel Magic; 
+/cast [@mouseover,nodead,help][]Purify
+END
+VER 3 0100000000000011 "Feather" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Angelic Feather
+END
+VER 3 0100000000000001 "Flash Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@player]Flash Heal;
+END
+VER 3 0100000000000012 "GS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,exists,help,nodead] []Guardian Spirit
+END
+VER 3 010000000000000D "Heal" "INV_MISC_QUESTIONMARK"
+#showtoolltip
+/cast [@mouseover,help,nodead][]Heal
+END
+VER 3 0100000000000004 "Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][@focus, help, nodead][]Leap of Faith
+END
+VER 3 010000000000000E "Mending" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,exists,help,nodead][@player]Prayer of Mending
+END
+VER 3 0100000000000009 "Pain" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][] Pain Suppression
+END
+VER 3 0100000000000014 "Purify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor,mod:alt][mod:alt]Mass Dispel; 
+/cast [@mouseover,help,nodead,mod:shift][mod:shift]Purify Disease; 
+/cast [@mouseover,harm,nodead][]Dispel Magic
+END
+VER 3 010000000000000A "Radiance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,exists,help,nodead][]Power Word: Radiance
+END
+VER 3 0100000000000013 "Renwe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Renew
+END
+VER 3 0100000000000010 "Sanctify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Holy Word: Sanctify
+END
+VER 3 010000000000000F "Serenity" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,exists,help,nodead][]Holy Word: Serenity
+END
+VER 3 0100000000000002 "Shield" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@player][spec:1]Power Word: Shield;
+END
+VER 3 0100000000000008 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast Smite
+END
+VER 3 0100000000000003 "SW:P" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling:focused azerite beam]
+/cast [@mouseover,harm,nodead][]Shadow Word: Pain;
+/cast [@mouseover,nodead,harm,talent 6/1][]Purge the Wicked
+END
+VER 3 0100000000000006 "VT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Vampiric Touch
+END

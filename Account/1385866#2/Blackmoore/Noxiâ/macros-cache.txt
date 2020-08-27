@@ -1,0 +1,54 @@
+VER 3 010000000000000C "Adrenaline" "136206"
+#showtooltip Adrenaline Rush
+/cast Adrenaline Rush
+/use 13
+/use 14
+END
+VER 3 0100000000000008 "Garrote" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Garrote
+END
+VER 3 0100000000000006 "Hook" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Grappling Hook
+END
+VER 3 010000000000000B "Killing Spree" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2]Blade Rush; [talent:7/3] Killing Spree;
+END
+VER 3 0100000000000003 "Mutilate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Mutilate
+END
+VER 3 0100000000000002 "Poison Blade" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Toxic Blade; [talent:6/3] Exsanguinate;
+END
+VER 3 0100000000000009 "Rupture" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][] Rupture
+END
+VER 3 010000000000000A "Sap" "INV_MISC_QUESTIONMARK"
+#showtooltip Sap
+/cast [@mouseover,exists,nodead][@target,exists,nodead] Sap;
+END
+VER 3 0100000000000001 "Shadowstep" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowstep
+/cast [@mouseover,exists,nodead][] Shadowstep;
+END
+VER 3 0100000000000005 "Tricks" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [@focus, help, nodead] Tricks of the Trade; [@targettarget, help, nodead] Tricks of the Trade; [@mouseover, help, nodead] Tricks of the Trade;  
+END
+VER 3 0100000000000007 "Vendetta" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Vendetta
+/use 13
+/use 14
+END
+VER 3 010000000000000D "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000E "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nox[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

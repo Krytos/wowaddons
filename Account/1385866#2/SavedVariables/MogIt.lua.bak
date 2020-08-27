@@ -1,0 +1,128 @@
+
+MogItDB = {
+	["global"] = {
+		["version"] = "3.9.0",
+	},
+	["profileKeys"] = {
+		["Nethenâ - Blackmoore"] = "Default",
+		["Grillboost - Alexstrasza"] = "Default",
+		["Obliviongril - Bronze Dragonflight"] = "Default",
+		["Nexana - Blackmoore"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Nexâna - Blackmoore"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
+		["Noxiâ - Blackmoore"] = "Default",
+		["Lullidan - Blackmoore"] = "Default",
+		["Grillock - Blackmoore"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["previewProps"] = {
+				{
+					["y"] = 69.58712005615234,
+					["h"] = 560.7462768554688,
+					["point"] = "RIGHT",
+					["w"] = 528.0159301757812,
+					["x"] = -113.8965454101563,
+				}, -- [1]
+			},
+			["gridHeight"] = 943.4918823242188,
+			["x"] = 1.016013860702515,
+			["slotLabels"] = {
+				["Waist"] = "Waist",
+				["Fist"] = "Fist Weapons",
+				["Tabard"] = "Tabard",
+				["Legs"] = "Legs",
+				["Back"] = "Back",
+				["2H-axe"] = "Two-Handed Axes",
+				["2H-mace"] = "Two-Handed Maces",
+				["Shirt"] = "Shirt",
+				["Dagger"] = "Daggers",
+				["Hands"] = "Hands",
+				["Gun"] = "Guns",
+				["Polearm"] = "Polearms",
+				["2H-sword"] = "Two-Handed Swords",
+				["Warglaives"] = "Warglaives",
+				["ArtifactLegion"] = "Legion Artifacts",
+				["1H-mace"] = "One-Handed Maces",
+				["Head"] = "Head",
+				["Holdable"] = "Held In Off-hand",
+				["Shield"] = "Shields",
+				["1H-sword"] = "One-Handed Swords",
+				["Staff"] = "Staves",
+				["Chest"] = "Chest",
+				["1H-axe"] = "One-Handed Axes",
+				["Crossbow"] = "Crossbows",
+				["Wrist"] = "Wrist",
+				["Feet"] = "Feet",
+				["Bow"] = "Bows",
+				["Shoulder"] = "Shoulder",
+				["Wand"] = "Wands",
+			},
+			["minimap"] = {
+				["minimapPos"] = 185.5055332131577,
+			},
+			["gridWidth"] = 1293.842041015625,
+			["point"] = "LEFT",
+			["y"] = -7.619038105010986,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillboost - Alexstrasza"] = "Grillboost - Alexstrasza",
+		["Obliviongril - Bronze Dragonflight"] = "Obliviongril - Bronze Dragonflight",
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
+		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
+		["Nexanâ - Ravencrest"] = "Nexanâ - Ravencrest",
+		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
+		["Hrst - Blackmoore"] = "Hrst - Blackmoore",
+		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
+		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
+		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
+	},
+	["global"] = {
+		["version"] = 80300,
+	},
+	["profiles"] = {
+		["Nethenâ - Blackmoore"] = {
+		},
+		["Grillboost - Alexstrasza"] = {
+		},
+		["Obliviongril - Bronze Dragonflight"] = {
+		},
+		["Nexana - Blackmoore"] = {
+		},
+		["Grillpatrol - Blackmoore"] = {
+			["items"] = {
+				"item:113652:0::::::::::6:1:3524", -- [1]
+				"item:113652:0::::::::::5:1:3524", -- [2]
+				"item:35047:0::::::::::0:1:3524", -- [3]
+				"item:34334:0::::::::::0:1:3524", -- [4]
+				"item:140870:0::::::::::6:1:3524", -- [5]
+			},
+		},
+		["Neaxa - Blackmoore"] = {
+		},
+		["Nexanâ - Blackmoore"] = {
+		},
+		["Nexanâ - Ravencrest"] = {
+		},
+		["Nexâna - Blackmoore"] = {
+		},
+		["Hrst - Blackmoore"] = {
+		},
+		["Noxiâ - Blackmoore"] = {
+		},
+		["Lullidan - Blackmoore"] = {
+		},
+		["Grillock - Blackmoore"] = {
+		},
+	},
+}

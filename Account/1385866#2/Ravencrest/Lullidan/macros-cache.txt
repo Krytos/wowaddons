@@ -1,0 +1,38 @@
+VER 3 0100000000000008 "Fiery Brand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Fiery Brand
+END
+VER 3 0100000000000002 "Imprison" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,nodead][]Imprison
+END
+VER 3 0100000000000003 "IS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt,@player]Infernal Strike;[@cursor]Infernal Strike;
+END
+VER 3 0100000000000001 "Meta" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Metamorphosis
+END
+VER 3 0100000000000006 "Shear" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Shear
+END
+VER 3 0100000000000005 "SoC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Sigil of Chains
+END
+VER 3 0100000000000004 "SoF" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Sigil of Flame
+END
+VER 3 0100000000000007 "Souls Cleave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Soul Cleave
+END
+VER 3 0100000000000009 "Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Torment
+END

@@ -1,0 +1,3 @@
+
+AngryBossReminders_Config = {
+}

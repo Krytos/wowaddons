@@ -1,0 +1,10 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/cw azuhunter lol, how fucking bad are you? xD Got me down to 10% because I did not want to fight and then you still lose to me xD", -- [1]
+		"/who azuhunter", -- [2]
+		"/who", -- [3]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

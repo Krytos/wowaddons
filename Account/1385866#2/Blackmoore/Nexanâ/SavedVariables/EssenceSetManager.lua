@@ -1,0 +1,5 @@
+
+EssenceSetManager = {
+	["Destruction"] = {
+	},
+}

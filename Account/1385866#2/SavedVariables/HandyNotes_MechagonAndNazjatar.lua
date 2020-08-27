@@ -1,0 +1,36 @@
+
+HandyNotes_MechagonAndNazjatarDB = {
+	["profileKeys"] = {
+		["Grillpatrol - Silvermoon"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
+		["Obliviongril - Bronze Dragonflight"] = "Default",
+		["Krytosboost - Arthas"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Grillpatrol - Ravencrest"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
+		["Grillboost - Alexstrasza"] = "Default",
+		["Azuhunterlol - Twisting Nether"] = "Default",
+		["Kaknooberpfi - Thrall"] = "Default",
+		["Lûlidan - Blackmoore"] = "Default",
+		["Svenass - Kazzak"] = "Default",
+		["Grillboost - Krag'jin"] = "Default",
+		["Grillboost - Dun Morogh"] = "Default",
+		["Grillboost - Antonidas"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
+		["Nexana - Blackmoore"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Ártèmis - Blackmoore"] = "Default",
+		["Nexâna - Blackmoore"] = "Default",
+		["Noxiâ - Antonidas"] = "Default",
+		["Noxiâ - Blackmoore"] = "Default",
+		["Lullidan - Blackmoore"] = "Default",
+		["Grillboost - Zuluhed"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

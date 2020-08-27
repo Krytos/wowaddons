@@ -1,0 +1,91 @@
+VER 3 0100000000000007 "AoE" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/2] Dragon Roar
+/cast [talent:6/3] Bladestorm
+/startattack
+END
+VER 3 010000000000000E "Arms" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/2] Whirlwind
+/cast [talent:3/1] Slam
+/startattack
+END
+VER 3 010000000000000C "BT" "INV_MISC_QUESTIONMARK"
+#showtooltip Bloodthirst
+/use Blazing Wings
+/cast Bloodthirst
+/use 13
+END
+VER 3 0100000000000003 "CDs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Battle Cry
+/cast bloodbath
+/cast Avatar
+/cast Odyn's Fury
+/use 14
+END
+VER 3 0100000000000010 "Charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,nodead][]charge;
+/cast Heroic Throw
+END
+VER 3 010000000000000B "FURYWARRIOR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click [button:2] FURYWARRIOR RightButton; [button:3] FURYWARRIOR MiddleButton; [button:4] FURYWARRIOR Button4; [button:5] FURYWARRIOR Button5; FURYWARRIOR
+END
+VER 3 0100000000000002 "Heroic Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Heroic Leap
+/startattack
+END
+VER 3 0100000000000001 "Heroic Throw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Heroic Throw;
+END
+VER 3 0100000000000008 "Pummel" "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cast [@focus, harm, exists][@target] Pummel
+/startattack
+END
+VER 3 010000000000000D "PVP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/3] Siegebreaker
+/cast [pvptalent:3/4] Death Wish
+/startattack
+END
+VER 3 0100000000000004 "Raging Blow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use raging blow
+/use Heroic Throw
+END
+VER 3 0100000000000009 "Recklessness" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Recklessness
+/startattack
+/use 13
+/use 14
+END
+VER 3 0100000000000005 "Shield Block" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shield Block
+/cast Ignore Pain
+END
+VER 3 0100000000000006 "Shield Slam" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shield Slam
+/use Blazing Wings
+END
+VER 3 010000000000000A "Shield Slam" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence Shield Slam, Devastate
+END
+VER 3 0100000000000011 "taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip Taunt
+/cast [@mouseover,harm,nodead] Taunt; Taunt
+END
+VER 3 010000000000000F "WW / FS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/2] Whirlwind
+/cast [talent:3/3] Furious Slash
+/startattack
+END

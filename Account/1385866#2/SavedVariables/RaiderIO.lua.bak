@@ -1,0 +1,39 @@
+
+RaiderIO_Config = {
+	["useEnglishAbbreviations"] = false,
+	["enableKeystoneTooltips"] = true,
+	["disableScoreColors"] = false,
+	["showMainBestScore"] = false,
+	["enableWhoTooltips"] = true,
+	["displayWeeklyGuildBest"] = false,
+	["profilePoint"] = {
+		["y"] = -106.1904602050781,
+		["x"] = 373.0523681640625,
+		["point"] = "TOP",
+	},
+	["showSimpleScoreColors"] = false,
+	["enableWhoMessages"] = true,
+	["enableUnitTooltips"] = true,
+	["showRaiderIOProfile"] = true,
+	["enableLFGDropdown"] = true,
+	["enableGuildTooltips"] = true,
+	["hidePersonalRaiderIOProfile"] = false,
+	["mplusHeadlineMode"] = 0,
+	["enableLFGTooltips"] = true,
+	["positionProfileAuto"] = false,
+	["showRoleIcons"] = true,
+	["enableFriendsTooltips"] = true,
+	["showRaidEncountersInProfile"] = true,
+	["showDropDownCopyURL"] = true,
+	["showAverageScore"] = true,
+	["enableProfileModifier"] = true,
+	["enableClientEnhancements"] = true,
+	["showMainsScore"] = true,
+	["lockProfile"] = false,
+	["showScoreInCombat"] = true,
+	["inverseProfileModifier"] = false,
+	["showClientGuildBest"] = true,
+}
+RaiderIO_LastCharacter = "eu-Grillpatrol-blackmoore"
+RaiderIO_MissingCharacters = {
+}

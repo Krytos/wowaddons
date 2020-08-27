@@ -1,0 +1,13 @@
+
+MaxDpsOptions = {
+	["profileKeys"] = {
+		["Krytosbank - Blackmoore"] = "Krytosbank - Blackmoore",
+		["Asdasfadfsaf - Blackmoore"] = "Asdasfadfsaf - Blackmoore",
+		["Asdafggdaf - Blackmoore"] = "Asdafggdaf - Blackmoore",
+		["Arthemias - Blackmoore"] = "Arthemias - Blackmoore",
+	},
+	["global"] = {
+		["customRotations"] = {
+		},
+	},
+}

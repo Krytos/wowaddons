@@ -1,0 +1,60 @@
+VER 3 0100000000000004 "Agona" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] [] Agony;
+END
+VER 3 0100000000000006 "Burning Rush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Burning Rush; [] Demonic Circle;
+END
+VER 3 0100000000000003 "Corruption" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [@mouseover,harm,nodead] [] Corruption;
+END
+VER 3 0100000000000008 "Create Soulwell" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Create Soulwell; [] Create Healthstone;
+END
+VER 3 010000000000000B "Drain Soul" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Drain Soul
+/use 13
+/use 14
+END
+VER 3 0100000000000005 "Health Funnel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Unending Resolve; [] Health Funnel;
+END
+VER 3 0100000000000001 "Immolate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,harm,nodead] [mod:shift] Havoc; [@mouseover,harm,nodead] [] Immolate;
+END
+VER 3 010000000000000A "Life Tap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,harm,nodead][mod:shift]Fear;[]Life Tap
+END
+VER 3 010000000000000C "Mortal Coil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/tar Karam
+/cast Mortal Coil
+/targetlasttarget
+END
+VER 3 0100000000000007 "Reap Souls" "INV_MISC_QUESTIONMARK"
+#showtooltip Reap Souls
+/use 13
+/cast Reap Souls
+END
+VER 3 010000000000000D "SL" "INV_MISC_QUESTIONMARK"
+#showtooltip  Siphon Life
+/cast  [@mouseover,harm,nodead] [] Siphon Life;
+END
+VER 3 0100000000000009 "Soul Harvest" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul Harvest
+/use 13
+/cast soul harvest
+END
+VER 3 010000000000000E "VuhDoDCShieldData" "Ability_Repair"
+P1HR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1LR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]0__
+END
+VER 3 010000000000000F "VuhDoDCShieldNames" "Ability_Repair"
+NGri[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Nex[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Zha
+END

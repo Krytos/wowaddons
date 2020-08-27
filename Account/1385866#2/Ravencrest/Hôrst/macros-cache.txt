@@ -1,0 +1,58 @@
+VER 3 0100000000000002 "Charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,exists,nodead][]Charge
+END
+VER 3 0100000000000008 "Dev" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Devastate
+/target Enchanted Emissary
+/use Snowball
+/targetlasttarget
+END
+VER 3 010000000000000C "DR / BS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:6/3]Bladestorm; [talent:6/2]Dragon Roar
+END
+VER 3 0100000000000001 "Leap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Heroic Leap
+END
+VER 3 0100000000000004 "Reck" "INV_MISC_QUESTIONMARK"
+#showtooltip Recklessness
+/cast recklessness
+END
+VER 3 0100000000000009 "Revenge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Revenge
+/target Enchanted Emissary
+/use Snowball
+/targetlasttarget
+END
+VER 3 0100000000000006 "SS" "INV_MISC_QUESTIONMARK"
+#showtooltip Shield slam
+/cast Shield slam
+/target Enchanted Emissary
+/use Snowball
+/targetlasttarget
+END
+VER 3 0100000000000005 "Taunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Taunt
+END
+VER 3 0100000000000007 "TC" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Thunder clap
+/target Enchanted Emissary
+/use Snowball
+/targetlasttarget
+END
+VER 3 0100000000000003 "Throw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Heroic Throw
+END
+VER 3 010000000000000A "VuhDoDCShieldData" "Ability_Repair"
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1WM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 010000000000000B "VuhDoDCShieldNames" "Ability_Repair"
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Hôr[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

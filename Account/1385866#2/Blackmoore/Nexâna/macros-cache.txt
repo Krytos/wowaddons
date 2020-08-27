@@ -1,0 +1,78 @@
+VER 3 0100000000000011 "Barrier" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor]Power Word: Barrier
+END
+VER 3 0100000000000012 "Dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [@mouseover,help][help, spec:3] Purify Disease; [@mouseover,help][help, spec:1] Purify;[@mouseover,harm][]Dispel Magic; 
+END
+VER 3 0100000000000013 "Feather" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Angelic Feather
+END
+VER 3 010000000000000F "Grip" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,exists][]Leap of Faith
+END
+VER 3 010000000000000C "Heal" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,help,nodead,exists][mod:shift,@focus,help,exists,nodead][mod:shift,]Holy Word: Serenity;[@mouseover,help,nodead,exists][]Heal
+END
+VER 3 0100000000000007 "Levitate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@player]Levitate
+END
+VER 3 0100000000000006 "penance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,exists][]Penance
+END
+VER 3 010000000000000D "PoM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,harm,nodead,exists][mod:shift]Holy Fire;[@mouseover,help,nodead,exists][@focus,help,nodead,exists][]Prayer of Mending
+END
+VER 3 010000000000000E "Prayer" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@cursor][mod:shift]Holy Word: Sanctify; Prayer of Healing
+END
+VER 3 0100000000000008 "PS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,help,nodead,exists][spec:1,@focus,help,nodead,exists][spec:1]Pain Suppression;[spec:2,@mouseover,help,nodead,exists][spec:2,@focus,help,nodead,exists][spec:2]Guardian Spirit
+END
+VER 3 010000000000000A "PWR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [spec:1,@mouseover,help,nodead,exists][spec:1,@player][spec:1]Power Word: Radiance;
+END
+VER 3 0100000000000003 "PWS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopchanneling
+/cast [@mouseover,help,nodead][@player]Power Word: Shield
+END
+VER 3 0100000000000009 "PWSolace" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast [@mouseover,harm,nodead,exists][]Power Word: Solace
+END
+VER 3 010000000000000B "Renew" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast [@mouseover,help,nodead,exists][]Renew
+END
+VER 3 0100000000000002 "Shadow Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopchanneling
+/cast [@mouseover,help,nodead][@player]Flash Heal; 
+END
+VER 3 0100000000000010 "Shining Force" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead,exists][@focus,help,nodead,exists][]Shining Force
+END
+VER 3 0100000000000004 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast [mod:shift,@mouseover,harm,nodead,exists][mod:shift]Holy Word: Chastise; Smite
+END
+VER 3 0100000000000001 "SW:P" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcast [channeling]
+/cast [spec:2,@mouseover,harm,nodead,exists][spec:2]Holy Fire; [@mouseover,harm,nodead,exists][]Shadow Word: Pain
+END

@@ -1,0 +1,70 @@
+
+HandyNotes_ArgusDB = {
+	["profileKeys"] = {
+		["Grillpatrol - Silvermoon"] = "Grillpatrol - Silvermoon",
+		["Noxiâ - Antonidas"] = "Noxiâ - Antonidas",
+		["Krytosboost - Arthas"] = "Krytosboost - Arthas",
+		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
+		["Nexanâ - Ravencrest"] = "Nexanâ - Ravencrest",
+		["Azuhunterlol - Twisting Nether"] = "Azuhunterlol - Twisting Nether",
+		["Hrst - Blackmoore"] = "Hrst - Blackmoore",
+		["Kaknooberpfi - Thrall"] = "Kaknooberpfi - Thrall",
+		["Lûlidan - Blackmoore"] = "Lûlidan - Blackmoore",
+		["Grillboost - Dun Morogh"] = "Grillboost - Dun Morogh",
+		["Grillboost - Zuluhed"] = "Grillboost - Zuluhed",
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
+		["Grillboost - Krag'jin"] = "Grillboost - Krag'jin",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
+		["Grillpatrol - Ravencrest"] = "Grillpatrol - Ravencrest",
+		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
+		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
+		["Grillboost - Alexstrasza"] = "Grillboost - Alexstrasza",
+	},
+	["profiles"] = {
+		["Grillpatrol - Silvermoon"] = {
+		},
+		["Noxiâ - Antonidas"] = {
+		},
+		["Krytosboost - Arthas"] = {
+		},
+		["Neaxa - Blackmoore"] = {
+		},
+		["Nexanâ - Ravencrest"] = {
+		},
+		["Azuhunterlol - Twisting Nether"] = {
+		},
+		["Hrst - Blackmoore"] = {
+		},
+		["Kaknooberpfi - Thrall"] = {
+		},
+		["Lûlidan - Blackmoore"] = {
+		},
+		["Grillboost - Dun Morogh"] = {
+		},
+		["Grillboost - Zuluhed"] = {
+		},
+		["Nexana - Blackmoore"] = {
+		},
+		["Grillboost - Krag'jin"] = {
+		},
+		["Nethenâ - Blackmoore"] = {
+		},
+		["Nexanâ - Blackmoore"] = {
+		},
+		["Grillpatrol - Blackmoore"] = {
+		},
+		["Grillboost - Antonidas"] = {
+		},
+		["Grillpatrol - Ravencrest"] = {
+		},
+		["Hôrst - Ravencrest"] = {
+		},
+		["Lullidan - Ravencrest"] = {
+		},
+		["Grillboost - Alexstrasza"] = {
+		},
+	},
+}

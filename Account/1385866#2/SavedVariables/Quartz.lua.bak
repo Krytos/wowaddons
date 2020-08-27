@@ -1,0 +1,219 @@
+
+Quartz3DB = {
+	["namespaces"] = {
+		["Swing"] = {
+			["profiles"] = {
+				["Shadow"] = {
+					["swingposition"] = "bottom",
+				},
+			},
+		},
+		["Buff"] = {
+		},
+		["Interrupt"] = {
+		},
+		["Flight"] = {
+		},
+		["Pet"] = {
+			["profiles"] = {
+				["Disc"] = {
+					["x"] = 861.5023803710938,
+				},
+				["Shadow"] = {
+					["y"] = 261.999633789063,
+					["h"] = 10,
+					["w"] = 80,
+					["x"] = 641.996704101563,
+				},
+				["Default"] = {
+					["h"] = 10,
+					["w"] = 80,
+					["x"] = 641.996704101563,
+					["y"] = 261.999633789063,
+				},
+				["Ass"] = {
+					["y"] = 261.999633789063,
+					["h"] = 10,
+					["w"] = 80,
+					["x"] = 641.996704101563,
+				},
+			},
+		},
+		["EnemyCasts"] = {
+		},
+		["Player"] = {
+			["profiles"] = {
+				["Disc"] = {
+					["x"] = 836.5023803710938,
+				},
+				["Shadow"] = {
+					["y"] = 84.6612319946289,
+					["h"] = 22,
+					["w"] = 280,
+					["x"] = 817.009033203125,
+				},
+				["Default"] = {
+					["w"] = 257,
+					["y"] = 79.7222671508789,
+					["x"] = 829.0204467773438,
+				},
+				["Ass"] = {
+					["y"] = 223.001068115234,
+					["x"] = 814.000183105469,
+					["w"] = 280,
+				},
+			},
+		},
+		["GCD"] = {
+			["profiles"] = {
+				["Default"] = {
+					["gcdposition"] = "top",
+					["sparkcolor"] = {
+						0.996078431372549, -- [1]
+						nil, -- [2]
+						nil, -- [3]
+						1, -- [4]
+					},
+					["gcdheight"] = 6,
+					["gcdalpha"] = 1,
+				},
+				["Shadow"] = {
+					["gcdheight"] = 5,
+					["sparkcolor"] = {
+						nil, -- [1]
+						0.937254901960784, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["gcdalpha"] = 1,
+				},
+			},
+		},
+		["Focus"] = {
+			["profiles"] = {
+				["Disc"] = {
+					["x"] = 861.5023803710938,
+				},
+				["Shadow"] = {
+					["y"] = 165.998718261719,
+					["h"] = 10,
+					["w"] = 125,
+					["x"] = 1253.00598144531,
+				},
+				["Default"] = {
+					["h"] = 10,
+					["w"] = 125,
+					["y"] = 165.998718261719,
+					["x"] = 1253.00598144531,
+				},
+				["Ass"] = {
+					["y"] = 165.998718261719,
+					["h"] = 10,
+					["w"] = 125,
+					["x"] = 1253.00598144531,
+				},
+			},
+		},
+		["Target"] = {
+			["profiles"] = {
+				["Disc"] = {
+					["x"] = 861.5023803710938,
+				},
+				["Shadow"] = {
+					["y"] = 296.000732421875,
+					["h"] = 10,
+					["w"] = 165,
+					["x"] = 1104.00390625,
+				},
+				["Default"] = {
+					["h"] = 10,
+					["w"] = 165,
+					["y"] = 296.000732421875,
+					["x"] = 1104.00390625,
+				},
+				["Ass"] = {
+					["y"] = 296.000732421875,
+					["h"] = 10,
+					["w"] = 165,
+					["x"] = 1104.00390625,
+				},
+			},
+		},
+		["Range"] = {
+		},
+		["Mirror"] = {
+		},
+		["Latency"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Artèmis - Antonidas"] = "Default",
+		["Grillpatrol - Silvermoon"] = "Default",
+		["Noxiâ - Antonidas"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Shadow",
+		["Alsnfaljsnfa - Ravencrest"] = "Default",
+		["Giveemethats - Blackmoore"] = "Default",
+		["Krytosbank - Blackmoore"] = "Default",
+		["Shadokashado - Blackmoore"] = "Default",
+		["Lûlidan - Blackmoore"] = "Default",
+		["Arthemias - Blackmoore"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
+		["Artêmîs - Kazzak"] = "Default",
+		["Asdasfadfsaf - Blackmoore"] = "Default",
+		["Nexana - Blackmoore"] = "Shadow",
+		["Nethenâ - Blackmoore"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Asdafggdaf - Blackmoore"] = "Default",
+		["Grillpatrol - Ravencrest"] = "Default",
+		["Nariâ - Blackmoore"] = "Ass",
+		["Ártèmis - Blackmoore"] = "Default",
+		["Arthemiasd - Ravencrest"] = "Default",
+		["Svenass - Kazzak"] = "Default",
+	},
+	["profiles"] = {
+		["Disc"] = {
+			["modules"] = {
+				["Swing"] = false,
+				["Buff"] = false,
+				["Interrupt"] = false,
+				["Pet"] = false,
+				["Player"] = false,
+				["GCD"] = false,
+				["Focus"] = false,
+				["Target"] = false,
+				["Range"] = false,
+				["Mirror"] = false,
+			},
+		},
+		["Shadow"] = {
+			["modules"] = {
+				["Swing"] = false,
+				["Focus"] = false,
+				["Timer"] = false,
+				["Buff"] = false,
+				["Pet"] = false,
+				["Mirror"] = false,
+			},
+		},
+		["Default"] = {
+			["modules"] = {
+				["Buff"] = false,
+				["Timer"] = false,
+				["Pet"] = false,
+				["Mirror"] = false,
+				["Focus"] = false,
+			},
+		},
+		["Ass"] = {
+			["modules"] = {
+				["Buff"] = false,
+				["Timer"] = false,
+				["Focus"] = false,
+				["Pet"] = false,
+				["Mirror"] = false,
+			},
+		},
+	},
+}

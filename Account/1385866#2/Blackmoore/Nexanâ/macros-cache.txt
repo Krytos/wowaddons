@@ -1,0 +1,60 @@
+VER 3 0100000000000004 "Agona" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead] [] Agony;
+END
+VER 3 0100000000000006 "Burning Rush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Burning Rush; [] Demonic Circle;
+END
+VER 3 0100000000000003 "Corruption" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [@mouseover,harm,nodead] [] Corruption;
+END
+VER 3 0100000000000008 "Create Soulwell" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Create Soulwell; [] Create Healthstone;
+END
+VER 3 010000000000000B "Drain Soul" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Drain Soul
+/use 13
+/use 14
+END
+VER 3 0100000000000005 "Health Funnel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift] Unending Resolve; [] Health Funnel;
+END
+VER 3 0100000000000001 "Immolate" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,harm,nodead] [mod:shift] Havoc; [@mouseover,harm,nodead] [] Immolate;
+END
+VER 3 010000000000000A "Life Tap" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@mouseover,harm,nodead][mod:shift]Fear;[]Life Tap
+END
+VER 3 010000000000000C "Mortal Coil" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/tar Karam
+/cast Mortal Coil
+/targetlasttarget
+END
+VER 3 0100000000000007 "Reap Souls" "INV_MISC_QUESTIONMARK"
+#showtooltip Reap Souls
+/use 13
+/cast Reap Souls
+END
+VER 3 010000000000000D "SL" "INV_MISC_QUESTIONMARK"
+#showtooltip  Siphon Life
+/cast  [@mouseover,harm,nodead] [] Siphon Life;
+END
+VER 3 0100000000000009 "Soul Harvest" "INV_MISC_QUESTIONMARK"
+#showtooltip Soul Harvest
+/use 13
+/cast soul harvest
+END
+VER 3 010000000000000E "VuhDoDCShieldData" "Ability_Repair"
+R1DR[x]1LR1OM1HR2NM2WM2NM2MR2EM3NM3MR3LR3LR3HM4NM4HR4MR4DH4IR5NT5SH5HR5MR5DR6PH6WM6NM6WM6SH7ET7IH7RM7OH7HR8LR8PM8MR8EM8RM1LR[x][x][x][x]0__[x][x][x]0__0__[x][x]0__0__0__[x]0__[x][x][x][x][x][x][x][x][x][x][x][x][x]0__[x][x][x]0__0__[x][x]0__[x]0__
+END
+VER 3 010000000000000F "VuhDoDCShieldNames" "Ability_Repair"
+NDor[x]GemYujThuXâvGabGôlNêlBèLaiInaFraHexAmoLeeIptValMelBigNarShaHênNobDidHamEleKafMadBraWalMorNârÆmbTiaYüMîsSupLalAerNex[x][x][x][x]Wol[x][x][x]WasGru[x][x]BryAzlAva[x]Hun[x][x][x][x][x][x][x][x][x][x][x][x][x]Leu[x][x][x]RapJha[x][x]Lar[x]Zha
+END

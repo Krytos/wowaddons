@@ -1,0 +1,3 @@
+
+WhoLusted = true
+WhoLustedSay = false

@@ -1,0 +1,79 @@
+VER 3 0100000000000005 "Dispel" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,@player,harm,nodead][mod:shift] Dispel Magic; [mod:alt]Mass Dispel;[@mouseover,nodead,help][]Purify;
+END
+VER 3 0100000000000012 "Dispel Magic" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Dispel Magic
+END
+VER 3 0100000000000015 "Dispersion" "INV_MISC_QUESTIONMARK"
+#showtooltip Dispersion
+/stopcasting
+/cast Dispersion
+END
+VER 3 0100000000000001 "DOTS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,harm,nodead][]Vampiric Touch
+END
+VER 3 0100000000000010 "Halo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Dark Ascension; Dark Void;
+END
+VER 3 0100000000000014 "Leap of Faith" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, help, nodead][@focus, help, nodead][]Leap of Faith
+END
+VER 3 0100000000000002 "Mind Blast" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift,talent:5/2] Shadow Word: Death; [mod:shift,talent:5/3]Shadow Crash; [mod:alt,@mouseover,nodead,harm][mod:alt] Psychic Scream; [] Mind Blast;
+END
+VER 3 010000000000000F "Mind Control" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift]Mind Vision; []Mind Control
+END
+VER 3 010000000000000A "Pain Sup" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][]Pain Suppression
+END
+VER 3 010000000000000D "Penance" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,help][]Penance;
+END
+VER 3 0100000000000003 "PWR" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus,help,nodead][]Power Word: Radiance
+END
+VER 3 010000000000000B "PWS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:shift, talent:7/2]Luminous Barrier;[mod:shift,@cursor][mod:shift]Power Word: Barrier; [@mouseover,nodead,help][]Power Word: Shield;
+END
+VER 3 0100000000000008 "Shadow Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast  [mod:alt] Vampiric Embrace; [@mouseover,nodead,help] [] Shadow Mend
+END
+VER 3 0100000000000013 "Silence" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,harm][]Silence;
+END
+VER 3 0100000000000011 "Smite" "INV_MISC_QUESTIONMARK"
+#showtooltip Smite
+/use Blazing Wings
+/use 13
+/stopmacro [channeling:Penance]
+/cast [@mouseover,harm,nodead][]Smite
+END
+VER 3 0100000000000009 "SWP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling:Penance]
+/cast [@mouseover,nodead,harm][] Shadow Word: Pain
+/cast  [@mouseover,nodead,harm,talent 6/1][]Purge the Wicked
+END
+VER 3 0100000000000007 "Void2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Void Eruption
+/use 14
+/use 13
+END
+VER 3 0100000000000016 "VuhDoDCShieldData" "Ability_Repair"
+P1__[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1IR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END

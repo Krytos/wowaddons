@@ -1,0 +1,85 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Grillpatrol - Silvermoon"] = "Grillpatrol - Silvermoon",
+		["Noxiâ - Antonidas"] = "Noxiâ - Antonidas",
+		["Obliviongril - Bronze Dragonflight"] = "Obliviongril - Bronze Dragonflight",
+		["Krytosboost - Arthas"] = "Krytosboost - Arthas",
+		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
+		["Nexanâ - Ravencrest"] = "Nexanâ - Ravencrest",
+		["Azuhunterlol - Twisting Nether"] = "Azuhunterlol - Twisting Nether",
+		["Hrst - Blackmoore"] = "Hrst - Blackmoore",
+		["Kaknooberpfi - Thrall"] = "Kaknooberpfi - Thrall",
+		["Grillboost - Alexstrasza"] = "Grillboost - Alexstrasza",
+		["Grillboost - Zuluhed"] = "Grillboost - Zuluhed",
+		["Grillboost - Dun Morogh"] = "Grillboost - Dun Morogh",
+		["Grillboost - Krag'jin"] = "Grillboost - Krag'jin",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
+		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
+		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
+		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
+		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
+		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
+		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
+		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
+	},
+	["profiles"] = {
+		["Grillpatrol - Silvermoon"] = {
+		},
+		["Noxiâ - Antonidas"] = {
+		},
+		["Obliviongril - Bronze Dragonflight"] = {
+		},
+		["Krytosboost - Arthas"] = {
+		},
+		["Neaxa - Blackmoore"] = {
+		},
+		["Nexanâ - Ravencrest"] = {
+		},
+		["Azuhunterlol - Twisting Nether"] = {
+		},
+		["Hrst - Blackmoore"] = {
+			["minimap"] = {
+				["minimapPos"] = 186.3402007219711,
+			},
+		},
+		["Kaknooberpfi - Thrall"] = {
+		},
+		["Grillboost - Alexstrasza"] = {
+		},
+		["Grillboost - Zuluhed"] = {
+		},
+		["Grillboost - Dun Morogh"] = {
+		},
+		["Grillboost - Krag'jin"] = {
+		},
+		["Nethenâ - Blackmoore"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
+		},
+		["Nexana - Blackmoore"] = {
+		},
+		["Nexâna - Blackmoore"] = {
+		},
+		["Grillpatrol - Blackmoore"] = {
+		},
+		["Nexanâ - Blackmoore"] = {
+		},
+		["Lullidan - Ravencrest"] = {
+		},
+		["Grillboost - Antonidas"] = {
+		},
+		["Hôrst - Ravencrest"] = {
+		},
+		["Noxiâ - Blackmoore"] = {
+		},
+		["Lullidan - Blackmoore"] = {
+		},
+		["Grillock - Blackmoore"] = {
+		},
+	},
+}

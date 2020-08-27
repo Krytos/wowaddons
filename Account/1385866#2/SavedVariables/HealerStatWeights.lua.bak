@@ -1,0 +1,13 @@
+
+HSW_DB = {
+	["profileKeys"] = {
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Artèmis - Antonidas"] = "Artèmis - Antonidas",
+		["Nariâ - Blackmoore"] = "Nariâ - Blackmoore",
+		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
+		["Krytosbank - Blackmoore"] = "Krytosbank - Blackmoore",
+		["Arthemiasd - Ravencrest"] = "Arthemiasd - Ravencrest",
+		["Arthemias - Blackmoore"] = "Arthemias - Blackmoore",
+	},
+}

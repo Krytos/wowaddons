@@ -1,0 +1,3 @@
+AAP-Core: disabled
+NameplateSCT: disabled
+OPie_Classic: disabled

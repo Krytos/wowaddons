@@ -1,0 +1,8 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/cw shadoka sheiss opfer kannst net mal die schwächste PVP klasse killen, sobald ich mir wehre", -- [1]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

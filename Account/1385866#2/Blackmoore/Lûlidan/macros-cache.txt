@@ -1,0 +1,12 @@
+VER 3 0100000000000001 "Meta" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling:Eye Beam]
+/stopmacro [channeling:Fel Barrage]
+/cast [@player] Metamorphosis
+END
+VER 3 0100000000000002 "VuhDoDCShieldData" "Ability_Repair"
+R1PM1OM1DR1MR1HR2MR2NM2EM2DR2LR3RM3HR3MR3NM3HR4LR4MR4DR4IH4LR5IR[x]5HR5IR5MR6EM6RM6SH6PM7LR7DM7MR7WM8WM8PH8PM8NT8OM[x][x]5NM[x][x][x][x]0__0__[x][x][x]0__[x]0__[x][x]0__0__[x][x][x][x][x][x]0__[x][x][x][x][x][x]0__[x][x][x][x][x][x][x][x][x][x][x]
+END
+VER 3 0100000000000003 "VuhDoDCShieldNames" "Ability_Repair"
+NVarBirHotIlyKilSauTheSouSepLocHasLumKisBláDurIndMonMelZerNerTel[x]DucSnôGalEmmShaAsmZozDedBelEmpCorKolTavThuBalMuc[x][x]Lûl[x][x][x][x]SpeWas[x][x][x]Zha[x]Pog[x][x]VenAnv[x][x][x][x][x][x]Toa[x][x][x][x][x][x]Pry[x][x][x][x][x][x][x][x][x][x][x]
+END

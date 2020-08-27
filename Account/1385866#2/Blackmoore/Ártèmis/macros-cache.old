@@ -1,0 +1,111 @@
+VER 3 0100000000000002 "Aimed" "INV_MISC_QUESTIONMARK"
+#showtooltip Aimed Shot
+/petattack
+/cast [nochanneling:Rapid Fire] Aimed Shot
+/use Claw(Basic Attack)
+/use Bite(Basic Attack)
+/use Smack(Basic Attack)
+END
+VER 3 0100000000000007 "Arcane" "INV_MISC_QUESTIONMARK"
+#showtooltip Arcane Shot
+/petattack
+/cast [nochanneling:Rapid Fire] Arcane Shot
+/use Claw(Basic Attack)
+/use Bite(Basic Attack)
+/use Smack(Basic Attack)
+END
+VER 3 010000000000000B "Barbed" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling]Barbed Shot
+/petassist
+/cast Claw(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Smack(Basic Attack)
+END
+VER 3 010000000000000F "Beast" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast Bestial Wrath
+END
+VER 3 010000000000000C "Chimaera" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Chimaera Shot
+/cast Claw
+/cast Bite
+/cast Smack
+END
+VER 3 010000000000000A "Cobra" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast Cobra Shot
+/cast Claw(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Smack(Basic Attack)
+END
+VER 3 0100000000000011 "Counter Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists, harm, nodead][@mouseover,harm][] Counter Shot
+END
+VER 3 010000000000000D "Crows" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/cast [@mouseover,harm,nodead,nochanneling][]A Murder of Crows
+/cast Claw(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Smack(Basic Attack)
+END
+VER 3 0100000000000012 "Feign Death" "INV_MISC_QUESTIONMARK"
+#showtooltip  feign death
+/stopcasting
+/cast feign death
+/cast [mod:alt]play dead
+/cast [mod:alt]feign death
+END
+VER 3 0100000000000005 "Flare" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Flare;
+END
+VER 3 0100000000000003 "Frost" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Freezing Trap
+END
+VER 3 0100000000000009 "Kill Command" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopmacro [channeling]
+/petattack
+/cast Kill Command
+/cast Claw(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Smack(Basic Attack)
+END
+VER 3 0100000000000001 "MD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@focus,help,nodead] [@targettarget,harm,nodead] [@pet,help,nodead][] Misdirection
+END
+VER 3 0100000000000008 "Multi" "INV_MISC_QUESTIONMARK"
+#showtooltip Multi-Shot
+/stopmacro [channeling]
+/petattack
+/cast Multi-Shot
+/cast Basic Attack)
+/cast Bite(Basic Attack)
+/cast Smack(Basic Attack)
+END
+VER 3 0100000000000006 "Spirit Mend" "INV_MISC_QUESTIONMARK"
+#showtooltip Spirit Mend
+/cast [@mouseover,help,nodead][@player]Spirit Mend
+END
+VER 3 010000000000000E "Steady Shot" "INV_MISC_QUESTIONMARK"
+#showtooltip Steady Shot
+/cast [nochanneling:Rapid Fire] Steady Shot
+END
+VER 3 0100000000000004 "Tar" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Tar Trap
+END
+VER 3 0100000000000010 "Turtle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+END

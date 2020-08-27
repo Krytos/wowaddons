@@ -1,0 +1,23 @@
+
+PetJournalEnhancedDB = {
+	["namespaces"] = {
+		["Sorting"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Grillboost - Zuluhed"] = "Default",
+		["Grillboost - Dun Morogh"] = "Default",
+		["Grillpatrol - Silvermoon"] = "Default",
+		["Noxiâ - Antonidas"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
+		["Krytosboost - Arthas"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Azuhunterlol - Twisting Nether"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Grillboost - Antonidas"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
+		["Grillboost - Krag'jin"] = "Default",
+		["Kaknooberpfi - Thrall"] = "Default",
+	},
+}

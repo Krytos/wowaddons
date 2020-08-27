@@ -1,0 +1,53 @@
+
+SatchelScannerDB = {
+	["notificationtimer"] = 10,
+	["EmpiresFall_Heal"] = false,
+	["EmpiresFall_Tank"] = false,
+	["scantimer"] = 5,
+	["RandomHeroic_Tank"] = false,
+	["sounds"] = true,
+	["MainFrameLoc"] = {
+		"TOPLEFT", -- [1]
+		{
+			["variablesLoaded"] = true,
+			["firstTimeLoaded"] = 1,
+		}, -- [2]
+		"TOPLEFT", -- [3]
+		200, -- [4]
+		-400, -- [5]
+	},
+	["HallsofContainment_Tank"] = false,
+	["HallsofContainment_Dps"] = false,
+	["HallsofContainment_Heal"] = false,
+	["Timewalking_Tank"] = false,
+	["CrucibleofStorms_Heal"] = false,
+	["scanInDungeon"] = false,
+	["Timewalking_Heal"] = false,
+	["version"] = 8.01,
+	["GearCheck"] = false,
+	["ClassCheck"] = false,
+	["HeartofCorruption_Heal"] = false,
+	["MightoftheAlliance_Heal"] = false,
+	["raidwarning"] = true,
+	["MightoftheAlliance_Tank"] = false,
+	["CrucibleofStorms_Dps"] = false,
+	["EmpiresFall_Dps"] = false,
+	["SiegeofDazaralor_Tank"] = false,
+	["LFGOnce"] = false,
+	["Timewalking_Dps"] = false,
+	["CrimsonDescent_Tank"] = false,
+	["CrimsonDescent_Dps"] = false,
+	["CrucibleofStorms_Tank"] = false,
+	["RandomHeroic_Heal"] = false,
+	["CrimsonDescent_Heal"] = false,
+	["LFROnce"] = false,
+	["showMainFrame"] = false,
+	["SiegeofDazaralor_Heal"] = false,
+	["SiegeofDazaralor_Dps"] = false,
+	["RandomHeroic_Dps"] = false,
+	["HeartofCorruption_Dps"] = false,
+	["HeartofCorruption_Tank"] = false,
+	["satchels"] = 0,
+	["scanInGroup"] = false,
+	["MightoftheAlliance_Dps"] = false,
+}

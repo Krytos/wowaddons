@@ -1,0 +1,211 @@
+
+MADB = {
+	["noMMMW"] = false,
+	["characters"] = {
+	},
+	["alwaysShowNudger"] = false,
+	["tooltips"] = true,
+	["profiles"] = {
+		["default"] = {
+			["name"] = "default",
+			["frames"] = {
+				["PlayerPowerBarAltMover"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						155, -- [5]
+					},
+					["name"] = "PlayerPowerBarAltMover",
+					["pos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						7.11126708984375, -- [4]
+						305.3334350585938, -- [5]
+					},
+				},
+				["GroupLootFrame2"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "GroupLootFrame2",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["GroupLootFrame3"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "GroupLootFrame3",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["GroupLootFrame1"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "GroupLootFrame1",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						3.0517578125e-05, -- [4]
+						0, -- [5]
+					},
+				},
+				["LootFrame"] = {
+					["UIPanelWindows"] = {
+						["pushable"] = 7,
+						["area"] = "left",
+					},
+					["orgPos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "LootFrame",
+					["pos"] = {
+						"BOTTOMLEFT", -- [1]
+						"UIParent", -- [2]
+						"BOTTOMLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["BonusRollLootWonFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "BonusRollLootWonFrame",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						3.0517578125e-05, -- [4]
+						0.0001220703125, -- [5]
+					},
+				},
+				["BonusRollMoneyWonFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "BonusRollMoneyWonFrame",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["GroupLootFrame4"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						-135, -- [5]
+					},
+					["name"] = "GroupLootFrame4",
+					["pos"] = {
+						"TOP", -- [1]
+						"UIParent", -- [2]
+						"TOP", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["RaidBossEmoteFrame"] = {
+					["orgPos"] = {
+						"TOP", -- [1]
+						"RaidWarningFrame", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "RaidBossEmoteFrame",
+					["hidden"] = true,
+					["pos"] = {
+						"TOP", -- [1]
+						"RaidWarningFrame", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["AlertFrame"] = {
+					["orgPos"] = {
+						"BOTTOM", -- [1]
+						"UIParent", -- [2]
+						"BOTTOM", -- [3]
+						0, -- [4]
+						128, -- [5]
+					},
+					["name"] = "AlertFrame",
+					["pos"] = {
+						"TOPLEFT", -- [1]
+						"AlertFrameHolder", -- [2]
+						"TOPLEFT", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+				["BonusRollFrame"] = {
+					["orgPos"] = {
+						"CENTER", -- [1]
+						"BonusRollPreviewAnchor", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+					["name"] = "BonusRollFrame",
+					["pos"] = {
+						"CENTER", -- [1]
+						"BonusRollPreviewAnchor", -- [2]
+						"CENTER", -- [3]
+						0, -- [4]
+						0, -- [5]
+					},
+				},
+			},
+		},
+	},
+	["frameListRows"] = 18,
+	["noBags"] = false,
+	["playSound"] = false,
+	["closeGUIOnEscape"] = false,
+}

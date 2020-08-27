@@ -1,0 +1,20 @@
+
+AptechkaDB_Global = {
+	["DB_VERSION"] = 5,
+	["profileKeys"] = {
+		["Grillboost - Alexstrasza"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Obliviongril - Bronze Dragonflight"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+AptechkaConfigCustom = {
+	["HUNTER"] = {
+	},
+	["PRIEST"] = {
+	},
+}

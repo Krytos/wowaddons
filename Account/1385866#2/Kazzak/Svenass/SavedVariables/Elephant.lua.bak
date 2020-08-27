@@ -1,0 +1,604 @@
+
+ElephantDBPerChar = {
+	["profileKeys"] = {
+		["Svenass - Kazzak"] = "Svenass - Kazzak",
+	},
+	["char"] = {
+		["Svenass - Kazzak"] = {
+			["logs"] = {
+				{
+					["enabled"] = true,
+					["name"] = "Whisper",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Raid",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:06.",
+						}, -- [1]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431005,
+							["arg1"] = "My flames have died, left not a spark. I shall send you myself, to the lifeless dark.",
+						}, -- [2]
+						{
+							["arg1"] = " ",
+						}, -- [3]
+						{
+							["arg1"] = " ",
+						}, -- [4]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431065,
+							["arg1"] = "Prepare yourselves, the bells have tolled! Shelter your weak, your young and your old! Each of you shall pay the final sum. Cry for mercy, the reckoning has come!",
+						}, -- [6]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431296,
+							["arg1"] = "Fire consumes! You've tried and failed.  Let there be no doubt, justice prevailed!",
+						}, -- [7]
+						{
+							["arg1"] = " ",
+						}, -- [8]
+						{
+							["arg1"] = " ",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:44:30.",
+						}, -- [10]
+						{
+							["arg2"] = "Tendoo",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431508,
+							["arg1"] = "I'm gonna light you up, sweet cheeks!",
+							["clColor"] = "ffa9d271",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = " ",
+						}, -- [13]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+					},
+				}, -- [2]
+				{
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Party",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:06.",
+						}, -- [1]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431005,
+							["arg1"] = "My flames have died, left not a spark. I shall send you myself, to the lifeless dark.",
+						}, -- [2]
+						{
+							["arg1"] = " ",
+						}, -- [3]
+						{
+							["arg1"] = " ",
+						}, -- [4]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431065,
+							["arg1"] = "Prepare yourselves, the bells have tolled! Shelter your weak, your young and your old! Each of you shall pay the final sum. Cry for mercy, the reckoning has come!",
+						}, -- [6]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431296,
+							["arg1"] = "Fire consumes! You've tried and failed.  Let there be no doubt, justice prevailed!",
+						}, -- [7]
+						{
+							["arg1"] = " ",
+						}, -- [8]
+						{
+							["arg1"] = " ",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:44:30.",
+						}, -- [10]
+						{
+							["arg2"] = "Tendoo",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431508,
+							["arg1"] = "I'm gonna light you up, sweet cheeks!",
+							["clColor"] = "ffa9d271",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = " ",
+						}, -- [13]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+					},
+				}, -- [3]
+				{
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Say",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "TEXT_EMOTE",
+							["time"] = 1571431190,
+							["arg1"] = "Melawèn-TwistingNether greets Heavengirl-Ragnaros with a hearty hello!",
+						}, -- [2]
+						{
+							["arg2"] = "Heavengirl-Ragnaros",
+							["type"] = "SAY",
+							["time"] = 1571431198,
+							["arg1"] = "O.O",
+							["clColor"] = "fffefefe",
+						}, -- [3]
+						{
+							["arg2"] = "Heavengirl-Ragnaros",
+							["type"] = "SAY",
+							["time"] = 1571431201,
+							["arg1"] = "Woooooaaa",
+							["clColor"] = "fffefefe",
+						}, -- [4]
+						{
+							["arg2"] = "Heavengirl-Ragnaros",
+							["type"] = "SAY",
+							["time"] = 1571431206,
+							["arg1"] = "Nice gear!!!!",
+							["clColor"] = "fffefefe",
+						}, -- [5]
+						{
+							["arg2"] = "Heavengirl-Ragnaros",
+							["type"] = "SAY",
+							["time"] = 1571431209,
+							["arg1"] = ":)",
+							["clColor"] = "fffefefe",
+						}, -- [6]
+						{
+							["arg1"] = " ",
+						}, -- [7]
+						{
+							["arg1"] = " ",
+						}, -- [8]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:44:30.",
+						}, -- [9]
+						{
+							["arg2"] = "Tendoo",
+							["type"] = "MONSTER_EMOTE",
+							["time"] = 1571431479,
+							["arg1"] = "%s throws down a Hearthstone board! Who's ready to play?",
+							["clColor"] = "ffa9d271",
+						}, -- [10]
+						{
+							["arg1"] = " ",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [13]
+					},
+				}, -- [4]
+				{
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Yell",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:06.",
+						}, -- [1]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431005,
+							["arg1"] = "My flames have died, left not a spark. I shall send you myself, to the lifeless dark.",
+						}, -- [2]
+						{
+							["arg1"] = " ",
+						}, -- [3]
+						{
+							["arg1"] = " ",
+						}, -- [4]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431065,
+							["arg1"] = "Prepare yourselves, the bells have tolled! Shelter your weak, your young and your old! Each of you shall pay the final sum. Cry for mercy, the reckoning has come!",
+						}, -- [6]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431296,
+							["arg1"] = "Fire consumes! You've tried and failed.  Let there be no doubt, justice prevailed!",
+						}, -- [7]
+						{
+							["arg1"] = " ",
+						}, -- [8]
+						{
+							["arg1"] = " ",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:44:30.",
+						}, -- [10]
+						{
+							["arg2"] = "Tendoo",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431508,
+							["arg1"] = "I'm gonna light you up, sweet cheeks!",
+							["clColor"] = "ffa9d271",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = " ",
+						}, -- [13]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+					},
+				}, -- [5]
+				{
+					["enabled"] = true,
+					["name"] = "Officer",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [6]
+				{
+					["enabled"] = true,
+					["name"] = "Guild",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [7]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "Item Loot",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431101,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122246::::::::1:70::::::|h[Tarnished Raging Berserker's Helm]|h|r.",
+						}, -- [2]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431111,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122352::::::::1:70:::1:582:::|h[Charmed Ancient Bone Bow]|h|r.",
+						}, -- [3]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431112,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122261::::::::1:70:::1:582:::|h[Inherited Cape of the Black Baron]|h|r.",
+						}, -- [4]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431114,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122246::::::::1:70::::::|h[Tarnished Raging Berserker's Helm]|h|r.",
+						}, -- [5]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431134,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122358::::::::1:70:::1:582:::|h[Stained Shadowcraft Spaulders]|h|r.",
+						}, -- [6]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431141,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122248::::::::1:70:::1:582:::|h[Stained Shadowcraft Cap]|h|r.",
+						}, -- [7]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431151,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122383::::::::1:70:::1:582:::|h[Stained Shadowcraft Tunic]|h|r.",
+						}, -- [8]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431155,
+							["arg1"] = "Tendoo creates: |cff00ccff|Hitem:122255::::::::1:70::::::|h[Preened Wildfeather Leggings]|h|r.",
+						}, -- [9]
+						{
+							["arg1"] = " ",
+						}, -- [10]
+						{
+							["arg1"] = " ",
+						}, -- [11]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [12]
+						{
+							["type"] = "LOOT",
+							["time"] = 1571431693,
+							["arg1"] = "Tendoo receives loot: |cff9d9d9d|Hitem:20846::::::::1:70::::::|h[Faintly Glowing Eye]|h|r.",
+						}, -- [13]
+					},
+				}, -- [8]
+				{
+					["enabled"] = true,
+					["hasMessage"] = true,
+					["name"] = "System Messages",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431082,
+							["arg1"] = "Dungeon Difficulty set to Normal.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431082,
+							["arg1"] = "You have invited Tendoo to join your group.",
+						}, -- [3]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431083,
+							["arg1"] = "Tendoo joins the party.",
+						}, -- [4]
+						{
+							["arg1"] = " ",
+						}, -- [5]
+						{
+							["arg1"] = " ",
+						}, -- [6]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [7]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431695,
+							["arg1"] = "You have invited Sylvaniat to join your group.",
+						}, -- [8]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431697,
+							["arg1"] = "Sylvaniat joins the party.",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431704,
+							["arg1"] = "You have invited Greyulv to join your group.",
+						}, -- [10]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431707,
+							["arg1"] = "Greyulv joins the party.",
+						}, -- [11]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431723,
+							["arg1"] = "You have invited Selmá to join your group.",
+						}, -- [12]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431730,
+							["arg1"] = "Selmá declines your group invitation.",
+						}, -- [13]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431755,
+							["arg1"] = "You have invited Selmá to join your group.",
+						}, -- [14]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431758,
+							["arg1"] = "Selmá declines your group invitation.",
+						}, -- [15]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431765,
+							["arg1"] = "You have invited Selmá to join your group.",
+						}, -- [16]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431766,
+							["arg1"] = "Selmá joins the party.",
+						}, -- [17]
+						{
+							["type"] = "SYSTEM",
+							["time"] = 1571431771,
+							["arg1"] = "Quest accepted: Reclaiming Sunstrider Isle",
+						}, -- [18]
+					},
+				}, -- [9]
+				{
+					["enabled"] = true,
+					["name"] = "Achievements",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				}, -- [10]
+				{
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Instance",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:06.",
+						}, -- [1]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431005,
+							["arg1"] = "My flames have died, left not a spark. I shall send you myself, to the lifeless dark.",
+						}, -- [2]
+						{
+							["arg1"] = " ",
+						}, -- [3]
+						{
+							["arg1"] = " ",
+						}, -- [4]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:36:57.",
+							["type"] = "SYSTEM",
+						}, -- [5]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431065,
+							["arg1"] = "Prepare yourselves, the bells have tolled! Shelter your weak, your young and your old! Each of you shall pay the final sum. Cry for mercy, the reckoning has come!",
+						}, -- [6]
+						{
+							["arg2"] = "Shade of the Horseman",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431296,
+							["arg1"] = "Fire consumes! You've tried and failed.  Let there be no doubt, justice prevailed!",
+						}, -- [7]
+						{
+							["arg1"] = " ",
+						}, -- [8]
+						{
+							["arg1"] = " ",
+						}, -- [9]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/18/2019 at 22:44:30.",
+						}, -- [10]
+						{
+							["arg2"] = "Tendoo",
+							["type"] = "MONSTER_YELL",
+							["time"] = 1571431508,
+							["arg1"] = "I'm gonna light you up, sweet cheeks!",
+							["clColor"] = "ffa9d271",
+						}, -- [11]
+						{
+							["arg1"] = " ",
+						}, -- [12]
+						{
+							["arg1"] = " ",
+						}, -- [13]
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [14]
+					},
+				}, -- [11]
+				["worlddefense"] = {
+					["enabled"] = true,
+					["name"] = "World defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["guildrecruitment"] = {
+					["enabled"] = true,
+					["name"] = "Guild recruitment",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["general"] = {
+					["enabled"] = true,
+					["name"] = "General",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["trade"] = {
+					["enabled"] = true,
+					["name"] = "Trade",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["localdefense"] = {
+					["enabled"] = true,
+					["name"] = "Local defense",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+				["lookingforgroup"] = {
+					["enabled"] = true,
+					["name"] = "Looking for group",
+					["logs"] = {
+						{
+							["arg1"] = "Logging started on 10/18/2019 at 22:48:01.",
+							["type"] = "SYSTEM",
+						}, -- [1]
+					},
+				},
+			},
+		},
+	},
+}

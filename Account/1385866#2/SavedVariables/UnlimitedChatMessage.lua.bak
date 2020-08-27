@@ -1,0 +1,36 @@
+
+UCM_DB = {
+	["profileKeys"] = {
+		["Grillpatrol - Silvermoon"] = "Default",
+		["Noxiâ - Antonidas"] = "Default",
+		["Obliviongril - Bronze Dragonflight"] = "Default",
+		["Krytosboost - Arthas"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Azuhunterlol - Twisting Nether"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
+		["Grilloblivio - Kazzak"] = "Default",
+		["Grillboost - Sanguino"] = "Default",
+		["Kaknooberpfi - Thrall"] = "Default",
+		["Grillboost - Darksorrow"] = "Default",
+		["Grillboost - Zuluhed"] = "Default",
+		["Nexâna - Blackmoore"] = "Default",
+		["Grillboost - Dun Morogh"] = "Default",
+		["Grillboost - Krag'jin"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Nexana - Blackmoore"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
+		["Grillboost - Antonidas"] = "Default",
+		["Grillboost - Alexstrasza"] = "Default",
+		["Noxiâ - Blackmoore"] = "Default",
+		["Lullidan - Blackmoore"] = "Default",
+		["Grillock - Blackmoore"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

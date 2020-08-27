@@ -1,0 +1,17 @@
+
+SIL_Social = {
+	["profileKeys"] = {
+		["Grillboost - Alexstrasza"] = "Default",
+		["Neaxa - Blackmoore"] = "Default",
+		["Obliviongril - Bronze Dragonflight"] = "Default",
+		["Nexana - Blackmoore"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Nexanâ - Blackmoore"] = "Default",
+		["Nexanâ - Ravencrest"] = "Default",
+		["Nexâna - Blackmoore"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
+		["Noxiâ - Blackmoore"] = "Default",
+		["Lullidan - Blackmoore"] = "Default",
+		["Grillock - Blackmoore"] = "Default",
+	},
+}
