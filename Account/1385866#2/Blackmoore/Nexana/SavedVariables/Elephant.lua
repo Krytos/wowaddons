@@ -118,8 +118,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [18]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 						}, -- [19]
 						{
 							["arg2"] = "|Kq55|k",
@@ -258,8 +258,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [40]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/26/2019 at 15:24:17.",
+							["type"] = "SYSTEM",
 						}, -- [41]
 						{
 							["arg2"] = "Mív-Outland",
@@ -282,8 +282,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [45]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
 						}, -- [46]
 						{
 							["arg2"] = "Ghostríder-Sylvanas",
@@ -383,8 +383,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [61]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2019 at 20:38:58.",
+							["type"] = "SYSTEM",
 						}, -- [62]
 						{
 							["arg2"] = "Marcx-Malorne",
@@ -421,8 +421,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [68]
 						{
-							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 						}, -- [69]
 						{
 							["arg2"] = "Eärthshade-Silvermoon",
@@ -676,8 +676,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [106]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
+							["type"] = "SYSTEM",
 						}, -- [107]
 						{
 							["arg2"] = "|Kq18|k",
@@ -698,8 +698,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [111]
 						{
-							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 						}, -- [112]
 						{
 							["arg2"] = "Geoin-Blackmoore",
@@ -1030,8 +1030,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [160]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
+							["type"] = "SYSTEM",
 						}, -- [161]
 						{
 							["arg2"] = "Vol'zith the Whisperer",
@@ -1064,8 +1064,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [167]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
+							["type"] = "SYSTEM",
 						}, -- [168]
 						{
 							["arg2"] = "Monttana-Silvermoon",
@@ -1297,8 +1297,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [204]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 						}, -- [205]
 						{
 							["arg2"] = "Quanty-Arthas",
@@ -1384,8 +1384,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [218]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
+							["type"] = "SYSTEM",
 						}, -- [219]
 						{
 							["arg2"] = "Yes-Elune",
@@ -1442,8 +1442,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [228]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 						}, -- [229]
 						{
 							["arg2"] = "|Kq10|k",
@@ -1518,8 +1518,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [242]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [243]
 						{
 							["arg2"] = "|Kq1|k",
@@ -1552,2913 +1552,2896 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [1]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "Raid",
 					["logs"] = {
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1559488949,
-							["arg1"] = "De Light judges all!",
-						}, -- [1]
-						{
-							["arg2"] = "Ra'wani Kanae",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559488974,
-							["arg1"] = "De Light judges all!",
-						}, -- [2]
-						{
-							["arg2"] = "Tictacx",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559488983,
-							["arg1"] = "Suffer the storm's wrath!",
-							["clColor"] = "fff38bb9",
-						}, -- [3]
-						{
-							["arg2"] = "Ra'wani Kanae",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1559488987,
 							["arg1"] = "Retribution for de fallen!",
-						}, -- [4]
+						}, -- [1]
 						{
 							["arg2"] = "Cleepy-Ravencrest",
 							["type"] = "RAID_WARNING",
 							["time"] = 1559488994,
 							["arg1"] = "ADDS ADDS ADDS",
 							["clColor"] = "ff3ec5e9",
-						}, -- [5]
+						}, -- [2]
 						{
 							["arg2"] = "Cleepy-Ravencrest",
 							["type"] = "RAID_WARNING",
 							["time"] = 1559488994,
 							["arg1"] = "ADDS ADDS ADDS",
 							["clColor"] = "ff3ec5e9",
-						}, -- [6]
+						}, -- [3]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489000,
 							["arg1"] = "De Light judges all!",
-						}, -- [7]
+						}, -- [4]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489027,
 							["arg1"] = "De reckoning is at hand!",
-						}, -- [8]
+						}, -- [5]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489033,
 							["arg1"] = "To arms! Drive dese outsiders from Zuldazar!",
-						}, -- [9]
+						}, -- [6]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489041,
 							["arg1"] = "De Light judges all!",
-						}, -- [10]
+						}, -- [7]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489062,
 							["arg1"] = "De Light judges all!",
-						}, -- [11]
+						}, -- [8]
 						{
 							["arg2"] = "Amisia",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489071,
 							["arg1"] = "Stand and fight!",
 							["clColor"] = "fff38bb9",
-						}, -- [12]
+						}, -- [9]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489078,
 							["arg1"] = "De Light judges all!",
-						}, -- [13]
+						}, -- [10]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489082,
 							["arg1"] = "Retribution for de fallen!",
-						}, -- [14]
+						}, -- [11]
 						{
 							["arg2"] = "Cleepy-Ravencrest",
 							["type"] = "RAID_WARNING",
 							["time"] = 1559489090,
 							["arg1"] = "BOSS BOSS BOSS",
 							["clColor"] = "ff3ec5e9",
-						}, -- [15]
+						}, -- [12]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489095,
 							["arg1"] = "De Light judges all!",
-						}, -- [16]
+						}, -- [13]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489110,
 							["arg1"] = "Light guide me... to de... Other Side...",
-						}, -- [17]
+						}, -- [14]
 						{
 							["arg2"] = "Emodruid-Sunstrider",
 							["type"] = "RAID",
 							["time"] = 1559489134,
 							["arg1"] = "Any loot you don't need?",
 							["clColor"] = "fffe7b09",
-						}, -- [18]
+						}, -- [15]
 						{
 							["arg2"] = "Amisia-Arthas",
 							["type"] = "RAID",
 							["time"] = 1559489143,
 							["arg1"] = "thx bb",
 							["clColor"] = "fff38bb9",
-						}, -- [19]
+						}, -- [16]
 						{
 							["arg2"] = "Trivisaurus-Blackmoore",
 							["type"] = "RAID",
 							["time"] = 1559489144,
 							["arg1"] = "players like limo should never ever raid again, pls just dont do it",
 							["clColor"] = "ffc59a6c",
-						}, -- [20]
+						}, -- [17]
 						{
 							["arg2"] = "Trivisaurus-Blackmoore",
 							["type"] = "RAID",
 							["time"] = 1559489150,
 							["arg1"] = "ffs",
 							["clColor"] = "ffc59a6c",
-						}, -- [21]
+						}, -- [18]
 						{
 							["arg2"] = "Atrixe-TheVentureCo",
 							["type"] = "RAID",
 							["time"] = 1559489152,
 							["arg1"] = "Thanks everyone",
 							["clColor"] = "ffc59a6c",
-						}, -- [22]
+						}, -- [19]
 						{
 							["arg1"] = " ",
-						}, -- [23]
+						}, -- [20]
 						{
 							["arg1"] = " ",
-						}, -- [24]
+						}, -- [21]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
-						}, -- [25]
+							["type"] = "SYSTEM",
+						}, -- [22]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677799,
 							["arg1"] = "Bombs away!",
-						}, -- [26]
+						}, -- [23]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677815,
 							["arg1"] = "Yer doom be at hand!",
-						}, -- [27]
+						}, -- [24]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677831,
 							["arg1"] = "Don't mind Sharkbait. He just needs ta... empty his hold!",
-						}, -- [28]
+						}, -- [25]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677847,
 							["arg1"] = "Bombs away!",
-						}, -- [29]
+						}, -- [26]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677863,
 							["arg1"] = "Bombs away!",
-						}, -- [30]
+						}, -- [27]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677879,
 							["arg1"] = "Bombs away!",
-						}, -- [31]
+						}, -- [28]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677911,
 							["arg1"] = "Bombs away!",
-						}, -- [32]
+						}, -- [29]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677927,
 							["arg1"] = "Bombs away!",
-						}, -- [33]
+						}, -- [30]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677943,
 							["arg1"] = "Bombs away!",
-						}, -- [34]
+						}, -- [31]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677958,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [35]
+						}, -- [32]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677959,
 							["arg1"] = "Watch out below, ye barnacle-bottomed swine!",
-						}, -- [36]
+						}, -- [33]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677984,
 							["arg1"] = "Avast, ye bilge suckers!",
-						}, -- [37]
+						}, -- [34]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678012,
 							["arg1"] = "Aaargh! Sharkbait, come about and blast their broadsides!",
-						}, -- [38]
+						}, -- [35]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678019,
 							["arg1"] = "This one is goin' right in yer deadlights!",
-						}, -- [39]
+						}, -- [36]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678024,
 							["arg1"] = "Ye won't soon be forgettin' that taste.",
-						}, -- [40]
+						}, -- [37]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678031,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [41]
+						}, -- [38]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678035,
 							["arg1"] = "Well, looks like someone still ain't got their sea legs!",
-						}, -- [42]
+						}, -- [39]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678042,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [43]
+						}, -- [40]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678068,
 							["arg1"] = "Guess I... be off... ta the locker...",
-						}, -- [44]
+						}, -- [41]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678125,
 							["arg1"] = "Ahoy! You lot got the look o' proper cutthroats. Not like the usual scum that passes for pirates 'round here.",
-						}, -- [45]
+						}, -- [42]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678134,
 							["arg1"] = "If you're itchin' to make some mayhem, you'll need a meeting with the Council of Captains. I can help with that.",
-						}, -- [46]
+						}, -- [43]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678142,
 							["arg1"] = "But first, I got a problem. This here lock ain't cooperatin' with my attempts to pick it. That mangy dog's got the key, but he's a slippery one.",
-						}, -- [47]
+						}, -- [44]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678154,
 							["arg1"] = "So... you scratch my back, I return the favor. Got me?",
-						}, -- [48]
+						}, -- [45]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1559678173,
 							["arg1"] = "Oho... a priest! If ya ever consider a change of faith, be sure you let old Bwonsamdi know, you hear?",
-						}, -- [49]
+						}, -- [46]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678317,
 							["arg1"] = "Ya did it! I knew my pooch would help out. Man's best friend, that one.",
-						}, -- [50]
+						}, -- [47]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [51]
+						}, -- [48]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "As promised, here's some official Cutwater Corsair regalia. Now you'll look like respectable criminals.",
-						}, -- [52]
+						}, -- [49]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678334,
 							["arg1"] = "A pleasure doin' business with ya. Now if ya don't mind, I'll take my leave before my absence is noticed.",
-						}, -- [53]
+						}, -- [50]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678435,
 							["arg1"] = "Your skulls will be excellent target practice.",
-						}, -- [54]
+						}, -- [51]
 						{
 							["arg2"] = "Captain Jolly",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678439,
 							["arg1"] = "Let's put your steel to the test!",
-						}, -- [55]
+						}, -- [52]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678443,
 							["arg1"] = "Bottoms up, scallywags!",
-						}, -- [56]
+						}, -- [53]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678498,
 							["arg1"] = "Nice... shot...",
-						}, -- [57]
+						}, -- [54]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678526,
 							["arg1"] = "Was this... last call...?",
-						}, -- [58]
+						}, -- [55]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678598,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [59]
+						}, -- [56]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678740,
 							["arg1"] = "Think you can stand against me, swine? Allow me to educate you.",
-						}, -- [60]
+						}, -- [57]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678761,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [61]
+						}, -- [58]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678773,
 							["arg1"] = "All hands on deck!",
-						}, -- [62]
+						}, -- [59]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678779,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [63]
+						}, -- [60]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678801,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [64]
+						}, -- [61]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678813,
 							["arg1"] = "All hands on deck!",
-						}, -- [65]
+						}, -- [62]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678841,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [66]
+						}, -- [63]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678844,
 							["arg1"] = "Inconceivable...",
-						}, -- [67]
+						}, -- [64]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678917,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [68]
+						}, -- [65]
 						{
 							["arg2"] = "Davey \"Two Eyes\"",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678981,
 							["arg1"] = "Gather 'round and place yer bets! We got a new set of vict-- uh... competitors! Take it away, Gurgthock and Wodin!",
-						}, -- [69]
+						}, -- [66]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679059,
 							["arg1"] = "Who among you is devoted?",
 							["clColor"] = "fff38bb9",
-						}, -- [70]
+						}, -- [67]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679067,
 							["arg1"] = "I am Nazgrim, fist of the Warchief and General of the Horde Army. If I must die today, I will die with honor, in battle, for the horde!",
 							["clColor"] = "ffc59a6c",
-						}, -- [71]
+						}, -- [68]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679071,
 							["arg1"] = "Rally the forces!",
 							["clColor"] = "ffc59a6c",
-						}, -- [72]
+						}, -- [69]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679142,
 							["arg1"] = "Ah, the entertainment has arrived!",
 							["clColor"] = "ff006fdc",
-						}, -- [73]
+						}, -- [70]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679152,
 							["arg1"] = "Such strength... it must be mine!",
 							["clColor"] = "ff006fdc",
-						}, -- [74]
+						}, -- [71]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679160,
 							["arg1"] = "Yogg-Saron! Grant me your power!",
 							["clColor"] = "fff38bb9",
-						}, -- [75]
+						}, -- [72]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679192,
 							["arg1"] = "Warriors, on the double!",
 							["clColor"] = "ffc59a6c",
-						}, -- [76]
+						}, -- [73]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679279,
 							["arg1"] = "You should have trained harder.",
 							["clColor"] = "ffc59a6c",
-						}, -- [77]
+						}, -- [74]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679286,
 							["arg1"] = "Master, a gift for you!",
 							["clColor"] = "fff38bb9",
-						}, -- [78]
+						}, -- [75]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679300,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [79]
+						}, -- [76]
 						{
 							["arg1"] = " ",
-						}, -- [80]
+						}, -- [77]
 						{
 							["arg1"] = " ",
-						}, -- [81]
+						}, -- [78]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
-						}, -- [82]
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [79]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929356,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [83]
+						}, -- [80]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929377,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [84]
+						}, -- [81]
 						{
 							["arg1"] = " ",
-						}, -- [85]
+						}, -- [82]
 						{
 							["arg1"] = " ",
-						}, -- [86]
+						}, -- [83]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
-						}, -- [87]
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [84]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639050,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [88]
+						}, -- [85]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639063,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [89]
+						}, -- [86]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639071,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [90]
+						}, -- [87]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639097,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [91]
+						}, -- [88]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639102,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [92]
+						}, -- [89]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639110,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [93]
+						}, -- [90]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639114,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [94]
+						}, -- [91]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639122,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [95]
+						}, -- [92]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639153,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [96]
+						}, -- [93]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639163,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [97]
+						}, -- [94]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639190,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [98]
+						}, -- [95]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639219,
 							["arg1"] = "I delight in the irony.",
-						}, -- [99]
+						}, -- [96]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639227,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [100]
+						}, -- [97]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639247,
 							["arg1"] = "Impossible...",
-						}, -- [101]
+						}, -- [98]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639254,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [102]
+						}, -- [99]
 						{
 							["arg1"] = " ",
-						}, -- [103]
+						}, -- [100]
 						{
 							["arg1"] = " ",
-						}, -- [104]
+						}, -- [101]
 						{
-							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
 							["type"] = "SYSTEM",
-						}, -- [105]
+							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
+						}, -- [102]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909252,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [106]
+						}, -- [103]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909264,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [107]
+						}, -- [104]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909273,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [108]
+						}, -- [105]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909299,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [109]
+						}, -- [106]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909304,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [110]
+						}, -- [107]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909321,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [111]
+						}, -- [108]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909325,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [112]
+						}, -- [109]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909333,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [113]
+						}, -- [110]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909364,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [114]
+						}, -- [111]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909374,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [115]
+						}, -- [112]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909401,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [116]
+						}, -- [113]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909430,
 							["arg1"] = "I delight in the irony.",
-						}, -- [117]
+						}, -- [114]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909439,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [118]
+						}, -- [115]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909459,
 							["arg1"] = "Impossible...",
-						}, -- [119]
+						}, -- [116]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909467,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [120]
+						}, -- [117]
 						{
 							["arg1"] = " ",
-						}, -- [121]
+						}, -- [118]
 						{
 							["arg1"] = " ",
-						}, -- [122]
+						}, -- [119]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
-						}, -- [123]
+							["type"] = "SYSTEM",
+						}, -- [120]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642356,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [124]
+						}, -- [121]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642368,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [125]
+						}, -- [122]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642377,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [126]
+						}, -- [123]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642403,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [127]
+						}, -- [124]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642407,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [128]
+						}, -- [125]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642497,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [129]
+						}, -- [126]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642510,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [130]
+						}, -- [127]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642518,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [131]
+						}, -- [128]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642544,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [132]
+						}, -- [129]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642549,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [133]
+						}, -- [130]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642568,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [134]
+						}, -- [131]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642573,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [135]
+						}, -- [132]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642580,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [136]
+						}, -- [133]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642612,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [137]
+						}, -- [134]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642621,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [138]
+						}, -- [135]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642648,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [139]
+						}, -- [136]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642677,
 							["arg1"] = "I delight in the irony.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642685,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [141]
+						}, -- [138]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642705,
 							["arg1"] = "Impossible...",
-						}, -- [142]
+						}, -- [139]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642713,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [143]
+						}, -- [140]
 						{
 							["arg1"] = " ",
-						}, -- [144]
+						}, -- [141]
 						{
 							["arg1"] = " ",
-						}, -- [145]
+						}, -- [142]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
-						}, -- [146]
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
+						}, -- [143]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787975,
 							["arg1"] = "Algalon the Observer, herald of the titans, has been defeated by our brave comrades in the depths of the titan city of Ulduar.",
-						}, -- [147]
+						}, -- [144]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787983,
 							["arg1"] = "Algalon was sent here to judge the fate of our world.",
-						}, -- [148]
+						}, -- [145]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787989,
 							["arg1"] = "He found a planet whose races had deviated from the titans' blueprints. A planet where not everything had gone according to plan.",
-						}, -- [149]
+						}, -- [146]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787998,
 							["arg1"] = "Cold logic deemed our world not worth saving. Cold logic, however, does not account for the power of free will. It's up to each of us to prove this is a world worth saving.",
-						}, -- [150]
+						}, -- [147]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788113,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [151]
+						}, -- [148]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788125,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [152]
+						}, -- [149]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788134,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [153]
+						}, -- [150]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788160,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [154]
+						}, -- [151]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788165,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788246,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [156]
+						}, -- [153]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788259,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [157]
+						}, -- [154]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788268,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [158]
+						}, -- [155]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788294,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [159]
+						}, -- [156]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788298,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [160]
+						}, -- [157]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788319,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [161]
+						}, -- [158]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788374,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [162]
+						}, -- [159]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788387,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [163]
+						}, -- [160]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788396,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [164]
+						}, -- [161]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788421,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [165]
+						}, -- [162]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788426,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [166]
+						}, -- [163]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788444,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [167]
+						}, -- [164]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788453,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [168]
+						}, -- [165]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788485,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [169]
+						}, -- [166]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788496,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [170]
+						}, -- [167]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788522,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [171]
+						}, -- [168]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788550,
 							["arg1"] = "I delight in the irony.",
-						}, -- [172]
+						}, -- [169]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788557,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [173]
+						}, -- [170]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788578,
 							["arg1"] = "Impossible...",
-						}, -- [174]
+						}, -- [171]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788586,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [175]
+						}, -- [172]
 						{
 							["arg1"] = " ",
-						}, -- [176]
+						}, -- [173]
 						{
 							["arg1"] = " ",
-						}, -- [177]
+						}, -- [174]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
-						}, -- [178]
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
+						}, -- [175]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463703,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [179]
+						}, -- [176]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463715,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463724,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [181]
+						}, -- [178]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463750,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [182]
+						}, -- [179]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463755,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [183]
+						}, -- [180]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463774,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463779,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [185]
+						}, -- [182]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463786,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [186]
+						}, -- [183]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463818,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [187]
+						}, -- [184]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463828,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [188]
+						}, -- [185]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463855,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [189]
+						}, -- [186]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463884,
 							["arg1"] = "I delight in the irony.",
-						}, -- [190]
+						}, -- [187]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463891,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [191]
+						}, -- [188]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463912,
 							["arg1"] = "Impossible...",
-						}, -- [192]
+						}, -- [189]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463919,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [193]
+						}, -- [190]
 						{
 							["arg1"] = " ",
-						}, -- [194]
+						}, -- [191]
 						{
 							["arg1"] = " ",
-						}, -- [195]
+						}, -- [192]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
-						}, -- [196]
+							["type"] = "SYSTEM",
+						}, -- [193]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538508,
 							["arg1"] = "Citizens of Dalaran! Raise your eyes to the skies and observe!",
-						}, -- [197]
+						}, -- [194]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538636,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [198]
+						}, -- [195]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538648,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [199]
+						}, -- [196]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538657,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [200]
+						}, -- [197]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538683,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [201]
+						}, -- [198]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538688,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [202]
+						}, -- [199]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538708,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [203]
+						}, -- [200]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538772,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [204]
+						}, -- [201]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538785,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [205]
+						}, -- [202]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538794,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [206]
+						}, -- [203]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538821,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [207]
+						}, -- [204]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538826,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [208]
+						}, -- [205]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538839,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [209]
+						}, -- [206]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538844,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [210]
+						}, -- [207]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538850,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [211]
+						}, -- [208]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538881,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [212]
+						}, -- [209]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538890,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [213]
+						}, -- [210]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538917,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [214]
+						}, -- [211]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538945,
 							["arg1"] = "I delight in the irony.",
-						}, -- [215]
+						}, -- [212]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538953,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [216]
+						}, -- [213]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538973,
 							["arg1"] = "Impossible...",
-						}, -- [217]
+						}, -- [214]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538979,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [218]
+						}, -- [215]
 						{
 							["arg1"] = " ",
-						}, -- [219]
+						}, -- [216]
 						{
 							["arg1"] = " ",
-						}, -- [220]
+						}, -- [217]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
-						}, -- [221]
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
+						}, -- [218]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122022,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [222]
+						}, -- [219]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122141,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [223]
+						}, -- [220]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122292,
 							["arg1"] = "The earth will break you!",
-						}, -- [224]
+						}, -- [221]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122303,
 							["arg1"] = "The earth will break you!",
-						}, -- [225]
+						}, -- [222]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122325,
 							["arg1"] = "The earth will break you!",
-						}, -- [226]
+						}, -- [223]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122341,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [227]
+						}, -- [224]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122363,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [228]
+						}, -- [225]
 						{
 							["arg1"] = " ",
-						}, -- [229]
+						}, -- [226]
 						{
 							["arg1"] = " ",
-						}, -- [230]
+						}, -- [227]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [231]
+							["type"] = "SYSTEM",
+						}, -- [228]
 						{
 							["arg2"] = "Stanley",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122965,
 							["arg1"] = "Excelsior!",
-						}, -- [232]
+						}, -- [229]
 						{
 							["arg1"] = " ",
-						}, -- [233]
+						}, -- [230]
 						{
 							["arg1"] = " ",
-						}, -- [234]
+						}, -- [231]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
-						}, -- [235]
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [232]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118579,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [236]
+						}, -- [233]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118591,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [237]
+						}, -- [234]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118600,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [238]
+						}, -- [235]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118626,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [239]
+						}, -- [236]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118631,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118644,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118649,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118656,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [243]
+						}, -- [240]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118688,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [244]
+						}, -- [241]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118698,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [245]
+						}, -- [242]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118725,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [246]
+						}, -- [243]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118754,
 							["arg1"] = "I delight in the irony.",
-						}, -- [247]
+						}, -- [244]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118761,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [248]
+						}, -- [245]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118782,
 							["arg1"] = "Impossible...",
-						}, -- [249]
+						}, -- [246]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118789,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = " ",
+						}, -- [249]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [2]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "Party",
 					["logs"] = {
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559677911,
-							["arg1"] = "Bombs away!",
-						}, -- [1]
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559677927,
-							["arg1"] = "Bombs away!",
-						}, -- [2]
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559677943,
-							["arg1"] = "Bombs away!",
-						}, -- [3]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559677958,
 							["arg1"] = "Reaping Now",
 							["clColor"] = "fff38bb9",
-						}, -- [4]
+						}, -- [1]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677958,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [5]
+						}, -- [2]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677959,
 							["arg1"] = "Watch out below, ye barnacle-bottomed swine!",
-						}, -- [6]
+						}, -- [3]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677984,
 							["arg1"] = "Avast, ye bilge suckers!",
-						}, -- [7]
+						}, -- [4]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678012,
 							["arg1"] = "Aaargh! Sharkbait, come about and blast their broadsides!",
-						}, -- [8]
+						}, -- [5]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678019,
 							["arg1"] = "This one is goin' right in yer deadlights!",
-						}, -- [9]
+						}, -- [6]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678024,
 							["arg1"] = "Ye won't soon be forgettin' that taste.",
-						}, -- [10]
+						}, -- [7]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678031,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [11]
+						}, -- [8]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678035,
 							["arg1"] = "Well, looks like someone still ain't got their sea legs!",
-						}, -- [12]
+						}, -- [9]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678042,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [13]
+						}, -- [10]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678068,
 							["arg1"] = "Guess I... be off... ta the locker...",
-						}, -- [14]
+						}, -- [11]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678125,
 							["arg1"] = "Ahoy! You lot got the look o' proper cutthroats. Not like the usual scum that passes for pirates 'round here.",
-						}, -- [15]
+						}, -- [12]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678134,
 							["arg1"] = "If you're itchin' to make some mayhem, you'll need a meeting with the Council of Captains. I can help with that.",
-						}, -- [16]
+						}, -- [13]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678142,
 							["arg1"] = "But first, I got a problem. This here lock ain't cooperatin' with my attempts to pick it. That mangy dog's got the key, but he's a slippery one.",
-						}, -- [17]
+						}, -- [14]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678154,
 							["arg1"] = "So... you scratch my back, I return the favor. Got me?",
-						}, -- [18]
+						}, -- [15]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1559678173,
 							["arg1"] = "Oho... a priest! If ya ever consider a change of faith, be sure you let old Bwonsamdi know, you hear?",
-						}, -- [19]
+						}, -- [16]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678317,
 							["arg1"] = "Ya did it! I knew my pooch would help out. Man's best friend, that one.",
-						}, -- [20]
+						}, -- [17]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559678324,
 							["arg1"] = "Reaping Now",
 							["clColor"] = "fff38bb9",
-						}, -- [21]
+						}, -- [18]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [22]
+						}, -- [19]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "As promised, here's some official Cutwater Corsair regalia. Now you'll look like respectable criminals.",
-						}, -- [23]
+						}, -- [20]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678334,
 							["arg1"] = "A pleasure doin' business with ya. Now if ya don't mind, I'll take my leave before my absence is noticed.",
-						}, -- [24]
+						}, -- [21]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678435,
 							["arg1"] = "Your skulls will be excellent target practice.",
-						}, -- [25]
+						}, -- [22]
 						{
 							["arg2"] = "Captain Jolly",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678439,
 							["arg1"] = "Let's put your steel to the test!",
-						}, -- [26]
+						}, -- [23]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678443,
 							["arg1"] = "Bottoms up, scallywags!",
-						}, -- [27]
+						}, -- [24]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678498,
 							["arg1"] = "Nice... shot...",
-						}, -- [28]
+						}, -- [25]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678526,
 							["arg1"] = "Was this... last call...?",
-						}, -- [29]
+						}, -- [26]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559678598,
 							["arg1"] = "Reaping Now",
 							["clColor"] = "fff38bb9",
-						}, -- [30]
+						}, -- [27]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678598,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [31]
+						}, -- [28]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678740,
 							["arg1"] = "Think you can stand against me, swine? Allow me to educate you.",
-						}, -- [32]
+						}, -- [29]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678761,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [33]
+						}, -- [30]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678773,
 							["arg1"] = "All hands on deck!",
-						}, -- [34]
+						}, -- [31]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678779,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [35]
+						}, -- [32]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678801,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [36]
+						}, -- [33]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678813,
 							["arg1"] = "All hands on deck!",
-						}, -- [37]
+						}, -- [34]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678841,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [38]
+						}, -- [35]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678844,
 							["arg1"] = "Inconceivable...",
-						}, -- [39]
+						}, -- [36]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559678917,
 							["arg1"] = "Reaping Now",
 							["clColor"] = "fff38bb9",
-						}, -- [40]
+						}, -- [37]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678917,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [41]
+						}, -- [38]
 						{
 							["arg2"] = "Davey \"Two Eyes\"",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678981,
 							["arg1"] = "Gather 'round and place yer bets! We got a new set of vict-- uh... competitors! Take it away, Gurgthock and Wodin!",
-						}, -- [42]
+						}, -- [39]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679059,
 							["arg1"] = "Who among you is devoted?",
 							["clColor"] = "fff38bb9",
-						}, -- [43]
+						}, -- [40]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679067,
 							["arg1"] = "I am Nazgrim, fist of the Warchief and General of the Horde Army. If I must die today, I will die with honor, in battle, for the horde!",
 							["clColor"] = "ffc59a6c",
-						}, -- [44]
+						}, -- [41]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679071,
 							["arg1"] = "Rally the forces!",
 							["clColor"] = "ffc59a6c",
-						}, -- [45]
+						}, -- [42]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679142,
 							["arg1"] = "Ah, the entertainment has arrived!",
 							["clColor"] = "ff006fdc",
-						}, -- [46]
+						}, -- [43]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679152,
 							["arg1"] = "Such strength... it must be mine!",
 							["clColor"] = "ff006fdc",
-						}, -- [47]
+						}, -- [44]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679160,
 							["arg1"] = "Yogg-Saron! Grant me your power!",
 							["clColor"] = "fff38bb9",
-						}, -- [48]
+						}, -- [45]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559679169,
 							["arg1"] = "heroism",
 							["clColor"] = "fff38bb9",
-						}, -- [49]
+						}, -- [46]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559679176,
 							["arg1"] = ":..Lust Detector:..: Kockata-Silvermoon Casted a Spell |cff71d5ff|Hspell:32182:0|h[Heroism]|h|r!",
 							["clColor"] = "fff38bb9",
-						}, -- [50]
+						}, -- [47]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679192,
 							["arg1"] = "Warriors, on the double!",
 							["clColor"] = "ffc59a6c",
-						}, -- [51]
+						}, -- [48]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679279,
 							["arg1"] = "You should have trained harder.",
 							["clColor"] = "ffc59a6c",
-						}, -- [52]
+						}, -- [49]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679286,
 							["arg1"] = "Master, a gift for you!",
 							["clColor"] = "fff38bb9",
-						}, -- [53]
+						}, -- [50]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559679299,
 							["arg1"] = "Reaping Now",
 							["clColor"] = "fff38bb9",
-						}, -- [54]
+						}, -- [51]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679300,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [55]
+						}, -- [52]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1559679302,
 							["arg1"] = "gj",
 							["clColor"] = "fffefefe",
-						}, -- [56]
+						}, -- [53]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1559679361,
 							["arg1"] = "gz",
 							["clColor"] = "fffefefe",
-						}, -- [57]
+						}, -- [54]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559679364,
 							["arg1"] = "ty boys",
 							["clColor"] = "fff38bb9",
-						}, -- [58]
+						}, -- [55]
 						{
 							["arg2"] = "Мидрас-Гордунни",
 							["type"] = "PARTY",
 							["time"] = 1559679369,
 							["arg1"] = "ty",
 							["clColor"] = "ffc59a6c",
-						}, -- [59]
+						}, -- [56]
 						{
 							["arg2"] = "Yes-Elune",
 							["type"] = "PARTY",
 							["time"] = 1559679370,
 							["arg1"] = "and girls",
 							["clColor"] = "fff38bb9",
-						}, -- [60]
+						}, -- [57]
 						{
 							["arg1"] = " ",
-						}, -- [61]
+						}, -- [58]
 						{
 							["arg1"] = " ",
-						}, -- [62]
+						}, -- [59]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
-						}, -- [63]
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [60]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929356,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [64]
+						}, -- [61]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929377,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [65]
+						}, -- [62]
 						{
 							["arg1"] = " ",
-						}, -- [66]
+						}, -- [63]
 						{
 							["arg1"] = " ",
-						}, -- [67]
+						}, -- [64]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
-						}, -- [68]
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [65]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639050,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [69]
+						}, -- [66]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639063,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [70]
+						}, -- [67]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639071,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [71]
+						}, -- [68]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639097,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [72]
+						}, -- [69]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639102,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [73]
+						}, -- [70]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639110,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [74]
+						}, -- [71]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639114,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [75]
+						}, -- [72]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639122,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [76]
+						}, -- [73]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639153,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [77]
+						}, -- [74]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639163,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [78]
+						}, -- [75]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639190,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [79]
+						}, -- [76]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639219,
 							["arg1"] = "I delight in the irony.",
-						}, -- [80]
+						}, -- [77]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639227,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [81]
+						}, -- [78]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639247,
 							["arg1"] = "Impossible...",
-						}, -- [82]
+						}, -- [79]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639254,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [83]
+						}, -- [80]
 						{
 							["arg1"] = " ",
-						}, -- [84]
+						}, -- [81]
 						{
 							["arg1"] = " ",
-						}, -- [85]
+						}, -- [82]
 						{
-							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
 							["type"] = "SYSTEM",
-						}, -- [86]
+							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
+						}, -- [83]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1575909148,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [87]
+						}, -- [84]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1575909148,
 							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
-						}, -- [88]
+						}, -- [85]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1575909195,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [89]
+						}, -- [86]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1575909196,
 							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
-						}, -- [90]
+						}, -- [87]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909252,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [91]
+						}, -- [88]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909264,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [92]
+						}, -- [89]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909273,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [93]
+						}, -- [90]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909299,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [94]
+						}, -- [91]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909304,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [95]
+						}, -- [92]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909321,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [96]
+						}, -- [93]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909325,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [97]
+						}, -- [94]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909333,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [98]
+						}, -- [95]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909364,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [99]
+						}, -- [96]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909374,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [100]
+						}, -- [97]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909401,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [101]
+						}, -- [98]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909430,
 							["arg1"] = "I delight in the irony.",
-						}, -- [102]
+						}, -- [99]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909439,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [103]
+						}, -- [100]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909459,
 							["arg1"] = "Impossible...",
-						}, -- [104]
+						}, -- [101]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909467,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [102]
+						{
+							["arg1"] = " ",
+						}, -- [103]
+						{
+							["arg1"] = " ",
+						}, -- [104]
+						{
+							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["type"] = "SYSTEM",
 						}, -- [105]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1588642163,
+							["arg1"] = "<SavedInstances> Reset all instances",
+							["clColor"] = "fffefefe",
 						}, -- [106]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1588642163,
+							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
+							["clColor"] = "fffefefe",
 						}, -- [107]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1588642279,
+							["arg1"] = "<SavedInstances> Reset all instances",
+							["clColor"] = "fffefefe",
 						}, -- [108]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
-							["time"] = 1588642163,
-							["arg1"] = "<SavedInstances> Reset all instances",
+							["time"] = 1588642279,
+							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
 						}, -- [109]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1588642163,
-							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
-							["clColor"] = "fffefefe",
-						}, -- [110]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1588642279,
-							["arg1"] = "<SavedInstances> Reset all instances",
-							["clColor"] = "fffefefe",
-						}, -- [111]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1588642279,
-							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
-							["clColor"] = "fffefefe",
-						}, -- [112]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642356,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [113]
+						}, -- [110]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642368,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [114]
+						}, -- [111]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642377,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [115]
+						}, -- [112]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642403,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [116]
+						}, -- [113]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642407,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [117]
+						}, -- [114]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642497,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [118]
+						}, -- [115]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642510,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [119]
+						}, -- [116]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642518,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [120]
+						}, -- [117]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642544,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [121]
+						}, -- [118]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642549,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [122]
+						}, -- [119]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642568,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [123]
+						}, -- [120]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642573,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [124]
+						}, -- [121]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642580,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [125]
+						}, -- [122]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642612,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [126]
+						}, -- [123]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642621,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [127]
+						}, -- [124]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642648,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [128]
+						}, -- [125]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642677,
 							["arg1"] = "I delight in the irony.",
-						}, -- [129]
+						}, -- [126]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642685,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [130]
+						}, -- [127]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642705,
 							["arg1"] = "Impossible...",
-						}, -- [131]
+						}, -- [128]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642713,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [132]
+						}, -- [129]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1588642775,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [133]
+						}, -- [130]
 						{
 							["arg1"] = " ",
-						}, -- [134]
+						}, -- [131]
 						{
 							["arg1"] = " ",
-						}, -- [135]
+						}, -- [132]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
-						}, -- [136]
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
+						}, -- [133]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1588787949,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [137]
+						}, -- [134]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1588787950,
 							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
-						}, -- [138]
+						}, -- [135]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787975,
 							["arg1"] = "Algalon the Observer, herald of the titans, has been defeated by our brave comrades in the depths of the titan city of Ulduar.",
-						}, -- [139]
+						}, -- [136]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787983,
 							["arg1"] = "Algalon was sent here to judge the fate of our world.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787989,
 							["arg1"] = "He found a planet whose races had deviated from the titans' blueprints. A planet where not everything had gone according to plan.",
-						}, -- [141]
+						}, -- [138]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787998,
 							["arg1"] = "Cold logic deemed our world not worth saving. Cold logic, however, does not account for the power of free will. It's up to each of us to prove this is a world worth saving.",
-						}, -- [142]
+						}, -- [139]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788113,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [143]
+						}, -- [140]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788125,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [144]
+						}, -- [141]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788134,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [145]
+						}, -- [142]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788160,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [146]
+						}, -- [143]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788165,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [147]
+						}, -- [144]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788246,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [148]
+						}, -- [145]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788259,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [149]
+						}, -- [146]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788268,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [150]
+						}, -- [147]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788294,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [151]
+						}, -- [148]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788298,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [152]
+						}, -- [149]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788319,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [153]
+						}, -- [150]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788374,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [154]
+						}, -- [151]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788387,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788396,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [156]
+						}, -- [153]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788421,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [157]
+						}, -- [154]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788426,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [158]
+						}, -- [155]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788444,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [159]
+						}, -- [156]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788453,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [160]
+						}, -- [157]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788485,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [161]
+						}, -- [158]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788496,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [162]
+						}, -- [159]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788522,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [163]
+						}, -- [160]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788550,
 							["arg1"] = "I delight in the irony.",
-						}, -- [164]
+						}, -- [161]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788557,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [165]
+						}, -- [162]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788578,
 							["arg1"] = "Impossible...",
-						}, -- [166]
+						}, -- [163]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788586,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [164]
+						{
+							["arg1"] = " ",
+						}, -- [165]
+						{
+							["arg1"] = " ",
+						}, -- [166]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 						}, -- [167]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1589463537,
+							["arg1"] = "<SavedInstances> Reset all instances",
+							["clColor"] = "fffefefe",
 						}, -- [168]
 						{
-							["arg1"] = " ",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1589463537,
+							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
+							["clColor"] = "fffefefe",
 						}, -- [169]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
-							["type"] = "SYSTEM",
+							["arg2"] = "Nexana-Blackmoore",
+							["type"] = "PARTY_LEADER",
+							["time"] = 1589463635,
+							["arg1"] = "<SavedInstances> Reset all instances",
+							["clColor"] = "fffefefe",
 						}, -- [170]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
-							["time"] = 1589463537,
-							["arg1"] = "<SavedInstances> Reset all instances",
+							["time"] = 1589463635,
+							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
 						}, -- [171]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1589463537,
-							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
-							["clColor"] = "fffefefe",
-						}, -- [172]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1589463635,
-							["arg1"] = "<SavedInstances> Reset all instances",
-							["clColor"] = "fffefefe",
-						}, -- [173]
-						{
-							["arg2"] = "Nexana-Blackmoore",
-							["type"] = "PARTY_LEADER",
-							["time"] = 1589463635,
-							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
-							["clColor"] = "fffefefe",
-						}, -- [174]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463703,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [175]
+						}, -- [172]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463715,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [176]
+						}, -- [173]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463724,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [177]
+						}, -- [174]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463750,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [178]
+						}, -- [175]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463755,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [179]
+						}, -- [176]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463774,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463779,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [181]
+						}, -- [178]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463786,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [182]
+						}, -- [179]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463818,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [183]
+						}, -- [180]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463828,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463855,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [185]
+						}, -- [182]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463884,
 							["arg1"] = "I delight in the irony.",
-						}, -- [186]
+						}, -- [183]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463891,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [187]
+						}, -- [184]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463912,
 							["arg1"] = "Impossible...",
-						}, -- [188]
+						}, -- [185]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463919,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [189]
+						}, -- [186]
 						{
 							["arg1"] = " ",
-						}, -- [190]
+						}, -- [187]
 						{
 							["arg1"] = " ",
-						}, -- [191]
+						}, -- [188]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
-						}, -- [192]
+							["type"] = "SYSTEM",
+						}, -- [189]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1590538452,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [193]
+						}, -- [190]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1590538452,
 							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
-						}, -- [194]
+						}, -- [191]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538508,
 							["arg1"] = "Citizens of Dalaran! Raise your eyes to the skies and observe!",
-						}, -- [195]
+						}, -- [192]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538636,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [196]
+						}, -- [193]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538648,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [197]
+						}, -- [194]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538657,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [198]
+						}, -- [195]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538683,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [199]
+						}, -- [196]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538688,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [200]
+						}, -- [197]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538708,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [201]
+						}, -- [198]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538772,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [202]
+						}, -- [199]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538785,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [203]
+						}, -- [200]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538794,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [204]
+						}, -- [201]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538821,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [205]
+						}, -- [202]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538826,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [206]
+						}, -- [203]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538839,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [207]
+						}, -- [204]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538844,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [208]
+						}, -- [205]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538850,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [209]
+						}, -- [206]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538881,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [210]
+						}, -- [207]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538890,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [211]
+						}, -- [208]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538917,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [212]
+						}, -- [209]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538945,
 							["arg1"] = "I delight in the irony.",
-						}, -- [213]
+						}, -- [210]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538953,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [214]
+						}, -- [211]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538973,
 							["arg1"] = "Impossible...",
-						}, -- [215]
+						}, -- [212]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538979,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [216]
+						}, -- [213]
 						{
 							["arg1"] = " ",
-						}, -- [217]
+						}, -- [214]
 						{
 							["arg1"] = " ",
-						}, -- [218]
+						}, -- [215]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
-						}, -- [219]
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
+						}, -- [216]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122022,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [220]
+						}, -- [217]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122141,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [221]
+						}, -- [218]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122292,
 							["arg1"] = "The earth will break you!",
-						}, -- [222]
+						}, -- [219]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122303,
 							["arg1"] = "The earth will break you!",
-						}, -- [223]
+						}, -- [220]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122325,
 							["arg1"] = "The earth will break you!",
-						}, -- [224]
+						}, -- [221]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122341,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [225]
+						}, -- [222]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122363,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [226]
+						}, -- [223]
 						{
 							["arg1"] = " ",
-						}, -- [227]
+						}, -- [224]
 						{
 							["arg1"] = " ",
-						}, -- [228]
+						}, -- [225]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [229]
+							["type"] = "SYSTEM",
+						}, -- [226]
 						{
 							["arg2"] = "Stanley",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122965,
 							["arg1"] = "Excelsior!",
-						}, -- [230]
+						}, -- [227]
 						{
 							["arg1"] = " ",
-						}, -- [231]
+						}, -- [228]
 						{
 							["arg1"] = " ",
-						}, -- [232]
+						}, -- [229]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
-						}, -- [233]
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [230]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1598118446,
 							["arg1"] = "<SavedInstances> Reset all instances",
 							["clColor"] = "fffefefe",
-						}, -- [234]
+						}, -- [231]
 						{
 							["arg2"] = "Nexana-Blackmoore",
 							["type"] = "PARTY_LEADER",
 							["time"] = 1598118446,
 							["arg1"] = "<SavedInstances> Icecrown Citadel has been reset.",
 							["clColor"] = "fffefefe",
-						}, -- [235]
+						}, -- [232]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118579,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [236]
+						}, -- [233]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118591,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [237]
+						}, -- [234]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118600,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [238]
+						}, -- [235]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118626,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [239]
+						}, -- [236]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118631,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118644,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118649,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118656,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [243]
+						}, -- [240]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118688,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [244]
+						}, -- [241]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118698,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [245]
+						}, -- [242]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118725,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [246]
+						}, -- [243]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118754,
 							["arg1"] = "I delight in the irony.",
-						}, -- [247]
+						}, -- [244]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118761,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [248]
+						}, -- [245]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118782,
 							["arg1"] = "Impossible...",
-						}, -- [249]
+						}, -- [246]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118789,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = " ",
+						}, -- [249]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [3]
@@ -4474,8 +4457,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [2]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 						}, -- [3]
 						{
 							["arg2"] = "Emily Fairweather",
@@ -4721,8 +4704,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [41]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
+							["type"] = "SYSTEM",
 						}, -- [42]
 						{
 							["arg2"] = "Irontide Bonesaw",
@@ -4924,8 +4907,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [74]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 10/12/2019 at 12:40:39.",
+							["type"] = "SYSTEM",
 						}, -- [75]
 						{
 							["arg2"] = "Sara Bartlett",
@@ -4940,8 +4923,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [78]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 						}, -- [79]
 						{
 							["arg2"] = "Miri Fiddlewizz",
@@ -5037,8 +5020,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [95]
 						{
-							["arg1"] = "Logging started on 11/14/2019 at 15:21:51.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/14/2019 at 15:21:51.",
 						}, -- [96]
 						{
 							["arg2"] = "Wulferd Fizzbracket",
@@ -5053,8 +5036,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [99]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 						}, -- [100]
 						{
 							["arg2"] = "Louisa",
@@ -5069,8 +5052,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [103]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 						}, -- [104]
 						{
 							["arg2"] = "Genn Greymane",
@@ -5097,8 +5080,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [109]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/25/2020 at 23:08:26.",
+							["type"] = "SYSTEM",
 						}, -- [110]
 						{
 							["arg2"] = "Emily Fairweather",
@@ -5113,8 +5096,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [113]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["type"] = "SYSTEM",
 						}, -- [114]
 						{
 							["arg2"] = "Sara Bartlett",
@@ -5147,8 +5130,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [120]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [121]
 						{
 							["arg2"] = "Patrick Markson",
@@ -5673,8 +5656,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [209]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
+							["type"] = "SYSTEM",
 						}, -- [210]
 						{
 							["arg2"] = "Master Mathias Shaw",
@@ -5907,1434 +5890,1424 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [4]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "Yell",
 					["logs"] = {
-						{
-							["arg2"] = "Evita",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559488836,
-							["arg1"] = "It's... not possible! I... I was destined to win...",
-							["clColor"] = "ff00fe95",
-						}, -- [1]
-						{
-							["arg2"] = "Ra'wani Kanae",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559488837,
-							["arg1"] = "May de Light have mercy on your souls... though it is more than you deserve!",
-						}, -- [2]
-						{
-							["arg2"] = "Sickology",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559488932,
-							["arg1"] = "The doctor is in!",
-							["clColor"] = "fffefefe",
-						}, -- [3]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488936,
 							["arg1"] = "You will pay for invading our lands!",
-						}, -- [4]
+						}, -- [1]
 						{
 							["arg2"] = "Amisia",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488948,
 							["arg1"] = "Stand and fight!",
 							["clColor"] = "fff38bb9",
-						}, -- [5]
+						}, -- [2]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488949,
 							["arg1"] = "De Light judges all!",
-						}, -- [6]
+						}, -- [3]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488974,
 							["arg1"] = "De Light judges all!",
-						}, -- [7]
+						}, -- [4]
 						{
 							["arg2"] = "Tictacx",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488983,
 							["arg1"] = "Suffer the storm's wrath!",
 							["clColor"] = "fff38bb9",
-						}, -- [8]
+						}, -- [5]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559488987,
 							["arg1"] = "Retribution for de fallen!",
-						}, -- [9]
+						}, -- [6]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489000,
 							["arg1"] = "De Light judges all!",
-						}, -- [10]
+						}, -- [7]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489027,
 							["arg1"] = "De reckoning is at hand!",
-						}, -- [11]
+						}, -- [8]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489033,
 							["arg1"] = "To arms! Drive dese outsiders from Zuldazar!",
-						}, -- [12]
+						}, -- [9]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489041,
 							["arg1"] = "De Light judges all!",
-						}, -- [13]
+						}, -- [10]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489062,
 							["arg1"] = "De Light judges all!",
-						}, -- [14]
+						}, -- [11]
 						{
 							["arg2"] = "Amisia",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489071,
 							["arg1"] = "Stand and fight!",
 							["clColor"] = "fff38bb9",
-						}, -- [15]
+						}, -- [12]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489078,
 							["arg1"] = "De Light judges all!",
-						}, -- [16]
+						}, -- [13]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489082,
 							["arg1"] = "Retribution for de fallen!",
-						}, -- [17]
+						}, -- [14]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489095,
 							["arg1"] = "De Light judges all!",
-						}, -- [18]
+						}, -- [15]
 						{
 							["arg2"] = "Ra'wani Kanae",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559489110,
 							["arg1"] = "Light guide me... to de... Other Side...",
-						}, -- [19]
+						}, -- [16]
 						{
 							["arg1"] = " ",
-						}, -- [20]
+						}, -- [17]
 						{
 							["arg1"] = " ",
-						}, -- [21]
+						}, -- [18]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
-						}, -- [22]
+							["type"] = "SYSTEM",
+						}, -- [19]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677799,
 							["arg1"] = "Bombs away!",
-						}, -- [23]
+						}, -- [20]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677815,
 							["arg1"] = "Yer doom be at hand!",
-						}, -- [24]
+						}, -- [21]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677831,
 							["arg1"] = "Don't mind Sharkbait. He just needs ta... empty his hold!",
-						}, -- [25]
+						}, -- [22]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677847,
 							["arg1"] = "Bombs away!",
-						}, -- [26]
+						}, -- [23]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677863,
 							["arg1"] = "Bombs away!",
-						}, -- [27]
+						}, -- [24]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677879,
 							["arg1"] = "Bombs away!",
-						}, -- [28]
+						}, -- [25]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677911,
 							["arg1"] = "Bombs away!",
-						}, -- [29]
+						}, -- [26]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677927,
 							["arg1"] = "Bombs away!",
-						}, -- [30]
+						}, -- [27]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677943,
 							["arg1"] = "Bombs away!",
-						}, -- [31]
+						}, -- [28]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677958,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [32]
+						}, -- [29]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677959,
 							["arg1"] = "Watch out below, ye barnacle-bottomed swine!",
-						}, -- [33]
+						}, -- [30]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677984,
 							["arg1"] = "Avast, ye bilge suckers!",
-						}, -- [34]
+						}, -- [31]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678012,
 							["arg1"] = "Aaargh! Sharkbait, come about and blast their broadsides!",
-						}, -- [35]
+						}, -- [32]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678019,
 							["arg1"] = "This one is goin' right in yer deadlights!",
-						}, -- [36]
+						}, -- [33]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678024,
 							["arg1"] = "Ye won't soon be forgettin' that taste.",
-						}, -- [37]
+						}, -- [34]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678031,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [38]
+						}, -- [35]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678035,
 							["arg1"] = "Well, looks like someone still ain't got their sea legs!",
-						}, -- [39]
+						}, -- [36]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678042,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [40]
+						}, -- [37]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678068,
 							["arg1"] = "Guess I... be off... ta the locker...",
-						}, -- [41]
+						}, -- [38]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678125,
 							["arg1"] = "Ahoy! You lot got the look o' proper cutthroats. Not like the usual scum that passes for pirates 'round here.",
-						}, -- [42]
+						}, -- [39]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678134,
 							["arg1"] = "If you're itchin' to make some mayhem, you'll need a meeting with the Council of Captains. I can help with that.",
-						}, -- [43]
+						}, -- [40]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678142,
 							["arg1"] = "But first, I got a problem. This here lock ain't cooperatin' with my attempts to pick it. That mangy dog's got the key, but he's a slippery one.",
-						}, -- [44]
+						}, -- [41]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678154,
 							["arg1"] = "So... you scratch my back, I return the favor. Got me?",
-						}, -- [45]
+						}, -- [42]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678317,
 							["arg1"] = "Ya did it! I knew my pooch would help out. Man's best friend, that one.",
-						}, -- [46]
+						}, -- [43]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [47]
+						}, -- [44]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "As promised, here's some official Cutwater Corsair regalia. Now you'll look like respectable criminals.",
-						}, -- [48]
+						}, -- [45]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678334,
 							["arg1"] = "A pleasure doin' business with ya. Now if ya don't mind, I'll take my leave before my absence is noticed.",
-						}, -- [49]
+						}, -- [46]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678435,
 							["arg1"] = "Your skulls will be excellent target practice.",
-						}, -- [50]
+						}, -- [47]
 						{
 							["arg2"] = "Captain Jolly",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678439,
 							["arg1"] = "Let's put your steel to the test!",
-						}, -- [51]
+						}, -- [48]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678443,
 							["arg1"] = "Bottoms up, scallywags!",
-						}, -- [52]
+						}, -- [49]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678498,
 							["arg1"] = "Nice... shot...",
-						}, -- [53]
+						}, -- [50]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678526,
 							["arg1"] = "Was this... last call...?",
-						}, -- [54]
+						}, -- [51]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678598,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [55]
+						}, -- [52]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678740,
 							["arg1"] = "Think you can stand against me, swine? Allow me to educate you.",
-						}, -- [56]
+						}, -- [53]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678761,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [57]
+						}, -- [54]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678773,
 							["arg1"] = "All hands on deck!",
-						}, -- [58]
+						}, -- [55]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678779,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [59]
+						}, -- [56]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678801,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [60]
+						}, -- [57]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678813,
 							["arg1"] = "All hands on deck!",
-						}, -- [61]
+						}, -- [58]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678841,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [62]
+						}, -- [59]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678844,
 							["arg1"] = "Inconceivable...",
-						}, -- [63]
+						}, -- [60]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678917,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [64]
+						}, -- [61]
 						{
 							["arg2"] = "Davey \"Two Eyes\"",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678981,
 							["arg1"] = "Gather 'round and place yer bets! We got a new set of vict-- uh... competitors! Take it away, Gurgthock and Wodin!",
-						}, -- [65]
+						}, -- [62]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679059,
 							["arg1"] = "Who among you is devoted?",
 							["clColor"] = "fff38bb9",
-						}, -- [66]
+						}, -- [63]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679067,
 							["arg1"] = "I am Nazgrim, fist of the Warchief and General of the Horde Army. If I must die today, I will die with honor, in battle, for the horde!",
 							["clColor"] = "ffc59a6c",
-						}, -- [67]
+						}, -- [64]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679071,
 							["arg1"] = "Rally the forces!",
 							["clColor"] = "ffc59a6c",
-						}, -- [68]
+						}, -- [65]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679142,
 							["arg1"] = "Ah, the entertainment has arrived!",
 							["clColor"] = "ff006fdc",
-						}, -- [69]
+						}, -- [66]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679152,
 							["arg1"] = "Such strength... it must be mine!",
 							["clColor"] = "ff006fdc",
-						}, -- [70]
+						}, -- [67]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679160,
 							["arg1"] = "Yogg-Saron! Grant me your power!",
 							["clColor"] = "fff38bb9",
-						}, -- [71]
+						}, -- [68]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679192,
 							["arg1"] = "Warriors, on the double!",
 							["clColor"] = "ffc59a6c",
-						}, -- [72]
+						}, -- [69]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679279,
 							["arg1"] = "You should have trained harder.",
 							["clColor"] = "ffc59a6c",
-						}, -- [73]
+						}, -- [70]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679286,
 							["arg1"] = "Master, a gift for you!",
 							["clColor"] = "fff38bb9",
-						}, -- [74]
+						}, -- [71]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679300,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [75]
+						}, -- [72]
 						{
 							["arg1"] = " ",
-						}, -- [76]
+						}, -- [73]
 						{
 							["arg1"] = " ",
-						}, -- [77]
+						}, -- [74]
 						{
-							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
 							["type"] = "SYSTEM",
-						}, -- [78]
+							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
+						}, -- [75]
 						{
 							["arg2"] = "Selrisha-Malfurion",
 							["type"] = "YELL",
 							["time"] = 1559718140,
 							["arg1"] = "MOIN!",
 							["clColor"] = "ff8686ec",
-						}, -- [79]
+						}, -- [76]
 						{
 							["arg1"] = " ",
-						}, -- [80]
+						}, -- [77]
 						{
 							["arg1"] = " ",
-						}, -- [81]
+						}, -- [78]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
-						}, -- [82]
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [79]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929356,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [83]
+						}, -- [80]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929377,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [84]
+						}, -- [81]
 						{
 							["arg1"] = " ",
-						}, -- [85]
+						}, -- [82]
 						{
 							["arg1"] = " ",
-						}, -- [86]
+						}, -- [83]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
-						}, -- [87]
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [84]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639050,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [88]
+						}, -- [85]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639063,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [89]
+						}, -- [86]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639071,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [90]
+						}, -- [87]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639097,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [91]
+						}, -- [88]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639102,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [92]
+						}, -- [89]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639110,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [93]
+						}, -- [90]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639114,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [94]
+						}, -- [91]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639122,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [95]
+						}, -- [92]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639153,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [96]
+						}, -- [93]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639163,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [97]
+						}, -- [94]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639190,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [98]
+						}, -- [95]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639219,
 							["arg1"] = "I delight in the irony.",
-						}, -- [99]
+						}, -- [96]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639227,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [100]
+						}, -- [97]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639247,
 							["arg1"] = "Impossible...",
-						}, -- [101]
+						}, -- [98]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639254,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [102]
+						}, -- [99]
 						{
 							["arg1"] = " ",
-						}, -- [103]
+						}, -- [100]
 						{
 							["arg1"] = " ",
-						}, -- [104]
+						}, -- [101]
 						{
-							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
 							["type"] = "SYSTEM",
-						}, -- [105]
+							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
+						}, -- [102]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909252,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [106]
+						}, -- [103]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909264,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [107]
+						}, -- [104]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909273,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [108]
+						}, -- [105]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909299,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [109]
+						}, -- [106]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909304,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [110]
+						}, -- [107]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909321,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [111]
+						}, -- [108]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909325,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [112]
+						}, -- [109]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909333,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [113]
+						}, -- [110]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909364,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [114]
+						}, -- [111]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909374,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [115]
+						}, -- [112]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909401,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [116]
+						}, -- [113]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909430,
 							["arg1"] = "I delight in the irony.",
-						}, -- [117]
+						}, -- [114]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909439,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [118]
+						}, -- [115]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909459,
 							["arg1"] = "Impossible...",
-						}, -- [119]
+						}, -- [116]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909467,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [120]
+						}, -- [117]
 						{
 							["arg1"] = " ",
-						}, -- [121]
+						}, -- [118]
 						{
 							["arg1"] = " ",
-						}, -- [122]
+						}, -- [119]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
-						}, -- [123]
+							["type"] = "SYSTEM",
+						}, -- [120]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642356,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [124]
+						}, -- [121]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642368,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [125]
+						}, -- [122]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642377,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [126]
+						}, -- [123]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642403,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [127]
+						}, -- [124]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642407,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [128]
+						}, -- [125]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642497,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [129]
+						}, -- [126]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642510,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [130]
+						}, -- [127]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642518,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [131]
+						}, -- [128]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642544,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [132]
+						}, -- [129]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642549,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [133]
+						}, -- [130]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642568,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [134]
+						}, -- [131]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642573,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [135]
+						}, -- [132]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642580,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [136]
+						}, -- [133]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642612,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [137]
+						}, -- [134]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642621,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [138]
+						}, -- [135]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642648,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [139]
+						}, -- [136]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642677,
 							["arg1"] = "I delight in the irony.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642685,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [141]
+						}, -- [138]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642705,
 							["arg1"] = "Impossible...",
-						}, -- [142]
+						}, -- [139]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642713,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [143]
+						}, -- [140]
 						{
 							["arg1"] = " ",
-						}, -- [144]
+						}, -- [141]
 						{
 							["arg1"] = " ",
-						}, -- [145]
+						}, -- [142]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
-						}, -- [146]
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
+						}, -- [143]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787975,
 							["arg1"] = "Algalon the Observer, herald of the titans, has been defeated by our brave comrades in the depths of the titan city of Ulduar.",
-						}, -- [147]
+						}, -- [144]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787983,
 							["arg1"] = "Algalon was sent here to judge the fate of our world.",
-						}, -- [148]
+						}, -- [145]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787989,
 							["arg1"] = "He found a planet whose races had deviated from the titans' blueprints. A planet where not everything had gone according to plan.",
-						}, -- [149]
+						}, -- [146]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787998,
 							["arg1"] = "Cold logic deemed our world not worth saving. Cold logic, however, does not account for the power of free will. It's up to each of us to prove this is a world worth saving.",
-						}, -- [150]
+						}, -- [147]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788113,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [151]
+						}, -- [148]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788125,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [152]
+						}, -- [149]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788134,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [153]
+						}, -- [150]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788160,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [154]
+						}, -- [151]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788165,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788246,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [156]
+						}, -- [153]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788259,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [157]
+						}, -- [154]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788268,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [158]
+						}, -- [155]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788294,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [159]
+						}, -- [156]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788298,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [160]
+						}, -- [157]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788319,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [161]
+						}, -- [158]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788374,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [162]
+						}, -- [159]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788387,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [163]
+						}, -- [160]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788396,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [164]
+						}, -- [161]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788421,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [165]
+						}, -- [162]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788426,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [166]
+						}, -- [163]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788444,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [167]
+						}, -- [164]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788453,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [168]
+						}, -- [165]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788485,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [169]
+						}, -- [166]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788496,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [170]
+						}, -- [167]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788522,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [171]
+						}, -- [168]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788550,
 							["arg1"] = "I delight in the irony.",
-						}, -- [172]
+						}, -- [169]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788557,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [173]
+						}, -- [170]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788578,
 							["arg1"] = "Impossible...",
-						}, -- [174]
+						}, -- [171]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788586,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [175]
+						}, -- [172]
 						{
 							["arg1"] = " ",
-						}, -- [176]
+						}, -- [173]
 						{
 							["arg1"] = " ",
-						}, -- [177]
+						}, -- [174]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
-						}, -- [178]
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
+						}, -- [175]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463703,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [179]
+						}, -- [176]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463715,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463724,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [181]
+						}, -- [178]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463750,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [182]
+						}, -- [179]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463755,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [183]
+						}, -- [180]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463774,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463779,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [185]
+						}, -- [182]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463786,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [186]
+						}, -- [183]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463818,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [187]
+						}, -- [184]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463828,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [188]
+						}, -- [185]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463855,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [189]
+						}, -- [186]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463884,
 							["arg1"] = "I delight in the irony.",
-						}, -- [190]
+						}, -- [187]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463891,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [191]
+						}, -- [188]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463912,
 							["arg1"] = "Impossible...",
-						}, -- [192]
+						}, -- [189]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463919,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [193]
+						}, -- [190]
 						{
 							["arg1"] = " ",
-						}, -- [194]
+						}, -- [191]
 						{
 							["arg1"] = " ",
-						}, -- [195]
+						}, -- [192]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
-						}, -- [196]
+							["type"] = "SYSTEM",
+						}, -- [193]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538508,
 							["arg1"] = "Citizens of Dalaran! Raise your eyes to the skies and observe!",
-						}, -- [197]
+						}, -- [194]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538636,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [198]
+						}, -- [195]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538648,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [199]
+						}, -- [196]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538657,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [200]
+						}, -- [197]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538683,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [201]
+						}, -- [198]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538688,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [202]
+						}, -- [199]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538708,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [203]
+						}, -- [200]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538772,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [204]
+						}, -- [201]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538785,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [205]
+						}, -- [202]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538794,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [206]
+						}, -- [203]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538821,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [207]
+						}, -- [204]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538826,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [208]
+						}, -- [205]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538839,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [209]
+						}, -- [206]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538844,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [210]
+						}, -- [207]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538850,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [211]
+						}, -- [208]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538881,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [212]
+						}, -- [209]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538890,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [213]
+						}, -- [210]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538917,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [214]
+						}, -- [211]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538945,
 							["arg1"] = "I delight in the irony.",
-						}, -- [215]
+						}, -- [212]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538953,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [216]
+						}, -- [213]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538973,
 							["arg1"] = "Impossible...",
-						}, -- [217]
+						}, -- [214]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538979,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [218]
+						}, -- [215]
 						{
 							["arg1"] = " ",
-						}, -- [219]
+						}, -- [216]
 						{
 							["arg1"] = " ",
-						}, -- [220]
+						}, -- [217]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
-						}, -- [221]
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
+						}, -- [218]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122022,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [222]
+						}, -- [219]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122141,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [223]
+						}, -- [220]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122292,
 							["arg1"] = "The earth will break you!",
-						}, -- [224]
+						}, -- [221]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122303,
 							["arg1"] = "The earth will break you!",
-						}, -- [225]
+						}, -- [222]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122325,
 							["arg1"] = "The earth will break you!",
-						}, -- [226]
+						}, -- [223]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122341,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [227]
+						}, -- [224]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122363,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [228]
+						}, -- [225]
 						{
 							["arg1"] = " ",
-						}, -- [229]
+						}, -- [226]
 						{
 							["arg1"] = " ",
-						}, -- [230]
+						}, -- [227]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [231]
+							["type"] = "SYSTEM",
+						}, -- [228]
 						{
 							["arg2"] = "Stanley",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122965,
 							["arg1"] = "Excelsior!",
-						}, -- [232]
+						}, -- [229]
 						{
 							["arg1"] = " ",
-						}, -- [233]
+						}, -- [230]
 						{
 							["arg1"] = " ",
-						}, -- [234]
+						}, -- [231]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
-						}, -- [235]
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [232]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118579,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [236]
+						}, -- [233]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118591,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [237]
+						}, -- [234]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118600,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [238]
+						}, -- [235]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118626,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [239]
+						}, -- [236]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118631,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118644,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118649,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118656,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [243]
+						}, -- [240]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118688,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [244]
+						}, -- [241]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118698,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [245]
+						}, -- [242]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118725,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [246]
+						}, -- [243]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118754,
 							["arg1"] = "I delight in the irony.",
-						}, -- [247]
+						}, -- [244]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118761,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [248]
+						}, -- [245]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118782,
 							["arg1"] = "Impossible...",
-						}, -- [249]
+						}, -- [246]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118789,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = " ",
+						}, -- [249]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [5]
@@ -7343,7 +7316,7 @@ ElephantDBPerChar = {
 					["name"] = "Officer",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -7354,8 +7327,8 @@ ElephantDBPerChar = {
 					["name"] = "Guild",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 02/14/2019 at 09:34:34.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/14/2019 at 09:34:34.",
 						}, -- [1]
 						{
 							["arg2"] = "Shimaná-Blackmoore",
@@ -7378,8 +7351,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [5]
 						{
-							["arg1"] = "Logging started on 02/14/2019 at 12:17:14.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/14/2019 at 12:17:14.",
 						}, -- [6]
 						{
 							["arg2"] = "Amràs-Blackmoore",
@@ -7451,8 +7424,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [17]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/14/2019 at 12:54:16.",
+							["type"] = "SYSTEM",
 						}, -- [18]
 						{
 							["arg2"] = "Amràs-Blackmoore",
@@ -7510,8 +7483,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [27]
 						{
-							["arg1"] = "Logging started on 02/14/2019 at 13:49:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/14/2019 at 13:49:08.",
 						}, -- [28]
 						{
 							["arg2"] = "Sheyja-Blackmoore",
@@ -7898,8 +7871,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [84]
 						{
-							["arg1"] = "Logging started on 02/15/2019 at 13:50:33.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/15/2019 at 13:50:33.",
 						}, -- [85]
 						{
 							["arg2"] = "Struan-Blackmoore",
@@ -7950,8 +7923,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [93]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/15/2019 at 14:33:33.",
+							["type"] = "SYSTEM",
 						}, -- [94]
 						{
 							["arg2"] = "Amràs-Blackmoore",
@@ -7967,8 +7940,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [97]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/15/2019 at 18:46:02.",
+							["type"] = "SYSTEM",
 						}, -- [98]
 						{
 							["arg2"] = "Tîma-Blackmoore",
@@ -8355,8 +8328,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [154]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/16/2019 at 12:44:03.",
+							["type"] = "SYSTEM",
 						}, -- [155]
 						{
 							["arg2"] = "Struan-Blackmoore",
@@ -8400,8 +8373,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [162]
 						{
-							["arg1"] = "Logging started on 02/16/2019 at 13:43:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/16/2019 at 13:43:45.",
 						}, -- [163]
 						{
 							["arg2"] = "Seringethy-Blackmoore",
@@ -8578,8 +8551,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [189]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/17/2019 at 14:09:20.",
+							["type"] = "SYSTEM",
 						}, -- [190]
 						{
 							["arg2"] = "Seringethy-Blackmoore",
@@ -8700,8 +8673,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [208]
 						{
-							["arg1"] = "Logging started on 02/17/2019 at 14:20:15.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/17/2019 at 14:20:15.",
 						}, -- [209]
 						{
 							["arg2"] = "Arimera-Blackmoore",
@@ -8717,8 +8690,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [212]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/17/2019 at 14:28:59.",
+							["type"] = "SYSTEM",
 						}, -- [213]
 						{
 							["arg2"] = "Kreutzritter-Blackmoore",
@@ -8888,2414 +8861,2407 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [238]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [239]
 					},
 				}, -- [7]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "Item Loot",
 					["logs"] = {
 						{
 							["type"] = "LOOT",
-							["time"] = 1559481324,
-							["arg1"] = "Judge-Lordaeron receives loot: |cff9d9d9d|Hitem:166861::::::::120:258::::::|h[Hakkari Blood Garnet]|h|r.",
-						}, -- [1]
-						{
-							["type"] = "LOOT",
-							["time"] = 1559481324,
-							["arg1"] = "Tardex-Silvermoon receives loot: |cff9d9d9d|Hitem:166859::::::::120:258::::::|h[Zinj'alor Blue Diamond]|h|r.",
-						}, -- [2]
-						{
-							["type"] = "LOOT",
-							["time"] = 1559481324,
-							["arg1"] = "Zeifer receives loot: |cff9d9d9d|Hitem:166855::::::::120:258::::::|h[Obsidian Statue of Kith'ix]|h|r.",
-						}, -- [3]
-						{
-							["type"] = "LOOT",
 							["time"] = 1559481325,
 							["arg1"] = "Highbeastpz-Draenor receives loot: |cff9d9d9d|Hitem:166871::::::::120:258::::::|h[Jeweled Pyrium Goblet]|h|r.",
-						}, -- [4]
+						}, -- [1]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481325,
 							["arg1"] = "Càssandrinà-Outland receives loot: |cff9d9d9d|Hitem:166870::::::::120:258::::::|h[Mithril-Trimmed Ritual Plate]|h|r.",
-						}, -- [5]
+						}, -- [2]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481332,
 							["arg1"] = "Judge-Lordaeron receives loot: |cffa335ee|Hitem:165538::::::::120:258::5:3:4799:1522:4786:::|h[Goldenscale Girdle]|h|r.",
-						}, -- [6]
+						}, -- [3]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481332,
 							["arg1"] = "Леторгия-Азурегос receives loot: |cffa335ee|Hitem:165818::::::::120:258::5:4:4823:1522:4786:5417:::|h[Crown of the Seducer]|h|r.",
-						}, -- [7]
+						}, -- [4]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481377,
 							["arg1"] = "You receive item: |cff1eff00|Hitem:166801::::::::120:258::5::::|h[Sapphire of Brilliance]|h|r.",
-						}, -- [8]
+						}, -- [5]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481453,
 							["arg1"] = "Maèvè-Silvermoon receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [9]
+						}, -- [6]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481454,
 							["arg1"] = "Zeifer receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [10]
+						}, -- [7]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481454,
 							["arg1"] = "Zeifer receives loot: |cffa335ee|Hitem:165925::::::::120:258::5:3:4799:1522:4786:::|h[Drape of Valiant Defense]|h|r.",
-						}, -- [11]
+						}, -- [8]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481459,
 							["arg1"] = "Hallrick-Silvermoon receives loot: |cff1eff00|Hitem:159531::::::::120:258:512::2:4796:1689:120:::|h[Warport Dirk of the Peerless]|h|r.",
-						}, -- [12]
+						}, -- [9]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481496,
 							["arg1"] = "Amelenia-Outland receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|rx2.",
-						}, -- [13]
+						}, -- [10]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481497,
 							["arg1"] = "Redini-Silvermoon receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [14]
+						}, -- [11]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481519,
 							["arg1"] = "Bischoo-Minahonda creates: |cffffffff|Hitem:5512::::::::120:258::5::::|h[Healthstone]|h|r.",
-						}, -- [15]
+						}, -- [12]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481913,
 							["arg1"] = "Càssandrinà-Outland receives loot: |cffa335ee|Hitem:165562::::::::120:258::5:4:4823:1522:4786:5418:::|h[Ridgeplate Pauldrons]|h|r.",
-						}, -- [16]
+						}, -- [13]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481914,
 							["arg1"] = "Zeifer receives bonus loot: |cffa335ee|Hitem:165579::::::::120:258::5:3:4799:1542:4784:::|h[Kimbul's Razor Claw]|h|r.",
-						}, -- [17]
+						}, -- [14]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481915,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:165703::::::::120:258::::::|h[Breath of Bwonsamdi]|h|rx10.",
-						}, -- [18]
+						}, -- [15]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481916,
 							["arg1"] = "Redini-Silvermoon receives loot: |cffa335ee|Hitem:165594::::::::120:258::5:4:4799:1808:1522:4786:::|h[Akunda's Shocksplitter]|h|r.",
-						}, -- [19]
+						}, -- [16]
 						{
 							["type"] = "MONEY",
 							["time"] = 1559481916,
 							["arg1"] = "You loot 59 Gold, 93 Silver, 55 Copper",
-						}, -- [20]
+						}, -- [17]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481917,
 							["arg1"] = "Nicolbolas-Khadgar receives loot: |cffa335ee|Hitem:165512::::::::120:258::5:4:4799:1808:1522:4786:::|h[Loa Exultant's Shroud]|h|r.",
-						}, -- [21]
+						}, -- [18]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481927,
 							["arg1"] = "Hallrick-Silvermoon receives bonus loot: |cffa335ee|Hitem:165579::::::::120:258::5:3:4799:1522:4786:::|h[Kimbul's Razor Claw]|h|r.",
-						}, -- [22]
+						}, -- [19]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481931,
 							["arg1"] = "Highbeastpz-Draenor receives loot: |cffa335ee|Hitem:165562::::::::120:258::5:4:4823:1522:4786:5418:::|h[Ridgeplate Pauldrons]|h|r.",
-						}, -- [23]
+						}, -- [20]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559481931,
 							["arg1"] = "Judge-Lordaeron receives bonus loot: |cffa335ee|Hitem:165579::::::::120:258::5:3:4799:1522:4786:::|h[Kimbul's Razor Claw]|h|r.",
-						}, -- [24]
+						}, -- [21]
 						{
 							["arg1"] = " ",
-						}, -- [25]
+						}, -- [22]
 						{
 							["arg1"] = " ",
-						}, -- [26]
+						}, -- [23]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
-						}, -- [27]
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
+						}, -- [24]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487539,
 							["arg1"] = "Zéuss-Antonidas receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|rx3.",
-						}, -- [28]
+						}, -- [25]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487611,
 							["arg1"] = "Fârodîn receives loot: |cffffffff|Hitem:152576::::::::120:258::::::|h[Tidespray Linen]|h|r.",
-						}, -- [29]
+						}, -- [26]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487611,
 							["arg1"] = "Fârodîn receives loot: |cff1eff00|Hitem:159573::::::::120:258:512::2:4796:1689:120:::|h[Bleached Bone Staff of the Peerless]|h|r.",
-						}, -- [30]
+						}, -- [27]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487638,
 							["arg1"] = "Shengló-Sen'jin creates: |cffffffff|Hitem:5512::::::::120:258::6::::|h[Healthstone]|h|r.",
-						}, -- [31]
+						}, -- [28]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487651,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [32]
+						}, -- [29]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487659,
 							["arg1"] = "Шматко-Гордунни receives item: |cffa335ee|Hitem:156632::::::::120:258::13::::|h[Silas' Stone of Transportation]|h|r.",
-						}, -- [33]
+						}, -- [30]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487668,
 							["arg1"] = "Шматко-Гордунни creates: |cffffffff|Hitem:5512::::::::120:258::6::::|h[Healthstone]|h|r.",
-						}, -- [34]
+						}, -- [31]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487685,
 							["arg1"] = "Nattsü-Hyjal creates: |cffffffff|Hitem:5512::::::::120:258::6::::|h[Healthstone]|h|r.",
-						}, -- [35]
+						}, -- [32]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487696,
 							["arg1"] = "Nirande-Exodar creates: |cffffffff|Hitem:5512::::::::120:258::6::::|h[Healthstone]|h|r.",
-						}, -- [36]
+						}, -- [33]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487736,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [37]
+						}, -- [34]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487753,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [38]
+						}, -- [35]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487769,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cff9d9d9d|Hitem:154779::::::::120:258::6::::|h[Ruptured Plate Stompers]|h|r.",
-						}, -- [39]
+						}, -- [36]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487777,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [40]
+						}, -- [37]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487791,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [41]
+						}, -- [38]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487792,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [42]
+						}, -- [39]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487806,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [43]
+						}, -- [40]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487822,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [44]
+						}, -- [41]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487836,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [45]
+						}, -- [42]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487840,
 							["arg1"] = "Lyvianna-Tirion receives item: |cff1eff00|Hitem:166798::::::::120:258::5::::|h[Crackling Tourmaline]|h|r.",
-						}, -- [46]
+						}, -- [43]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487842,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [47]
+						}, -- [44]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487853,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [48]
+						}, -- [45]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487855,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [49]
+						}, -- [46]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487864,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [50]
+						}, -- [47]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487864,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cff9d9d9d|Hitem:154801::::::::120:258::6::::|h[Crumbling Chain Belt]|h|r.",
-						}, -- [51]
+						}, -- [48]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487883,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [52]
+						}, -- [49]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487883,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cff9d9d9d|Hitem:160934::::::::120:258::6::::|h[Mud-Soaked Crossbow]|h|r.",
-						}, -- [53]
+						}, -- [50]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487893,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [54]
+						}, -- [51]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487898,
 							["arg1"] = "Shengló-Sen'jin receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [55]
+						}, -- [52]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487902,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [56]
+						}, -- [53]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487903,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [57]
+						}, -- [54]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487917,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [58]
+						}, -- [55]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487920,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [59]
+						}, -- [56]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487921,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [60]
+						}, -- [57]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487923,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cff9d9d9d|Hitem:154796::::::::120:258::6::::|h[Crumbling Chain Sabatons]|h|r.",
-						}, -- [61]
+						}, -- [58]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487934,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [62]
+						}, -- [59]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487942,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [63]
+						}, -- [60]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487945,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [64]
+						}, -- [61]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487947,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [65]
+						}, -- [62]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487956,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [66]
+						}, -- [63]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487962,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [67]
+						}, -- [64]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487962,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [68]
+						}, -- [65]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487972,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [69]
+						}, -- [66]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487976,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [70]
+						}, -- [67]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487986,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cff9d9d9d|Hitem:154779::::::::120:258::6::::|h[Ruptured Plate Stompers]|h|r.",
-						}, -- [71]
+						}, -- [68]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487989,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [72]
+						}, -- [69]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487991,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [73]
+						}, -- [70]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559487992,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [74]
+						}, -- [71]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488000,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [75]
+						}, -- [72]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488007,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [76]
+						}, -- [73]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488017,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [77]
+						}, -- [74]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488019,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [78]
+						}, -- [75]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488020,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [79]
+						}, -- [76]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488028,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cff9d9d9d|Hitem:154796::::::::120:258::6::::|h[Crumbling Chain Sabatons]|h|r.",
-						}, -- [80]
+						}, -- [77]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488031,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [81]
+						}, -- [78]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488040,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [82]
+						}, -- [79]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488046,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [83]
+						}, -- [80]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488047,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [84]
+						}, -- [81]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488051,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [85]
+						}, -- [82]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488052,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [86]
+						}, -- [83]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488055,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [87]
+						}, -- [84]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488063,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [88]
+						}, -- [85]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488064,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [89]
+						}, -- [86]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488066,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [90]
+						}, -- [87]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488067,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [91]
+						}, -- [88]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488071,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [92]
+						}, -- [89]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488075,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [93]
+						}, -- [90]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488077,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cff9d9d9d|Hitem:154770::::::::120:258::6::::|h[Cracked Hide Belt]|h|r.",
-						}, -- [94]
+						}, -- [91]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488090,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [95]
+						}, -- [92]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488093,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [96]
+						}, -- [93]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488102,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [97]
+						}, -- [94]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488102,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [98]
+						}, -- [95]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488107,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [99]
+						}, -- [96]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488109,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [100]
+						}, -- [97]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488113,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [101]
+						}, -- [98]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488116,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [102]
+						}, -- [99]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488118,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [103]
+						}, -- [100]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488125,
 							["arg1"] = "Lazarous-Exodar receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [104]
+						}, -- [101]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488127,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cff9d9d9d|Hitem:154770::::::::120:258::6::::|h[Cracked Hide Belt]|h|r.",
-						}, -- [105]
+						}, -- [102]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488130,
 							["arg1"] = "Kasjopaja-Kargath receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [106]
+						}, -- [103]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488135,
 							["arg1"] = "Lyvianna-Tirion receives loot: |cffffffff|Hitem:152544::::::::120:258::::::|h[Slimy Mackerel]|h|r.",
-						}, -- [107]
+						}, -- [104]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488136,
 							["arg1"] = "Arva-ZirkeldesCenarius receives loot: |cff9d9d9d|Hitem:154785::::::::120:258::6::::|h[Ruptured Plate Belt]|h|r.",
-						}, -- [108]
+						}, -- [105]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559488137,
 							["arg1"] = "Trillina-Pozzodell'Eternità receives loot: |cffffffff|Hitem:152543::::::::120:258::::::|h[Sand Shifter]|h|r.",
-						}, -- [109]
+						}, -- [106]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489112,
 							["arg1"] = "Chronïc receives bonus loot: |cffa335ee|Hitem:165533::::::::120:258::6:3:4800:1537:4786:::|h[Lightgrace Sabatons]|h|r.",
-						}, -- [110]
+						}, -- [107]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489113,
 							["arg1"] = "Демоньпони-Гордунни receives loot: |cffa335ee|Hitem:165514::::::::120:258::6:3:4800:1547:4783:::|h[Gloves of Spiritual Grace]|h|r.",
-						}, -- [111]
+						}, -- [108]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489113,
 							["arg1"] = "Engeliq-Ravencrest receives bonus loot: |cffa335ee|Hitem:165919::::::::120:258::6:3:4800:1537:4786:::|h[Desecrated Blade of the Disciples]|h|r.",
-						}, -- [112]
+						}, -- [109]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489114,
 							["arg1"] = "Shadowhuntr-DieSilberneHand receives loot: |cffa335ee|Hitem:165519::::::::120:258::6:4:4824:1537:4786:5420:::|h[Cowl of Righteous Resolve]|h|r.",
-						}, -- [113]
+						}, -- [110]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489114,
 							["arg1"] = "Blackhippy receives bonus loot: |cffa335ee|Hitem:165514::::::::120:258::6:3:4800:1537:4786:::|h[Gloves of Spiritual Grace]|h|r.",
-						}, -- [114]
+						}, -- [111]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489114,
 							["arg1"] = "Trivisaurus receives bonus loot: |cffa335ee|Hitem:165549::::::::120:258::6:3:4800:1537:4786:::|h[Crusade Pummelers]|h|r.",
-						}, -- [115]
+						}, -- [112]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489114,
 							["arg1"] = "Cleepy-Ravencrest receives loot: |cffa335ee|Hitem:165919::::::::120:258::6:3:4800:1537:4786:::|h[Desecrated Blade of the Disciples]|h|r.",
-						}, -- [116]
+						}, -- [113]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489117,
 							["arg1"] = "Engeliq-Ravencrest receives loot: |cffa335ee|Hitem:165501::::::::120:258::6:3:4800:1537:4786:::|h[Bracers of Zealous Calling]|h|r.",
-						}, -- [117]
+						}, -- [114]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489117,
 							["arg1"] = "Neômi-Antonidas receives bonus loot: |cffa335ee|Hitem:165514::::::::120:258::6:3:4800:1537:4786:::|h[Gloves of Spiritual Grace]|h|r.",
-						}, -- [118]
+						}, -- [115]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489118,
 							["arg1"] = "Sickology receives bonus loot: |cffa335ee|Hitem:165501::::::::120:258::6:4:4800:1808:1537:4786:::|h[Bracers of Zealous Calling]|h|r.",
-						}, -- [119]
+						}, -- [116]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489119,
 							["arg1"] = "Atrixe-TheVentureCo receives bonus loot: |cffa335ee|Hitem:165550::::::::120:258::6:4:4824:1537:4786:5419:::|h[Breastplate of Divine Purification]|h|r.",
-						}, -- [120]
+						}, -- [117]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559489119,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:165703::::::::120:258::::::|h[Breath of Bwonsamdi]|h|rx20.",
-						}, -- [121]
+						}, -- [118]
 						{
 							["type"] = "MONEY",
 							["time"] = 1559489120,
 							["arg1"] = "You loot 60 Gold, 28 Silver, 25 Copper",
-						}, -- [122]
+						}, -- [119]
 						{
 							["arg1"] = " ",
-						}, -- [123]
+						}, -- [120]
 						{
 							["arg1"] = " ",
-						}, -- [124]
+						}, -- [121]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
-						}, -- [125]
+							["type"] = "SYSTEM",
+						}, -- [122]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559679331,
 							["arg1"] = "Yes-Elune receives loot: |cffa335ee|Hitem:158923::::::::120:258:4063232:::250:9:10:5:14:::|h[Mythic Keystone]|h|r.",
-						}, -- [126]
+						}, -- [123]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559679331,
 							["arg1"] = "Yes-Elune receives loot: |cffa335ee|Hitem:155884::::::::120:258::16:3:5010:1572:4786:::|h[Parrotfeather Cloak]|h|r.",
-						}, -- [127]
+						}, -- [124]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559679333,
 							["arg1"] = "Мидрас-Гордунни receives loot: |cffa335ee|Hitem:158361::::::::120:258::16:3:5010:1572:4786:::|h[Sharkwater Waders]|h|r.",
-						}, -- [128]
+						}, -- [125]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559679336,
 							["arg1"] = "Kockata-Silvermoon receives loot: |cffa335ee|Hitem:158314::::::::120:258::16:4:5010:42:1572:4786:::|h[Seal of Questionable Loyalties]|h|r.",
-						}, -- [129]
+						}, -- [126]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559679341,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:165948::::::::120:258::::::|h[Tidalcore]|h|r.",
-						}, -- [130]
+						}, -- [127]
 						{
 							["arg1"] = " ",
-						}, -- [131]
+						}, -- [128]
 						{
 							["arg1"] = " ",
-						}, -- [132]
+						}, -- [129]
 						{
-							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
 							["type"] = "SYSTEM",
-						}, -- [133]
+							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
+						}, -- [130]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559718158,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:158923::::::::120:258:4063232:::252:9:9:6:4:::|h[Mythic Keystone]|h|r.",
-						}, -- [134]
+						}, -- [131]
 						{
 							["type"] = "LOOT",
 							["time"] = 1559718159,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:159282::::::::120:258::35:4:5010:42:1582:4783:::|h[Drust-Thatched Wristwraps]|h|r.",
-						}, -- [135]
+						}, -- [132]
 						{
 							["type"] = "CURRENCY",
 							["time"] = 1559718159,
 							["arg1"] = "You receive currency: |cffffffff|Hcurrency:1718:0|h[Titan Residuum]|h|r x625.",
-						}, -- [136]
+						}, -- [133]
 						{
 							["arg1"] = " ",
-						}, -- [137]
+						}, -- [134]
 						{
 							["arg1"] = " ",
-						}, -- [138]
+						}, -- [135]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
-						}, -- [139]
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [136]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929401,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:117392::::::::120:258::11::::|h[Loot-Filled Pumpkin]|h|r.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929404,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffffffff|Hitem:34068::::::::120:258::::::|h[Weighted Jack-o'-Lantern]|h|rx3.",
-						}, -- [141]
+						}, -- [138]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929404,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffa335ee|Hitem:143903::::::::120:258:512::1:6315:120:::|h[The Horseman's Ring]|h|r.",
-						}, -- [142]
+						}, -- [139]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929404,
 							["arg1"] = "Shaloe-Aegwynn receives loot: |cffffffff|Hitem:34001::::::::120:258::::::|h[Draenei Female Mask]|h|r.",
-						}, -- [143]
+						}, -- [140]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929404,
 							["arg1"] = "Shaloe-Aegwynn receives loot: |cffffffff|Hitem:34068::::::::120:258::::::|h[Weighted Jack-o'-Lantern]|h|rx5.",
-						}, -- [144]
+						}, -- [141]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929405,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:143902::::::::120:258:512::1:6315:120:::|h[Wicked Witch's Signet]|h|r.",
-						}, -- [145]
+						}, -- [142]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929405,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:34068::::::::120:258::::::|h[Weighted Jack-o'-Lantern]|h|rx6.",
-						}, -- [146]
+						}, -- [143]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929405,
 							["arg1"] = "Glyniell receives loot: |cffffffff|Hitem:34068::::::::120:258::::::|h[Weighted Jack-o'-Lantern]|h|rx5.",
-						}, -- [147]
+						}, -- [144]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929405,
 							["arg1"] = "Glyniell receives loot: |cffffffff|Hitem:37604::::::::120:258::::::|h[Tooth Pick]|h|rx10.",
-						}, -- [148]
+						}, -- [145]
 						{
 							["type"] = "MONEY",
 							["time"] = 1571929406,
 							["arg1"] = "You loot 8 Gold, 58 Silver, 45 Copper",
-						}, -- [149]
+						}, -- [146]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929406,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx4.",
-						}, -- [150]
+						}, -- [147]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929406,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffffffff|Hitem:34003::::::::120:258::11::::|h[Draenei Male Mask]|h|r.",
-						}, -- [151]
+						}, -- [148]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929407,
 							["arg1"] = "Shaloe-Aegwynn receives loot: |cffffffff|Hitem:34003::::::::120:258::11::::|h[Draenei Male Mask]|h|r.",
-						}, -- [152]
+						}, -- [149]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929407,
 							["arg1"] = "Shaloe-Aegwynn receives loot: |cffa335ee|Hitem:117356::::::::120:258:512:11:1:6315:120:::|h[The Horseman's Sinister Slicer]|h|r.",
-						}, -- [153]
+						}, -- [150]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929407,
 							["arg1"] = "Shaloe-Aegwynn receives loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx4.",
-						}, -- [154]
+						}, -- [151]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929410,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx3.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929410,
 							["arg1"] = "Ærîon-Malygos receives loot: |cffffffff|Hitem:20414::::::::120:258::11::::|h[Hallowed Wand - Wisp]|h|r.",
-						}, -- [156]
+						}, -- [153]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929411,
 							["arg1"] = "Baldum-Durotan receives loot: |cffffffff|Hitem:34068::::::::120:258::::::|h[Weighted Jack-o'-Lantern]|h|rx4.",
-						}, -- [157]
+						}, -- [154]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929411,
 							["arg1"] = "Baldum-Durotan receives loot: |cffffffff|Hitem:20561::::::::120:258::::::|h[Dwarf Male Mask]|h|r.",
-						}, -- [158]
+						}, -- [155]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929411,
 							["arg1"] = "Glyniell receives loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx4.",
-						}, -- [159]
+						}, -- [156]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929411,
 							["arg1"] = "Glyniell receives loot: |cffa335ee|Hitem:117355::::::::120:258:512:11:1:6315:110:::|h[The Horseman's Horrific Hood]|h|r.",
-						}, -- [160]
+						}, -- [157]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929413,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:20568::::::::120:258::11::::|h[Troll Male Mask]|h|r.",
-						}, -- [161]
+						}, -- [158]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929413,
 							["arg1"] = "You receive loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx4.",
-						}, -- [162]
+						}, -- [159]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929415,
 							["arg1"] = "Baldum-Durotan receives loot: |cffffffff|Hitem:33226::::::::120:258::::::|h[Tricky Treat]|h|rx4.",
-						}, -- [163]
+						}, -- [160]
 						{
 							["type"] = "LOOT",
 							["time"] = 1571929415,
 							["arg1"] = "Baldum-Durotan receives loot: |cffffffff|Hitem:34001::::::::120:258::11::::|h[Draenei Female Mask]|h|r.",
-						}, -- [164]
+						}, -- [161]
 						{
 							["arg1"] = " ",
+						}, -- [162]
+						{
+							["arg1"] = " ",
+						}, -- [163]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/14/2019 at 15:21:51.",
+						}, -- [164]
+						{
+							["type"] = "LOOT",
+							["time"] = 1573741332,
+							["arg1"] = "You receive item: |cffffffff|Hitem:157540::::::::120:258::11::::|h[Battered S.E.L.F.I.E. Camera]|h|r.",
 						}, -- [165]
 						{
 							["arg1"] = " ",
 						}, -- [166]
 						{
-							["arg1"] = "Logging started on 11/14/2019 at 15:21:51.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [167]
 						{
-							["type"] = "LOOT",
-							["time"] = 1573741332,
-							["arg1"] = "You receive item: |cffffffff|Hitem:157540::::::::120:258::11::::|h[Battered S.E.L.F.I.E. Camera]|h|r.",
-						}, -- [168]
-						{
-							["arg1"] = " ",
-						}, -- [169]
-						{
-							["arg1"] = " ",
-						}, -- [170]
-						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
-						}, -- [171]
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [168]
 						{
 							["type"] = "LOOT",
 							["time"] = 1574639260,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50428::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r.",
-						}, -- [172]
+						}, -- [169]
 						{
 							["type"] = "LOOT",
 							["time"] = 1574639260,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50070::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r.",
-						}, -- [173]
+						}, -- [170]
 						{
 							["type"] = "LOOT",
 							["time"] = 1574639260,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50426::::::::120:258::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r.",
-						}, -- [174]
+						}, -- [171]
 						{
 							["type"] = "MONEY",
 							["time"] = 1574639261,
 							["arg1"] = "You loot 28 Gold, 86 Silver, 8 Copper",
-						}, -- [175]
+						}, -- [172]
 						{
 							["type"] = "LOOT",
 							["time"] = 1574639263,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50428::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r.",
-						}, -- [176]
+						}, -- [173]
 						{
 							["arg1"] = " ",
-						}, -- [177]
+						}, -- [174]
 						{
 							["arg1"] = " ",
-						}, -- [178]
+						}, -- [175]
 						{
-							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
 							["type"] = "SYSTEM",
-						}, -- [179]
+							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
+						}, -- [176]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909471,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909471,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50732::::::::120:258::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r.",
-						}, -- [181]
+						}, -- [178]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909471,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r.",
-						}, -- [182]
+						}, -- [179]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909471,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r.",
-						}, -- [183]
+						}, -- [180]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909471,
 							["arg1"] = "You receive loot: |cff0070dd|Hitem:142099::::::::120:258::::::|h[Call of the Frozen Blade]|h|r.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["type"] = "MONEY",
 							["time"] = 1575909472,
 							["arg1"] = "You loot 36 Gold, 80 Silver, 34 Copper",
-						}, -- [185]
+						}, -- [182]
 						{
 							["type"] = "LOOT",
 							["time"] = 1575909474,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r.",
-						}, -- [186]
+						}, -- [183]
 						{
 							["arg1"] = " ",
+						}, -- [184]
+						{
+							["arg1"] = " ",
+						}, -- [185]
+						{
+							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["type"] = "SYSTEM",
+						}, -- [186]
+						{
+							["type"] = "LOOT",
+							["time"] = 1588642746,
+							["arg1"] = "You receive loot: |cffa335ee|Hitem:50736::::::::120:258::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r.",
 						}, -- [187]
 						{
 							["arg1"] = " ",
 						}, -- [188]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["arg1"] = " ",
 						}, -- [189]
 						{
-							["type"] = "LOOT",
-							["time"] = 1588642746,
-							["arg1"] = "You receive loot: |cffa335ee|Hitem:50736::::::::120:258::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r.",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 						}, -- [190]
 						{
-							["arg1"] = " ",
+							["type"] = "MONEY",
+							["time"] = 1588788700,
+							["arg1"] = "You loot 33 Gold, 22 Silver, 5 Copper",
 						}, -- [191]
 						{
 							["arg1"] = " ",
 						}, -- [192]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [193]
 						{
-							["type"] = "MONEY",
-							["time"] = 1588788700,
-							["arg1"] = "You loot 33 Gold, 22 Silver, 5 Copper",
-						}, -- [194]
-						{
-							["arg1"] = " ",
-						}, -- [195]
-						{
-							["arg1"] = " ",
-						}, -- [196]
-						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
-						}, -- [197]
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
+						}, -- [194]
 						{
 							["type"] = "LOOT",
 							["time"] = 1589463956,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50737::::::::120:258::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r.",
-						}, -- [198]
+						}, -- [195]
 						{
 							["type"] = "LOOT",
 							["time"] = 1589463956,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r.",
-						}, -- [199]
+						}, -- [196]
 						{
 							["type"] = "LOOT",
 							["time"] = 1589463956,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r.",
-						}, -- [200]
+						}, -- [197]
 						{
 							["type"] = "LOOT",
 							["time"] = 1589463956,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:52027::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r.",
-						}, -- [201]
+						}, -- [198]
 						{
 							["type"] = "LOOT",
 							["time"] = 1589463956,
 							["arg1"] = "You receive loot: |cffa335ee|Hitem:50732::::::::120:258::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r.",
-						}, -- [202]
+						}, -- [199]
 						{
 							["type"] = "MONEY",
 							["time"] = 1589463957,
 							["arg1"] = "You loot 32 Gold, 3 Silver, 79 Copper",
-						}, -- [203]
+						}, -- [200]
 						{
 							["arg1"] = " ",
+						}, -- [201]
+						{
+							["arg1"] = " ",
+						}, -- [202]
+						{
+							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
+							["type"] = "SYSTEM",
+						}, -- [203]
+						{
+							["type"] = "MONEY",
+							["time"] = 1590538992,
+							["arg1"] = "You loot 36 Gold, 65 Silver, 32 Copper",
 						}, -- [204]
 						{
 							["arg1"] = " ",
 						}, -- [205]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
+							["arg1"] = " ",
 						}, -- [206]
 						{
-							["type"] = "MONEY",
-							["time"] = 1590538992,
-							["arg1"] = "You loot 36 Gold, 65 Silver, 32 Copper",
+							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["type"] = "SYSTEM",
 						}, -- [207]
 						{
-							["arg1"] = " ",
+							["type"] = "LOOT",
+							["time"] = 1593119729,
+							["arg1"] = "You receive item: |cffffffff|Hitem:157540::::::::120:258::11::::|h[Battered S.E.L.F.I.E. Camera]|h|r.",
 						}, -- [208]
 						{
 							["arg1"] = " ",
 						}, -- [209]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["arg1"] = " ",
 						}, -- [210]
 						{
-							["type"] = "LOOT",
-							["time"] = 1593119729,
-							["arg1"] = "You receive item: |cffffffff|Hitem:157540::::::::120:258::11::::|h[Battered S.E.L.F.I.E. Camera]|h|r.",
-						}, -- [211]
-						{
-							["arg1"] = " ",
-						}, -- [212]
-						{
-							["arg1"] = " ",
-						}, -- [213]
-						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
-						}, -- [214]
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
+						}, -- [211]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120200,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:52027::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r.",
-						}, -- [215]
+						}, -- [212]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120201,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r.",
-						}, -- [216]
+						}, -- [213]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120201,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:52027::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r.",
-						}, -- [217]
+						}, -- [214]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120201,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r.",
-						}, -- [218]
+						}, -- [215]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120202,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:50733::::::::120:258::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r.",
-						}, -- [219]
+						}, -- [216]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120420,
 							["arg1"] = "You receive item: |cffffffff|Hitem:157540::::::::120:258::11::::|h[Battered S.E.L.F.I.E. Camera]|h|r.",
-						}, -- [220]
+						}, -- [217]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593120979,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:258::::::|h[Gilded Seaweave]|h|r.",
-						}, -- [221]
+						}, -- [218]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593120980,
 							["arg1"] = "You loot 2 Gold, 44 Silver, 24 Copper",
-						}, -- [222]
+						}, -- [219]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593121000,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:258::::::|h[Gilded Seaweave]|h|rx3.",
-						}, -- [223]
+						}, -- [220]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593121002,
 							["arg1"] = "You loot 43 Silver, 95 Copper",
-						}, -- [224]
+						}, -- [221]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593121050,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:258::::::|h[Gilded Seaweave]|h|rx3.",
-						}, -- [225]
+						}, -- [222]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593121051,
 							["arg1"] = "You loot 2 Gold, 70 Silver, 48 Copper",
-						}, -- [226]
+						}, -- [223]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593121093,
 							["arg1"] = "You receive loot: |cff1eff00|Hitem:167738::::::::120:258::::::|h[Gilded Seaweave]|h|rx2.",
-						}, -- [227]
+						}, -- [224]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593121094,
 							["arg1"] = "You loot 42 Silver, 69 Copper",
-						}, -- [228]
+						}, -- [225]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593121114,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:163886::::::::120:258::30:3:4802:1562:4786:::|h[7th Legionnaire's Stave]|h|r.",
-						}, -- [229]
+						}, -- [226]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593121133,
 							["arg1"] = "You loot 89 Silver, 83 Copper",
-						}, -- [230]
+						}, -- [227]
 						{
 							["type"] = "MONEY",
 							["time"] = 1593121153,
 							["arg1"] = "You loot 97 Silver, 16 Copper",
-						}, -- [231]
+						}, -- [228]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593121372,
 							["arg1"] = "You receive item: |cffa335ee|Hitem:170514::::::::120:258::11:3:1577:4786:5413:::|h[7th Legionnaire's Robes]|h|r.",
-						}, -- [232]
+						}, -- [229]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122035,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159140::::::::120:258::::::|h[Lifeless Clay]|h|r.",
-						}, -- [233]
+						}, -- [230]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122035,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159140::::::::120:258::::::|h[Lifeless Clay]|h|r.",
-						}, -- [234]
+						}, -- [231]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122078,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:258::::::|h[Iridescent Speck]|h|r.",
-						}, -- [235]
+						}, -- [232]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122107,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:157844::::::::120:258::::::|h[Iridescent Speck]|h|r.",
-						}, -- [236]
+						}, -- [233]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122107,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159140::::::::120:258::::::|h[Lifeless Clay]|h|r.",
-						}, -- [237]
+						}, -- [234]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122126,
 							["arg1"] = "You receive loot: |cff9d9d9d|Hitem:159140::::::::120:258::::::|h[Lifeless Clay]|h|r.",
-						}, -- [238]
+						}, -- [235]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122356,
 							["arg1"] = "You receive loot: |cffe6cc80|Hitem:167830::::::::120:258::::::|h[Petrified Ebony Scale]|h|r.",
-						}, -- [239]
+						}, -- [236]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122515,
 							["arg1"] = "Your |cffe6cc80|Hitem:158075::::::::120:258::11:3:4936:4929:5814:::|h[Heart of Azeroth]|h|r was changed to |cffe6cc80|Hitem:158075::::::::120:258::11:3:6316:4932:4933:::|h[Heart of Azeroth]|h|r.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122515,
 							["arg1"] = "You receive item: |cffe6cc80|Hitem:168611::::::::120:258::11::::|h[Petrified Ebony Scale]|h|r.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["type"] = "LOOT",
 							["time"] = 1593122530,
 							["arg1"] = "You receive item: |cff9d9d9d|Hitem:169984::::::::120:258::::::|h[Shattered Dragonscale]|h|r.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["arg1"] = " ",
+						}, -- [240]
+						{
+							["arg1"] = " ",
+						}, -- [241]
+						{
+							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
+							["type"] = "SYSTEM",
+						}, -- [242]
+						{
+							["type"] = "LOOT",
+							["time"] = 1593123063,
+							["arg1"] = "You receive loot: |cffffffff|Hitem:175151::::::::120:258::::::|h[Fearbreaker]|h|r.",
 						}, -- [243]
 						{
 							["arg1"] = " ",
 						}, -- [244]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
+							["arg1"] = " ",
 						}, -- [245]
 						{
-							["type"] = "LOOT",
-							["time"] = 1593123063,
-							["arg1"] = "You receive loot: |cffffffff|Hitem:175151::::::::120:258::::::|h[Fearbreaker]|h|r.",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 						}, -- [246]
 						{
-							["arg1"] = " ",
+							["type"] = "MONEY",
+							["time"] = 1598118797,
+							["arg1"] = "You loot 32 Gold, 6 Silver, 27 Copper",
 						}, -- [247]
 						{
 							["arg1"] = " ",
 						}, -- [248]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [249]
 						{
-							["type"] = "MONEY",
-							["time"] = 1598118797,
-							["arg1"] = "You loot 32 Gold, 6 Silver, 27 Copper",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [8]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "System Messages",
 					["logs"] = {
-						{
-							["arg1"] = " ",
-						}, -- [1]
-						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:09:46.",
-							["type"] = "SYSTEM",
-						}, -- [2]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119403,
-							["arg1"] = "Aronal-Malygos is already being ignored.",
-						}, -- [3]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
-						}, -- [4]
+						}, -- [1]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Bálánár-Ysondre is already being ignored.",
-						}, -- [5]
+						}, -- [2]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Catalju-KhazModan is already being ignored.",
-						}, -- [6]
+						}, -- [3]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Dossie-KulTiras is already being ignored.",
-						}, -- [7]
+						}, -- [4]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Duralyon-Balnazzar is already being ignored.",
-						}, -- [8]
+						}, -- [5]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Gilneer-Gilneas is already being ignored.",
-						}, -- [9]
+						}, -- [6]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Harngwen-Dragonblight is already being ignored.",
-						}, -- [10]
+						}, -- [7]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
-						}, -- [11]
+						}, -- [8]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119403,
 							["arg1"] = "Shroomie-Xavius is already being ignored.",
+						}, -- [9]
+						{
+							["arg1"] = " ",
+						}, -- [10]
+						{
+							["arg1"] = " ",
+						}, -- [11]
+						{
+							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["type"] = "SYSTEM",
 						}, -- [12]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119634,
+							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
 						}, -- [13]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119634,
+							["arg1"] = "Catalju-KhazModan is already being ignored.",
 						}, -- [14]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["time"] = 1593119634,
+							["arg1"] = "Dossie-KulTiras is already being ignored.",
 						}, -- [15]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119634,
-							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
+							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
 						}, -- [16]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119634,
-							["arg1"] = "Catalju-KhazModan is already being ignored.",
+							["arg1"] = " ",
 						}, -- [17]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119634,
-							["arg1"] = "Dossie-KulTiras is already being ignored.",
+							["arg1"] = " ",
 						}, -- [18]
 						{
 							["type"] = "SYSTEM",
-							["time"] = 1593119634,
-							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
+							["arg1"] = "Logging started on 06/25/2020 at 23:16:12.",
 						}, -- [19]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119790,
+							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
 						}, -- [20]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119790,
+							["arg1"] = "Catalju-KhazModan is already being ignored.",
 						}, -- [21]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:16:12.",
 							["type"] = "SYSTEM",
+							["time"] = 1593119790,
+							["arg1"] = "Dossie-KulTiras is already being ignored.",
 						}, -- [22]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119790,
-							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
+							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
 						}, -- [23]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119790,
-							["arg1"] = "Catalju-KhazModan is already being ignored.",
+							["arg1"] = " ",
 						}, -- [24]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119790,
-							["arg1"] = "Dossie-KulTiras is already being ignored.",
+							["arg1"] = " ",
 						}, -- [25]
 						{
+							["arg1"] = "Logging started on 06/25/2020 at 23:16:55.",
 							["type"] = "SYSTEM",
-							["time"] = 1593119790,
-							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
 						}, -- [26]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119832,
+							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
 						}, -- [27]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593119832,
+							["arg1"] = "Catalju-KhazModan is already being ignored.",
 						}, -- [28]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:16:55.",
+							["time"] = 1593119832,
+							["arg1"] = "Dossie-KulTiras is already being ignored.",
 						}, -- [29]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593119832,
-							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
+							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
 						}, -- [30]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119832,
-							["arg1"] = "Catalju-KhazModan is already being ignored.",
+							["arg1"] = " ",
 						}, -- [31]
 						{
-							["type"] = "SYSTEM",
-							["time"] = 1593119832,
-							["arg1"] = "Dossie-KulTiras is already being ignored.",
+							["arg1"] = " ",
 						}, -- [32]
 						{
 							["type"] = "SYSTEM",
-							["time"] = 1593119832,
-							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [33]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593120122,
+							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
 						}, -- [34]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["time"] = 1593120122,
+							["arg1"] = "Catalju-KhazModan is already being ignored.",
 						}, -- [35]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
+							["time"] = 1593120122,
+							["arg1"] = "Dossie-KulTiras is already being ignored.",
 						}, -- [36]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120122,
-							["arg1"] = "Breispree-TheMaelstrom is already being ignored.",
-						}, -- [37]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1593120122,
-							["arg1"] = "Catalju-KhazModan is already being ignored.",
-						}, -- [38]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1593120122,
-							["arg1"] = "Dossie-KulTiras is already being ignored.",
-						}, -- [39]
-						{
-							["type"] = "SYSTEM",
-							["time"] = 1593120122,
 							["arg1"] = "Knæklys-TheMaelstrom is already being ignored.",
-						}, -- [40]
+						}, -- [37]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120219,
 							["arg1"] = "Quest accepted: A Burning Path Through Time",
-						}, -- [41]
+						}, -- [38]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120227,
 							["arg1"] = "You are now queued in the Dungeon Finder.",
-						}, -- [42]
+						}, -- [39]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120230,
 							["arg1"] = "You have unlearned |cff71d5ff|Hspell:109142:0|h[Twist of Fate]|h|r.",
-						}, -- [43]
+						}, -- [40]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120230,
 							["arg1"] = "You have learned a new passive effect: |cff71d5ff|Hspell:238558:0|h[Misery]|h|r.",
-						}, -- [44]
+						}, -- [41]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120235,
 							["arg1"] = "You have unlearned |cff71d5ff|Hspell:155271:0|h[Auspicious Spirits]|h|r.",
-						}, -- [45]
+						}, -- [42]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120235,
 							["arg1"] = "You have learned a new spell: |cff71d5ff|Hspell:205385:0|h[Shadow Crash]|h|r.",
-						}, -- [46]
+						}, -- [43]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120253,
 							["arg1"] = "Unknown macro option: talent 5/2",
-						}, -- [47]
+						}, -- [44]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120291,
 							["arg1"] = "You have been removed from the queue because you did not accept the invitation.",
-						}, -- [48]
+						}, -- [45]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120294,
 							["arg1"] = "You are now queued in the Dungeon Finder.",
-						}, -- [49]
+						}, -- [46]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120671,
 							["arg1"] = "You have invited Térrible to join your group.",
-						}, -- [50]
+						}, -- [47]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120676,
 							["arg1"] = "Dungeon Difficulty set to Normal.",
-						}, -- [51]
+						}, -- [48]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120678,
 							["arg1"] = "You have invited Drstonè-Ravencrest to join your group.",
-						}, -- [52]
+						}, -- [49]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120679,
 							["arg1"] = "Drstonè-Ravencrest joins the party.",
-						}, -- [53]
+						}, -- [50]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120686,
 							["arg1"] = "You have invited Seranin to join your group.",
-						}, -- [54]
+						}, -- [51]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120690,
 							["arg1"] = "Seranin joins the party.",
-						}, -- [55]
+						}, -- [52]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120718,
 							["arg1"] = "A role check has been initiated. Your group will be queued when all members have selected a role.",
-						}, -- [56]
+						}, -- [53]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120722,
 							["arg1"] = "Térrible has not selected any roles.",
-						}, -- [57]
+						}, -- [54]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120729,
 							["arg1"] = "A role check has been initiated. Your group will be queued when all members have selected a role.",
-						}, -- [58]
+						}, -- [55]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120753,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [59]
+						}, -- [56]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120761,
 							["arg1"] = "Arathi Donations: Enchant Ring - Seal of Critical Strike completed.",
-						}, -- [60]
+						}, -- [57]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120761,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:500|h[Radiant Azerite Fragment]|h|r.",
-						}, -- [61]
+						}, -- [58]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120761,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:5814:1564:::|h[Heart of Azeroth]|h|r gains 500 Artifact Power.",
-						}, -- [62]
+						}, -- [59]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120772,
 							["arg1"] = "Arathi Donations: Gold completed.",
-						}, -- [63]
+						}, -- [60]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120772,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:500|h[Radiant Azerite Fragment]|h|r.",
-						}, -- [64]
+						}, -- [61]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120772,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:5814:1564:::|h[Heart of Azeroth]|h|r gains 500 Artifact Power.",
-						}, -- [65]
+						}, -- [62]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120871,
 							["arg1"] = "The Wolf's Offensive completed.",
-						}, -- [66]
+						}, -- [63]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120871,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [67]
+						}, -- [64]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120872,
 							["arg1"] = "Quest accepted: Send the Fleet",
-						}, -- [68]
+						}, -- [65]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120877,
 							["arg1"] = "Quest accepted: Against Overwhelming Odds",
-						}, -- [69]
+						}, -- [66]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120897,
 							["arg1"] = "Quest accepted: The Ashvane Trading Company",
-						}, -- [70]
+						}, -- [67]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120897,
 							["arg1"] = "Quest accepted: What You May Regret",
-						}, -- [71]
+						}, -- [68]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120910,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [72]
+						}, -- [69]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120929,
 							["arg1"] = "Send the Fleet completed.",
-						}, -- [73]
+						}, -- [70]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120929,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [74]
+						}, -- [71]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120930,
 							["arg1"] = "Quest accepted: Upheaval",
-						}, -- [75]
+						}, -- [72]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120943,
 							["arg1"] = "Upheaval completed.",
-						}, -- [76]
+						}, -- [73]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120943,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [77]
+						}, -- [74]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120943,
 							["arg1"] = "Quest accepted: Descent",
-						}, -- [78]
+						}, -- [75]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120957,
 							["arg1"] = "Descent completed.",
-						}, -- [79]
+						}, -- [76]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120957,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [80]
+						}, -- [77]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120960,
 							["arg1"] = "Quest accepted: Fortunate Souls",
-						}, -- [81]
+						}, -- [78]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120960,
 							["arg1"] = "Quest accepted: Disruption of Power",
-						}, -- [82]
+						}, -- [79]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593120961,
 							["arg1"] = "Quest accepted: Dark Tides",
-						}, -- [83]
+						}, -- [80]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121025,
 							["arg1"] = "Unknown macro option: talent 6/1",
-						}, -- [84]
+						}, -- [81]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121114,
 							["arg1"] = "Dark Tides completed.",
-						}, -- [85]
+						}, -- [82]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121114,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [86]
+						}, -- [83]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121151,
 							["arg1"] = "Fortunate Souls completed.",
-						}, -- [87]
+						}, -- [84]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121151,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [88]
+						}, -- [85]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121168,
 							["arg1"] = "Disruption of Power completed.",
-						}, -- [89]
+						}, -- [86]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121168,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [90]
+						}, -- [87]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121168,
 							["arg1"] = "Quest accepted: In Deep",
-						}, -- [91]
+						}, -- [88]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121176,
 							["arg1"] = "In Deep completed.",
-						}, -- [92]
+						}, -- [89]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121176,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [93]
+						}, -- [90]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121177,
 							["arg1"] = "Quest accepted: Up Against It",
-						}, -- [94]
+						}, -- [91]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121217,
 							["arg1"] = "You are now Neutral with Waveblade Ankoan.",
-						}, -- [95]
+						}, -- [92]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121218,
 							["arg1"] = "Up Against It completed.",
-						}, -- [96]
+						}, -- [93]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121218,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [97]
+						}, -- [94]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121218,
 							["arg1"] = "Quest accepted: Where the Road Leads",
-						}, -- [98]
+						}, -- [95]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121277,
 							["arg1"] = "Where the Road Leads completed.",
-						}, -- [99]
+						}, -- [96]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121277,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [100]
+						}, -- [97]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121278,
 							["arg1"] = "Quest accepted: A Way Home",
-						}, -- [101]
+						}, -- [98]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121319,
 							["arg1"] = "A role check has been initiated. Your group will be queued when all members have selected a role.",
-						}, -- [102]
+						}, -- [99]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121372,
 							["arg1"] = "A Way Home completed.",
-						}, -- [103]
+						}, -- [100]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121372,
 							["arg1"] = "Received 11 Gold, 70 Silver.",
-						}, -- [104]
+						}, -- [101]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121375,
 							["arg1"] = "Quest accepted: Essential Empowerment",
-						}, -- [105]
+						}, -- [102]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121389,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [106]
+						}, -- [103]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121410,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [107]
+						}, -- [104]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121411,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [108]
+						}, -- [105]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121421,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [109]
+						}, -- [106]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121446,
 							["arg1"] = "Essential Empowerment completed.",
-						}, -- [110]
+						}, -- [107]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121446,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [111]
+						}, -- [108]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121447,
 							["arg1"] = "Quest accepted: MOTHER Knows Best",
-						}, -- [112]
+						}, -- [109]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121460,
 							["arg1"] = "MOTHER Knows Best completed.",
-						}, -- [113]
+						}, -- [110]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121460,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [114]
+						}, -- [111]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121460,
 							["arg1"] = "Quest accepted: A Disturbance Beneath the Earth",
-						}, -- [115]
+						}, -- [112]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "Notify system has been disabled.",
-						}, -- [116]
+						}, -- [113]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "Quest accepted: Something Different",
-						}, -- [117]
+						}, -- [114]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "Party converted to Raid",
-						}, -- [118]
+						}, -- [115]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "You are in both a party and an instance group. You may communicate with your party with \"/p\" and with your instance group with \"/i\".",
-						}, -- [119]
+						}, -- [116]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "Raid Difficulty set to Normal.",
-						}, -- [120]
+						}, -- [117]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121464,
 							["arg1"] = "Legacy Raid Difficulty set to 10 Player.",
-						}, -- [121]
+						}, -- [118]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121473,
 							["arg1"] = "|Hplayer:Hubashi-Antonidas|h[Hubashi-Antonidas]|h has joined the battle.",
-						}, -- [122]
+						}, -- [119]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121473,
 							["arg1"] = "Hubashi-Antonidas has joined the instance group.",
-						}, -- [123]
+						}, -- [120]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121475,
 							["arg1"] = "|Hplayer:Cherybaby|h[Cherybaby]|h has joined the battle.",
-						}, -- [124]
+						}, -- [121]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121475,
 							["arg1"] = "Cherybaby has joined the instance group.",
-						}, -- [125]
+						}, -- [122]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121583,
 							["arg1"] = "Notify system has been enabled.",
-						}, -- [126]
+						}, -- [123]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121619,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [127]
+						}, -- [124]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121623,
 							["arg1"] = "Térrible has died.",
-						}, -- [128]
+						}, -- [125]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121633,
 							["arg1"] = "|cff71d5ff|Hdeath:1|h[You died.]|h",
-						}, -- [129]
+						}, -- [126]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121644,
 							["arg1"] = "Seranin has died.",
-						}, -- [130]
+						}, -- [127]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121657,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [131]
+						}, -- [128]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121671,
 							["arg1"] = "Térrible has died.",
-						}, -- [132]
+						}, -- [129]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121674,
 							["arg1"] = "|cff71d5ff|Hdeath:2|h[You died.]|h",
-						}, -- [133]
+						}, -- [130]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121694,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [134]
+						}, -- [131]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121694,
 							["arg1"] = "Seranin has died.",
-						}, -- [135]
+						}, -- [132]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121695,
 							["arg1"] = "|Hplayer:Tyrannius-Nera'thor|h[Tyrannius-Nera'thor]|h has joined the battle.",
-						}, -- [136]
+						}, -- [133]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121695,
 							["arg1"] = "Tyrannius-Nera'thor has joined the instance group.",
-						}, -- [137]
+						}, -- [134]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121703,
 							["arg1"] = "Térrible has died.",
-						}, -- [138]
+						}, -- [135]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121705,
 							["arg1"] = "Drstonè has died.",
-						}, -- [139]
+						}, -- [136]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121722,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121731,
 							["arg1"] = "Térrible has died.",
-						}, -- [141]
+						}, -- [138]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121740,
 							["arg1"] = "|cff71d5ff|Hdeath:3|h[You died.]|h",
-						}, -- [142]
+						}, -- [139]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121753,
 							["arg1"] = "Seranin has died.",
-						}, -- [143]
+						}, -- [140]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121765,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [144]
+						}, -- [141]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121770,
 							["arg1"] = "|cff71d5ff|Hdeath:4|h[You died.]|h",
-						}, -- [145]
+						}, -- [142]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121776,
 							["arg1"] = "Drstonè has died.",
-						}, -- [146]
+						}, -- [143]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121780,
 							["arg1"] = "Térrible has died.",
-						}, -- [147]
+						}, -- [144]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121812,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [148]
+						}, -- [145]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121845,
 							["arg1"] = "|cff71d5ff|Hdeath:5|h[You died.]|h",
-						}, -- [149]
+						}, -- [146]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121885,
 							["arg1"] = "|cff71d5ff|Hdeath:6|h[You died.]|h",
-						}, -- [150]
+						}, -- [147]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121896,
 							["arg1"] = "Térrible has died.",
-						}, -- [151]
+						}, -- [148]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121909,
 							["arg1"] = "Seranin has died.",
-						}, -- [152]
+						}, -- [149]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121928,
 							["arg1"] = "|cff71d5ff|Hdeath:7|h[You died.]|h",
-						}, -- [153]
+						}, -- [150]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121940,
 							["arg1"] = "Snôôdy has died.",
-						}, -- [154]
+						}, -- [151]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121951,
 							["arg1"] = "Térrible has died.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121955,
 							["arg1"] = "Seranin has died.",
-						}, -- [156]
+						}, -- [153]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121962,
 							["arg1"] = "Your group has been disbanded.",
-						}, -- [157]
+						}, -- [154]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121962,
 							["arg1"] = "You have been removed from the group.",
-						}, -- [158]
+						}, -- [155]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121963,
 							["arg1"] = "You are not in a raid group",
-						}, -- [159]
+						}, -- [156]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121991,
 							["arg1"] = "A Disturbance Beneath the Earth completed.",
-						}, -- [160]
+						}, -- [157]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121991,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [161]
+						}, -- [158]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593121992,
 							["arg1"] = "Quest accepted: Take My Hand",
-						}, -- [162]
+						}, -- [159]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122003,
 							["arg1"] = "You are in both a party and an instance group. You may communicate with your party with \"/p\" and with your instance group with \"/i\".",
-						}, -- [163]
+						}, -- [160]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122003,
 							["arg1"] = "Dungeon Difficulty set to Normal Scenario.",
-						}, -- [164]
+						}, -- [161]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122007,
 							["arg1"] = "A role check has been initiated. Your group will be queued when all members have selected a role.",
-						}, -- [165]
+						}, -- [162]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122009,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [166]
+						}, -- [163]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122012,
 							["arg1"] = "Take My Hand completed.",
-						}, -- [167]
+						}, -- [164]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122012,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [168]
+						}, -- [165]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122013,
 							["arg1"] = "Quest accepted: Calming the Spine",
-						}, -- [169]
+						}, -- [166]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122226,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:700|h[Radiant Azerite Fragment]|h|r.",
-						}, -- [170]
+						}, -- [167]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122226,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:5814:1566:::|h[Heart of Azeroth]|h|r gains 700 Artifact Power.",
-						}, -- [171]
+						}, -- [168]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122226,
 							["arg1"] = "Calming the Spine completed.",
-						}, -- [172]
+						}, -- [169]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122226,
 							["arg1"] = "Received 23 Gold, 40 Silver.",
-						}, -- [173]
+						}, -- [170]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122226,
 							["arg1"] = "Quest accepted: Dominating the Indomitable",
-						}, -- [174]
+						}, -- [171]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122357,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:1000|h[Radiant Azerite Matrix]|h|r.",
-						}, -- [175]
+						}, -- [172]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122357,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:5814:1566:::|h[Heart of Azeroth]|h|r gains 1,000 Artifact Power.",
-						}, -- [176]
+						}, -- [173]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122357,
 							["arg1"] = "Dominating the Indomitable completed.",
-						}, -- [177]
+						}, -- [174]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122357,
 							["arg1"] = "Received 70 Gold, 20 Silver.",
-						}, -- [178]
+						}, -- [175]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122357,
 							["arg1"] = "Quest accepted: A Friendly Face",
-						}, -- [179]
+						}, -- [176]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122386,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122386,
 							["arg1"] = "You have been removed from the group.",
-						}, -- [181]
+						}, -- [178]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122387,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [182]
+						}, -- [179]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122428,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [183]
+						}, -- [180]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122448,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122459,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [185]
+						}, -- [182]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122478,
 							["arg1"] = "A Friendly Face completed.",
-						}, -- [186]
+						}, -- [183]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122478,
 							["arg1"] = "Received 46 Gold, 80 Silver.",
-						}, -- [187]
+						}, -- [184]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122484,
 							["arg1"] = "Quest accepted: The Heart Forge",
-						}, -- [188]
+						}, -- [185]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122508,
 							["arg1"] = "Loot Specialization set to: Shadow",
-						}, -- [189]
+						}, -- [186]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122514,
 							["arg1"] = "The Heart Forge completed.",
-						}, -- [190]
+						}, -- [187]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122514,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [191]
+						}, -- [188]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122514,
 							["arg1"] = "You receive item: |cffa335ee|Hcurrency:1553:1000|h[Radiant Azerite Matrix]|h|r.",
-						}, -- [192]
+						}, -- [189]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122514,
 							["arg1"] = "|cffe6cc80|Hitem:158075::::::::120:258::11:4:4936:4929:5814:1568:::|h[Heart of Azeroth]|h|r gains 1,000 Artifact Power.",
-						}, -- [193]
+						}, -- [190]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122515,
 							["arg1"] = "Quest accepted: Harnessing the Power",
-						}, -- [194]
+						}, -- [191]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122535,
 							["arg1"] = "You have learned a new ability: |cff71d5ff|Hspell:295373:0|h[Concentrated Flame]|h|r.",
-						}, -- [195]
+						}, -- [192]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122548,
 							["arg1"] = "Harnessing the Power completed.",
-						}, -- [196]
+						}, -- [193]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122548,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [197]
+						}, -- [194]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122548,
 							["arg1"] = "Quest accepted: An Unwelcome Advisor",
-						}, -- [198]
+						}, -- [195]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122548,
 							["arg1"] = "Quest accepted: Back Out to Sea",
-						}, -- [199]
+						}, -- [196]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122574,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [200]
+						}, -- [197]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122581,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [201]
+						}, -- [198]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122595,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [202]
+						}, -- [199]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122596,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [203]
+						}, -- [200]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122606,
 							["arg1"] = "Back Out to Sea completed.",
-						}, -- [204]
+						}, -- [201]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122606,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [205]
+						}, -- [202]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122631,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [206]
+						}, -- [203]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122658,
 							["arg1"] = "Quest accepted: Warfront Contribution",
-						}, -- [207]
+						}, -- [204]
 						{
 							["arg1"] = " ",
-						}, -- [208]
+						}, -- [205]
 						{
 							["arg1"] = " ",
-						}, -- [209]
+						}, -- [206]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [210]
+							["type"] = "SYSTEM",
+						}, -- [207]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122734,
 							["arg1"] = "Dungeon Difficulty set to Normal.",
-						}, -- [211]
+						}, -- [208]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122735,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [212]
+						}, -- [209]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122779,
 							["arg1"] = "Your group has joined the queue for Brawl: Temple of Hotmogu.",
-						}, -- [213]
+						}, -- [210]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122870,
 							["arg1"] = "A role check has been initiated. Your group will be queued when all members have selected a role.",
-						}, -- [214]
+						}, -- [211]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122881,
 							["arg1"] = "Térrible leaves the party.",
-						}, -- [215]
+						}, -- [212]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122890,
 							["arg1"] = "You leave the group.",
-						}, -- [216]
+						}, -- [213]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122890,
 							["arg1"] = "Your team has left the queue",
-						}, -- [217]
+						}, -- [214]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122943,
 							["arg1"] = "An Unwelcome Advisor completed.",
-						}, -- [218]
+						}, -- [215]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122943,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [219]
+						}, -- [216]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593122959,
 							["arg1"] = "Quest accepted: Return of the Warrior King",
-						}, -- [220]
+						}, -- [217]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123065,
 							["arg1"] = "Return of the Warrior King completed.",
-						}, -- [221]
+						}, -- [218]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123065,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [222]
+						}, -- [219]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123065,
 							["arg1"] = "Quest accepted: Where the Heart Is",
-						}, -- [223]
+						}, -- [220]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123068,
 							["arg1"] = "On Whispered Winds completed.",
-						}, -- [224]
+						}, -- [221]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123068,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [225]
+						}, -- [222]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123068,
 							["arg1"] = "Quest accepted: Waning Hope",
-						}, -- [226]
+						}, -- [223]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123083,
 							["arg1"] = "Waning Hope completed.",
-						}, -- [227]
+						}, -- [224]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123083,
 							["arg1"] = "Received 11 Gold, 70 Silver.",
-						}, -- [228]
+						}, -- [225]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123083,
 							["arg1"] = "Quest accepted: Shores of Fate",
-						}, -- [229]
+						}, -- [226]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123200,
 							["arg1"] = "Where the Heart Is completed.",
-						}, -- [230]
+						}, -- [227]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123200,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [231]
+						}, -- [228]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123200,
 							["arg1"] = "Quest accepted: Network Diagnostics",
-						}, -- [232]
+						}, -- [229]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123271,
 							["arg1"] = "Network Diagnostics completed.",
-						}, -- [233]
+						}, -- [230]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123271,
 							["arg1"] = "Received 2 Gold, 34 Silver.",
-						}, -- [234]
+						}, -- [231]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1593123271,
 							["arg1"] = "Quest accepted: A Titanic Problem",
-						}, -- [235]
+						}, -- [232]
 						{
 							["arg1"] = " ",
-						}, -- [236]
+						}, -- [233]
 						{
 							["arg1"] = " ",
-						}, -- [237]
+						}, -- [234]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
-						}, -- [238]
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [235]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118394,
 							["arg1"] = "Dungeon Difficulty set to Normal.",
-						}, -- [239]
+						}, -- [236]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118396,
 							["arg1"] = "You are now the group leader.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118446,
 							["arg1"] = "Icecrown Citadel has been reset.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118462,
 							["arg1"] = "Raid Difficulty set to Normal.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118462,
 							["arg1"] = "Legacy Raid Difficulty set to 25 Player.",
-						}, -- [243]
+						}, -- [240]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118532,
 							["arg1"] = "Legacy loot rules are enabled.",
-						}, -- [244]
+						}, -- [241]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118537,
 							["arg1"] = "Raid Difficulty set to Heroic.",
-						}, -- [245]
+						}, -- [242]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118537,
 							["arg1"] = "Legacy Raid Difficulty set to 25 Player (Heroic).",
-						}, -- [246]
+						}, -- [243]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118543,
 							["arg1"] = "You are now saved to this instance",
-						}, -- [247]
+						}, -- [244]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118554,
 							["arg1"] = "Unknown macro option: talent 5/2",
-						}, -- [248]
+						}, -- [245]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118820,
 							["arg1"] = "Tyleen is now the group leader.",
-						}, -- [249]
+						}, -- [246]
 						{
 							["type"] = "SYSTEM",
 							["time"] = 1598118841,
 							["arg1"] = "You leave the group.",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = " ",
+						}, -- [249]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [9]
@@ -11305,8 +11271,8 @@ ElephantDBPerChar = {
 					["name"] = "Achievements",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 02/14/2019 at 12:17:14.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/14/2019 at 12:17:14.",
 						}, -- [1]
 						{
 							["arg2"] = "Moonurii-Blackmoore",
@@ -11322,8 +11288,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [4]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/14/2019 at 12:54:16.",
+							["type"] = "SYSTEM",
 						}, -- [5]
 						{
 							["arg2"] = "Nexana-Blackmoore",
@@ -11339,8 +11305,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [8]
 						{
-							["arg1"] = "Logging started on 02/14/2019 at 13:49:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/14/2019 at 13:49:08.",
 						}, -- [9]
 						{
 							["arg2"] = "Nexana-Blackmoore",
@@ -11426,8 +11392,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [22]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/15/2019 at 14:33:33.",
+							["type"] = "SYSTEM",
 						}, -- [23]
 						{
 							["arg2"] = "Nexana-Blackmoore",
@@ -11450,8 +11416,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [27]
 						{
-							["arg1"] = "Logging started on 02/15/2019 at 15:25:52.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/15/2019 at 15:25:52.",
 						}, -- [28]
 						{
 							["arg2"] = "Nexana-Blackmoore",
@@ -11467,8 +11433,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [31]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/15/2019 at 18:46:02.",
+							["type"] = "SYSTEM",
 						}, -- [32]
 						{
 							["arg2"] = "Muddelicia-Blackmoore",
@@ -11610,8 +11576,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [53]
 						{
-							["arg1"] = "Logging started on 02/16/2019 at 11:58:39.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/16/2019 at 11:58:39.",
 						}, -- [54]
 						{
 							["arg2"] = "Zorrg-Blackmoore",
@@ -11655,8 +11621,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [61]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/16/2019 at 12:44:03.",
+							["type"] = "SYSTEM",
 						}, -- [62]
 						{
 							["arg2"] = "Askannorn-Blackmoore",
@@ -11714,8 +11680,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [71]
 						{
-							["arg1"] = "Logging started on 02/16/2019 at 13:43:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 02/16/2019 at 13:43:45.",
 						}, -- [72]
 						{
 							["arg2"] = "Niwin-Blackmoore",
@@ -11766,8 +11732,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [80]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/17/2019 at 14:28:59.",
+							["type"] = "SYSTEM",
 						}, -- [81]
 						{
 							["arg2"] = "Nocteem-Blackmoore",
@@ -11832,8 +11798,8 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [91]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 02/21/2019 at 13:16:52.",
+							["type"] = "SYSTEM",
 						}, -- [92]
 						{
 							["arg2"] = "Tâhruc-Blackmoore",
@@ -11870,1414 +11836,1406 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [98]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [99]
 					},
 				}, -- [10]
 				{
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "Instance",
 					["logs"] = {
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
-							["time"] = 1559677879,
-							["arg1"] = "Bombs away!",
-						}, -- [1]
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559677911,
-							["arg1"] = "Bombs away!",
-						}, -- [2]
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
-							["time"] = 1559677927,
-							["arg1"] = "Bombs away!",
-						}, -- [3]
-						{
-							["arg2"] = "Skycap'n Kragg",
-							["type"] = "MONSTER_YELL",
 							["time"] = 1559677943,
 							["arg1"] = "Bombs away!",
-						}, -- [4]
+						}, -- [1]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677958,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [5]
+						}, -- [2]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677959,
 							["arg1"] = "Watch out below, ye barnacle-bottomed swine!",
-						}, -- [6]
+						}, -- [3]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559677984,
 							["arg1"] = "Avast, ye bilge suckers!",
-						}, -- [7]
+						}, -- [4]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678012,
 							["arg1"] = "Aaargh! Sharkbait, come about and blast their broadsides!",
-						}, -- [8]
+						}, -- [5]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678019,
 							["arg1"] = "This one is goin' right in yer deadlights!",
-						}, -- [9]
+						}, -- [6]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678024,
 							["arg1"] = "Ye won't soon be forgettin' that taste.",
-						}, -- [10]
+						}, -- [7]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678031,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [11]
+						}, -- [8]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678035,
 							["arg1"] = "Well, looks like someone still ain't got their sea legs!",
-						}, -- [12]
+						}, -- [9]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678042,
 							["arg1"] = "I'll scuttle yer hides!",
-						}, -- [13]
+						}, -- [10]
 						{
 							["arg2"] = "Skycap'n Kragg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678068,
 							["arg1"] = "Guess I... be off... ta the locker...",
-						}, -- [14]
+						}, -- [11]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678125,
 							["arg1"] = "Ahoy! You lot got the look o' proper cutthroats. Not like the usual scum that passes for pirates 'round here.",
-						}, -- [15]
+						}, -- [12]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678134,
 							["arg1"] = "If you're itchin' to make some mayhem, you'll need a meeting with the Council of Captains. I can help with that.",
-						}, -- [16]
+						}, -- [13]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678142,
 							["arg1"] = "But first, I got a problem. This here lock ain't cooperatin' with my attempts to pick it. That mangy dog's got the key, but he's a slippery one.",
-						}, -- [17]
+						}, -- [14]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678154,
 							["arg1"] = "So... you scratch my back, I return the favor. Got me?",
-						}, -- [18]
+						}, -- [15]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_WHISPER",
 							["time"] = 1559678173,
 							["arg1"] = "Oho... a priest! If ya ever consider a change of faith, be sure you let old Bwonsamdi know, you hear?",
-						}, -- [19]
+						}, -- [16]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678317,
 							["arg1"] = "Ya did it! I knew my pooch would help out. Man's best friend, that one.",
-						}, -- [20]
+						}, -- [17]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [21]
+						}, -- [18]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678324,
 							["arg1"] = "As promised, here's some official Cutwater Corsair regalia. Now you'll look like respectable criminals.",
-						}, -- [22]
+						}, -- [19]
 						{
 							["arg2"] = "Otis",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678334,
 							["arg1"] = "A pleasure doin' business with ya. Now if ya don't mind, I'll take my leave before my absence is noticed.",
-						}, -- [23]
+						}, -- [20]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678435,
 							["arg1"] = "Your skulls will be excellent target practice.",
-						}, -- [24]
+						}, -- [21]
 						{
 							["arg2"] = "Captain Jolly",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678439,
 							["arg1"] = "Let's put your steel to the test!",
-						}, -- [25]
+						}, -- [22]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678443,
 							["arg1"] = "Bottoms up, scallywags!",
-						}, -- [26]
+						}, -- [23]
 						{
 							["arg2"] = "Captain Eudora",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678498,
 							["arg1"] = "Nice... shot...",
-						}, -- [27]
+						}, -- [24]
 						{
 							["arg2"] = "Captain Raoul",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678526,
 							["arg1"] = "Was this... last call...?",
-						}, -- [28]
+						}, -- [25]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678598,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [29]
+						}, -- [26]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678740,
 							["arg1"] = "Think you can stand against me, swine? Allow me to educate you.",
-						}, -- [30]
+						}, -- [27]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678761,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [31]
+						}, -- [28]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678773,
 							["arg1"] = "All hands on deck!",
-						}, -- [32]
+						}, -- [29]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678779,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [33]
+						}, -- [30]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678801,
 							["arg1"] = "Cannons! Blast these scurvy dogs to bits!",
-						}, -- [34]
+						}, -- [31]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678813,
 							["arg1"] = "All hands on deck!",
-						}, -- [35]
+						}, -- [32]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678841,
 							["arg1"] = "Men! Acquaint these scallywags with our heavy guns.",
-						}, -- [36]
+						}, -- [33]
 						{
 							["arg2"] = "Harlan Sweete",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678844,
 							["arg1"] = "Inconceivable...",
-						}, -- [37]
+						}, -- [34]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678917,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [38]
+						}, -- [35]
 						{
 							["arg2"] = "Davey \"Two Eyes\"",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559678981,
 							["arg1"] = "Gather 'round and place yer bets! We got a new set of vict-- uh... competitors! Take it away, Gurgthock and Wodin!",
-						}, -- [39]
+						}, -- [36]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679059,
 							["arg1"] = "Who among you is devoted?",
 							["clColor"] = "fff38bb9",
-						}, -- [40]
+						}, -- [37]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679067,
 							["arg1"] = "I am Nazgrim, fist of the Warchief and General of the Horde Army. If I must die today, I will die with honor, in battle, for the horde!",
 							["clColor"] = "ffc59a6c",
-						}, -- [41]
+						}, -- [38]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679071,
 							["arg1"] = "Rally the forces!",
 							["clColor"] = "ffc59a6c",
-						}, -- [42]
+						}, -- [39]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679142,
 							["arg1"] = "Ah, the entertainment has arrived!",
 							["clColor"] = "ff006fdc",
-						}, -- [43]
+						}, -- [40]
 						{
 							["arg2"] = "Kockata",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679152,
 							["arg1"] = "Such strength... it must be mine!",
 							["clColor"] = "ff006fdc",
-						}, -- [44]
+						}, -- [41]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679160,
 							["arg1"] = "Yogg-Saron! Grant me your power!",
 							["clColor"] = "fff38bb9",
-						}, -- [45]
+						}, -- [42]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679192,
 							["arg1"] = "Warriors, on the double!",
 							["clColor"] = "ffc59a6c",
-						}, -- [46]
+						}, -- [43]
 						{
 							["arg2"] = "Этшуб",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679279,
 							["arg1"] = "You should have trained harder.",
 							["clColor"] = "ffc59a6c",
-						}, -- [47]
+						}, -- [44]
 						{
 							["arg2"] = "Yes",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679286,
 							["arg1"] = "Master, a gift for you!",
 							["clColor"] = "fff38bb9",
-						}, -- [48]
+						}, -- [45]
 						{
 							["arg2"] = "Bwonsamdi",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1559679300,
 							["arg1"] = "Rise, fallen ones!",
-						}, -- [49]
+						}, -- [46]
 						{
 							["arg1"] = " ",
-						}, -- [50]
+						}, -- [47]
 						{
 							["arg1"] = " ",
-						}, -- [51]
+						}, -- [48]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 							["type"] = "SYSTEM",
-						}, -- [52]
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [49]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929356,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [53]
+						}, -- [50]
 						{
 							["arg2"] = "Headless Horseman",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1571929377,
 							["arg1"] = "Here's my body, fit and pure!  Now, your blackened souls I'll cure!",
-						}, -- [54]
+						}, -- [51]
 						{
 							["arg1"] = " ",
-						}, -- [55]
+						}, -- [52]
 						{
 							["arg1"] = " ",
-						}, -- [56]
+						}, -- [53]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
-						}, -- [57]
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [54]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639050,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [58]
+						}, -- [55]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639063,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [59]
+						}, -- [56]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639071,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [60]
+						}, -- [57]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639097,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [61]
+						}, -- [58]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639102,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [62]
+						}, -- [59]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639110,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [63]
+						}, -- [60]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639114,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [64]
+						}, -- [61]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639122,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [65]
+						}, -- [62]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639153,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [66]
+						}, -- [63]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639163,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [67]
+						}, -- [64]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639190,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [68]
+						}, -- [65]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639219,
 							["arg1"] = "I delight in the irony.",
-						}, -- [69]
+						}, -- [66]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639227,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [70]
+						}, -- [67]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639247,
 							["arg1"] = "Impossible...",
-						}, -- [71]
+						}, -- [68]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1574639254,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [72]
+						}, -- [69]
 						{
 							["arg1"] = " ",
-						}, -- [73]
+						}, -- [70]
 						{
 							["arg1"] = " ",
-						}, -- [74]
+						}, -- [71]
 						{
-							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
 							["type"] = "SYSTEM",
-						}, -- [75]
+							["arg1"] = "Logging started on 12/09/2019 at 17:30:24.",
+						}, -- [72]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909252,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [76]
+						}, -- [73]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909264,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [77]
+						}, -- [74]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909273,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [78]
+						}, -- [75]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909299,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [79]
+						}, -- [76]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909304,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [80]
+						}, -- [77]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909321,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [81]
+						}, -- [78]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909325,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [82]
+						}, -- [79]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909333,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [83]
+						}, -- [80]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909364,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [84]
+						}, -- [81]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909374,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [85]
+						}, -- [82]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909401,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [86]
+						}, -- [83]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909430,
 							["arg1"] = "I delight in the irony.",
-						}, -- [87]
+						}, -- [84]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909439,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [88]
+						}, -- [85]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909459,
 							["arg1"] = "Impossible...",
-						}, -- [89]
+						}, -- [86]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1575909467,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [90]
+						}, -- [87]
 						{
 							["arg1"] = " ",
-						}, -- [91]
+						}, -- [88]
 						{
 							["arg1"] = " ",
-						}, -- [92]
+						}, -- [89]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
-						}, -- [93]
+							["type"] = "SYSTEM",
+						}, -- [90]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642356,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [94]
+						}, -- [91]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642368,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [95]
+						}, -- [92]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642377,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [96]
+						}, -- [93]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642403,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [97]
+						}, -- [94]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642407,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [98]
+						}, -- [95]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642497,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [99]
+						}, -- [96]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642510,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [100]
+						}, -- [97]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642518,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [101]
+						}, -- [98]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642544,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [102]
+						}, -- [99]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642549,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [103]
+						}, -- [100]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642568,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [104]
+						}, -- [101]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642573,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [105]
+						}, -- [102]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642580,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [106]
+						}, -- [103]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642612,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [107]
+						}, -- [104]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642621,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [108]
+						}, -- [105]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642648,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [109]
+						}, -- [106]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642677,
 							["arg1"] = "I delight in the irony.",
-						}, -- [110]
+						}, -- [107]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642685,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [111]
+						}, -- [108]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642705,
 							["arg1"] = "Impossible...",
-						}, -- [112]
+						}, -- [109]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588642713,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [113]
+						}, -- [110]
 						{
 							["arg1"] = " ",
-						}, -- [114]
+						}, -- [111]
 						{
 							["arg1"] = " ",
-						}, -- [115]
+						}, -- [112]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
-						}, -- [116]
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
+						}, -- [113]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787975,
 							["arg1"] = "Algalon the Observer, herald of the titans, has been defeated by our brave comrades in the depths of the titan city of Ulduar.",
-						}, -- [117]
+						}, -- [114]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787983,
 							["arg1"] = "Algalon was sent here to judge the fate of our world.",
-						}, -- [118]
+						}, -- [115]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787989,
 							["arg1"] = "He found a planet whose races had deviated from the titans' blueprints. A planet where not everything had gone according to plan.",
-						}, -- [119]
+						}, -- [116]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588787998,
 							["arg1"] = "Cold logic deemed our world not worth saving. Cold logic, however, does not account for the power of free will. It's up to each of us to prove this is a world worth saving.",
-						}, -- [120]
+						}, -- [117]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788113,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [121]
+						}, -- [118]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788125,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [122]
+						}, -- [119]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788134,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [123]
+						}, -- [120]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788160,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [124]
+						}, -- [121]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788165,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [125]
+						}, -- [122]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788246,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [126]
+						}, -- [123]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788259,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [127]
+						}, -- [124]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788268,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [128]
+						}, -- [125]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788294,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [129]
+						}, -- [126]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788298,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [130]
+						}, -- [127]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788319,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [131]
+						}, -- [128]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788374,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [132]
+						}, -- [129]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788387,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [133]
+						}, -- [130]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788396,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [134]
+						}, -- [131]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788421,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [135]
+						}, -- [132]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788426,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [136]
+						}, -- [133]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788444,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [137]
+						}, -- [134]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788453,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [138]
+						}, -- [135]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788485,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [139]
+						}, -- [136]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788496,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [140]
+						}, -- [137]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788522,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [141]
+						}, -- [138]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788550,
 							["arg1"] = "I delight in the irony.",
-						}, -- [142]
+						}, -- [139]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788557,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [143]
+						}, -- [140]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788578,
 							["arg1"] = "Impossible...",
-						}, -- [144]
+						}, -- [141]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1588788586,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [145]
+						}, -- [142]
 						{
 							["arg1"] = " ",
-						}, -- [146]
+						}, -- [143]
 						{
 							["arg1"] = " ",
-						}, -- [147]
+						}, -- [144]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
-						}, -- [148]
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
+						}, -- [145]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463703,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [149]
+						}, -- [146]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463715,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [150]
+						}, -- [147]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463724,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [151]
+						}, -- [148]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463750,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [152]
+						}, -- [149]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463755,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [153]
+						}, -- [150]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463774,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [154]
+						}, -- [151]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463779,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [155]
+						}, -- [152]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463786,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [156]
+						}, -- [153]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463818,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [157]
+						}, -- [154]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463828,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [158]
+						}, -- [155]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463855,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [159]
+						}, -- [156]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463884,
 							["arg1"] = "I delight in the irony.",
-						}, -- [160]
+						}, -- [157]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463891,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [161]
+						}, -- [158]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463912,
 							["arg1"] = "Impossible...",
-						}, -- [162]
+						}, -- [159]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1589463919,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [163]
+						}, -- [160]
 						{
 							["arg1"] = " ",
-						}, -- [164]
+						}, -- [161]
 						{
 							["arg1"] = " ",
-						}, -- [165]
+						}, -- [162]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
-						}, -- [166]
+							["type"] = "SYSTEM",
+						}, -- [163]
 						{
 							["arg2"] = "Rhonin",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538508,
 							["arg1"] = "Citizens of Dalaran! Raise your eyes to the skies and observe!",
-						}, -- [167]
+						}, -- [164]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538636,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [168]
+						}, -- [165]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538648,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [169]
+						}, -- [166]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538657,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [170]
+						}, -- [167]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538683,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [171]
+						}, -- [168]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538688,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [172]
+						}, -- [169]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538708,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [173]
+						}, -- [170]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538772,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [174]
+						}, -- [171]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538785,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [175]
+						}, -- [172]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538794,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [176]
+						}, -- [173]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538821,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [177]
+						}, -- [174]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538826,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [178]
+						}, -- [175]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538839,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [179]
+						}, -- [176]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538844,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [180]
+						}, -- [177]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538850,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [181]
+						}, -- [178]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538881,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [182]
+						}, -- [179]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538890,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [183]
+						}, -- [180]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538917,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [184]
+						}, -- [181]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538945,
 							["arg1"] = "I delight in the irony.",
-						}, -- [185]
+						}, -- [182]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538953,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [186]
+						}, -- [183]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538973,
 							["arg1"] = "Impossible...",
-						}, -- [187]
+						}, -- [184]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1590538979,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
-						}, -- [188]
+						}, -- [185]
 						{
 							["arg1"] = " ",
-						}, -- [189]
+						}, -- [186]
 						{
 							["arg1"] = " ",
-						}, -- [190]
+						}, -- [187]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
-						}, -- [191]
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
+						}, -- [188]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1593121464,
 							["arg1"] = "The battle begins in 2 minutes!",
-						}, -- [192]
+						}, -- [189]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1593121523,
 							["arg1"] = "The battle begins in 1 minute!",
-						}, -- [193]
+						}, -- [190]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1593121553,
 							["arg1"] = "The battle begins in 30 seconds!",
-						}, -- [194]
+						}, -- [191]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1593121583,
 							["arg1"] = "The battle has begun!",
-						}, -- [195]
+						}, -- [192]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121595,
 							["arg1"] = "Killzóne-Blackrock has taken the |cFF01DF01Green|r orb!",
-						}, -- [196]
+						}, -- [193]
 						{
 							["type"] = "BG_SYSTEM_ALLIANCE",
 							["time"] = 1593121595,
 							["arg1"] = "Térrible-Blackmoore has taken the |cFFFF8000Orange|r orb!",
-						}, -- [197]
+						}, -- [194]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121596,
 							["arg1"] = "Majishann-Blackmoore has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [198]
+						}, -- [195]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121606,
 							["arg1"] = "Grosh-Onyxia has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [199]
+						}, -- [196]
 						{
 							["type"] = "BG_SYSTEM_ALLIANCE",
 							["time"] = 1593121617,
 							["arg1"] = "Pagrin-Blackmoore has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [200]
+						}, -- [197]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121635,
 							["arg1"] = "Grylls-Khaz'goroth has taken the |cFFFF8000Orange|r orb!",
-						}, -- [201]
+						}, -- [198]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121655,
 							["arg1"] = "Grosh-Onyxia has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [202]
+						}, -- [199]
 						{
 							["type"] = "BG_SYSTEM_ALLIANCE",
 							["time"] = 1593121656,
 							["arg1"] = "Hubashi-Antonidas has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [203]
+						}, -- [200]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121700,
 							["arg1"] = "Xezrael-Blackhand has taken the |cFF01DF01Green|r orb!",
-						}, -- [204]
+						}, -- [201]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121705,
 							["arg1"] = "Cyraline-Alleria has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [205]
+						}, -- [202]
 						{
 							["type"] = "BG_SYSTEM_ALLIANCE",
 							["time"] = 1593121752,
 							["arg1"] = "Térrible-Blackmoore has taken the |cFF01DF01Green|r orb!",
-						}, -- [206]
+						}, -- [203]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121757,
 							["arg1"] = "Grylls-Khaz'goroth has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [207]
+						}, -- [204]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121757,
 							["arg1"] = "Grosh-Onyxia has taken the |cFFFF8000Orange|r orb!",
-						}, -- [208]
+						}, -- [205]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121760,
 							["arg1"] = "Killzóne-Blackrock has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [209]
+						}, -- [206]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121783,
 							["arg1"] = "Setrax-Frostwolf has taken the |cFF01DF01Green|r orb!",
-						}, -- [210]
+						}, -- [207]
 						{
 							["type"] = "BG_SYSTEM_ALLIANCE",
 							["time"] = 1593121809,
 							["arg1"] = "Cherybaby-Blackmoore has taken the |cFFFF8000Orange|r orb!",
-						}, -- [211]
+						}, -- [208]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121820,
 							["arg1"] = "Cyraline-Alleria has taken the |cFF01DF01Green|r orb!",
-						}, -- [212]
+						}, -- [209]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121827,
 							["arg1"] = "Xezrael-Blackhand has taken the |cFFFF8000Orange|r orb!",
-						}, -- [213]
+						}, -- [210]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121836,
 							["arg1"] = "Setrax-Frostwolf has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [214]
+						}, -- [211]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121837,
 							["arg1"] = "Grosh-Onyxia has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [215]
+						}, -- [212]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121844,
 							["arg1"] = "Killzóne-Blackrock has taken the |cFFFF8000Orange|r orb!",
-						}, -- [216]
+						}, -- [213]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121849,
 							["arg1"] = "Yungtravis-Thrall has taken the |cFF01DF01Green|r orb!",
-						}, -- [217]
+						}, -- [214]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121869,
 							["arg1"] = "Cyraline-Alleria has taken the |cFFBF00FFPurple|r orb!",
-						}, -- [218]
+						}, -- [215]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121911,
 							["arg1"] = "Grosh-Onyxia has taken the |cFF01DFD7Blue|r orb!",
-						}, -- [219]
+						}, -- [216]
 						{
 							["type"] = "BG_SYSTEM_HORDE",
 							["time"] = 1593121922,
 							["arg1"] = "Setrax-Frostwolf has taken the |cFFFF8000Orange|r orb!",
-						}, -- [220]
+						}, -- [217]
 						{
 							["type"] = "BG_SYSTEM_NEUTRAL",
 							["time"] = 1593121958,
 							["arg1"] = "The Horde wins!",
-						}, -- [221]
+						}, -- [218]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122022,
 							["arg1"] = "The essence... belongs to the earth.",
-						}, -- [222]
+						}, -- [219]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122141,
 							["arg1"] = "The earth rages against you. How can you protect it?",
-						}, -- [223]
+						}, -- [220]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122292,
 							["arg1"] = "The earth will break you!",
-						}, -- [224]
+						}, -- [221]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122303,
 							["arg1"] = "The earth will break you!",
-						}, -- [225]
+						}, -- [222]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122325,
 							["arg1"] = "The earth will break you!",
-						}, -- [226]
+						}, -- [223]
 						{
 							["arg2"] = "Ma'haat the Indomitable",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122341,
 							["arg1"] = "Enough... I yield. You... are worthy.",
-						}, -- [227]
+						}, -- [224]
 						{
 							["arg2"] = "Navarrogg",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122363,
 							["arg1"] = "Up here! I have prepared an exit for you.",
-						}, -- [228]
+						}, -- [225]
 						{
 							["arg1"] = " ",
-						}, -- [229]
+						}, -- [226]
 						{
 							["arg1"] = " ",
-						}, -- [230]
+						}, -- [227]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [231]
+							["type"] = "SYSTEM",
+						}, -- [228]
 						{
 							["arg2"] = "Stanley",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1593122965,
 							["arg1"] = "Excelsior!",
-						}, -- [232]
+						}, -- [229]
 						{
 							["arg1"] = " ",
-						}, -- [233]
+						}, -- [230]
 						{
 							["arg1"] = " ",
-						}, -- [234]
+						}, -- [231]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
-						}, -- [235]
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [232]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118579,
 							["arg1"] = "So the Light's vaunted justice has finally arrived? Shall I lay down Frostmourne and throw myself at your mercy, Fordring?",
-						}, -- [236]
+						}, -- [233]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118591,
 							["arg1"] = "We'll grant you a swift death, Arthas. More than can be said for the thousands you've tortured and slain.",
-						}, -- [237]
+						}, -- [234]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118600,
 							["arg1"] = "You'll learn of that first hand. When my work is complete, you will beg for mercy -- and I will deny you. Your anguished cries will be testament to my unbridled power...",
-						}, -- [238]
+						}, -- [235]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118626,
 							["arg1"] = "So be it. Champions, attack!",
-						}, -- [239]
+						}, -- [236]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118631,
 							["arg1"] = "I'll keep you alive to witness the end, Fordring. I would not want the Light's greatest champion to miss seeing this wretched world remade in my image.",
-						}, -- [240]
+						}, -- [237]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118644,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [241]
+						}, -- [238]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118649,
 							["arg1"] = "I will freeze you from within until all that remains is an icy husk.",
-						}, -- [242]
+						}, -- [239]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118656,
 							["arg1"] = "No questions remain unanswered. No doubts linger. You ARE Azeroth's greatest champions. You overcame every challenge I laid before you. My mightiest servants have fallen before your relentless onslaught... your unbridled fury... ",
-						}, -- [243]
+						}, -- [240]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118688,
 							["arg1"] = "Is it truly righteousness that drives you? I wonder...",
-						}, -- [244]
+						}, -- [241]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118698,
 							["arg1"] = "You trained them well, Fordring. You delivered the greatest fighting force this world has ever known... right into my hands - exactly as I intended! You shall be rewarded for your unwitting sacrifice.",
-						}, -- [245]
+						}, -- [242]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118725,
 							["arg1"] = "Watch now as I raise them from the dead to become masters of the Scourge. They will shroud this world in chaos and destruction. Azeroth's fall will come at their hands -- and you will be the first to die.",
-						}, -- [246]
+						}, -- [243]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118754,
 							["arg1"] = "I delight in the irony.",
-						}, -- [247]
+						}, -- [244]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118761,
 							["arg1"] = "LIGHT GRANT ME ONE FINAL BLESSING! GIVE ME THE STRENGTH... TO SHATTER THESE BONDS!",
-						}, -- [248]
+						}, -- [245]
 						{
 							["arg2"] = "The Lich King",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118782,
 							["arg1"] = "Impossible...",
-						}, -- [249]
+						}, -- [246]
 						{
 							["arg2"] = "Highlord Tirion Fordring",
 							["type"] = "MONSTER_YELL",
 							["time"] = 1598118789,
 							["arg1"] = "No more, Arthas! No more lives will be consumed by your hatred!",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = " ",
+						}, -- [249]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
 						}, -- [250]
 					},
 				}, -- [11]
@@ -13286,7 +13244,7 @@ ElephantDBPerChar = {
 					["name"] = "World defense",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -13296,1032 +13254,1021 @@ ElephantDBPerChar = {
 					["name"] = "Guild recruitment",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
 				},
 				["general"] = {
 					["enabled"] = true,
-					["hasMessage"] = true,
+					["hasMessage"] = false,
 					["name"] = "General",
 					["logs"] = {
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1558556978,
-							["arg1"] = "Uria ja weil wir dich haben",
-							["arg9"] = "General - Drustvar",
-							["arg2"] = "Mòllý-Blackmoore",
-						}, -- [1]
-						{
-							["clColor"] = "ffc59a6c",
-							["time"] = 1558556993,
-							["arg1"] = "solchen toxischen spielern  wie Uria würde mal selbst mit 40 alis zu 5 hordies nicht gewinnen ",
-							["arg9"] = "General - Drustvar",
-							["arg2"] = "Mirabar-Blackmoore",
-						}, -- [2]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1558557002,
-							["arg1"] = "viele fangen auf stufe 120 das erste mal an im pvp zu spielen. man sollte eher dann helfen und ansagen machen statt sich hier groß aufzuspielen.",
-							["arg9"] = "General - Drustvar",
-							["arg2"] = "Perey-DunMorogh",
-						}, -- [3]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1558557004,
 							["arg1"] = "leckt eier und geht schlafen",
 							["arg9"] = "General - Drustvar",
 							["arg2"] = "Savagedud-Norgannon",
+						}, -- [1]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [2]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [3]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [4]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [5]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [6]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [7]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [8]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [9]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [10]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [11]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [12]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [13]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [14]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [15]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
 						}, -- [16]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [17]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [18]
 						{
-							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [19]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [20]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [21]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [22]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [23]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [24]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/25/2019 at 20:52:19.",
 							["type"] = "SYSTEM",
 						}, -- [25]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [26]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [27]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/25/2019 at 20:52:19.",
 						}, -- [28]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [29]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [30]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [31]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [32]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [33]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [34]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [35]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [36]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [37]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [38]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [39]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [40]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 						}, -- [41]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [42]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [43]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [44]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [45]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [46]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [47]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
 						}, -- [48]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [49]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [50]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [51]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [52]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/27/2019 at 20:38:58.",
 							["type"] = "SYSTEM",
 						}, -- [53]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [54]
 						{
 							["arg1"] = " ",
 						}, -- [55]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/27/2019 at 20:38:58.",
+							["arg1"] = " ",
 						}, -- [56]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 						}, -- [57]
 						{
-							["arg1"] = " ",
-						}, -- [58]
-						{
-							["arg1"] = " ",
-						}, -- [59]
-						{
-							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 							["type"] = "SYSTEM",
-						}, -- [60]
-						{
 							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [61]
+						}, -- [58]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1558985849,
 							["arg1"] = "Ihr habt doch alle kein niwo",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Tzoona-Blackmoore",
-						}, -- [62]
+						}, -- [59]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1558988312,
 							["arg1"] = "Wiso heisst den dass Pfert vom Lichtking eigentlich Invisible wenn es garnicht unsichdbar ist?",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Tzoona-Blackmoore",
-						}, -- [63]
+						}, -- [60]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1558988328,
 							["arg1"] = "Wizo*",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Durín-Blackmoore",
-						}, -- [64]
+						}, -- [61]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1558988342,
 							["arg1"] = "heizt*",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Kaldaric-Blackmoore",
-						}, -- [65]
+						}, -- [62]
 						{
 							["clColor"] = "fffef367",
 							["time"] = 1558988370,
 							["arg1"] = "gute arbeit rezo",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Lovemehateme-Blackmoore",
-						}, -- [66]
+						}, -- [63]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1558988383,
 							["arg1"] = "gesundheit",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Durín-Blackmoore",
-						}, -- [67]
+						}, -- [64]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1558988387,
 							["arg1"] = "My mom says i am special.",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Priestæx-Blackmoore",
-						}, -- [68]
+						}, -- [65]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1558988425,
 							["arg1"] = "was ist grün und fliegt durch polen ?",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Tzoona-Blackmoore",
-						}, -- [69]
+						}, -- [66]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1558988429,
 							["arg1"] = "peter panski",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Tzoona-Blackmoore",
-						}, -- [70]
+						}, -- [67]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1558988442,
 							["arg1"] = "von azeroth aktuell?",
 							["arg9"] = "General - Battle of Dazar'alor",
 							["arg2"] = "Durín-Blackmoore",
+						}, -- [68]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [69]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [70]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [71]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [72]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [73]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [74]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [75]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [76]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [77]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [78]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [79]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [80]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [81]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [82]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [83]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [84]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [85]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [86]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [87]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [88]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [89]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [90]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [91]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [92]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
 							["type"] = "SYSTEM",
 						}, -- [93]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [94]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [95]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
 						}, -- [96]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [97]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [98]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [99]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [100]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559129704,
 							["arg1"] = "wo findet man hordler hier?",
 							["arg9"] = "General - Drustvar",
 							["arg2"] = "Rien-Aman'thul",
-						}, -- [101]
+						}, -- [98]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1559129979,
 							["arg1"] = "einen findest du garantiert bei 26,60 weil ich da gerade queste :)",
 							["arg9"] = "General - Drustvar",
 							["arg2"] = "Naemi-Garrosh",
+						}, -- [99]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [100]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [101]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [102]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [103]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [104]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [105]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 						}, -- [106]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [107]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [108]
 						{
-							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [109]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [110]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [111]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [112]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
 							["type"] = "SYSTEM",
 						}, -- [113]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [114]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [115]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
+							["arg1"] = " ",
 						}, -- [116]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [117]
 						{
+							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
 						}, -- [118]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [119]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [120]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
 						}, -- [121]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [122]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [123]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [124]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [125]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [126]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [127]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [128]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 						}, -- [129]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [130]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [131]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [132]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [133]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [134]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [135]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
 							["type"] = "SYSTEM",
 						}, -- [136]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [137]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [138]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
 						}, -- [139]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [140]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [141]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 						}, -- [142]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [143]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [144]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [145]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [146]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 10/31/2019 at 21:15:17.",
 							["type"] = "SYSTEM",
 						}, -- [147]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [148]
 						{
 							["arg1"] = " ",
 						}, -- [149]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/31/2019 at 21:15:17.",
+							["arg1"] = " ",
 						}, -- [150]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 						}, -- [151]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [152]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [153]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [154]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [155]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [156]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [157]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [158]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
 							["type"] = "SYSTEM",
 						}, -- [159]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [160]
 						{
 							["arg1"] = " ",
 						}, -- [161]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
+							["arg1"] = " ",
 						}, -- [162]
 						{
+							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
 						}, -- [163]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [164]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [165]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
 						}, -- [166]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [167]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [168]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [169]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 						}, -- [170]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [171]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [172]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [173]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [174]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [175]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [176]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [177]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [178]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 						}, -- [179]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [180]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [181]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [182]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [183]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [184]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [185]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [186]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [187]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [188]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
 							["type"] = "SYSTEM",
 						}, -- [189]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [190]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [191]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
 						}, -- [192]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [193]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [194]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [195]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [196]
 						{
+							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
 						}, -- [197]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [198]
 						{
 							["arg1"] = " ",
 						}, -- [199]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["arg1"] = " ",
 						}, -- [200]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [201]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [202]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [203]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [204]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [205]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [206]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [207]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [208]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [209]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [210]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [211]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [212]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [213]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [214]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [215]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [216]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [217]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [218]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [219]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [220]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [221]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [222]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [223]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [224]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
 							["type"] = "SYSTEM",
 						}, -- [225]
 						{
-							["arg1"] = " ",
-						}, -- [226]
-						{
-							["arg1"] = " ",
-						}, -- [227]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [228]
-						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
-						}, -- [229]
+							["type"] = "SYSTEM",
+						}, -- [226]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1593122939,
 							["arg1"] = "HORDE FLIEGT LOS",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Arbeitsamtlg-Blackmoore",
-						}, -- [230]
+						}, -- [227]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1593122942,
 							["arg1"] = "SIND GLEICH IN SW",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Arbeitsamtlg-Blackmoore",
-						}, -- [231]
+						}, -- [228]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1593122950,
 							["arg1"] = "NA UND",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Mèrts-Anetheron",
-						}, -- [232]
+						}, -- [229]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1593122970,
 							["arg1"] = "dann deck ich schonmal den tisch",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Mondosharin-Arthas",
-						}, -- [233]
+						}, -- [230]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1593122983,
 							["arg1"] = "der is  24/7 gedeckt :'D",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Heiinz-Blackmoore",
-						}, -- [234]
+						}, -- [231]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1593123014,
 							["arg1"] = "fiedler gang kommt nach sw",
 							["arg9"] = "General - Stormwind City",
 							["arg2"] = "Nutblaster-Blackmoore",
+						}, -- [232]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [233]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [234]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [235]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [236]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [237]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [238]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 						}, -- [239]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [240]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [241]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [242]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [243]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [244]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [245]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [246]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [247]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [248]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
@@ -14333,2070 +14280,932 @@ ElephantDBPerChar = {
 					["logs"] = {
 						{
 							["clColor"] = "fffefefe",
-							["time"] = 1559482601,
-							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [1]
-						{
-							["clColor"] = "ffc59a6c",
-							["time"] = 1559482650,
-							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Korowix-Blackmoore",
-						}, -- [2]
-						{
-							["clColor"] = "ffc59a6c",
-							["time"] = 1559482723,
-							["arg1"] = "VK +10 bis +20 mit Intime Gold zurück Garantie, Rüstungsstack sowie spezifische Dungeons. Wir akzeptieren nur Gold auf allen Allianz Servern /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Wadln-Blackmoore",
-						}, -- [3]
-						{
-							["clColor"] = "ff8686ec",
-							["time"] = 1559482735,
-							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Spellb-Blackmoore",
-						}, -- [4]
-						{
-							["clColor"] = "fffefefe",
 							["time"] = 1559482781,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [5]
+						}, -- [1]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559482818,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [6]
+						}, -- [2]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559482881,
 							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Padisonfire-Blackmoore",
-						}, -- [7]
+						}, -- [3]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559482903,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [8]
+						}, -- [4]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559482935,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [9]
+						}, -- [5]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559482951,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [10]
+						}, -- [6]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559482961,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [11]
+						}, -- [7]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559482996,
 							["arg1"] = "|cffa335ee|Hitem:164733::::::::120:257::13:1:3524:::|h[Synchronfaden]|h|r ist jemand so nett und sagt mir was der bringt ?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Abèl-Blackmoore",
-						}, -- [12]
+						}, -- [8]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483034,
 							["arg1"] = "<ismirwichtig> 9/9 Mythic sucht gute Spieler aller Klassen, pref. Heals. Raidtage: Mi/Do/Mo 20-23 Uhr, /w me!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Buszyywl-Blackmoore",
-						}, -- [13]
+						}, -- [9]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1559483040,
 							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Himynamespad-Blackmoore",
-						}, -- [14]
+						}, -- [10]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483050,
 							["arg1"] = "<Loot FTW>(9/9M) verkauft HEUTE BoD HC (20:00) und CoS HC (22:00) gegen Gold! Wir bieten auserdem Item Reservierung und Uu‘nat only an. Booster haben keine ID. Nur gegen Gold auf jedem Realm. /w me für infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Wadln-Blackmoore",
-						}, -- [15]
+						}, -- [11]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483053,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [16]
+						}, -- [12]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483058,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [17]
+						}, -- [13]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483135,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [18]
+						}, -- [14]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483141,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [19]
+						}, -- [15]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483203,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [20]
+						}, -- [16]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483252,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [21]
+						}, -- [17]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559483294,
 							["arg1"] = "Wir die Nachtraidgilde DieHalunken suchen noch kräftige Mitstreiter. Wir sind eine familiäre Gilde, die RL als höchstes Gebot hat. Wir raiden Fr und Sa von 23:00 bis 02:00 wenn ihr Interesse habt /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Minã-Blackmoore",
-						}, -- [22]
+						}, -- [18]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483299,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [23]
+						}, -- [19]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483321,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [24]
+						}, -- [20]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483323,
 							["arg1"] = "VK +10 bis +20 mit Intime Gold zurück Garantie, Rüstungsstack sowie spezifische Dungeons. Wir akzeptieren nur Gold auf allen Allianz Servern /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Wadln-Blackmoore",
-						}, -- [25]
+						}, -- [21]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483335,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [26]
+						}, -- [22]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483353,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [27]
+						}, -- [23]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1559483361,
 							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Himynamespad-Blackmoore",
-						}, -- [28]
+						}, -- [24]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483501,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [29]
+						}, -- [25]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483503,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [30]
+						}, -- [26]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483506,
 							["arg1"] = "<Loot FTW>(9/9M) verkauft HEUTE BoD HC (20:00) und CoS HC (22:00) gegen Gold! Wir bieten auserdem Item Reservierung und Uu‘nat only an. Booster haben keine ID. Nur gegen Gold auf jedem Realm. /w me für infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Wadln-Blackmoore",
-						}, -- [31]
+						}, -- [27]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483535,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [32]
+						}, -- [28]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483539,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [33]
+						}, -- [29]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483553,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [34]
+						}, -- [30]
 						{
 							["clColor"] = "ffa9d271",
 							["time"] = 1559483603,
 							["arg1"] = "+? sollte ich mit einem 373 gs machen?",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Rudibert-Blackmoore",
-						}, -- [35]
+						}, -- [31]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483653,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [36]
+						}, -- [32]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1559483665,
 							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Himynamespad-Blackmoore",
-						}, -- [37]
+						}, -- [33]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483681,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [38]
+						}, -- [34]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1559483709,
 							["arg1"] = "<Momentum> sucht aktive und zuverlässige Spieler ab 400+ für den aktuellen Raidcontent (BoD 4/9 m, CoS 2/2 hc) und für M+! Raidzeiten: DO+MO 20-23 Uhr! Bei Fragen /w me :-)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Dolenhilien-Blackmoore",
-						}, -- [39]
+						}, -- [35]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483735,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [40]
+						}, -- [36]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483779,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [41]
+						}, -- [37]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483803,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [42]
+						}, -- [38]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559483854,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [43]
+						}, -- [39]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559483861,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [44]
+						}, -- [40]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559483935,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [45]
+						}, -- [41]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559483953,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [46]
+						}, -- [42]
 						{
 							["clColor"] = "fffe7b09",
 							["time"] = 1559483961,
 							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Himynamespad-Blackmoore",
-						}, -- [47]
+						}, -- [43]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484019,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [48]
+						}, -- [44]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484041,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [49]
+						}, -- [45]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484103,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [50]
+						}, -- [46]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484134,
 							["arg1"] = "\"Tornado Jericho\" sucht derzeit 1 DD (Warlock) als Verstärkung für den Mythic Progress im Main Raid (Raidtage: Mi/Do/So 20:00 - 23:00) . Du fühlst dich angesprochen? Dann melde dich! Stand: 9/9 HC, 9/9M",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Pâdsen-Blackmoore",
-						}, -- [51]
+						}, -- [47]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559484135,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [52]
+						}, -- [48]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559484155,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [53]
+						}, -- [49]
 						{
 							["clColor"] = "fff38bb9",
 							["time"] = 1559484192,
 							["arg1"] = "ist ein vergelter pala da? :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Columba-Blackmoore",
-						}, -- [54]
+						}, -- [50]
 						{
 							["clColor"] = "ff00fe95",
 							["time"] = 1559484218,
 							["arg1"] = "vergällter pala ist da.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Blackmoorela-Blackmoore",
-						}, -- [55]
+						}, -- [51]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484221,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [56]
+						}, -- [52]
 						{
 							["clColor"] = "fff38bb9",
 							["time"] = 1559484252,
 							["arg1"] = "Verkaufe |cff0070dd|Hitem:12777::::::::120:70:::1:3524:::|h[Blazing Rapier]|h|r 4k für transmog!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ariethor-Blackmoore",
-						}, -- [57]
+						}, -- [53]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484253,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [58]
+						}, -- [54]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484259,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [59]
+						}, -- [55]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559484335,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [60]
+						}, -- [56]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484401,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [61]
+						}, -- [57]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484403,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [62]
+						}, -- [58]
 						{
 							["clColor"] = "ff006fdc",
 							["time"] = 1559484405,
 							["arg1"] = "suchen tank mit 10er key",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Vilaluna-Blackmoore",
-						}, -- [63]
+						}, -- [59]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559484411,
 							["arg1"] = "10er -20er Keys? Kein Problem wir bieten euch ebenfalls bestimmte Dungeons UND Rüstungsstacking an und das alles nur  gegen Gold. Am Mittwoch zum ID-Reset gibts ein garantiertes 410er+ Item und 625 Titanresidiuum.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Thoti-Blackmoore",
-						}, -- [64]
+						}, -- [60]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559484456,
 							["arg1"] = "Die GALLYWIX Community || Wir bieten HEUTE wieder Heroic BoD/TdS an! Auch Mythic BoD, Mounts uvm. Außerdem tägl. >MYTHIC+10/15< Keys - Alle Keys garantiert intime. Zusätzl. Armor Stacks oder Wunschkey möglich Bei Fragen einfach /w me. c:",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Korowix-Blackmoore",
-						}, -- [65]
+						}, -- [61]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484499,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [66]
+						}, -- [62]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559484535,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [67]
+						}, -- [63]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484553,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [68]
+						}, -- [64]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484581,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [69]
+						}, -- [65]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484703,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [70]
+						}, -- [66]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559484722,
 							["arg1"] = "10er -20er Keys? Kein Problem wir bieten euch ebenfalls bestimmte Dungeons UND Rüstungsstacking an und das alles nur  gegen Gold. Am Mittwoch zum ID-Reset gibts ein garantiertes 410er+ Item und 625 Titanresidiuum.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Thoti-Blackmoore",
-						}, -- [71]
+						}, -- [67]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559484735,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [72]
+						}, -- [68]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484739,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [73]
+						}, -- [69]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484761,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [74]
+						}, -- [70]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559484853,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [75]
+						}, -- [71]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559484935,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [76]
+						}, -- [72]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484941,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [77]
+						}, -- [73]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484969,
 							["arg1"] = "Holy Priest sucht für heute HC BoD ab Opulenz :D",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Abèl-Blackmoore",
-						}, -- [78]
+						}, -- [74]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559484979,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [79]
+						}, -- [75]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485003,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [80]
+						}, -- [76]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485017,
 							["arg1"] = "vk |cff0070dd|Hitem:13129::::::::20:266:512:53:1:4269:110:::|h[Firemane Leggings]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Banks-Blackmoore",
-						}, -- [81]
+						}, -- [77]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485088,
 							["arg1"] = "Wir die Division Sturmwind sucht noch Mitstreiter die Lust auf eine Fungilde im Aufbau mit angenehmen Klima haben. Ob leveln,Transmogruns oder aktueller Content. Hauptsache es bringt Spaß",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Unholyland-Blackmoore",
-						}, -- [82]
+						}, -- [78]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559485106,
 							["arg1"] = "10er -20er Keys? Kein Problem wir bieten euch ebenfalls bestimmte Dungeons UND Rüstungsstacking an und das alles nur  gegen Gold. Am Mittwoch zum ID-Reset gibts ein garantiertes 410er+ Item und 625 Titanresidiuum.",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Thoti-Blackmoore",
-						}, -- [83]
+						}, -- [79]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485121,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [84]
+						}, -- [80]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485129,
 							["arg1"] = "Wir die Division Sturmwind sucht noch Mitstreiter die Lust auf eine Fungilde im Aufbau mit angenehmen Klima haben. Ob leveln,Transmogruns oder aktueller Content. Hauptsache es bringt Spaß Voicemodul: TS3 Mindestalter 20+",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Unholyland-Blackmoore",
-						}, -- [85]
+						}, -- [81]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485135,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [86]
+						}, -- [82]
 						{
 							["clColor"] = "ff3ec5e9",
 							["time"] = 1559485153,
 							["arg1"] = "looking for pvp partner",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Darksnôw-Blackmoore",
-						}, -- [87]
+						}, -- [83]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485153,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [88]
+						}, -- [84]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485214,
 							["arg1"] = "\"Tornado Jericho\" sucht derzeit 1 DD (Warlock) als Verstärkung für den Mythic Progress im Main Raid (Raidtage: Mi/Do/So 20:00 - 23:00) . Du fühlst dich angesprochen? Dann melde dich! Stand: 9/9 HC, 9/9M",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Pâdsen-Blackmoore",
-						}, -- [89]
+						}, -- [85]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485219,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [90]
+						}, -- [86]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485227,
 							["arg1"] = "Wir die Division Sturmwind suchen noch Mitstreiter die Lust auf eine Fungilde im Aufbau mit angenehmen Klima haben. Ob leveln,Transmogruns oder aktueller Content. Hauptsache es bringt Spaß Voicemodul: TS3",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Unholyland-Blackmoore",
-						}, -- [91]
+						}, -- [87]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485232,
 							["arg1"] = "Vk |cff0070dd|Hitem:13129::::::::20:266:512:53:1:4269:110:::|h[Firemane Leggings]|h|r",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Banks-Blackmoore",
-						}, -- [92]
+						}, -- [88]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485248,
 							["arg1"] = "Die Gilde \"Sic Parvis Magna\" zu Deutsch \"Großes aus kleinen Ursprüngen\" sucht DICH. Du hast Spaß in einer Gemeinschaft, die gerne mit dir zusammen levelt, Dungeons und Mythics bestreitet? Dann Schließe dich uns an!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Abèl-Blackmoore",
-						}, -- [93]
+						}, -- [89]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485301,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [94]
+						}, -- [90]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485303,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [95]
+						}, -- [91]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485335,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [96]
+						}, -- [92]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485356,
 							["arg1"] = "Wir die Division Sturmwind suchen noch Mitstreiter die Lust auf eine Fungilde im Aufbau mit angenehmen Klima haben. Ob leveln,Transmogruns oder aktueller Content. Hauptsache es bringt Spaß Voicemodul: TS3",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Unholyland-Blackmoore",
-						}, -- [97]
+						}, -- [93]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485453,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [98]
+						}, -- [94]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485459,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [99]
+						}, -- [95]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485481,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [100]
+						}, -- [96]
 						{
 							["clColor"] = "fffef367",
 							["time"] = 1559485521,
 							["arg1"] = "LFM |cffa335ee|Hkeystone:158923:247:5:10:5:0:0|h[Schlüsselstein: Das RIESENFLÖZ!! (5)]|h|r twink run",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Geraschel-Blackmoore",
-						}, -- [101]
+						}, -- [97]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485535,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [102]
+						}, -- [98]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485603,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [103]
+						}, -- [99]
 						{
 							["clColor"] = "fff38bb9",
 							["time"] = 1559485615,
 							["arg1"] = "VK Arena Cap für Mounts und 400 Items!!! only voiced für DDS",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Skylerwhíte-Blackmoore",
-						}, -- [104]
+						}, -- [100]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485631,
 							["arg1"] = "Kuafe grünes gear /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Quatschnicht-Blackmoore",
-						}, -- [105]
+						}, -- [101]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485638,
 							["arg1"] = "kaufe*",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Quatschnicht-Blackmoore",
-						}, -- [106]
+						}, -- [102]
 						{
 							["clColor"] = "fff38bb9",
 							["time"] = 1559485650,
 							["arg1"] = "|cff1eff00|Hitem:95373::::::::120:70::::::|h[Mantis-Bernsplitter]|h|r jetzt günstiger im AH",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Ljus-Blackmoore",
-						}, -- [107]
+						}, -- [103]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485651,
 							["arg1"] = "Quatsch nicht",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Soosfief-Blackmoore",
-						}, -- [108]
+						}, -- [104]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485661,
 							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [109]
+						}, -- [105]
 						{
 							["clColor"] = "fff38bb9",
 							["time"] = 1559485670,
 							["arg1"] = "Wer soll nicht quatschen",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Skylerwhíte-Blackmoore",
-						}, -- [110]
+						}, -- [106]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485686,
 							["arg1"] = "ja was laberst du hier rum ? kannste nicht lesen sollst doch die Fre.... halten Soosfief-Blackmoore :)",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Quatschnicht-Blackmoore",
-						}, -- [111]
+						}, -- [107]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559485700,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [112]
+						}, -- [108]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559485705,
 							["arg1"] = "Wir verkaufen die Heldentat/Titel |cffffff00|Hachievement:3316:Player-1403-06EE61D3:1:10:9:14:4294967295:4294967295:4294967295:4294967295|h[Herold der Titanen]|h|r , Für Infos /w me oder im Forum unter \"Herold der Titanen\"",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Wînters-Blackmoore",
-						}, -- [113]
+						}, -- [109]
 						{
 							["clColor"] = "ff8686ec",
 							["time"] = 1559485735,
 							["arg1"] = "<Oblivion Boost Community> Verkauft|cff66bbff|Hjournal:0:1176:16|h[Battle of Dazar'alor]|h|rHC Soontag 17:00|| Mythic + 10-20 Intime! || 110-120 Lvl Boost || Island Cap || Seltene Mounts wie TLPD oder Void talon|| Wir akzeptieren nur Gold!",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Spellb-Blackmoore",
-						}, -- [114]
+						}, -- [110]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559485753,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [115]
+						}, -- [111]
 						{
 							["arg1"] = " ",
-						}, -- [116]
+						}, -- [112]
 						{
 							["arg1"] = " ",
-						}, -- [117]
+						}, -- [113]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
-						}, -- [118]
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
+						}, -- [114]
 						{
 							["clColor"] = "ffc59a6c",
 							["time"] = 1559487341,
 							["arg1"] = "VK +10 bis +20 mit Intime Gold zurück Garantie, Rüstungsstack sowie spezifische Dungeons. Wir akzeptieren nur Gold auf allen Allianz Servern /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Wadln-Blackmoore",
-						}, -- [119]
+						}, -- [115]
 						{
 							["clColor"] = "fffefefe",
 							["time"] = 1559487380,
 							["arg1"] = "Wir verkaufen M+ Keys von +10 bis +20! Garantiert Intime & jeglicher handelbare Loot gehört dir! Rüstungsstack & Keywahl sind ebenso möglich! Wir bieten dir einen schnellen & unkomplizierten Run an. Wir akzeptieren Gold auf jedem Realm /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tumiblack-Blackmoore",
-						}, -- [120]
+						}, -- [116]
 						{
 							["clColor"] = "ffa22fc8",
 							["time"] = 1559487403,
 							["arg1"] = "<Oblivion> Verkauft Uu'Nat HC |cffffff00|Hachievement:13418:Player-3687-0922C1B4:1:4:17:19:4294967295:4294967295:4294967295:4294967295|h[Ahead of the Curve: Uu'nat, Harbinger of the Void]|h|r alle 20-30 Minuten **125k ** /w me",
 							["arg9"] = "Trade - City",
 							["arg2"] = "Tranzplant-Blackmoore",
-						}, -- [121]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [122]
-						{
-							["clColor"] = "ffc59a6c",
-							["time"] = 1559488164,
-							["arg1"] = "Mein Herz hat jetzt 'ne Stufe von 50? Geht's denn noch höher?",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tychio-Blackmoore",
-						}, -- [123]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1559488180,
-							["arg1"] = "Nö",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Urlu-Blackmoore",
-						}, -- [124]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1559488182,
-							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Phenoxe-Blackmoore",
-						}, -- [125]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [126]
-						{
-							["arg1"] = " ",
-						}, -- [127]
-						{
-							["arg1"] = " ",
-						}, -- [128]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
-						}, -- [129]
-						{
-							["clColor"] = "ffa22fc8",
-							["time"] = 1559677305,
-							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Rusfarmer-Blackmoore",
-						}, -- [130]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1559677333,
-							["arg1"] = "Ihr liebt PvP, aber habt es satt im random BG ständig zu verlieren, weil die Kämpfe total unkoordiniert ablaufen? Dann werde ein Teil von der neuen aufstrebenden PvP Gilde <DarkKnights> und hilf uns beim Aufbau!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Yumeno-Blackmoore",
-						}, -- [131]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1559677342,
-							["arg1"] = "[30% OFF] WTS Mythic+ Keys - Pro Team! Doing keys up to +15 in time! Get your 400/410+ ilvl loot. Armor match available! You can choose dungeon you like. Group is ready to go!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Ysamuird-Blackmoore",
-						}, -- [132]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1559677355,
-							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Himynamespad-Blackmoore",
-						}, -- [133]
-						{
-							["clColor"] = "ffa22fc8",
-							["time"] = 1559677425,
-							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Rusfarmer-Blackmoore",
-						}, -- [134]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1559677515,
-							["arg1"] = "[30% OFF] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Glory Achievements runs. /w for info",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Ysamuird-Blackmoore",
-						}, -- [135]
-						{
-							["clColor"] = "ffa22fc8",
-							["time"] = 1559677545,
-							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Rusfarmer-Blackmoore",
-						}, -- [136]
-						{
-							["clColor"] = "ff3ec5e9",
-							["time"] = 1559677565,
-							["arg1"] = "Ihr liebt PvP, aber habt es satt im random BG ständig zu verlieren, weil die Kämpfe total unkoordiniert ablaufen? Dann werde ein Teil von der neuen aufstrebenden PvP Gilde <DarkKnights> und hilf uns beim Aufbau!",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Equivalents-Blackmoore",
-						}, -- [137]
-						{
-							["clColor"] = "ffc31d39",
-							["time"] = 1559677587,
-							["arg1"] = "GILDENWERBUNG War dein Key wieder nicht Intime? Ist mal wieder jemand nach einem Wipe geleaved? Du hast darauf keine Lust mehr? Dann kommen Sie  zur Allianzversicherung, hier wird Ihnen geholfen. Für weitere Info's einfach an Whispern, schönen Tag.",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Upcrysteln-Blackmoore",
-						}, -- [138]
-						{
-							["clColor"] = "ff8686ec",
-							["time"] = 1559677598,
-							["arg1"] = "WTS BOD Heroisch oder Mythisch, Lady Jaina, COS HC ; Mythisch 10-20+ – 410 item und Titanenresiduum; Arena 3x3 –Lasst uns beginnen",
-							["arg6"] = "DND",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Damijan-Blackmoore",
-						}, -- [139]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [140]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1559679391,
-							["arg1"] = "suche jmd der viel langeweile hat und viel gold hat/w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Drolosoo-Blackmoore",
-						}, -- [141]
-						{
-							["arg1"] = " ",
-						}, -- [142]
-						{
-							["arg1"] = " ",
-						}, -- [143]
-						{
-							["arg1"] = "Logging started on 09/19/2019 at 12:12:04.",
-							["type"] = "SYSTEM",
-						}, -- [144]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1568887986,
-							["arg1"] = "LF |cff66bbff|Hjournal:0:1030:23|h[Der Tempel von Sethraliss]|h|r +10 Boost",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Dízzy-Blackmoore",
-						}, -- [145]
-						{
-							["arg1"] = " ",
-						}, -- [146]
-						{
-							["arg1"] = " ",
-						}, -- [147]
-						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
-							["type"] = "SYSTEM",
-						}, -- [148]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [149]
-						{
-							["arg1"] = " ",
-						}, -- [150]
-						{
-							["arg1"] = " ",
-						}, -- [151]
-						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
-							["type"] = "SYSTEM",
-						}, -- [152]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [153]
-						{
-							["arg1"] = " ",
-						}, -- [154]
-						{
-							["arg1"] = " ",
-						}, -- [155]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
-						}, -- [156]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1575908917,
-							["arg1"] = "zu verschenken: |cff1eff00|Hbattlepet:2684:1:2:159:10:9:0000000000000000|h[Schimmernde Diamantschale]|h|r|cff1eff00|Hbattlepet:200:1:2:148:8:13:0000000000000000|h[Frühlingshase]|h|r|cff1eff00|Hbattlepet:191:1:2:154:10:10:0000000000000000|h[Aufziehraketenbot]|h|r|cff0070dd|Hbattlepet:1907:1:3:152:12:11:0000000000000000|h[Zwergeule]|h|r",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Nelena-Blackmoore",
-						}, -- [157]
-						{
-							["clColor"] = "ff3ec5e9",
-							["time"] = 1575908919,
-							["arg1"] = "Gallywix Boosting Community || Verkaufen  |cff66bbff|Hjournal:0:1179:14|h[The Eternal Palace]|h|r  HC mit Loot-Trade oder VIP Slots heute um 20.00 Uhr gegen Gold. Weiterhin bieten wir das Jaina Mount sowie M+ 10-20 an. Nur gegen Gold /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Halsies-Blackmoore",
-						}, -- [158]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1575908921,
-							["arg1"] = "|cff0070dd|Hbattlepet:1227:1:3:161:10:11:0000000000000000|h[Menageriewächter]|h|r|cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000|h[Lichtloser Wegelagerer]|h|r|cff0070dd|Hbattlepet:1922:1:3:150:12:12:0000000000000000|h[Lauerndes Eulenkätzchen]|h|r|cff0070dd|Hbattlepet:2568:1:3:155:11:12:0000000000000000|h[Kobaltblauer Rabe]|h|r",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Nelena-Blackmoore",
-						}, -- [159]
-						{
-							["clColor"] = "ffa9d271",
-							["time"] = 1575908926,
-							["arg1"] = "<NBC> M+10 nur 110k! 2xM+10 fur 220k mit freier Rüstungsstapelung, Nutzen Sie das Angebot! M+15 fur 270k, +16/17 (IN DER ZEIT)! Eternal Palace 8/8 HC 200K! Mechagon NM/HM+Mount 100% drop! ||||2v2 3v3 Arena BOOST|||| Nur Gold. btag osios7#2484",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Latoyanbc-Blackmoore",
-						}, -- [160]
-						{
-							["arg1"] = " ",
-						}, -- [161]
-						{
-							["arg1"] = " ",
-						}, -- [162]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
-						}, -- [163]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [164]
-						{
-							["arg1"] = " ",
-						}, -- [165]
-						{
-							["arg1"] = " ",
-						}, -- [166]
-						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
-							["type"] = "SYSTEM",
-						}, -- [167]
-						{
-							["clColor"] = "ff3ec5e9",
-							["time"] = 1588787983,
-							["arg1"] = "Wir >The Travelers< suchen noch neue Reisende, Wanderer & Bummler die mit uns gemeinsam reisen. Wenn du die Reise mit uns antreten möchtest, werde Teil unserer Gemeinschaft und  /w me!   ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Zeròómage-Blackmoore",
-						}, -- [168]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [169]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1588788724,
-							["arg1"] = "Ziehe gegen Gold 5 Masken Vision. Jetzt das wöchentliche 470 Item mit 100% Corruption sichern",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Hordala-Blackmoore",
-						}, -- [170]
-						{
-							["arg1"] = " ",
-						}, -- [171]
-						{
-							["arg1"] = " ",
-						}, -- [172]
-						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
-							["type"] = "SYSTEM",
-						}, -- [173]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1589463515,
-							["arg1"] = "Wir <Fallen Stars> 7/12M suchen noch 2 progressorientierte DDs für unseren Mythic Kader. Raidzeiten: Mi/So 19:00 - 22:00 Uhr.",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Spamfuchs-Blackmoore",
-						}, -- [174]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1589463520,
-							["arg1"] = "(NBC) Verkaufe M  +8 .. +15  für deinen ilvl 465! (Höchste ilvl für diese Woche!) ! Für wöchentliche Kiste 475 ilvl || Rüstungsstapel || (billig und einfach)I (vision boosting & lvl up Verfügbar) (only Gold) ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Boostei-Blackmoore",
-						}, -- [175]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1589463554,
-							["arg1"] = "WTS Ny'alotha Mythisch/ Heroisch; Mythisch und Heroisch Volle Ausrüstung; Horrific Visions 5 Brustlauf + Masken; Mythisch 10 - 15+ : Wöchentlichen Truhe.",
-							["arg2"] = "Peguhan-Blackmoore",
-							["arg9"] = "Trade - City",
-							["arg6"] = "DND",
-						}, -- [176]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [177]
-						{
-							["arg1"] = " ",
-						}, -- [178]
-						{
-							["arg1"] = " ",
-						}, -- [179]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
-						}, -- [180]
-						{
-							["clColor"] = "ffc31d39",
-							["time"] = 1590538484,
-							["arg1"] = "Raketenhühnchen kaufe 180k Haustier",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Aidha-Blackmoore",
-						}, -- [181]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1590538493,
-							["arg1"] = "Suche jemand der 5 Masken run anbietet",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Deriola-Blackmoore",
-						}, -- [182]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [183]
-						{
-							["clColor"] = "ffc31d39",
-							["time"] = 1590539049,
-							["arg1"] = "Kaufe Haustier Raketenhühnchen 180k  wps",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Aidha-Blackmoore",
-						}, -- [184]
-						{
-							["arg1"] = " ",
-						}, -- [185]
-						{
-							["arg1"] = " ",
-						}, -- [186]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:08:26.",
-						}, -- [187]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119340,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [188]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1593119346,
-							["arg1"] = "Wir verkaufen M+10 bis 19 garantiert intime und sämtlicher Loot geht an dich! Armorstack und Wunschkey auch möglich! Nur für Gold.  /W me bei Interesse",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumbos-Blackmoore",
-						}, -- [189]
-						{
-							["arg1"] = " ",
-						}, -- [190]
-						{
-							["arg1"] = " ",
-						}, -- [191]
-						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:09:46.",
-							["type"] = "SYSTEM",
-						}, -- [192]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119428,
-							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Zortsu-Blackmoore",
-						}, -- [193]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593119436,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [194]
-						{
-							["clColor"] = "ff8686ec",
-							["time"] = 1593119439,
-							["arg1"] = "WTS |cffffffff|Hitem:22276::::::::20:267::::::|h[Reizendes rotes Kleid]|h|r|cff1eff00|Hitem:164561::::::::20:267::11::::|h[Feuerkinamicia]|h|r billiger als im ah",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Cector-Blackmoore",
-						}, -- [195]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119447,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [196]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1593119549,
-							["arg1"] = "Verkaufe +10-15 M+,vision,level up 110-120,mechagon mit 2k io gp. Du bekommst dein 455+ Item und ein 475+ von der wöchentlichen Kiste. Du bekommst alle items , kannst afk gehen, wenn du interessiert bist, kannst du mir eine Nachricht schicken!nur gold",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Hywiin-Blackmoore",
-						}, -- [197]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119580,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [198]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119607,
-							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Zortsu-Blackmoore",
-						}, -- [199]
-						{
-							["arg1"] = " ",
-						}, -- [200]
-						{
-							["arg1"] = " ",
-						}, -- [201]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
-						}, -- [202]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593119637,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [203]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593119693,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [204]
-						{
-							["arg1"] = " ",
-						}, -- [205]
-						{
-							["arg1"] = " ",
-						}, -- [206]
-						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
-							["type"] = "SYSTEM",
-						}, -- [207]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [208]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593120216,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [209]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593120236,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [210]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593120327,
-							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Zortsu-Blackmoore",
-						}, -- [211]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593120374,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [212]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593120416,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [213]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [214]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593120741,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [215]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1593120848,
-							["arg1"] = "<SBS> Bietet euch Frei ArMorStack  +15=170K   3x15(475K)   14=150K 3x14(380K)  13=125K   12=115K 11=105K  3X11(280K) 10=95K!! 12/12 Mythic [Ny'alotha, die Erwachte Stadt] MORGEN ABEND 12/12HC 250K- 2xVIP 450K*..Jaina Mount 490K ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Sbsboosterr-Blackmoore",
-						}, -- [216]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593120857,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [217]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [218]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [219]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [220]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [221]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593122652,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [222]
-						{
-							["arg1"] = " ",
-						}, -- [223]
-						{
-							["arg1"] = " ",
-						}, -- [224]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
-						}, -- [225]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1593122747,
-							["arg1"] = "horde steht schon westfall",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Nilatakk-Blackmoore",
-						}, -- [226]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1593122763,
-							["arg1"] = "suche leutz für |cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - Der Mecherschaffer]|h|r",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Élios-Blackmoore",
-						}, -- [227]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593122777,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [228]
-						{
-							["clColor"] = "ffc31d39",
-							["time"] = 1593122778,
-							["arg1"] = "in westfall?",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Frõsty-Blackmoore",
-						}, -- [229]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593122893,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [230]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593122927,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [231]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1593122975,
-							["arg1"] = "jmd bock |cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - Der Mecherschaffer]|h|r",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Élios-Blackmoore",
-						}, -- [232]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593123012,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [233]
-						{
-							["clColor"] = "ff3ec5e9",
-							["time"] = 1593123114,
-							["arg1"] = "<SBS> SELLING , 3x +11s 260k (9x 460 ilvl loot) , 3x +14s 380k(9x 465 ilvl loot) +10/95k ,+11/105K,+12/115k ,+15/170k FREE ARMOR STACK. +16 /+17s, Horrific Vision 5 mask 180k! Mythic/HC [Ny'alotha, the Waking City]  / [Glacial Tidestorm] 490K",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Séllfást-Blackmoore",
-						}, -- [234]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593123118,
-							["arg1"] = "[RCU] Verkauft euch M+10 bis 23, garantiert in der Zeit und der gesamte Loot geht an dich! Ebenfalls den Ny'alotha Raid, Inseln und Lvl boosts sowie Mecha/Jaina Mount! /w mir für info:)! Nur gegen Gold :)",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Rrcu-Blackmoore",
-						}, -- [235]
-						{
-							["clColor"] = "ff00fe95",
-							["time"] = 1593123122,
-							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lilianaa-Blackmoore",
-						}, -- [236]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1593123135,
-							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Tumiblacko-Blackmoore",
-						}, -- [237]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1593123140,
-							["arg1"] = "sieht hier wer mickos?",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Fadmâschosch-Blackmoore",
-						}, -- [238]
-						{
-							["clColor"] = "ffa22fc8",
-							["time"] = 1593123172,
-							["arg1"] = "Suche denn boy auch",
-							["arg9"] = "Trade - City",
-							["arg2"] = "Lowkeyrip-Blackmoore",
-						}, -- [239]
-						{
-							["arg1"] = " ",
-						}, -- [240]
-						{
-							["arg1"] = " ",
-						}, -- [241]
-						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
-							["type"] = "SYSTEM",
-						}, -- [242]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1598118456,
-							["arg1"] = "WTS Heroic Kills: <Carapace - 55k>, <N'zoth - 75k>, <Carapace & N'zoth-110k>. Experienced team with 1000+ kills. Having Runs every 30 minutes. Accepting payment on ALL realms. Your 470+ BiS Gear, Curve and Mount is waiting! /w ",
-							["arg2"] = "Lighthookbl-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [243]
-						{
-							["clColor"] = "fffe7b09",
-							["time"] = 1598118456,
-							["arg1"] = "|cffa335ee|Hitem:166705::::::::120:102::6:1:3524:::|h[Eisiger Gezeitensturm]|h|r vk das einer",
-							["arg2"] = "Nâzugl-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [244]
-						{
-							["clColor"] = "ffc59a6c",
-							["time"] = 1598118456,
-							["arg1"] = "Verkaufe Freehold level boost 3,5k pro level mit level gear / 4,5k ohne levelgear (110-120) einzelne level möglich",
-							["arg2"] = "Demokritt-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [245]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1598118465,
-							["arg1"] = "[Gino´s Söldner] verkaufen Ny´Alotha 12/12 HC um 21:00 Uhr @150k Persoloot - @250k + 1 VIP - @340k + 2 VIP- @600k + 5 VIP! N'Zoth + Mount @65k /w oder https://discord.gg/ZtvHhVE für Infos. Nur gegen Gold!",
-							["arg2"] = "Ginoboosst-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [246]
-						{
-							["clColor"] = "ffa22fc8",
-							["time"] = 1598118466,
-							["arg1"] = "Biete Lvl Boost 4k das lvl",
-							["arg2"] = "Foxo-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [247]
-						{
-							["clColor"] = "fffefefe",
-							["time"] = 1598118474,
-							["arg1"] = "<Oblivion> Wir bieten euch Ny'alotha 12/12 HC JETZT Lootshare für 200k buchbar. * N'Zoth für 70k. * M+15 nur 120k. Armorstack & Wunschkey für kl. Aufpreis buchbar. * Jaina Mount für 400k. * /w me. :)",
-							["arg2"] = "Cutemieze-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [248]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [249]
-						{
-							["clColor"] = "fff38bb9",
-							["time"] = 1598118836,
-							["arg1"] = "WTS M+10-20 Keys |cffffff00|Hachievement:14145:Player-3687-09DF5126:1:3:16:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Master: Season Four]|h|r/Mechagon Hardmode/Jaina |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r/0-5 Mask Vision/|cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r 110-120 /W Me For Price",
-							["arg2"] = "Iccboost-Blackmoore",
-							["arg9"] = "Trade - City",
-						}, -- [250]
-					},
-				},
-				["localdefense"] = {
-					["enabled"] = true,
-					["hasMessage"] = true,
-					["name"] = "Local defense",
-					["logs"] = {
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [1]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [2]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [3]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [4]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [5]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [6]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [7]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [8]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [9]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [10]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [11]
-						{
-							["arg1"] = " ",
-						}, -- [12]
-						{
-							["arg1"] = " ",
-						}, -- [13]
-						{
-							["arg1"] = "Logging started on 05/19/2019 at 21:47:42.",
-							["type"] = "SYSTEM",
-						}, -- [14]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [15]
-						{
-							["arg1"] = " ",
-						}, -- [16]
-						{
-							["arg1"] = " ",
-						}, -- [17]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/19/2019 at 22:36:22.",
-						}, -- [18]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [19]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [20]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [21]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [22]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [23]
-						{
-							["arg1"] = " ",
-						}, -- [24]
-						{
-							["arg1"] = " ",
-						}, -- [25]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/22/2019 at 22:00:21.",
-						}, -- [26]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [27]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [28]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [29]
-						{
-							["arg9"] = "LocalDefense - Stormsong Valley",
-							["time"] = 1558556623,
-							["arg1"] = "|cffffff00Fort Daelin is under attack!|r",
-						}, -- [30]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [31]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [32]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [33]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [34]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [35]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [36]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [37]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [38]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [39]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [40]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [41]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [42]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [43]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [44]
-						{
-							["arg1"] = " ",
-						}, -- [45]
-						{
-							["arg1"] = " ",
-						}, -- [46]
-						{
-							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
-							["type"] = "SYSTEM",
-						}, -- [47]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [48]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [49]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [50]
-						{
-							["time"] = 1558721299,
-							["arg9"] = "LocalDefense - Drustvar",
-							["arg1"] = "|cffffff00Whitegrove Chapel is under attack!|r",
-						}, -- [51]
-						{
-							["time"] = 1558721389,
-							["arg9"] = "LocalDefense - Drustvar",
-							["arg1"] = "|cffffff00Whitegrove Chapel is under attack!|r",
-						}, -- [52]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [53]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [54]
-						{
-							["arg1"] = " ",
-						}, -- [55]
-						{
-							["arg1"] = " ",
-						}, -- [56]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/25/2019 at 20:52:19.",
-						}, -- [57]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [58]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [59]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [60]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [61]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [62]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [63]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [64]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [65]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [66]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [67]
-						{
-							["arg1"] = " ",
-						}, -- [68]
-						{
-							["arg1"] = " ",
-						}, -- [69]
-						{
-							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
-							["type"] = "SYSTEM",
-						}, -- [70]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [71]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [72]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [73]
-						{
-							["time"] = 1558868325,
-							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00Zuldazar is under attack!|r",
-						}, -- [74]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [75]
-						{
-							["arg1"] = " ",
-						}, -- [76]
-						{
-							["arg1"] = " ",
-						}, -- [77]
-						{
-							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
-							["type"] = "SYSTEM",
-						}, -- [78]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [79]
-						{
-							["arg1"] = " ",
-						}, -- [80]
-						{
-							["arg1"] = " ",
-						}, -- [81]
-						{
-							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
-							["type"] = "SYSTEM",
-						}, -- [82]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [83]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [84]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [85]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [86]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [87]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [88]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [89]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [90]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [91]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [92]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [93]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [94]
-						{
-							["time"] = 1558991683,
-							["arg9"] = "LocalDefense - Zuldazar",
-							["arg1"] = "|cffffff00Backwater Beach is under attack!|r",
-						}, -- [95]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [96]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [97]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [98]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [99]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [100]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [101]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [102]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [103]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [104]
-						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
-						}, -- [105]
-						{
-							["arg1"] = " ",
-						}, -- [106]
-						{
-							["arg1"] = " ",
-						}, -- [107]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
-						}, -- [108]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [109]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [110]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [111]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [112]
-						{
-							["arg9"] = "LocalDefense - Drustvar",
-							["time"] = 1559129791,
-							["arg1"] = "|cffffff00Anyport is under attack!|r",
-						}, -- [113]
-						{
-							["arg9"] = "LocalDefense - Drustvar",
-							["time"] = 1559129865,
-							["arg1"] = "|cffffff00Anyport is under attack!|r",
-						}, -- [114]
-						{
-							["arg9"] = "LocalDefense - Drustvar",
-							["time"] = 1559129964,
-							["arg1"] = "|cffffff00Anyport is under attack!|r",
-						}, -- [115]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
-						}, -- [116]
-						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
 						}, -- [117]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [118]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ffc59a6c",
+							["time"] = 1559488164,
+							["arg1"] = "Mein Herz hat jetzt 'ne Stufe von 50? Geht's denn noch höher?",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tychio-Blackmoore",
 						}, -- [119]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffefefe",
+							["time"] = 1559488180,
+							["arg1"] = "Nö",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Urlu-Blackmoore",
 						}, -- [120]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffefefe",
+							["time"] = 1559488182,
+							["arg1"] = "Verkaufe: M+ (10-15, Rüsstungsstack möglich), BoD/Cos HC (begleitet von 9/9 myth Gilden), Fh/Insel Levelboost für Gold .Wir akzeptieren Gold auf jeden Realm. Die meisten Boosts können direkt losgehen! /w me für mehr Infos!",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Phenoxe-Blackmoore",
 						}, -- [121]
 						{
-							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [122]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [123]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [124]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
 							["type"] = "SYSTEM",
 						}, -- [125]
 						{
-							["arg1"] = " ",
+							["clColor"] = "ffa22fc8",
+							["time"] = 1559677305,
+							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Rusfarmer-Blackmoore",
 						}, -- [126]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffefefe",
+							["time"] = 1559677333,
+							["arg1"] = "Ihr liebt PvP, aber habt es satt im random BG ständig zu verlieren, weil die Kämpfe total unkoordiniert ablaufen? Dann werde ein Teil von der neuen aufstrebenden PvP Gilde <DarkKnights> und hilf uns beim Aufbau!",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Yumeno-Blackmoore",
 						}, -- [127]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
+							["clColor"] = "fffefefe",
+							["time"] = 1559677342,
+							["arg1"] = "[30% OFF] WTS Mythic+ Keys - Pro Team! Doing keys up to +15 in time! Get your 400/410+ ilvl loot. Armor match available! You can choose dungeon you like. Group is ready to go!",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Ysamuird-Blackmoore",
 						}, -- [128]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "fffe7b09",
+							["time"] = 1559677355,
+							["arg1"] = "Wir verkaufen: Key Boost 10-15 intime! Aus deiner wöchentlichen Kiste erhälst du ein 410+ Item und 625+ Titanenresiduum. /w me für Infos",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Himynamespad-Blackmoore",
 						}, -- [129]
 						{
-							["arg1"] = " ",
+							["clColor"] = "ffa22fc8",
+							["time"] = 1559677425,
+							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Rusfarmer-Blackmoore",
 						}, -- [130]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffefefe",
+							["time"] = 1559677515,
+							["arg1"] = "[30% OFF] Professional Guild runs - Heroic and Mythic BoD, Crucible of Storms, Glory Achievements runs. /w for info",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Ysamuird-Blackmoore",
 						}, -- [131]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
+							["clColor"] = "ffa22fc8",
+							["time"] = 1559677545,
+							["arg1"] = "WTB all your |cffffffff|Hitem:152576::::::::120:577::::::|h[Tidespray Linen]|h|r per 400g/stack(200). Only mail",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Rusfarmer-Blackmoore",
 						}, -- [132]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ff3ec5e9",
+							["time"] = 1559677565,
+							["arg1"] = "Ihr liebt PvP, aber habt es satt im random BG ständig zu verlieren, weil die Kämpfe total unkoordiniert ablaufen? Dann werde ein Teil von der neuen aufstrebenden PvP Gilde <DarkKnights> und hilf uns beim Aufbau!",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Equivalents-Blackmoore",
 						}, -- [133]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ffc31d39",
+							["time"] = 1559677587,
+							["arg1"] = "GILDENWERBUNG War dein Key wieder nicht Intime? Ist mal wieder jemand nach einem Wipe geleaved? Du hast darauf keine Lust mehr? Dann kommen Sie  zur Allianzversicherung, hier wird Ihnen geholfen. Für weitere Info's einfach an Whispern, schönen Tag.",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Upcrysteln-Blackmoore",
 						}, -- [134]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ff8686ec",
+							["time"] = 1559677598,
+							["arg1"] = "WTS BOD Heroisch oder Mythisch, Lady Jaina, COS HC ; Mythisch 10-20+ – 410 item und Titanenresiduum; Arena 3x3 –Lasst uns beginnen",
+							["arg2"] = "Damijan-Blackmoore",
+							["arg9"] = "Trade - City",
+							["arg6"] = "DND",
 						}, -- [135]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [136]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "fffe7b09",
+							["time"] = 1559679391,
+							["arg1"] = "suche jmd der viel langeweile hat und viel gold hat/w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Drolosoo-Blackmoore",
 						}, -- [137]
 						{
 							["arg1"] = " ",
@@ -16405,66 +15214,81 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [139]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 09/19/2019 at 12:12:04.",
 						}, -- [140]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffe7b09",
+							["time"] = 1568887986,
+							["arg1"] = "LF |cff66bbff|Hjournal:0:1030:23|h[Der Tempel von Sethraliss]|h|r +10 Boost",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Dízzy-Blackmoore",
 						}, -- [141]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [142]
 						{
 							["arg1"] = " ",
 						}, -- [143]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
 						}, -- [144]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
+							["arg1"] = "You joined channel.",
 						}, -- [145]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [146]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [147]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
 						}, -- [148]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [149]
 						{
-							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [150]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [151]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
 							["type"] = "SYSTEM",
 						}, -- [152]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffefefe",
+							["time"] = 1575908917,
+							["arg1"] = "zu verschenken: |cff1eff00|Hbattlepet:2684:1:2:159:10:9:0000000000000000|h[Schimmernde Diamantschale]|h|r|cff1eff00|Hbattlepet:200:1:2:148:8:13:0000000000000000|h[Frühlingshase]|h|r|cff1eff00|Hbattlepet:191:1:2:154:10:10:0000000000000000|h[Aufziehraketenbot]|h|r|cff0070dd|Hbattlepet:1907:1:3:152:12:11:0000000000000000|h[Zwergeule]|h|r",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Nelena-Blackmoore",
 						}, -- [153]
 						{
-							["arg1"] = " ",
+							["clColor"] = "ff3ec5e9",
+							["time"] = 1575908919,
+							["arg1"] = "Gallywix Boosting Community || Verkaufen  |cff66bbff|Hjournal:0:1179:14|h[The Eternal Palace]|h|r  HC mit Loot-Trade oder VIP Slots heute um 20.00 Uhr gegen Gold. Weiterhin bieten wir das Jaina Mount sowie M+ 10-20 an. Nur gegen Gold /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Halsies-Blackmoore",
 						}, -- [154]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 10/31/2019 at 21:15:17.",
+							["clColor"] = "fffefefe",
+							["time"] = 1575908921,
+							["arg1"] = "|cff0070dd|Hbattlepet:1227:1:3:161:10:11:0000000000000000|h[Menageriewächter]|h|r|cff0070dd|Hbattlepet:2692:1:3:152:11:12:0000000000000000|h[Lichtloser Wegelagerer]|h|r|cff0070dd|Hbattlepet:1922:1:3:150:12:12:0000000000000000|h[Lauerndes Eulenkätzchen]|h|r|cff0070dd|Hbattlepet:2568:1:3:155:11:12:0000000000000000|h[Kobaltblauer Rabe]|h|r",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Nelena-Blackmoore",
 						}, -- [155]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ffa9d271",
+							["time"] = 1575908926,
+							["arg1"] = "<NBC> M+10 nur 110k! 2xM+10 fur 220k mit freier Rüstungsstapelung, Nutzen Sie das Angebot! M+15 fur 270k, +16/17 (IN DER ZEIT)! Eternal Palace 8/8 HC 200K! Mechagon NM/HM+Mount 100% drop! ||||2v2 3v3 Arena BOOST|||| Nur Gold. btag osios7#2484",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Latoyanbc-Blackmoore",
 						}, -- [156]
 						{
 							["arg1"] = " ",
@@ -16473,7 +15297,7 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [158]
 						{
-							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
 							["type"] = "SYSTEM",
 						}, -- [159]
 						{
@@ -16481,99 +15305,127 @@ ElephantDBPerChar = {
 							["type"] = "SYSTEM",
 						}, -- [160]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [161]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [162]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
 						}, -- [163]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ff3ec5e9",
+							["time"] = 1588787983,
+							["arg1"] = "Wir >The Travelers< suchen noch neue Reisende, Wanderer & Bummler die mit uns gemeinsam reisen. Wenn du die Reise mit uns antreten möchtest, werde Teil unserer Gemeinschaft und  /w me!   ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Zeròómage-Blackmoore",
 						}, -- [164]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [165]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fff38bb9",
+							["time"] = 1588788724,
+							["arg1"] = "Ziehe gegen Gold 5 Masken Vision. Jetzt das wöchentliche 470 Item mit 100% Corruption sichern",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Hordala-Blackmoore",
 						}, -- [166]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
+							["arg1"] = " ",
 						}, -- [167]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [168]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 						}, -- [169]
 						{
-							["arg1"] = " ",
+							["clColor"] = "fffe7b09",
+							["time"] = 1589463515,
+							["arg1"] = "Wir <Fallen Stars> 7/12M suchen noch 2 progressorientierte DDs für unseren Mythic Kader. Raidzeiten: Mi/So 19:00 - 22:00 Uhr.",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Spamfuchs-Blackmoore",
 						}, -- [170]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["clColor"] = "fffefefe",
+							["time"] = 1589463520,
+							["arg1"] = "(NBC) Verkaufe M  +8 .. +15  für deinen ilvl 465! (Höchste ilvl für diese Woche!) ! Für wöchentliche Kiste 475 ilvl || Rüstungsstapel || (billig und einfach)I (vision boosting & lvl up Verfügbar) (only Gold) ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Boostei-Blackmoore",
 						}, -- [171]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "fffefefe",
+							["time"] = 1589463554,
+							["arg1"] = "WTS Ny'alotha Mythisch/ Heroisch; Mythisch und Heroisch Volle Ausrüstung; Horrific Visions 5 Brustlauf + Masken; Mythisch 10 - 15+ : Wöchentlichen Truhe.",
+							["arg6"] = "DND",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Peguhan-Blackmoore",
 						}, -- [172]
 						{
 							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
 						}, -- [173]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [174]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [175]
 						{
-							["arg1"] = " ",
+							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
+							["type"] = "SYSTEM",
 						}, -- [176]
 						{
-							["arg1"] = " ",
+							["clColor"] = "ffc31d39",
+							["time"] = 1590538484,
+							["arg1"] = "Raketenhühnchen kaufe 180k Haustier",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Aidha-Blackmoore",
 						}, -- [177]
 						{
-							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1590538493,
+							["arg1"] = "Suche jemand der 5 Masken run anbietet",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Deriola-Blackmoore",
 						}, -- [178]
 						{
 							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
 						}, -- [179]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ffc31d39",
+							["time"] = 1590539049,
+							["arg1"] = "Kaufe Haustier Raketenhühnchen 180k  wps",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Aidha-Blackmoore",
 						}, -- [180]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [181]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [182]
 						{
-							["time"] = 1588788017,
-							["arg9"] = "LocalDefense - Icecrown",
-							["arg1"] = "|cffffff00The Broken Front is under attack!|r",
+							["arg1"] = "Logging started on 06/25/2020 at 23:08:26.",
+							["type"] = "SYSTEM",
 						}, -- [183]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119340,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
 						}, -- [184]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fff38bb9",
+							["time"] = 1593119346,
+							["arg1"] = "Wir verkaufen M+10 bis 19 garantiert intime und sämtlicher Loot geht an dich! Armorstack und Wunschkey auch möglich! Nur für Gold.  /W me bei Interesse",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumbos-Blackmoore",
 						}, -- [185]
 						{
 							["arg1"] = " ",
@@ -16582,36 +15434,57 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [187]
 						{
-							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/25/2020 at 23:09:46.",
 						}, -- [188]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119428,
+							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Zortsu-Blackmoore",
 						}, -- [189]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ff00fe95",
+							["time"] = 1593119436,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
 						}, -- [190]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "ff8686ec",
+							["time"] = 1593119439,
+							["arg1"] = "WTS |cffffffff|Hitem:22276::::::::20:267::::::|h[Reizendes rotes Kleid]|h|r|cff1eff00|Hitem:164561::::::::20:267::11::::|h[Feuerkinamicia]|h|r billiger als im ah",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Cector-Blackmoore",
 						}, -- [191]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119447,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
 						}, -- [192]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fff38bb9",
+							["time"] = 1593119549,
+							["arg1"] = "Verkaufe +10-15 M+,vision,level up 110-120,mechagon mit 2k io gp. Du bekommst dein 455+ Item und ein 475+ von der wöchentlichen Kiste. Du bekommst alle items , kannst afk gehen, wenn du interessiert bist, kannst du mir eine Nachricht schicken!nur gold",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Hywiin-Blackmoore",
 						}, -- [193]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119580,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
 						}, -- [194]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119607,
+							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Zortsu-Blackmoore",
 						}, -- [195]
 						{
 							["arg1"] = " ",
@@ -16620,207 +15493,1268 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [197]
 						{
+							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
 						}, -- [198]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "ff00fe95",
+							["time"] = 1593119637,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
 						}, -- [199]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["clColor"] = "fffefefe",
+							["time"] = 1593119693,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
 						}, -- [200]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [201]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [202]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [203]
 						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [204]
+						{
+							["clColor"] = "ff00fe95",
+							["time"] = 1593120216,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
+						}, -- [205]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593120236,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [206]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593120327,
+							["arg1"] = "<Krakenboost> WTS < Carapace - 70k >, < N'zoth the Corruptor - 110k >, < Cara + N'zoth - 150k > Heroic kills. Having Runs every 30 minutes. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Zortsu-Blackmoore",
+						}, -- [207]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593120374,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [208]
+						{
+							["clColor"] = "ff00fe95",
+							["time"] = 1593120416,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
+						}, -- [209]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [210]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593120741,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [211]
+						{
+							["clColor"] = "fff38bb9",
+							["time"] = 1593120848,
+							["arg1"] = "<SBS> Bietet euch Frei ArMorStack  +15=170K   3x15(475K)   14=150K 3x14(380K)  13=125K   12=115K 11=105K  3X11(280K) 10=95K!! 12/12 Mythic [Ny'alotha, die Erwachte Stadt] MORGEN ABEND 12/12HC 250K- 2xVIP 450K*..Jaina Mount 490K ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Sbsboosterr-Blackmoore",
+						}, -- [212]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593120857,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [213]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [214]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [215]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [216]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [217]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593122652,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [218]
+						{
 							["arg1"] = " ",
+						}, -- [219]
+						{
+							["arg1"] = " ",
+						}, -- [220]
+						{
+							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
+							["type"] = "SYSTEM",
+						}, -- [221]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1593122747,
+							["arg1"] = "horde steht schon westfall",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Nilatakk-Blackmoore",
+						}, -- [222]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1593122763,
+							["arg1"] = "suche leutz für |cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - Der Mecherschaffer]|h|r",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Élios-Blackmoore",
+						}, -- [223]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593122777,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [224]
+						{
+							["clColor"] = "ffc31d39",
+							["time"] = 1593122778,
+							["arg1"] = "in westfall?",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Frõsty-Blackmoore",
+						}, -- [225]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593122893,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [226]
+						{
+							["clColor"] = "ff00fe95",
+							["time"] = 1593122927,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
+						}, -- [227]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1593122975,
+							["arg1"] = "jmd bock |cffffff00|Hquest:55609:-1:120:120:0|h[Operation: Mechagon - Der Mecherschaffer]|h|r",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Élios-Blackmoore",
+						}, -- [228]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593123012,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [229]
+						{
+							["clColor"] = "ff3ec5e9",
+							["time"] = 1593123114,
+							["arg1"] = "<SBS> SELLING , 3x +11s 260k (9x 460 ilvl loot) , 3x +14s 380k(9x 465 ilvl loot) +10/95k ,+11/105K,+12/115k ,+15/170k FREE ARMOR STACK. +16 /+17s, Horrific Vision 5 mask 180k! Mythic/HC [Ny'alotha, the Waking City]  / [Glacial Tidestorm] 490K",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Séllfást-Blackmoore",
+						}, -- [230]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593123118,
+							["arg1"] = "[RCU] Verkauft euch M+10 bis 23, garantiert in der Zeit und der gesamte Loot geht an dich! Ebenfalls den Ny'alotha Raid, Inseln und Lvl boosts sowie Mecha/Jaina Mount! /w mir für info:)! Nur gegen Gold :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Rrcu-Blackmoore",
+						}, -- [231]
+						{
+							["clColor"] = "ff00fe95",
+							["time"] = 1593123122,
+							["arg1"] = "<Oblivion Community> Morgen Abend Ny'alotha 12/12 HC || Lootshare,Persoloot oder VIP möglich |||| Pakete mit M+,Vision und HC Raid im Angebot! |||| neue M+-Preise! Wir boosten 10-23er Keys mit in time-Garantie! |||| Jaina Mount 500k, vorbestellbar /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lilianaa-Blackmoore",
+						}, -- [232]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1593123135,
+							["arg1"] = "||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Tumiblacko-Blackmoore",
+						}, -- [233]
+						{
+							["clColor"] = "fff38bb9",
+							["time"] = 1593123140,
+							["arg1"] = "sieht hier wer mickos?",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Fadmâschosch-Blackmoore",
+						}, -- [234]
+						{
+							["clColor"] = "ffa22fc8",
+							["time"] = 1593123172,
+							["arg1"] = "Suche denn boy auch",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lowkeyrip-Blackmoore",
+						}, -- [235]
+						{
+							["arg1"] = " ",
+						}, -- [236]
+						{
+							["arg1"] = " ",
+						}, -- [237]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+						}, -- [238]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1598118456,
+							["arg1"] = "WTS Heroic Kills: <Carapace - 55k>, <N'zoth - 75k>, <Carapace & N'zoth-110k>. Experienced team with 1000+ kills. Having Runs every 30 minutes. Accepting payment on ALL realms. Your 470+ BiS Gear, Curve and Mount is waiting! /w ",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Lighthookbl-Blackmoore",
+						}, -- [239]
+						{
+							["clColor"] = "fffe7b09",
+							["time"] = 1598118456,
+							["arg1"] = "|cffa335ee|Hitem:166705::::::::120:102::6:1:3524:::|h[Eisiger Gezeitensturm]|h|r vk das einer",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Nâzugl-Blackmoore",
+						}, -- [240]
+						{
+							["clColor"] = "ffc59a6c",
+							["time"] = 1598118456,
+							["arg1"] = "Verkaufe Freehold level boost 3,5k pro level mit level gear / 4,5k ohne levelgear (110-120) einzelne level möglich",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Demokritt-Blackmoore",
+						}, -- [241]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1598118465,
+							["arg1"] = "[Gino´s Söldner] verkaufen Ny´Alotha 12/12 HC um 21:00 Uhr @150k Persoloot - @250k + 1 VIP - @340k + 2 VIP- @600k + 5 VIP! N'Zoth + Mount @65k /w oder https://discord.gg/ZtvHhVE für Infos. Nur gegen Gold!",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Ginoboosst-Blackmoore",
+						}, -- [242]
+						{
+							["clColor"] = "ffa22fc8",
+							["time"] = 1598118466,
+							["arg1"] = "Biete Lvl Boost 4k das lvl",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Foxo-Blackmoore",
+						}, -- [243]
+						{
+							["clColor"] = "fffefefe",
+							["time"] = 1598118474,
+							["arg1"] = "<Oblivion> Wir bieten euch Ny'alotha 12/12 HC JETZT Lootshare für 200k buchbar. * N'Zoth für 70k. * M+15 nur 120k. Armorstack & Wunschkey für kl. Aufpreis buchbar. * Jaina Mount für 400k. * /w me. :)",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Cutemieze-Blackmoore",
+						}, -- [244]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [245]
+						{
+							["clColor"] = "fff38bb9",
+							["time"] = 1598118836,
+							["arg1"] = "WTS M+10-20 Keys |cffffff00|Hachievement:14145:Player-3687-09DF5126:1:3:16:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Master: Season Four]|h|r/Mechagon Hardmode/Jaina |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r/0-5 Mask Vision/|cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r 110-120 /W Me For Price",
+							["arg9"] = "Trade - City",
+							["arg2"] = "Iccboost-Blackmoore",
+						}, -- [246]
+						{
+							["arg1"] = " ",
+						}, -- [247]
+						{
+							["arg1"] = " ",
+						}, -- [248]
+						{
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
+							["type"] = "SYSTEM",
+						}, -- [249]
+						{
+							["clColor"] = "ffa22fc8",
+							["time"] = 1598829031,
+							["arg1"] = "Biete Lvl Boost 4k das lvl",
+							["arg2"] = "Foxo-Blackmoore",
+							["arg9"] = "Trade - City",
+						}, -- [250]
+					},
+				},
+				["localdefense"] = {
+					["enabled"] = true,
+					["hasMessage"] = false,
+					["name"] = "Local defense",
+					["logs"] = {
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [1]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [2]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [3]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [4]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [5]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [6]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [7]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [8]
+						{
+							["arg1"] = " ",
+						}, -- [9]
+						{
+							["arg1"] = " ",
+						}, -- [10]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/19/2019 at 21:47:42.",
+						}, -- [11]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [12]
+						{
+							["arg1"] = " ",
+						}, -- [13]
+						{
+							["arg1"] = " ",
+						}, -- [14]
+						{
+							["arg1"] = "Logging started on 05/19/2019 at 22:36:22.",
+							["type"] = "SYSTEM",
+						}, -- [15]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [16]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [17]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [18]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [19]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [20]
+						{
+							["arg1"] = " ",
+						}, -- [21]
+						{
+							["arg1"] = " ",
+						}, -- [22]
+						{
+							["arg1"] = "Logging started on 05/22/2019 at 22:00:21.",
+							["type"] = "SYSTEM",
+						}, -- [23]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [24]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [25]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [26]
+						{
+							["time"] = 1558556623,
+							["arg9"] = "LocalDefense - Stormsong Valley",
+							["arg1"] = "|cffffff00Fort Daelin is under attack!|r",
+						}, -- [27]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [28]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [29]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [30]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [31]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [32]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [33]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [34]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [35]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [36]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [37]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [38]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [39]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [40]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [41]
+						{
+							["arg1"] = " ",
+						}, -- [42]
+						{
+							["arg1"] = " ",
+						}, -- [43]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
+						}, -- [44]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [45]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [46]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [47]
+						{
+							["arg9"] = "LocalDefense - Drustvar",
+							["time"] = 1558721299,
+							["arg1"] = "|cffffff00Whitegrove Chapel is under attack!|r",
+						}, -- [48]
+						{
+							["arg9"] = "LocalDefense - Drustvar",
+							["time"] = 1558721389,
+							["arg1"] = "|cffffff00Whitegrove Chapel is under attack!|r",
+						}, -- [49]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [50]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [51]
+						{
+							["arg1"] = " ",
+						}, -- [52]
+						{
+							["arg1"] = " ",
+						}, -- [53]
+						{
+							["arg1"] = "Logging started on 05/25/2019 at 20:52:19.",
+							["type"] = "SYSTEM",
+						}, -- [54]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [55]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [56]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [57]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [58]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [59]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [60]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [61]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [62]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [63]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [64]
+						{
+							["arg1"] = " ",
+						}, -- [65]
+						{
+							["arg1"] = " ",
+						}, -- [66]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
+						}, -- [67]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [68]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [69]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [70]
+						{
+							["arg9"] = "LocalDefense - Zuldazar",
+							["time"] = 1558868325,
+							["arg1"] = "|cffffff00Zuldazar is under attack!|r",
+						}, -- [71]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [72]
+						{
+							["arg1"] = " ",
+						}, -- [73]
+						{
+							["arg1"] = " ",
+						}, -- [74]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
+						}, -- [75]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [76]
+						{
+							["arg1"] = " ",
+						}, -- [77]
+						{
+							["arg1"] = " ",
+						}, -- [78]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
+						}, -- [79]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [80]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [81]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [82]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [83]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [84]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [85]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [86]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [87]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [88]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [89]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [90]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [91]
+						{
+							["arg9"] = "LocalDefense - Zuldazar",
+							["time"] = 1558991683,
+							["arg1"] = "|cffffff00Backwater Beach is under attack!|r",
+						}, -- [92]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [93]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [94]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [95]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [96]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [97]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [98]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [99]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [100]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [101]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [102]
+						{
+							["arg1"] = " ",
+						}, -- [103]
+						{
+							["arg1"] = " ",
+						}, -- [104]
+						{
+							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
+							["type"] = "SYSTEM",
+						}, -- [105]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [106]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [107]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [108]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [109]
+						{
+							["time"] = 1559129791,
+							["arg9"] = "LocalDefense - Drustvar",
+							["arg1"] = "|cffffff00Anyport is under attack!|r",
+						}, -- [110]
+						{
+							["time"] = 1559129865,
+							["arg9"] = "LocalDefense - Drustvar",
+							["arg1"] = "|cffffff00Anyport is under attack!|r",
+						}, -- [111]
+						{
+							["time"] = 1559129964,
+							["arg9"] = "LocalDefense - Drustvar",
+							["arg1"] = "|cffffff00Anyport is under attack!|r",
+						}, -- [112]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [113]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [114]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [115]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [116]
+						{
+							["arg1"] = " ",
+						}, -- [117]
+						{
+							["arg1"] = " ",
+						}, -- [118]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
+						}, -- [119]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [120]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [121]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [122]
+						{
+							["arg1"] = " ",
+						}, -- [123]
+						{
+							["arg1"] = " ",
+						}, -- [124]
+						{
+							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
+							["type"] = "SYSTEM",
+						}, -- [125]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [126]
+						{
+							["arg1"] = " ",
+						}, -- [127]
+						{
+							["arg1"] = " ",
+						}, -- [128]
+						{
+							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
+							["type"] = "SYSTEM",
+						}, -- [129]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [130]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [131]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [132]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [133]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [134]
+						{
+							["arg1"] = " ",
+						}, -- [135]
+						{
+							["arg1"] = " ",
+						}, -- [136]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
+						}, -- [137]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [138]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [139]
+						{
+							["arg1"] = " ",
+						}, -- [140]
+						{
+							["arg1"] = " ",
+						}, -- [141]
+						{
+							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
+							["type"] = "SYSTEM",
+						}, -- [142]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [143]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [144]
+						{
+							["arg1"] = " ",
+						}, -- [145]
+						{
+							["arg1"] = " ",
+						}, -- [146]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 10/24/2019 at 17:00:45.",
+						}, -- [147]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [148]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [149]
+						{
+							["arg1"] = " ",
+						}, -- [150]
+						{
+							["arg1"] = " ",
+						}, -- [151]
+						{
+							["arg1"] = "Logging started on 10/31/2019 at 21:15:17.",
+							["type"] = "SYSTEM",
+						}, -- [152]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [153]
+						{
+							["arg1"] = " ",
+						}, -- [154]
+						{
+							["arg1"] = " ",
+						}, -- [155]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 11/25/2019 at 00:40:00.",
+						}, -- [156]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [157]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [158]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [159]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [160]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [161]
+						{
+							["arg1"] = " ",
+						}, -- [162]
+						{
+							["arg1"] = " ",
+						}, -- [163]
+						{
+							["arg1"] = "Logging started on 12/09/2019 at 17:27:55.",
+							["type"] = "SYSTEM",
+						}, -- [164]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [165]
+						{
+							["arg1"] = " ",
+						}, -- [166]
+						{
+							["arg1"] = " ",
+						}, -- [167]
+						{
+							["arg1"] = "Logging started on 05/05/2020 at 03:26:35.",
+							["type"] = "SYSTEM",
+						}, -- [168]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [169]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [170]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [171]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [172]
+						{
+							["arg1"] = " ",
+						}, -- [173]
+						{
+							["arg1"] = " ",
+						}, -- [174]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2020 at 19:58:23.",
+						}, -- [175]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [176]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [177]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [178]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [179]
+						{
+							["arg9"] = "LocalDefense - Icecrown",
+							["time"] = 1588788017,
+							["arg1"] = "|cffffff00The Broken Front is under attack!|r",
+						}, -- [180]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [181]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [182]
+						{
+							["arg1"] = " ",
+						}, -- [183]
+						{
+							["arg1"] = " ",
+						}, -- [184]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2020 at 15:37:46.",
+						}, -- [185]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [186]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [187]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [188]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [189]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [190]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [191]
+						{
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
+						}, -- [192]
+						{
+							["arg1"] = " ",
+						}, -- [193]
+						{
+							["arg1"] = " ",
+						}, -- [194]
+						{
+							["arg1"] = "Logging started on 05/27/2020 at 02:13:11.",
+							["type"] = "SYSTEM",
+						}, -- [195]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [196]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [197]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [198]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [199]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
+						}, -- [200]
+						{
+							["arg1"] = " ",
+						}, -- [201]
+						{
+							["arg1"] = " ",
+						}, -- [202]
+						{
+							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["type"] = "SYSTEM",
+						}, -- [203]
+						{
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [204]
 						{
 							["arg1"] = " ",
 						}, -- [205]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/25/2020 at 23:13:37.",
+							["arg1"] = " ",
 						}, -- [206]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 						}, -- [207]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [208]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [209]
 						{
-							["arg1"] = "Logging started on 06/25/2020 at 23:21:45.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [210]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [211]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [212]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [213]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [214]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [215]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [216]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [217]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [218]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [219]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [220]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [221]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [222]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [223]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [224]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [225]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [226]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [227]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [228]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [229]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [230]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
 							["type"] = "SYSTEM",
 						}, -- [231]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [232]
 						{
-							["arg1"] = " ",
+							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [233]
 						{
+							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
-							["arg1"] = "Logging started on 06/26/2020 at 00:05:09.",
 						}, -- [234]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [235]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [236]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [237]
 						{
-							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = " ",
 						}, -- [238]
 						{
 							["type"] = "SYSTEM",
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 						}, -- [239]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [240]
 						{
-							["arg1"] = " ",
+							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [241]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [242]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [243]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [244]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [245]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [246]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [247]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [248]
 						{
-							["arg1"] = "You joined channel.",
-							["type"] = "SYSTEM",
+							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "You joined channel.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},
@@ -16830,7 +16764,7 @@ ElephantDBPerChar = {
 					["name"] = "Looking for group",
 					["logs"] = {
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [1]
 					},
@@ -16841,8 +16775,8 @@ ElephantDBPerChar = {
 					["name"] = "ElvUIGVC",
 					["logs"] = {
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [1]
 						{
 							["arg1"] = " ",
@@ -16851,12 +16785,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [3]
 						{
-							["arg1"] = "Logging started on 04/25/2019 at 22:59:21.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/25/2019 at 22:59:21.",
 						}, -- [4]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [5]
 						{
 							["arg1"] = " ",
@@ -16865,12 +16799,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [7]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/26/2019 at 02:47:25.",
+							["type"] = "SYSTEM",
 						}, -- [8]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [9]
 						{
 							["arg1"] = " ",
@@ -16879,12 +16813,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [11]
 						{
-							["arg1"] = "Logging started on 04/26/2019 at 04:34:31.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/26/2019 at 04:34:31.",
 						}, -- [12]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [13]
 						{
 							["arg1"] = " ",
@@ -16893,12 +16827,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [15]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/26/2019 at 05:00:03.",
+							["type"] = "SYSTEM",
 						}, -- [16]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [17]
 						{
 							["arg1"] = " ",
@@ -16907,12 +16841,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [19]
 						{
-							["arg1"] = "Logging started on 04/26/2019 at 06:13:05.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/26/2019 at 06:13:05.",
 						}, -- [20]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [21]
 						{
 							["arg1"] = " ",
@@ -16921,12 +16855,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [23]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/26/2019 at 14:54:40.",
+							["type"] = "SYSTEM",
 						}, -- [24]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [25]
 						{
 							["arg1"] = " ",
@@ -16935,12 +16869,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [27]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/26/2019 at 15:34:23.",
+							["type"] = "SYSTEM",
 						}, -- [28]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [29]
 						{
 							["arg1"] = " ",
@@ -16949,12 +16883,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [31]
 						{
-							["arg1"] = "Logging started on 04/26/2019 at 18:08:01.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/26/2019 at 18:08:01.",
 						}, -- [32]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [33]
 						{
 							["arg1"] = " ",
@@ -16963,12 +16897,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [35]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/26/2019 at 23:36:44.",
+							["type"] = "SYSTEM",
 						}, -- [36]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [37]
 						{
 							["arg1"] = " ",
@@ -16977,12 +16911,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [39]
 						{
-							["arg1"] = "Logging started on 04/27/2019 at 00:22:50.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/27/2019 at 00:22:50.",
 						}, -- [40]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [41]
 						{
 							["arg1"] = " ",
@@ -16991,12 +16925,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [43]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/27/2019 at 00:28:41.",
+							["type"] = "SYSTEM",
 						}, -- [44]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [45]
 						{
 							["arg1"] = " ",
@@ -17005,12 +16939,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [47]
 						{
-							["arg1"] = "Logging started on 04/27/2019 at 02:24:16.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/27/2019 at 02:24:16.",
 						}, -- [48]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [49]
 						{
 							["arg1"] = " ",
@@ -17019,12 +16953,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [51]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/27/2019 at 13:36:57.",
+							["type"] = "SYSTEM",
 						}, -- [52]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [53]
 						{
 							["arg1"] = " ",
@@ -17033,12 +16967,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [55]
 						{
-							["arg1"] = "Logging started on 04/27/2019 at 18:44:59.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 04/27/2019 at 18:44:59.",
 						}, -- [56]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [57]
 						{
 							["arg1"] = " ",
@@ -17047,12 +16981,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [59]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 04/28/2019 at 22:13:00.",
+							["type"] = "SYSTEM",
 						}, -- [60]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [61]
 						{
 							["arg1"] = " ",
@@ -17061,12 +16995,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [63]
 						{
-							["arg1"] = "Logging started on 05/05/2019 at 19:08:36.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/05/2019 at 19:08:36.",
 						}, -- [64]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [65]
 						{
 							["arg1"] = " ",
@@ -17075,12 +17009,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [67]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/05/2019 at 21:54:36.",
+							["type"] = "SYSTEM",
 						}, -- [68]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [69]
 						{
 							["arg1"] = " ",
@@ -17089,12 +17023,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [71]
 						{
-							["arg1"] = "Logging started on 05/06/2019 at 14:23:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2019 at 14:23:49.",
 						}, -- [72]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [73]
 						{
 							["arg1"] = " ",
@@ -17103,12 +17037,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [75]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/06/2019 at 14:56:38.",
+							["type"] = "SYSTEM",
 						}, -- [76]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [77]
 						{
 							["arg1"] = " ",
@@ -17117,12 +17051,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [79]
 						{
-							["arg1"] = "Logging started on 05/06/2019 at 15:21:11.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/06/2019 at 15:21:11.",
 						}, -- [80]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [81]
 						{
 							["arg1"] = " ",
@@ -17131,12 +17065,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [83]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/07/2019 at 18:36:09.",
+							["type"] = "SYSTEM",
 						}, -- [84]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [85]
 						{
 							["arg1"] = " ",
@@ -17145,12 +17079,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [87]
 						{
-							["arg1"] = "Logging started on 05/08/2019 at 11:44:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/08/2019 at 11:44:49.",
 						}, -- [88]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [89]
 						{
 							["arg1"] = " ",
@@ -17159,12 +17093,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [91]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/08/2019 at 20:54:10.",
+							["type"] = "SYSTEM",
 						}, -- [92]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [93]
 						{
 							["arg1"] = " ",
@@ -17173,12 +17107,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [95]
 						{
-							["arg1"] = "Logging started on 05/08/2019 at 22:20:24.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/08/2019 at 22:20:24.",
 						}, -- [96]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [97]
 						{
 							["arg1"] = " ",
@@ -17187,12 +17121,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [99]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/10/2019 at 13:13:52.",
+							["type"] = "SYSTEM",
 						}, -- [100]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [101]
 						{
 							["arg1"] = " ",
@@ -17201,12 +17135,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [103]
 						{
-							["arg1"] = "Logging started on 05/12/2019 at 18:56:25.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/12/2019 at 18:56:25.",
 						}, -- [104]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [105]
 						{
 							["arg1"] = " ",
@@ -17215,12 +17149,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [107]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/12/2019 at 22:05:49.",
+							["type"] = "SYSTEM",
 						}, -- [108]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [109]
 						{
 							["arg1"] = " ",
@@ -17229,12 +17163,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [111]
 						{
-							["arg1"] = "Logging started on 05/13/2019 at 11:13:00.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/13/2019 at 11:13:00.",
 						}, -- [112]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [113]
 						{
 							["arg1"] = " ",
@@ -17243,12 +17177,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [115]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/13/2019 at 15:57:54.",
+							["type"] = "SYSTEM",
 						}, -- [116]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [117]
 						{
 							["arg1"] = " ",
@@ -17257,12 +17191,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [119]
 						{
-							["arg1"] = "Logging started on 05/14/2019 at 10:39:00.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2019 at 10:39:00.",
 						}, -- [120]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [121]
 						{
 							["arg1"] = " ",
@@ -17271,12 +17205,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [123]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/14/2019 at 13:27:48.",
+							["type"] = "SYSTEM",
 						}, -- [124]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [125]
 						{
 							["arg1"] = " ",
@@ -17285,12 +17219,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [127]
 						{
-							["arg1"] = "Logging started on 05/14/2019 at 13:39:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/14/2019 at 13:39:49.",
 						}, -- [128]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [129]
 						{
 							["arg1"] = " ",
@@ -17299,12 +17233,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [131]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/14/2019 at 21:07:23.",
+							["type"] = "SYSTEM",
 						}, -- [132]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [133]
 						{
 							["clColor"] = "ffc59a6c",
@@ -17327,12 +17261,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [137]
 						{
-							["arg1"] = "Logging started on 05/15/2019 at 10:10:07.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/15/2019 at 10:10:07.",
 						}, -- [138]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [139]
 						{
 							["arg1"] = " ",
@@ -17341,12 +17275,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [141]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/15/2019 at 10:57:19.",
+							["type"] = "SYSTEM",
 						}, -- [142]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [143]
 						{
 							["arg1"] = " ",
@@ -17355,12 +17289,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [145]
 						{
-							["arg1"] = "Logging started on 05/16/2019 at 14:54:37.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/16/2019 at 14:54:37.",
 						}, -- [146]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [147]
 						{
 							["arg1"] = " ",
@@ -17369,12 +17303,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [149]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/16/2019 at 15:10:59.",
+							["type"] = "SYSTEM",
 						}, -- [150]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [151]
 						{
 							["arg1"] = " ",
@@ -17383,12 +17317,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [153]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/17/2019 at 21:19:46.",
+							["type"] = "SYSTEM",
 						}, -- [154]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [155]
 						{
 							["arg1"] = " ",
@@ -17397,12 +17331,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [157]
 						{
-							["arg1"] = "Logging started on 05/17/2019 at 22:39:02.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/17/2019 at 22:39:02.",
 						}, -- [158]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [159]
 						{
 							["arg1"] = " ",
@@ -17411,12 +17345,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [161]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/18/2019 at 13:43:09.",
+							["type"] = "SYSTEM",
 						}, -- [162]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [163]
 						{
 							["arg1"] = " ",
@@ -17425,12 +17359,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [165]
 						{
-							["arg1"] = "Logging started on 05/19/2019 at 13:36:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/19/2019 at 13:36:12.",
 						}, -- [166]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [167]
 						{
 							["arg1"] = " ",
@@ -17439,12 +17373,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [169]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/19/2019 at 21:37:38.",
+							["type"] = "SYSTEM",
 						}, -- [170]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [171]
 						{
 							["arg1"] = " ",
@@ -17453,12 +17387,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [173]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/19/2019 at 22:36:22.",
+							["type"] = "SYSTEM",
 						}, -- [174]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [175]
 						{
 							["arg1"] = " ",
@@ -17467,12 +17401,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [177]
 						{
-							["arg1"] = "Logging started on 05/20/2019 at 15:57:25.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/20/2019 at 15:57:25.",
 						}, -- [178]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [179]
 						{
 							["arg1"] = " ",
@@ -17481,12 +17415,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [181]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/20/2019 at 16:10:43.",
+							["type"] = "SYSTEM",
 						}, -- [182]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [183]
 						{
 							["arg1"] = " ",
@@ -17495,12 +17429,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [185]
 						{
-							["arg1"] = "Logging started on 05/22/2019 at 13:08:56.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/22/2019 at 13:08:56.",
 						}, -- [186]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [187]
 						{
 							["arg1"] = " ",
@@ -17509,12 +17443,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [189]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/22/2019 at 22:00:21.",
+							["type"] = "SYSTEM",
 						}, -- [190]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [191]
 						{
 							["arg1"] = " ",
@@ -17523,12 +17457,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [193]
 						{
-							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/24/2019 at 18:47:57.",
 						}, -- [194]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [195]
 						{
 							["arg1"] = " ",
@@ -17537,12 +17471,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [197]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/25/2019 at 20:52:19.",
+							["type"] = "SYSTEM",
 						}, -- [198]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [199]
 						{
 							["arg1"] = " ",
@@ -17551,12 +17485,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [201]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 12:33:49.",
 						}, -- [202]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [203]
 						{
 							["arg1"] = " ",
@@ -17565,12 +17499,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [205]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/26/2019 at 15:24:17.",
+							["type"] = "SYSTEM",
 						}, -- [206]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [207]
 						{
 							["arg1"] = " ",
@@ -17579,12 +17513,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [209]
 						{
-							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/26/2019 at 15:28:56.",
 						}, -- [210]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [211]
 						{
 							["arg1"] = " ",
@@ -17593,12 +17527,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [213]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/27/2019 at 20:38:58.",
+							["type"] = "SYSTEM",
 						}, -- [214]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [215]
 						{
 							["arg1"] = " ",
@@ -17607,12 +17541,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [217]
 						{
-							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/27/2019 at 21:26:02.",
 						}, -- [218]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [219]
 						{
 							["arg1"] = " ",
@@ -17621,12 +17555,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [221]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 05/29/2019 at 13:02:34.",
+							["type"] = "SYSTEM",
 						}, -- [222]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [223]
 						{
 							["arg1"] = " ",
@@ -17635,12 +17569,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [225]
 						{
-							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 05/31/2019 at 09:45:08.",
 						}, -- [226]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [227]
 						{
 							["arg1"] = " ",
@@ -17649,12 +17583,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [229]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/01/2019 at 16:14:15.",
+							["type"] = "SYSTEM",
 						}, -- [230]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [231]
 						{
 							["arg1"] = " ",
@@ -17663,12 +17597,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [233]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/02/2019 at 13:16:17.",
+							["type"] = "SYSTEM",
 						}, -- [234]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [235]
 						{
 							["arg1"] = " ",
@@ -17677,12 +17611,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [237]
 						{
-							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/02/2019 at 16:55:12.",
 						}, -- [238]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [239]
 						{
 							["arg1"] = " ",
@@ -17691,12 +17625,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [241]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "Logging started on 06/04/2019 at 21:39:58.",
+							["type"] = "SYSTEM",
 						}, -- [242]
 						{
-							["type"] = "SYSTEM",
 							["arg1"] = "You joined channel.",
+							["type"] = "SYSTEM",
 						}, -- [243]
 						{
 							["arg1"] = " ",
@@ -17705,12 +17639,12 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [245]
 						{
-							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
 							["type"] = "SYSTEM",
+							["arg1"] = "Logging started on 06/05/2019 at 09:01:47.",
 						}, -- [246]
 						{
-							["arg1"] = "You joined channel.",
 							["type"] = "SYSTEM",
+							["arg1"] = "You joined channel.",
 						}, -- [247]
 						{
 							["arg1"] = " ",
@@ -17719,7 +17653,7 @@ ElephantDBPerChar = {
 							["arg1"] = " ",
 						}, -- [249]
 						{
-							["arg1"] = "Logging started on 08/22/2020 at 19:46:01.",
+							["arg1"] = "Logging started on 08/31/2020 at 01:10:03.",
 							["type"] = "SYSTEM",
 						}, -- [250]
 					},

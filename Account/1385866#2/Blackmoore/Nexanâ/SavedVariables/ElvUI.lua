@@ -1,17 +1,17 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/wa", -- [1]
-		"/i *Bein", -- [2]
-		"/i mach en anderes BG, wenn du gewinnen magst", -- [3]
-		"/macro", -- [4]
-		"/i wenn mir en Hund ans pein pinkelt sag ich auch nicht \"ach lass ihn doch\"", -- [5]
-		"/i klar, kann man es mal gewinnen", -- [6]
-		"/i digga, 90% sind nur für XP hier", -- [7]
-		"/plater", -- [8]
-		"/i einfach reporten", -- [9]
-		"/i meine nur man soll sich net wundern das viele AFK sind", -- [10]
-		"/i *dass", -- [11]
+		"/plater", -- [1]
+		"/i einfach reporten", -- [2]
+		"/i *Bein", -- [3]
+		"/i mach en anderes BG, wenn du gewinnen magst", -- [4]
+		"/i *dass", -- [5]
+		"/macro", -- [6]
+		"/i meine nur man soll sich net wundern das viele AFK sind", -- [7]
+		"/i klar, kann man es mal gewinnen", -- [8]
+		"/wa", -- [9]
+		"/i digga, 90% sind nur für XP hier", -- [10]
+		"/i wenn mir en Hund ans pein pinkelt sag ich auch nicht \"ach lass ihn doch\"", -- [11]
 	},
 	["ChatHistoryLog"] = {
 		{

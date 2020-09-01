@@ -20,7 +20,7 @@ PremadeGroupsFilterState = {
 		["noilvl"] = {
 			["act"] = false,
 		},
-		["expression"] = "partyfit and (tur or sob or kr or td)",
+		["expression"] = "partyfit",
 		["difficulty"] = {
 			["act"] = true,
 			["val"] = 4,
@@ -146,7 +146,7 @@ PremadeGroupsFilterState = {
 		["expression"] = "nya and partyfit",
 		["difficulty"] = {
 			["act"] = true,
-			["val"] = 2,
+			["val"] = 3,
 		},
 		["members"] = {
 			["max"] = "",
@@ -160,7 +160,7 @@ PremadeGroupsFilterState = {
 		},
 		["defeated"] = {
 			["max"] = "",
-			["min"] = "9",
+			["min"] = "",
 			["act"] = false,
 		},
 	},

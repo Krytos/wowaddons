@@ -8,12 +8,12 @@ AdiBagsDB = {
 					["overrides"] = {
 						[168639] = "Item Enhancement#Item Enhancement",
 						[155284] = "Equipment#Weapons",
-						[169319] = "Equipment#Trinkets",
+						[155881] = "Equipment#Trinkets",
 						[169314] = "Equipment#Trinkets",
+						[159623] = "Equipment#Trinkets",
 						[168273] = "Equipment#Weapon",
 						[173943] = "Equipment#Trinkets",
-						[159623] = "Equipment#Trinkets",
-						[155881] = "Equipment#Trinkets",
+						[169319] = "Equipment#Trinkets",
 					},
 				},
 			},
@@ -38,12 +38,15 @@ AdiBagsDB = {
 		},
 		["Equipment"] = {
 		},
-		["ItemSets"] = {
-			["profiles"] = {
-				["Default"] = {
-					["oneSectionPerSet"] = false,
-				},
-			},
+		["AdiBags_TooltipInfo"] = {
+		},
+		["ZoneItems"] = {
+		},
+		["ItemLevel"] = {
+		},
+		["Battle Pet Items"] = {
+		},
+		["Bound"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -59,16 +62,16 @@ AdiBagsDB = {
 						["7th Legion Service Medal"] = false,
 						["Spirit Shard"] = false,
 						["Oil"] = false,
-						["Wakening Essence"] = false,
+						["Timeless Coin"] = false,
 						["Timeworn Artifact"] = false,
 						["Sightless Eye"] = false,
-						["Prismatic Manapearl"] = false,
-						["Timewarped Badge"] = false,
+						["Wakening Essence"] = false,
+						["Seafarer's Dubloon"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
 						["Garrison Resources"] = false,
-						["Seafarer's Dubloon"] = false,
-						["Timeless Coin"] = false,
+						["Timewarped Badge"] = false,
+						["Prismatic Manapearl"] = false,
 						["Lingering Soul Fragment"] = false,
 						["Legionfall War Supplies"] = false,
 					},
@@ -79,15 +82,12 @@ AdiBagsDB = {
 				},
 			},
 		},
-		["ItemLevel"] = {
-		},
-		["Battle Pet Items"] = {
-		},
-		["Bound"] = {
-		},
-		["ZoneItems"] = {
-		},
-		["AdiBags_TooltipInfo"] = {
+		["ItemSets"] = {
+			["profiles"] = {
+				["Default"] = {
+					["oneSectionPerSet"] = false,
+				},
+			},
 		},
 	},
 	["profileKeys"] = {
@@ -111,31 +111,37 @@ AdiBagsDB = {
 		["Nexanâ - Ravencrest"] = "Default",
 		["Azuhunterlol - Twisting Nether"] = "Default",
 		["Krytosbank - Blackmoore"] = "Default",
-		["Grillboost - Alexstrasza"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
 		["Shadokashado - Blackmoore"] = "Default",
-		["Svenass - Kazzak"] = "Default",
+		["Kaknooberpfi - Thrall"] = "Default",
 		["Arthemiasd - Ravencrest"] = "Default",
 		["Arthemias - Blackmoore"] = "Default",
 		["Grillboost - Krag'jin"] = "Default",
 		["Artêmîs - Kazzak"] = "Default",
-		["Nethenâ - Blackmoore"] = "Default",
+		["Grillboost - Dun Morogh"] = "Default",
 		["Nexana - Blackmoore"] = "Default",
 		["Alsnfaljsnfa - Ravencrest"] = "Default",
 		["Lullidan - Ravencrest"] = "Default",
 		["Asdafggdaf - Blackmoore"] = "Default",
 		["Nariâ - Blackmoore"] = "Default",
 		["Nexâna - Blackmoore"] = "Default",
-		["Grillboost - Dun Morogh"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
 		["Noxiâ - Blackmoore"] = "Default",
-		["Kaknooberpfi - Thrall"] = "Default",
-		["Hrst - Blackmoore"] = "Default",
+		["Svenass - Kazzak"] = "Default",
+		["Grillboost - Alexstrasza"] = "Default",
 	},
 	["profiles"] = {
+		["Antonidas"] = {
+		},
+		["Noxiâ - Antonidas"] = {
+		},
 		["Default"] = {
 			["virtualStacks"] = {
 				["incomplete"] = true,
 			},
-			["scale"] = 1,
+			["columnWidth"] = {
+				["Bank"] = 4,
+			},
 			["maxHeight"] = 0.5,
 			["filterPriorities"] = {
 				["NewItem"] = 100,
@@ -143,13 +149,7 @@ AdiBagsDB = {
 			["compactLayout"] = true,
 			["rightClickConfig"] = false,
 			["autoDeposit"] = true,
-			["columnWidth"] = {
-				["Bank"] = 4,
-			},
-		},
-		["Noxiâ - Antonidas"] = {
-		},
-		["Antonidas"] = {
+			["scale"] = 1,
 		},
 		["ROGUE"] = {
 		},

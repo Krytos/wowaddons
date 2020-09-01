@@ -1,1372 +1,1460 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p as I said, let'S skip it", -- [1]
-		"/cw Thimbletack-DunMorogh xD", -- [2]
-		"/p thx for run guys", -- [3]
-		"/p gl hf^^", -- [4]
-		"/cw Thimbletack-DunMorogh woher kennste eigentlich meinen main? Schon nach logs geschaut? :P", -- [5]
-		"/cw Thimbletack-DunMorogh der ilgy kill die woche hat meinen mythic durchschnitt so gefickt :D", -- [6]
-		"/cw Thimbletack-DunMorogh bin nach 1 min verreckt wegen dummen dispells -_-^^", -- [7]
-		"/cw Ölw-Sylvanas really?", -- [8]
-		"/g Pog", -- [9]
-		"/simc", -- [10]
-		"/p yo", -- [11]
-		"/p priest power pog", -- [12]
-		"/p hi", -- [13]
-		"/p can you tank as well, by any chance?^^", -- [14]
-		"/p ?", -- [15]
-		"/cw Flece-Alleria kannst du auch tanken?", -- [16]
-		"/cw Flece-Alleria kk", -- [17]
-		"/p meh, fuck it, gonna push with main. Gl hf guys", -- [18]
-		"/glass lock", -- [19]
-		"/plater", -- [20]
+		"/p but not like this", -- [1]
+		"/p lol", -- [2]
+		"/p man so close", -- [3]
+		"/p would have been EZ in time without the lag", -- [4]
+		"/p thx for run guys", -- [5]
+		"/cw Nerubine-Lothar ty :)", -- [6]
+		"/cw Tilonex-Outland |cffffff00|Hachievement:14071:Guild-580-000003B1A400:1:3:29:20:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: N'Zoth the Corruptor (Alliance)]|h|r", -- [7]
+		"/cw Delois-Lordaeron |cffffff00|Hachievement:14071:Guild-580-000003B1A400:1:3:29:20:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: N'Zoth the Corruptor (Alliance)]|h|r", -- [8]
+		"/raid hi :)", -- [9]
+		"/console worldPreloadNonCritical 0", -- [10]
+		"/raid jup bin auch schon ne std in der gruppe", -- [11]
+		"/raid alle andern afk?", -- [12]
+		"/raid so wird das nix", -- [13]
+		"/raid tanks haben keinen plan", -- [14]
+		"/cw Delois-Lordaeron haha is klar", -- [15]
+		"/cw Yrô-Antonidas dein kumpel hat ja richtig dicke eier mir zu whispern, weil er verkackt hat und mich dann auf ignore zu stellen, damit ich nicht antworten kann xD Und um seine Frage zu beantworten, was ich glaub wer ich bin, ich bin ein top 150 world raider", -- [16]
+		"/cw Yrô-Antonidas |cffffff00|Hachievement:14071:Guild-580-000003B1A400:1:3:29:20:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: N'Zoth the Corruptor (Alliance)]|h|r", -- [17]
+		"/cw Yrô-Antonidas kannste ihm gerne linken", -- [18]
+		"/cw Yrô-Antonidas und sag ihm \"hf dabei dein restliches WoW leben nie was zu erreichen und immer schlecht zu bleiben, da du immer die schuld bei anderen suchst und nicht verstehst, wenn du fehler machst\"", -- [19]
+		"/ignore Delois-Lordaeron", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"wb", -- [1]
+			"Kekseater-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Kekseater-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-580-08D9225D", -- [12]
+			799, -- [11]
+			"Player-1099-09958FEB", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594996505,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc31d39Kekseater-Alleria|r",
+			[51] = 1598909632,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [1]
 		{
-			"Verkaufe heute Abend Ny'alotha 12/12 HC || Lootshare 275k || Persoloot 225k || VIP ab 325k |||| Jetzt alle 30 Minuten Nzoth HC für 85k! |||| Sonntag Jaina Mythic+Mount für nur 400k |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
+			"<3", -- [1]
+			"Harraald-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"", -- [4]
+			"Harraald-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			83, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			800, -- [11]
+			"Player-1099-07ABDD60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1594996536,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Harraald-Alleria|r",
+			[51] = 1598909634,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [2]
 		{
-			"<Oblivion> Verkauft alle Boosts, einschließlich Mythic, Raid, Reittiere und vieles mehr. Wir haben eine neue Preisliste mit Jaina Mythic + Mount - 400k W me :)", -- [1]
-			"Englishmonk-Blackmoore", -- [2]
+			":*", -- [1]
+			"Yunii-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Englishmonk-Blackmoore", -- [5]
+			"", -- [4]
+			"Yunii-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			85, -- [11]
-			"Player-580-08EA32F9", -- [12]
+			801, -- [11]
+			"Player-1099-07F9F474", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Englishmonk|r",
-			[51] = 1594996543,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Yunii-Alleria|r",
+			[51] = 1598909640,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [3]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
+			"<333333", -- [1]
+			"Harraald-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"", -- [4]
+			"Harraald-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			86, -- [11]
-			"Player-580-08E288A3", -- [12]
+			803, -- [11]
+			"Player-1099-07ABDD60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594996554,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Harraald-Alleria|r",
+			[51] = 1598909663,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [4]
 		{
-			"biete 5 Maskenrun an /w me :)", -- [1]
-			"Hiselfritz-Blackmoore", -- [2]
+			"nicht weinen es wird alles gut ich drück euch alle", -- [1]
+			"Milaniá-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hiselfritz-Blackmoore", -- [5]
+			"", -- [4]
+			"Milaniá-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-580-085E0FBF", -- [12]
+			806, -- [11]
+			"Player-1099-089E143D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Hiselfritz|r",
-			[51] = 1594996589,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeMilaniá-Alleria|r",
+			[51] = 1598909807,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [5]
 		{
-			"<Кrаkеnbооst> WTS < Carapace - 60k >, < N'zoth the Corruptor - 80k >, < Cara + N'zoth - 115k > Heroic kills. Having Runs every 30 minutes. <JAINA MOUNT - 700k>. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ", -- [1]
-			"Zotsurro-Blackmoore", -- [2]
+			"ich küss eure augen", -- [1]
+			"Harraald-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zotsurro-Blackmoore", -- [5]
+			"", -- [4]
+			"Harraald-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			92, -- [11]
-			"Player-580-08FC8C94", -- [12]
+			807, -- [11]
+			"Player-1099-07ABDD60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeZotsurro|r",
-			[51] = 1594996632,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Harraald-Alleria|r",
+			[51] = 1598909881,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [6]
 		{
-			"<Oblivion> Verkauft alle Boosts, einschließlich Mythic, Raid, Reittiere und vieles mehr. Wir haben eine neue Preisliste mit Jaina Mythic + Mount - 400k CURVE 100k W me :)", -- [1]
-			"Englishmonk-Blackmoore", -- [2]
+			"ts pls", -- [1]
+			"Yunii-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Englishmonk-Blackmoore", -- [5]
+			"", -- [4]
+			"Yunii-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			93, -- [11]
-			"Player-580-08EA32F9", -- [12]
+			813, -- [11]
+			"Player-1099-07F9F474", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Englishmonk|r",
-			[51] = 1594996632,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Yunii-Alleria|r",
+			[51] = 1598910031,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [7]
 		{
-			"Die kleine Just for Fun Gilde Touch of Destiny sucht auf dem Server Blackmoore nach neuen Mitgliedern. Schwerpunkt der Gilde liegt auf Gemeinschaft und Spaß haben. Wir nutzen Discord mit Aktiven Nutzer auch für andere Game  einfach anflüstern", -- [1]
-			"Erithas-Blackmoore", -- [2]
+			"ich dreh gleich dürüm", -- [1]
+			"Arconis-Doomhammer", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Erithas-Blackmoore", -- [5]
+			"", -- [4]
+			"Arconis-Doomhammer", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			94, -- [11]
-			"Player-580-08FDF89E", -- [12]
+			814, -- [11]
+			"Player-1402-0800E13C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Erithas|r",
-			[51] = 1594996640,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Arconis-Doomhammer|r",
+			[51] = 1598910114,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [8]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"ich bin müüüüüüüde und hab morgen fortbildung abfahrt hier", -- [1]
+			"Harraald-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Harraald-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			95, -- [11]
-			"Player-580-08D9225D", -- [12]
+			815, -- [11]
+			"Player-1099-07ABDD60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594996642,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Harraald-Alleria|r",
+			[51] = 1598910132,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [9]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
+			"hmmm warum meldest dich an ???", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			96, -- [11]
-			"Player-580-08DF4338", -- [12]
+			817, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594996647,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910163,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [10]
 		{
-			"<MMOnkBoost> WTS boost <Carapace of Nzoth> and <Nzoth The Corruptor> heroic. Every 30 min! GOLD ONLY! Get mount, curve and chance on 470 loot. Fast, smooth and cherry!", -- [1]
-			"Mmonkybbo-Blackmoore", -- [2]
+			"war vor 45min dude :D", -- [1]
+			"Harraald-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mmonkybbo-Blackmoore", -- [5]
+			"", -- [4]
+			"Harraald-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			97, -- [11]
-			"Player-580-08FC8D23", -- [12]
+			818, -- [11]
+			"Player-1099-07ABDD60", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeMmonkybbo|r",
-			[51] = 1594996651,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Harraald-Alleria|r",
+			[51] = 1598910171,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [11]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
+			"hella true", -- [1]
+			"Arconis-Doomhammer", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"", -- [4]
+			"Arconis-Doomhammer", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			101, -- [11]
-			"Player-580-08E288A3", -- [12]
+			819, -- [11]
+			"Player-1402-0800E13C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594996696,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Arconis-Doomhammer|r",
+			[51] = 1598910179,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [12]
 		{
-			"<RCU> Bietet euch preiswert M+10 bis 23, garantiert intime und der gesamte Loot geht an dich! Auch Ny'alotha, Inseln oder Lvl boost sowie Mechagon+ Mount verfügbar! /w für weitere infos:)! Nur gegen gold", -- [1]
-			"Exorcu-Blackmoore", -- [2]
+			"jup bin auch schon ne std in der gruppe", -- [1]
+			"Nexâna-Blackmoore", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Exorcu-Blackmoore", -- [5]
+			"", -- [4]
+			"Nexâna-Blackmoore", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			102, -- [11]
-			"Player-580-08FE7902", -- [12]
+			820, -- [11]
+			"Player-580-08D5FA35", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfff38bb9Exorcu|r",
-			[51] = 1594996703,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeNexâna|r",
+			[51] = 1598910184,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [13]
 		{
-			"<SBS> VERKAUFT  ,3x +11s 260K (9x 460 ilvl loot), 3x+14s 370K(9x 465 ilvl loot) +10/90K ,+11/100K,+15/155K KOSTENLOSER RÜSTUNGS STACK.+16 /17, Vision 5 mask 120K! HC/Mythic [Ny'alotha, the Waking City]/Glacial Tidestorm 400K", -- [1]
-			"Sellfast-Blackmoore", -- [2]
+			"der nächste heiler muss es sein", -- [1]
+			"Schinzu-Nozdormu", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"", -- [4]
+			"Schinzu-Nozdormu", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			103, -- [11]
-			"Player-580-08E3398F", -- [12]
+			823, -- [11]
+			"Player-1401-0411CDEE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594996716,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cSchinzu-Nozdormu|r",
+			[51] = 1598910230,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [14]
 		{
-			"<SBS> VERKAUFT , Heroic [Ny'alotha, the Waking City] Full Run 190K (Personal Loot) , 290K 1 VIP Trader. HEUTE 19:30 ST. /w für information.", -- [1]
-			"Sellfast-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			104, -- [11]
-			"Player-580-08E3398F", -- [12]
+			825, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594996716,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910242,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [15]
 		{
-			"Verkaufe heute Abend Ny'alotha 12/12 HC || Lootshare 275k || Persoloot 225k || VIP ab 325k |||| Jetzt alle 30 Minuten Nzoth HC für 85k! |||| Sonntag Jaina Mythic+Mount für nur 400k |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
+			"der chef kommt?", -- [1]
+			"Schinzu-Nozdormu", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"", -- [4]
+			"Schinzu-Nozdormu", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			105, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			827, -- [11]
+			"Player-1401-0411CDEE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1594996719,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cSchinzu-Nozdormu|r",
+			[51] = 1598910295,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [16]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			108, -- [11]
-			"Player-580-08D9225D", -- [12]
+			828, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594996759,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910306,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [17]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
+			"ALLE INS TS", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			109, -- [11]
-			"Player-580-08DF4338", -- [12]
+			829, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594996785,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910315,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [18]
 		{
-			"<Кrаkеnbооst> WTS < Carapace - 60k >, < N'zoth the Corruptor - 80k >, < Cara + N'zoth - 115k > Heroic kills. Having Runs every 30 minutes. <JAINA MOUNT - 700k>. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ", -- [1]
-			"Zotsurro-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zotsurro-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			110, -- [11]
-			"Player-580-08FC8C94", -- [12]
+			830, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeZotsurro|r",
-			[51] = 1594996812,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910332,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [19]
 		{
-			"<MMOnkBoost> WTS boost <Carapace of Nzoth> and <Nzoth The Corruptor> heroic. Every 30 min! GOLD ONLY! Get mount, curve and chance on 470 loot. Fast, smooth and cherry!", -- [1]
-			"Mmonkybbo-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mmonkybbo-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			111, -- [11]
-			"Player-580-08FC8D23", -- [12]
+			831, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeMmonkybbo|r",
-			[51] = 1594996831,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910332,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [20]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			112, -- [11]
-			"Player-580-08E288A3", -- [12]
+			832, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594996841,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910333,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [21]
 		{
-			"%s has earned the achievement |cffffff00|Hachievement:10706:Player-580-08E98DBF:1:7:17:20:4294967295:4294967295:4294967295:4294967295|h[Training the Troops]|h|r!", -- [1]
-			"Morlûn-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Morlûn-Blackmoore", -- [5]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			113, -- [11]
-			"Player-580-08E98DBF", -- [12]
+			833, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfff38bb9Morlûn|r",
-			[51] = 1594996847,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910333,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [22]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"212.224.121.10:2216 Pw Irrenhaus", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			116, -- [11]
-			"Player-580-08D9225D", -- [12]
+			834, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594996890,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910333,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [23]
 		{
-			"Verkaufe heute Abend Ny'alotha 12/12 HC || Lootshare 275k || Persoloot 225k || VIP ab 325k |||| Jetzt alle 30 Minuten Nzoth HC für 85k! |||| Sonntag Jaina Mythic+Mount für nur 400k |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
+			"bitte das wäre super lieb", -- [1]
+			"Milaniá-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"", -- [4]
+			"Milaniá-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			117, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			835, -- [11]
+			"Player-1099-089E143D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1594996894,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeMilaniá-Alleria|r",
+			[51] = 1598910337,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [24]
 		{
-			"Bloodphoenix (7/12 M) sucht zum Ausbau des Mythic- Raidkaders noch Mitstreiter. Aktuell suchen wir DDs, pref WL (kein Hunter, DH)  Raidzeiten Do. und Di. 19-22 Uhr.", -- [1]
-			"Gødsmack-Blackmoore", -- [2]
+			"Kein Bufffood (13): Yrô, Delois-Lordaeron, Harraald-Alleria, Milaniá-Alleria, Centrixa-Proudmoore, Chrissiè, Nexâna-Blackmoore, Nayrita, Schinzu-Nozdormu, Arconis-Doomhammer, Xstriker-Aegwynn, Kekseater-Alleria, ", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Gødsmack-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			121, -- [11]
-			"Player-580-088117E0", -- [12]
+			837, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Gødsmack|r",
-			[51] = 1594996900,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [25]
 		{
-			"yo", -- [1]
-			"Pickled-Quel'Thalas", -- [2]
+			"Zéró-Shattrath", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Pickled-Quel'Thalas", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			122, -- [11]
-			"Player-1396-0850EA5B", -- [12]
+			838, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefePickled-Quel'Thalas|r",
-			[51] = 1594996903,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [26]
 		{
-			"yo", -- [1]
-			"Nexâna-Blackmoore", -- [2]
+			"Keine Fläschchen (14): Yrô, Schinzu-Nozdormu, Nayrita, Arconis-Doomhammer, Uséless-Aegwynn, Ilunet, Mûnín-Madmortem, Nexâna-Blackmoore, Milaniá-Alleria, Delois-Lordaeron, Chrissiè, Harraald-Alleria, Yunii-Alleria, ", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			123, -- [11]
-			"Player-580-08D5FA35", -- [12]
+			839, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594996905,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [27]
 		{
-			"we got enough priests?", -- [1]
-			"Jarìf-Quel'Thalas", -- [2]
+			"Zéró-Shattrath", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jarìf-Quel'Thalas", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			124, -- [11]
-			"Player-1396-09C13DDC", -- [12]
+			840, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeJarìf-Quel'Thalas|r",
-			[51] = 1594996907,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [28]
 		{
-			"priest power pog", -- [1]
-			"Nexâna-Blackmoore", -- [2]
+			"Keine Runen (19): Yrô, Delois-Lordaeron, Harraald-Alleria, Yunii-Alleria, Milaniá-Alleria, Chrissiè, Nexâna-Blackmoore, Nayrita, Schinzu-Nozdormu, Arconis-Doomhammer, Grammstein, Ilunet, Cáítlýn, Uséless-Aegwynn", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			125, -- [11]
-			"Player-580-08D5FA35", -- [12]
+			841, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594996910,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [29]
 		{
-			"hi", -- [1]
-			"Nexâna-Blackmoore", -- [2]
+			"Lasenia-Thrall, Xstriker-Aegwynn, Kekseater-Alleria, Mûnín-Madmortem, Zéró-Shattrath", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			128, -- [11]
-			"Player-580-08D5FA35", -- [12]
+			842, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594996926,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [30]
 		{
-			"need another shadow priest", -- [1]
-			"Jarìf-Quel'Thalas", -- [2]
+			"Gruppenstärkungseffekte Angriffskraft (2), Ausdauer (1), Intelligenz (1)", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jarìf-Quel'Thalas", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			130, -- [11]
-			"Player-1396-09C13DDC", -- [12]
+			843, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeJarìf-Quel'Thalas|r",
-			[51] = 1594996931,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910342,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [31]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
+			"bitte mit pulltimer für prepot", -- [1]
+			"Yunii-Alleria", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"", -- [4]
+			"Yunii-Alleria", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			131, -- [11]
-			"Player-580-08DF4338", -- [12]
+			845, -- [11]
+			"Player-1099-07F9F474", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594996934,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Yunii-Alleria|r",
+			[51] = 1598910394,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [32]
 		{
-			"hi", -- [1]
-			"Flece-Alleria", -- [2]
+			"nehmt alle bitte eins trinken und rausnehmen", -- [1]
+			"Milaniá-Alleria", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Flece-Alleria", -- [5]
+			"Milaniá-Alleria", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			132, -- [11]
-			"Player-1099-0607D3B3", -- [12]
+			849, -- [11]
+			"Player-1099-089E143D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cFlece-Alleria|r",
-			[51] = 1594996947,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeMilaniá-Alleria|r",
+			[51] = 1598910435,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [33]
 		{
-			"can you tank as well, by any chance?^^", -- [1]
-			"Nexâna-Blackmoore", -- [2]
+			"danke", -- [1]
+			"Centrixa-Proudmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
+			"Centrixa-Proudmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			133, -- [11]
-			"Player-580-08D5FA35", -- [12]
+			850, -- [11]
+			"Player-3696-0630E1AA", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594996956,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8686ecCentrixa-Proudmoore|r",
+			[51] = 1598910463,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [34]
 		{
-			"what tha fuck", -- [1]
-			"Jarìf-Quel'Thalas", -- [2]
+			"alle andern afk?", -- [1]
+			"Nexâna-Blackmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Jarìf-Quel'Thalas", -- [5]
+			"Nexâna-Blackmoore", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			134, -- [11]
-			"Player-1396-09C13DDC", -- [12]
+			852, -- [11]
+			"Player-580-08D5FA35", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeJarìf-Quel'Thalas|r",
-			[51] = 1594996965,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffefefeNexâna|r",
+			[51] = 1598910506,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [35]
 		{
-			"?", -- [1]
-			"Nexâna-Blackmoore", -- [2]
+			"Kein Bufffood (2): Delois-Lordaeron, Arconis-Doomhammer", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			135, -- [11]
-			"Player-580-08D5FA35", -- [12]
+			855, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594996973,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910523,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [36]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
+			"Keine Fläschchen (2): Delois-Lordaeron, Arconis-Doomhammer", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			136, -- [11]
-			"Player-580-08E288A3", -- [12]
+			856, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594996975,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910523,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [37]
 		{
-			"<Кrаkеnbооst> WTS < Carapace - 60k >, < N'zoth the Corruptor - 80k >, < Cara + N'zoth - 115k > Heroic kills. Having Runs every 30 minutes. <JAINA MOUNT - 700k>. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ", -- [1]
-			"Zotsurro-Blackmoore", -- [2]
+			"Keine Runen (16): Delois-Lordaeron, Harraald-Alleria, Yunii-Alleria, Yrô, Milaniá-Alleria, Chrissiè, Nexâna-Blackmoore, Nayrita, Schinzu-Nozdormu, Arconis-Doomhammer, Ilunet, Cáítlýn, Uséless-Aegwynn, Lasenia-Thrall", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zotsurro-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			138, -- [11]
-			"Player-580-08FC8C94", -- [12]
+			857, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeZotsurro|r",
-			[51] = 1594996992,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910523,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [38]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"Xstriker-Aegwynn, Zéró-Shattrath", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			139, -- [11]
-			"Player-580-08D9225D", -- [12]
+			858, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594996998,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910523,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [39]
 		{
-			"<MMOnkBoost> WTS boost <Carapace of Nzoth> and <Nzoth The Corruptor> heroic. Every 30 min! GOLD ONLY! Get mount, curve and chance on 470 loot. Fast, smooth and cherry!", -- [1]
-			"Mmonkybbo-Blackmoore", -- [2]
+			"Gruppenstärkungseffekte Alle", -- [1]
+			"Nayrita-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mmonkybbo-Blackmoore", -- [5]
+			"", -- [4]
+			"Nayrita-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			140, -- [11]
-			"Player-580-08FC8D23", -- [12]
+			859, -- [11]
+			"Player-3686-0717C1A8", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeMmonkybbo|r",
-			[51] = 1594997011,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cff3ec5e9Nayrita-Antonidas|r",
+			[51] = 1598910523,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [40]
 		{
-			"<SBS> VERKAUFT  ,3x +11s 260K (9x 460 ilvl loot), 3x+14s 370K(9x 465 ilvl loot) +10/90K ,+11/100K,+15/155K KOSTENLOSER RÜSTUNGS STACK.+16 /17, Vision 5 mask 120K! HC/Mythic [Ny'alotha, the Waking City]/Glacial Tidestorm 400K", -- [1]
-			"Sellfast-Blackmoore", -- [2]
+			"Pull in 10 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			142, -- [11]
-			"Player-580-08E3398F", -- [12]
+			860, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594997057,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910552,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [41]
 		{
-			"<SBS> VERKAUFT , Heroic [Ny'alotha, the Waking City] Full Run 190K (Personal Loot) , 290K 1 VIP Trader. HEUTE 19:30 ST. /w für information.", -- [1]
-			"Sellfast-Blackmoore", -- [2]
+			"Kein Bufffood (0): ", -- [1]
+			"Lasenia-Thrall", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"", -- [4]
+			"Lasenia-Thrall", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			143, -- [11]
-			"Player-580-08E3398F", -- [12]
+			861, -- [11]
+			"Player-604-07C538EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594997057,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Lasenia-Thrall|r",
+			[51] = 1598910553,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [42]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
+			"Keine Fläschchen (1): Arconis-Doomhammer", -- [1]
+			"Lasenia-Thrall", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"", -- [4]
+			"Lasenia-Thrall", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			144, -- [11]
-			"Player-580-08DF4338", -- [12]
+			862, -- [11]
+			"Player-604-07C538EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594997070,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Lasenia-Thrall|r",
+			[51] = 1598910553,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [43]
 		{
-			"Verkaufe heute Abend Ny'alotha 12/12 HC || Lootshare 275k || Persoloot 225k || VIP ab 325k |||| Jetzt alle 30 Minuten Nzoth HC für 85k! |||| Sonntag Jaina Mythic+Mount für nur 400k |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
+			"Gruppenstärkungseffekte Alle", -- [1]
+			"Lasenia-Thrall", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"", -- [4]
+			"Lasenia-Thrall", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			145, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			863, -- [11]
+			"Player-604-07C538EC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1594997075,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfff38bb9Lasenia-Thrall|r",
+			[51] = 1598910553,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [44]
 		{
-			"Die Gilde Shâri Thus nor Diel sucht noch Verstärkung für ihren Raidkader.Nach der Pause im aktuellen Addon wollen wir wieder eine Gilde aufbauen. DU hast Lust auf M+, Gildeninterne Aktivitäten und dem Aufbau eines Raides? Schließ dich uns an!", -- [1]
-			"Nêco-Blackmoore", -- [2]
+			"Pull in 7 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nêco-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			146, -- [11]
-			"Player-580-0430F8B7", -- [12]
+			864, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cNêco|r",
-			[51] = 1594997081,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910554,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [45]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
+			"Pull in 5 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			147, -- [11]
-			"Player-580-08E288A3", -- [12]
+			865, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594997110,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910556,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [46]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"Pull in 4 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			148, -- [11]
-			"Player-580-08D9225D", -- [12]
+			866, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594997113,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910558,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [47]
 		{
-			"kannst du auch tanken?", -- [1]
-			"Flece-Alleria", -- [2]
-			"Common", -- [3]
+			"Pull in 3 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
+			"", -- [3]
 			"", -- [4]
-			"Flece-Alleria", -- [5]
+			"Yrô", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			151, -- [11]
-			"Player-1099-0607D3B3", -- [12]
+			867, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cFlece-Alleria|r",
-			[51] = 1594997166,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910559,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [48]
 		{
-			"<Кrаkеnbооst> WTS < Carapace - 60k >, < N'zoth the Corruptor - 80k >, < Cara + N'zoth - 115k > Heroic kills. Having Runs every 30 minutes. <JAINA MOUNT - 700k>. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ", -- [1]
-			"Zotsurro-Blackmoore", -- [2]
+			"Pull in 2 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zotsurro-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			153, -- [11]
-			"Player-580-08FC8C94", -- [12]
+			868, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeZotsurro|r",
-			[51] = 1594997172,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910560,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [49]
 		{
-			"<MMOnkBoost> WTS boost <Carapace of Nzoth> and <Nzoth The Corruptor> heroic. Every 30 min! GOLD ONLY! Get mount, curve and chance on 470 loot. Fast, smooth and cherry!", -- [1]
-			"Mmonkybbo-Blackmoore", -- [2]
+			"Pull in 1 sek.", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mmonkybbo-Blackmoore", -- [5]
+			"", -- [4]
+			"Yrô", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			155, -- [11]
-			"Player-580-08FC8D23", -- [12]
+			869, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeMmonkybbo|r",
-			[51] = 1594997191,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910561,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [50]
 		{
-			"eher nich so", -- [1]
-			"Flece-Alleria", -- [2]
+			">>> Pull <<<", -- [1]
+			"Yrô-Antonidas", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Flece-Alleria", -- [5]
+			"Yrô", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			156, -- [11]
-			"Player-1099-0607D3B3", -- [12]
+			871, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cFlece-Alleria|r",
-			[51] = 1594997191,
-			[50] = "CHAT_MSG_WHISPER",
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910561,
+			[50] = "CHAT_MSG_RAID_WARNING",
 		}, -- [51]
 		{
-			"kk", -- [1]
-			"Flece-Alleria", -- [2]
+			"Einäscherung auf Mûnín", -- [1]
+			"Mûnín-Madmortem", -- [2]
 			"Common", -- [3]
 			"", -- [4]
-			"Flece-Alleria", -- [5]
+			"Mûnín-Madmortem", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			157, -- [11]
-			"Player-1099-0607D3B3", -- [12]
+			874, -- [11]
+			"Player-3696-0484D66D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc59a6cFlece-Alleria|r",
-			[51] = 1594997199,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
+			[52] = "|cffc31d39Mûnín-Madmortem|r",
+			[51] = 1598910591,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [52]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"Einäscherung auf Ilunet", -- [1]
+			"Ilunet-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Ilunet-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			158, -- [11]
-			"Player-580-08DF4338", -- [12]
+			875, -- [11]
+			"Player-3686-0455BDF6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594997207,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Ilunet-Antonidas|r",
+			[51] = 1598910592,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [53]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"3", -- [1]
+			"Mûnín-Madmortem", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mûnín-Madmortem", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			159, -- [11]
-			"Player-580-08D9225D", -- [12]
+			876, -- [11]
+			"Player-3696-0484D66D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594997214,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc31d39Mûnín-Madmortem|r",
+			[51] = 1598910594,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [54]
 		{
-			"<Oblivion>Verkaufen N'Zoth Heroisch! Hol dir |cffffff00|Hachievement:14068:Player-580-08E288A3:0:0:0:-1:0:0:0:0|h[Ahead of the Curve: N'Zoth the Corruptor]|h|r für 85k. Alle 20 Minuten. Außerdem heute 20 Uhr 12/12 HC mit LS für 275k  /w me", -- [1]
-			"Leeylana-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Leeylana-Blackmoore", -- [5]
+			"3", -- [1]
+			"Ilunet-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Ilunet-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			160, -- [11]
-			"Player-580-08E288A3", -- [12]
+			877, -- [11]
+			"Player-3686-0455BDF6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffef367Leeylana|r",
-			[51] = 1594997255,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Ilunet-Antonidas|r",
+			[51] = 1598910595,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [55]
 		{
-			"Verkaufe heute Abend Ny'alotha 12/12 HC || Lootshare 275k || Persoloot 225k || VIP ab 325k |||| Jetzt alle 30 Minuten Nzoth HC für 85k! |||| Sonntag Jaina Mythic+Mount für nur 400k |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"2", -- [1]
+			"Mûnín-Madmortem", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mûnín-Madmortem", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			161, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			878, -- [11]
+			"Player-3696-0484D66D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1594997283,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc31d39Mûnín-Madmortem|r",
+			[51] = 1598910595,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [56]
 		{
-			"<SBS> VERKAUFT  ,3x +11s 260K (9x 460 ilvl loot), 3x+14s 370K(9x 465 ilvl loot) +10/90K ,+11/100K,+15/155K KOSTENLOSER RÜSTUNGS STACK.+16 /17, Vision 5 mask 120K! HC/Mythic [Ny'alotha, the Waking City]/Glacial Tidestorm 400K", -- [1]
-			"Sellfast-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"2", -- [1]
+			"Ilunet-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Ilunet-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			163, -- [11]
-			"Player-580-08E3398F", -- [12]
+			879, -- [11]
+			"Player-3686-0455BDF6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594997343,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Ilunet-Antonidas|r",
+			[51] = 1598910596,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [57]
 		{
-			"<SBS> VERKAUFT , Heroic [Ny'alotha, the Waking City] Full Run 190K (Personal Loot) , 290K 1 VIP Trader. HEUTE 19:30 ST. /w für information.", -- [1]
-			"Sellfast-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sellfast-Blackmoore", -- [5]
+			"1", -- [1]
+			"Mûnín-Madmortem", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Mûnín-Madmortem", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			164, -- [11]
-			"Player-580-08E3398F", -- [12]
+			880, -- [11]
+			"Player-3696-0484D66D", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff3ec5e9Sellfast|r",
-			[51] = 1594997343,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc31d39Mûnín-Madmortem|r",
+			[51] = 1598910596,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [58]
 		{
-			"<Oblivion Community> verkauft N’Zoth HC alle 20-30 Minuten für ** 85k **! Außerdem ||NEUE PREISE|| für Ny’alotha HC 12/12 (PL, LS, VIP) heute Abend ab 20 Uhr, ||M+15 = 150k|| und ||JAINA Mount für 400k||!!! Interesse geweckt? /w me ", -- [1]
-			"Scabs-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Scabs-Blackmoore", -- [5]
+			"1", -- [1]
+			"Ilunet-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Ilunet-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			165, -- [11]
-			"Player-580-08DF4338", -- [12]
+			881, -- [11]
+			"Player-3686-0455BDF6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffc59a6cScabs|r",
-			[51] = 1594997350,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Ilunet-Antonidas|r",
+			[51] = 1598910597,
+			[50] = "CHAT_MSG_SAY",
 		}, -- [59]
 		{
-			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
-			"Tumiblacko-Blackmoore", -- [2]
+			"Details! Ilunet's Tod: |cff71d5ff|Hspell:306247:0|h[Einäscherung]|h|r: 204K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tumiblacko-Blackmoore", -- [5]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			166, -- [11]
-			"Player-580-08D9225D", -- [12]
+			882, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeTumiblacko|r",
-			[51] = 1594997352,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910598,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [60]
 		{
-			"<Кrаkеnbооst> WTS < Carapace - 60k >, < N'zoth the Corruptor - 80k >, < Cara + N'zoth - 115k > Heroic kills. Having Runs every 30 minutes. <JAINA MOUNT - 700k>. Accepting payment on all realms. Get your 470+ BiS Gear, Curve and Mount tonight. /w ", -- [1]
-			"Zotsurro-Blackmoore", -- [2]
+			"Details! Yrô's Tod: |cff71d5ff|Hspell:310205:0|h[Orkanschlag]|h|r: 299K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zotsurro-Blackmoore", -- [5]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			167, -- [11]
-			"Player-580-08FC8C94", -- [12]
+			885, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeZotsurro|r",
-			[51] = 1594997352,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910614,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [61]
 		{
-			"meh, fuck it, gonna push with main. Gl hf guys", -- [1]
+			"Details! Cáítlýn's Tod: |cff71d5ff|Hspell:314414:0|h[Kriechender Wahnsinn]|h|r: 235K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			886, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910638,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [62]
+		{
+			"Details! Harraald's Tod: |cff71d5ff|Hspell:314414:0|h[Kriechender Wahnsinn]|h|r: 240K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			888, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910666,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [63]
+		{
+			"Details! Centrixa's Tod: |cff71d5ff|Hspell:314414:0|h[Kriechender Wahnsinn]|h|r: 284K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			890, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910669,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [64]
+		{
+			"Details! Delois's Tod: [Nahkampf]: 151K ", -- [1]
+			"Chrissiè-Antonidas", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Chrissiè-Antonidas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			891, -- [11]
+			"Player-3686-04B2D0CF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa9d271Chrissiè-Antonidas|r",
+			[51] = 1598910671,
+			[50] = "CHAT_MSG_RAID",
+		}, -- [65]
+		{
+			"so wird das nix", -- [1]
 			"Nexâna-Blackmoore", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1376,7 +1464,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			168, -- [11]
+			895, -- [11]
 			"Player-580-08D5FA35", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1384,821 +1472,733 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cfffefefeNexâna|r",
-			[51] = 1594997364,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
-		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Dfgdrtdrt-Tichondrius", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dfgdrtdrt-Tichondrius", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			45, -- [11]
-			"Player-580-094F9768", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeDfgdrtdrt-Tichondrius|r",
-			[51] = 1597673055,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [63]
-		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Sdfserwerw-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sdfserwerw-Blackmoore", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			46, -- [11]
-			"Player-580-094F9758", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSdfserwerw|r",
-			[51] = 1597673055,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [64]
-		{
-			"Die neu gegründete Nachtraidgilde Perhaps sucht noch motivierte und TS aktive Spieler für ihre Community u. Raidkader 10/12 Myth 12/12HC EXP .Raidzeiten: 23:00 - 2:30", -- [1]
-			"Lêilânâ-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Lêilânâ-Blackmoore", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			47, -- [11]
-			"Player-580-085CF50F", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeLêilânâ|r",
-			[51] = 1597673086,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [65]
-		{
-			"Biete Freihafen Levelservice von 110 bis 120 oder einzelne Level. Bei Interesse w/me! :)", -- [1]
-			"Deeaidz-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Deeaidz-Blackmoore", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			48, -- [11]
-			"Player-580-0879DD63", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa22fc8Deeaidz|r",
-			[51] = 1597673095,
-			[50] = "CHAT_MSG_CHANNEL",
+			[51] = 1598910695,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [66]
 		{
-			"<Oblivion> Wir bieten M+15-22 in time. M+15 für nur 120k! Wunschkey & Armorstack für kleinen Aufpreis möglich. Oder mit einem Freund zusammen? Für nur 200k. ** /w me für mehr Infos. :)", -- [1]
-			"Cutemieze-Blackmoore", -- [2]
+			"tanks haben keinen plan", -- [1]
+			"Nexâna-Blackmoore", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cutemieze-Blackmoore", -- [5]
+			"", -- [4]
+			"Nexâna-Blackmoore", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			49, -- [11]
-			"Player-580-0919F3B6", -- [12]
+			896, -- [11]
+			"Player-580-08D5FA35", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeCutemieze|r",
-			[51] = 1597673120,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffefefeNexâna|r",
+			[51] = 1598910699,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [67]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Dfgdrtdrt-Tichondrius", -- [2]
+			"bist du im TS drin?", -- [1]
+			"Delois-Lordaeron", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dfgdrtdrt-Tichondrius", -- [5]
+			"", -- [4]
+			"Delois-Lordaeron", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			"Player-580-094F9768", -- [12]
+			902, -- [11]
+			"Player-580-09378250", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeDfgdrtdrt-Tichondrius|r",
-			[51] = 1597673168,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Delois-Lordaeron|r",
+			[51] = 1598910707,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [68]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Sdfserwerw-Blackmoore", -- [2]
+			"ich kann übernehmen", -- [1]
+			"Schinzu-Nozdormu", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sdfserwerw-Blackmoore", -- [5]
+			"", -- [4]
+			"Schinzu-Nozdormu", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			52, -- [11]
-			"Player-580-094F9758", -- [12]
+			904, -- [11]
+			"Player-1401-0411CDEE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeSdfserwerw|r",
-			[51] = 1597673168,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffc59a6cSchinzu-Nozdormu|r",
+			[51] = 1598910713,
+			[50] = "CHAT_MSG_RAID",
 		}, -- [69]
 		{
-			"Verkaufe Bienenmount! Holt euch euer Bienenmount! Züchtet das Bienenmount und reitet das Bienenmount! W/me für das Bienenmount", -- [1]
-			"Perodol-Blackmoore", -- [2]
+			"dann hättest du gehört das ich laggs habe aber Tanks keinen Plan", -- [1]
+			"Delois-Lordaeron", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Perodol-Blackmoore", -- [5]
+			"", -- [4]
+			"Delois-Lordaeron", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			53, -- [11]
-			"Player-580-06E5CBA6", -- [12]
+			905, -- [11]
+			"Player-580-09378250", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cffa9d271Perodol|r",
-			[51] = 1597673176,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Delois-Lordaeron|r",
+			[51] = 1598910717,
+			[50] = "CHAT_MSG_RAID_LEADER",
 		}, -- [70]
 		{
-			"Oblivion verkauft jetzt M+10-23 intime (M15 = 120k), sowie heute Abend 20 Uhr 12/12 HC mit Personal Loot(175k), Lootshare(225k) und VIP(300k). Außerdem Mittwochs 12/12 Mythisch oder einzelne Bosse. Jaina Mount 400k!", -- [1]
-			"Obchard-Blackmoore", -- [2]
+			"Verkaufe |cff1eff00|Hitem:14834::::::::120:268:512::1:4277:120:::|h[Tyrant's Armguards]|h|r|cff1eff00|Hitem:14835::::::::120:268:512::1:4277:110:::|h[Tyrant's Chestpiece]|h|r|cff1eff00|Hitem:14841::::::::120:268:::1:3836:::|h[Tyrant's Epaulets]|h|r|cffa335ee|Hitem:30733::::::::120:268::::::|h[Hope Ender]|h|r", -- [1]
+			"Weißespulver-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Obchard-Blackmoore", -- [5]
+			"Weißespulver-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			54, -- [11]
-			"Player-580-08DBFA4F", -- [12]
+			910, -- [11]
+			"Player-580-088F8A50", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff3ec5e9Obchard|r",
-			[51] = 1597673176,
+			[52] = "|cff00fe95Weißespulver|r",
+			[51] = 1598910728,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [71]
 		{
-			"Biete Freihafen Levelservice von 110 bis 120 oder einzelne Level. Bei Interesse w/me! :)", -- [1]
-			"Deeaidz-Blackmoore", -- [2]
+			">Nova< Wir verkaufen ! M+10 : 70k , M+15 : 105k Armor Stacks möglich! Keyauswahl möglich!! :)  Nyalotha HC Lootshare : 160k, Nyalotha Mythic auch einzelne Bosse! Level Boosts, Visionen, Legacy, Alles was DEIN Herz begehrt <3", -- [1]
+			"Nbcaritzy-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Deeaidz-Blackmoore", -- [5]
+			"Nbcaritzy-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			55, -- [11]
-			"Player-580-0879DD63", -- [12]
+			912, -- [11]
+			"Player-580-0916E8B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Deeaidz|r",
-			[51] = 1597673187,
+			[52] = "|cff3ec5e9Nbcaritzy|r",
+			[51] = 1598910731,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [72]
 		{
-			"<Oblivion Community> Sichere dir jetzt unsere ||End of ID M+ DEALS|| * M+15 = 120k * Armorstack und Wunschkey für kl. Aufpreis möglich! SONDERANGEBOT für den Keystone Master S4! Außerdem JAINA Mount für 400k & Ny'alotha HC mit PL, LS und VIP! /w me ", -- [1]
-			"Isabellâ-Blackmoore", -- [2]
+			">Nova<Verkauft Heute um 23:50 noch Nzoth only für nur 50k! Günstiger und Schneller gibts NIRGENDS :) Jetzt einen Platz buchen und curve genießen <3", -- [1]
+			"Nbcaritzy-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Isabellâ-Blackmoore", -- [5]
+			"Nbcaritzy-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			57, -- [11]
-			"Player-580-091458B2", -- [12]
+			913, -- [11]
+			"Player-580-0916E8B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeIsabellâ|r",
-			[51] = 1597673230,
+			[52] = "|cff3ec5e9Nbcaritzy|r",
+			[51] = 1598910731,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [73]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Sdfserwerw-Blackmoore", -- [2]
+			"NOVA verkauft auch heute wieder M+10-23 beim kauf von 2/4/6 keys gibts rabatt[+15 105k] Armorstack bei +14-17 4k und Wunschkey 10k desweiteren verkaufen wir HC/ Mythic Nyalotha / Visions 5 mask 70k und  mehr Interesse? /w me Deutscher Ansprechpartner", -- [1]
+			"Novakataku-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sdfserwerw-Blackmoore", -- [5]
+			"Novakataku-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			60, -- [11]
-			"Player-580-094F9758", -- [12]
+			916, -- [11]
+			"Player-580-096C052B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeSdfserwerw|r",
-			[51] = 1597673280,
+			[52] = "|cfffefefeNovakataku|r",
+			[51] = 1598910776,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [74]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Dfgdrtdrt-Tichondrius", -- [2]
+			"schönen abend her dumm blackmoore ich hatte laggs! aber egal honks wie dich gibts wie sand am meer ich kenne den boss ich brauch auch keine Antwort wieder von dir", -- [1]
+			"Delois-Lordaeron", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dfgdrtdrt-Tichondrius", -- [5]
+			"", -- [4]
+			"Delois-Lordaeron", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			61, -- [11]
-			"Player-580-094F9768", -- [12]
+			917, -- [11]
+			"Player-580-09378250", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeDfgdrtdrt-Tichondrius|r",
-			[51] = 1597673280,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Delois-Lordaeron|r",
+			[51] = 1598910777,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [75]
 		{
-			"Oblivion verkauft jetzt M+10-23 intime (M15 = 120k), sowie heute Abend 20 Uhr 12/12 HC mit Personal Loot(175k), Lootshare(225k) und VIP(300k). Außerdem Mittwochs 12/12 Mythisch oder einzelne Bosse. Jaina Mount 400k!", -- [1]
-			"Obchard-Blackmoore", -- [2]
+			"<NOVA> Montag Curve SPAM, hol dir deinen Heroic N'zoth kill für nur 50k! Start ist 19.30 und alle 15 Minuten danach. Hol dir jetzt dein Mount bevor es in 3 Wochen verschwindet!", -- [1]
+			"Novakataku-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Obchard-Blackmoore", -- [5]
+			"Novakataku-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			62, -- [11]
-			"Player-580-08DBFA4F", -- [12]
+			918, -- [11]
+			"Player-580-096C052B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff3ec5e9Obchard|r",
-			[51] = 1597673302,
+			[52] = "|cfffefefeNovakataku|r",
+			[51] = 1598910777,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [76]
 		{
-			"Die ingame und DC aktive  Gilde Try Hard Wipe Hard sucht aktive mitspieler ab 18+ für gemeinsame Raids /M+ Dungeons und anderen gemeinsamen Blödsinn :) Wisp me 4 more", -- [1]
-			"Stîlle-Blackmoore", -- [2]
+			"Willkommen bei <UIDs> END OF XPAC SALES! Wir verkaufen M+10-18 (m+15 = 105k), Vision 5 Masken und das Mechagon Mount! Zudem haben wir Bundles wie zB die 12x +15 für das Mount/Erfolg! /w me für weitere Infos :) (Preise verhandelbar))", -- [1]
+			"Uidlucy-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Stîlle-Blackmoore", -- [5]
+			"Uidlucy-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			63, -- [11]
-			"Player-580-08C1268C", -- [12]
+			919, -- [11]
+			"Player-580-096882FC", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Stîlle|r",
-			[51] = 1597673312,
+			[52] = "|cff00fe95Uidlucy|r",
+			[51] = 1598910785,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [77]
 		{
-			"<Oblivion> Wir bieten euch * Ny'alotha 12/12 HC heute 20:30 Uhr mit LS 225k & PL 175. VIP ab 300k buchbar. * M+15-22 in time! M+15 nur 120k! Wunschkey/Armorstack für kl. Aufpreis buchbar. *N'Zoth HC & Jaina Mount. * /w me für mehr Infos. :)", -- [1]
-			"Cutemieze-Blackmoore", -- [2]
+			"Was glaubst du wer du bist?", -- [1]
+			"Delois-Lordaeron", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cutemieze-Blackmoore", -- [5]
+			"", -- [4]
+			"Delois-Lordaeron", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			"Player-580-0919F3B6", -- [12]
+			920, -- [11]
+			"Player-580-09378250", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeCutemieze|r",
-			[51] = 1597673320,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Delois-Lordaeron|r",
+			[51] = 1598910788,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [78]
 		{
-			"Biete Freihafen Levelservice von 110 bis 120 oder einzelne Level. Bei Interesse w/me! :)", -- [1]
-			"Deeaidz-Blackmoore", -- [2]
+			"Verkaufe günstige Freeholdboosts sowie Vision Runs mit 0 - 5 Masken, /w mich wenn ich dein Interesse geweckt habe :D", -- [1]
+			"Donnerschall-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Deeaidz-Blackmoore", -- [5]
+			"Donnerschall-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			65, -- [11]
-			"Player-580-0879DD63", -- [12]
+			921, -- [11]
+			"Player-580-08C04B5F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Deeaidz|r",
-			[51] = 1597673322,
+			[52] = "|cffc59a6cDonnerschall|r",
+			[51] = 1598910788,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [79]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Dfgdrtdrt-Tichondrius", -- [2]
+			"haha is klar", -- [1]
+			"Delois-Lordaeron", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dfgdrtdrt-Tichondrius", -- [5]
+			"", -- [4]
+			"Delois-Lordaeron", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			81, -- [11]
-			"Player-580-094F9768", -- [12]
+			922, -- [11]
+			"Player-580-09378250", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeDfgdrtdrt-Tichondrius|r",
-			[51] = 1597673392,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cfffe7b09Delois-Lordaeron|r",
+			[51] = 1598910790,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [80]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Sdfserwerw-Blackmoore", -- [2]
+			">Nova< Wir verkaufen ! M+10 : 70k , M+15 : 105k Armor Stacks möglich! Keyauswahl möglich!! :)  Nyalotha HC Lootshare : 160k, Nyalotha Mythic auch einzelne Bosse! Level Boosts, Visionen, Legacy, Alles was DEIN Herz begehrt <3", -- [1]
+			"Nbcaritzy-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sdfserwerw-Blackmoore", -- [5]
+			"Nbcaritzy-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			82, -- [11]
-			"Player-580-094F9758", -- [12]
+			924, -- [11]
+			"Player-580-0916E8B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeSdfserwerw|r",
-			[51] = 1597673392,
+			[52] = "|cff3ec5e9Nbcaritzy|r",
+			[51] = 1598910791,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [81]
 		{
-			"Die ingame und DC aktive  Gilde Try Hard Wipe Hard sucht aktive mitspieler ab 18+ für gemeinsame Raids /M+ Dungeons und anderen gemeinsamen Blödsinn :) Wisp me 4 more", -- [1]
-			"Stîlle-Blackmoore", -- [2]
+			">Nova<Verkauft Heute um 23:50 noch Nzoth only für nur 50k! Günstiger und Schneller gibts NIRGENDS :) Jetzt einen Platz buchen und curve genießen <3", -- [1]
+			"Nbcaritzy-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Stîlle-Blackmoore", -- [5]
+			"Nbcaritzy-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			84, -- [11]
-			"Player-580-08C1268C", -- [12]
+			925, -- [11]
+			"Player-580-0916E8B9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffef367Stîlle|r",
-			[51] = 1597673421,
+			[52] = "|cff3ec5e9Nbcaritzy|r",
+			[51] = 1598910791,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [82]
 		{
-			"Biete Freihafen Levelservice von 110 bis 120 oder einzelne Level. Bei Interesse w/me! :)", -- [1]
-			"Deeaidz-Blackmoore", -- [2]
+			"< +15 =110k > <Sylvanas Community> Kompletter AFK RUN! +16 für 150k INTIME+Mit Loot || +17 200k || +18 250k || +20 450k || 3x15 300k||  5x +15 450k || recruiting boosters/  https://discord.gg/S6BXXE", -- [1]
+			"Sylvanascom-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Deeaidz-Blackmoore", -- [5]
+			"Sylvanascom-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			85, -- [11]
-			"Player-580-0879DD63", -- [12]
+			926, -- [11]
+			"Player-580-096C023B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffa22fc8Deeaidz|r",
-			[51] = 1597673422,
+			[52] = "|cfffe7b09Sylvanascom|r",
+			[51] = 1598910828,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"<Oblivion Community> Sichere dir jetzt unsere ||End of ID M+ DEALS|| * M+15 = 120k * Armorstack und Wunschkey für kl. Aufpreis möglich! SONDERANGEBOT für den Keystone Master S4! Außerdem JAINA Mount für 400k & Ny'alotha HC mit PL, LS und VIP! /w me ", -- [1]
-			"Isabellâ-Blackmoore", -- [2]
+			"NOVA verkauft auch heute wieder M+10-23 beim kauf von 2/4/6 keys gibts rabatt[+15 105k] Armorstack bei +14-17 4k und Wunschkey 10k desweiteren verkaufen wir HC/ Mythic Nyalotha / Visions 5 mask 70k und  mehr Interesse? /w me Deutscher Ansprechpartner", -- [1]
+			"Novakataku-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Isabellâ-Blackmoore", -- [5]
+			"Novakataku-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			86, -- [11]
-			"Player-580-091458B2", -- [12]
+			927, -- [11]
+			"Player-580-096C052B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeIsabellâ|r",
-			[51] = 1597673434,
+			[52] = "|cfffefefeNovakataku|r",
+			[51] = 1598910840,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [84]
 		{
-			"<Amazing Stories> Zur Verstärkung unseres 2. Raids suchen wir aktuell 1 Heiler (Pala) & 1 Mage. Raidzeiten sind Donnerstag von 20:30 - 23:00 und Sonntag von 18:00-22:00. Progress 11/12 Mythic /w me bei Interesse", -- [1]
-			"Xârdia-Blackmoore", -- [2]
+			"<NOVA> Montag Curve SPAM, hol dir deinen Heroic N'zoth kill für nur 50k! Start ist 19.30 und alle 15 Minuten danach. Hol dir jetzt dein Mount bevor es in 3 Wochen verschwindet!", -- [1]
+			"Novakataku-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Xârdia-Blackmoore", -- [5]
+			"Novakataku-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			87, -- [11]
-			"Player-580-043CB943", -- [12]
+			928, -- [11]
+			"Player-580-096C052B", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff8686ecXârdia|r",
-			[51] = 1597673452,
+			[52] = "|cfffefefeNovakataku|r",
+			[51] = 1598910840,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [85]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Dfgdrtdrt-Tichondrius", -- [2]
+			"<Tiger Rebels> Gilde verkauft Ny'alotha 12/12hc;Mythic, Jaina Mythic Mount, [Hivemind] Mount und M+ Key zu Bestpreisen. /w für Infos", -- [1]
+			"Nokarath-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Dfgdrtdrt-Tichondrius", -- [5]
+			"Nokarath-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			88, -- [11]
-			"Player-580-094F9768", -- [12]
+			929, -- [11]
+			"Player-580-094FF369", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeDfgdrtdrt-Tichondrius|r",
-			[51] = 1597673504,
+			[52] = "|cff00fe95Nokarath|r",
+			[51] = 1598910855,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [86]
 		{
-			"Kaufen Sie jetzt auf >>www.hostgolds.com<< wir haben 8000k lagernd, die sicherste Website EU, garantierte Lieferung innerhalb von 10 Minuten! >>>www.hostgolds.com <<< 100K =3.99EUR", -- [1]
-			"Sdfserwerw-Blackmoore", -- [2]
+			"Aufgeben? Keine Option für uns! \"Keep Trying\" sucht zur Verstärkung ihres Raids und für andere Gildenaktivitäten engagierte Mitglieder. Durchstarten wollen wir als Semi-Progress Gilde in SL. Discord-Server ist vorhanden. Interesse oder Fragen? /w me.", -- [1]
+			"Caradoris-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Sdfserwerw-Blackmoore", -- [5]
+			"Caradoris-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			89, -- [11]
-			"Player-580-094F9758", -- [12]
+			930, -- [11]
+			"Player-580-08EA7E59", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeSdfserwerw|r",
-			[51] = 1597673504,
+			[52] = "|cffa9d271Caradoris|r",
+			[51] = 1598910869,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [87]
 		{
-			"WTS |cffa335ee|Hitem:175009::::::::120:270::6:8:4824:6578:6579:6474:6455:6515:1517:4786:::|h[Träumerei des fanatischen Ritualisten]|h|r /w me", -- [1]
-			"Nevergiveuup-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nevergiveuup-Blackmoore", -- [5]
+			"dein kumpel hat ja richtig dicke eier mir zu whispern, weil er verkackt hat und mich dann auf ignore zu stellen, damit ich nicht antworten kann xD Und um seine Frage zu beantworten, was ich glaub wer ich bin, ich bin ein top 150 world raider", -- [1]
+			"Yrô-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			464, -- [11]
-			"Player-580-0861008D", -- [12]
+			931, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cff00fe95Nevergiveuup|r",
-			[51] = 1598117066,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910871,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [88]
 		{
-			"Ny'alotha HC Full Run heute Abend um 20 Uhr || Lootshare (kein Stoff) - 225k || Persoloot - 175k || Sicher dir deinen Platz! |||| Oder lieber M+15 für 120k? Armorstack/Wunschkey gg. Aufpreis! |||| /w me :)", -- [1]
-			"Lilianaa-Blackmoore", -- [2]
+			"Verkaufe günstige Freeholdboosts sowie Vision Runs mit 0 - 5 Masken, /w mich wenn ich dein Interesse geweckt habe :D", -- [1]
+			"Donnerschall-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lilianaa-Blackmoore", -- [5]
+			"Donnerschall-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			468, -- [11]
-			"Player-580-08DD31CE", -- [12]
+			932, -- [11]
+			"Player-580-08C04B5F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cff00fe95Lilianaa|r",
-			[51] = 1598117070,
+			[52] = "|cffc59a6cDonnerschall|r",
+			[51] = 1598910875,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [89]
 		{
-			"<Oblivion> Wir bieten euch Ny'alotha 12/12 HC heute 20 Uhr mit PL für 175k & LS für 225k. VIP ab 300k buchbar. * N'Zoth für 70k. * M+15 nur 120k. Armorstack & Wunschkey für kl. Aufpreis buchbar. * Jaina Mount für 400k. * /w me. :)", -- [1]
-			"Cutemieze-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cutemieze-Blackmoore", -- [5]
+			"|cffffff00|Hachievement:14071:Guild-580-000003B1A400:1:3:29:20:4294967295:4294967295:4294967295:4294967295|h[Hall of Fame: N'Zoth the Corruptor (Alliance)]|h|r", -- [1]
+			"Yrô-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			473, -- [11]
-			"Player-580-0919F3B6", -- [12]
+			933, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeCutemieze|r",
-			[51] = 1598117084,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910878,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [90]
 		{
-			"Verkaufe +10-18 M+, vision, level up 110-120, mechagon mit 3k io gp. Du bekommst dein 465item und ein 475 von der wöchentlichen Kiste. Du bekommst alle items,kannst afk gehen , wenn du interessiert bist,kannst du mir eine Nachricht schicken! (nur gold", -- [1]
-			"Atumandra-Blackmoore", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Atumandra-Blackmoore", -- [5]
+			"kannste ihm gerne linken", -- [1]
+			"Yrô-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			474, -- [11]
-			"Player-580-09522E30", -- [12]
+			934, -- [11]
+			"Player-3686-07161F00", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
-			true, -- [17]
-			[52] = "|cfffefefeAtumandra|r",
-			[51] = 1598117088,
-			[50] = "CHAT_MSG_CHANNEL",
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910883,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [91]
 		{
-			"<SavedInstances> Reset all instances", -- [1]
-			"Nexâna-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			479, -- [11]
-			"Player-580-08D5FA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1598117108,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
-		{
-			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
-			"Nexâna-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			480, -- [11]
-			"Player-580-08D5FA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1598117108,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4597:Player-580-08D5FA35:1:8:22:20:4294967295:4294967295:4294967295:4294967295|h[The Frozen Throne (25 player)]|h|r!", -- [1]
-			"Nexâna-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			509, -- [11]
-			"Player-580-08D5FA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1598117411,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [94]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4584:Player-580-08D5FA35:1:8:22:20:4294967295:4294967295:4294967295:4294967295|h[The Light of Dawn]|h|r!", -- [1]
-			"Nexâna-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			510, -- [11]
-			"Player-580-08D5FA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1598117411,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [95]
-		{
-			"%s has earned the achievement |cffffff00|Hachievement:4622:Player-580-08D5FA35:1:8:22:20:4294967295:4294967295:4294967295:4294967295|h[Neck-Deep in Vile (25 player)]|h|r!", -- [1]
-			"Nexâna-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexâna-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			511, -- [11]
-			"Player-580-08D5FA35", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexâna|r",
-			[51] = 1598117411,
-			[50] = "CHAT_MSG_GUILD_ACHIEVEMENT",
-		}, -- [96]
-		{
-			"Biete sehr günstige Visionboosts: 5 Masks (470er item) oder 4 Mask (max mementos + Truhen). 5 Masks = 50k 4 Masks = 40k", -- [1]
-			"Lamun-Blackmoore", -- [2]
+			"<Icecrown> VK Mythic +10 - 21 in time! Wir bieten FREIEN Rüstungsstack oder Spezifischen Key und du bekommst den ganzen Loot der Booster! Rabatt für mehrere Einkäufe bis zu 10%!   /w me  für weitere Infos", -- [1]
+			"Iccswitches-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lamun-Blackmoore", -- [5]
+			"Iccswitches-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			37, -- [11]
-			"Player-580-06C953F1", -- [12]
+			935, -- [11]
+			"Player-580-096C1833", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cffc31d39Lamun|r",
-			[51] = 1598130293,
+			[52] = "|cfffefefeIccswitches|r",
+			[51] = 1598910888,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [92]
+		{
+			"Willkommen bei <UIDs> END OF XPAC SALES! Wir verkaufen M+10-18 (m+15 = 105k), Vision 5 Masken und das Mechagon Mount! Zudem haben wir Bundles wie zB die 12x +15 für das Mount/Erfolg! /w me für weitere Infos :) (Preise verhandelbar))", -- [1]
+			"Uidlucy-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Uidlucy-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			936, -- [11]
+			"Player-580-096882FC", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Uidlucy|r",
+			[51] = 1598910908,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"|cffffff00Trade District is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Stormwind City", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Stormwind City", -- [9]
+			0, -- [10]
+			937, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "",
+			[51] = 1598910914,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"und sag ihm \"hf dabei dein restliches WoW leben nie was zu erreichen und immer schlecht zu bleiben, da du immer die schuld bei anderen suchst und nicht verstehst, wenn du fehler machst\"", -- [1]
+			"Yrô-Antonidas", -- [2]
+			"Common", -- [3]
+			"", -- [4]
+			"Yrô-Antonidas", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			938, -- [11]
+			"Player-3686-07161F00", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffa22fc8Yrô-Antonidas|r",
+			[51] = 1598910916,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [95]
+		{
+			"Hole dir JETZT deine M+15 weekly INTIME! Jeglicher Loot geht an dich, nur Klassen mit deinem Rüstungstyp! - Start in wenigen Minuten - Verkaufe 12/12 HC oder Mythisch - VK auch Jaina Mount - /w für alle Infos und viele weitere Dienste! <IceCrown>", -- [1]
+			"Iccpanda-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Iccpanda-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			939, -- [11]
+			"Player-580-09513323", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec5e9Iccpanda|r",
+			[51] = 1598910924,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"NE eher an meiner ^^", -- [1]
+			"Weißespulver-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Weißespulver-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			3, -- [11]
+			"Player-580-088F8A50", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe95Weißespulver|r",
+			[51] = 1598969023,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"WTS Heroic Kills: <Carapace - 55k>, <N'zoth - 75k>, <Carapace & N'zoth-110k>. Experienced team with 1000+ kills. Having Runs every 30 minutes. Accepting payment on ALL realms. Your 470+ BiS Gear, Curve and Mount is waiting! /w ", -- [1]
-			"Lighthookbl-Blackmoore", -- [2]
+			"lost", -- [1]
+			"Dámi-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Lighthookbl-Blackmoore", -- [5]
+			"Dámi-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			43, -- [11]
-			"Player-580-09315048", -- [12]
+			4, -- [11]
+			"Player-580-08F696A4", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeLighthookbl|r",
-			[51] = 1598130331,
+			[52] = "|cfffef367Dámi|r",
+			[51] = 1598969026,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"Verkaufe +10-18 M+, vision, level up 110-120, mechagon mit 3k io gp. Du bekommst dein 465item und ein 475 von der wöchentlichen Kiste. Du bekommst alle items,kannst afk gehen , wenn du interessiert bist,kannst du mir eine Nachricht schicken! (nur gold", -- [1]
-			"Atumandra-Blackmoore", -- [2]
+			"rip", -- [1]
+			"Kanjiø-Blackmoore", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Atumandra-Blackmoore", -- [5]
+			"Kanjiø-Blackmoore", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			47, -- [11]
-			"Player-580-09522E30", -- [12]
+			5, -- [11]
+			"Player-580-07A1B6C0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			true, -- [17]
-			[52] = "|cfffefefeAtumandra|r",
-			[51] = 1598130391,
+			[52] = "|cffc59a6cKanjiø|r",
+			[51] = 1598969030,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

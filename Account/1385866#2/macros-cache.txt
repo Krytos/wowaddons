@@ -85,6 +85,12 @@ VER 3 0000000000000015 "Dispele" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [pet:Water Strider]Soothing Water; [pet:Spirit Beast] Spirit Shock
 END
+VER 3 0000000000000042 "Dispersion" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cancelaura Dispersion
+/cast Dispersion
+END
 VER 3 0000000000000016 "Distract" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@cursor]Distract
@@ -112,13 +118,14 @@ VER 3 000000000000001E "Guardian of Azer" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000027 "Heart" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/startattack
 /cast [@mouseover,help,nodead][]Heart Essence
-END
-VER 3 000000000000000F "Hero" "INV_MISC_QUESTIONMARK"
-/y HERO / BL ! ! !
 END
 VER 3 000000000000000C "Hero" "INV_MISC_QUESTIONMARK"
 /rw HERO
+END
+VER 3 000000000000000F "Hero" "INV_MISC_QUESTIONMARK"
+/y HERO / BL ! ! !
 END
 VER 3 0000000000000014 "Ini Flame" "INV_MISC_QUESTIONMARK"
 "ich kenne die inis von vor 7 Jahren besser als du, ich bin ja so geil"
@@ -130,6 +137,11 @@ END
 VER 3 0000000000000009 "Levitate" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover, help, nodead][]Levitate
+END
+VER 3 0000000000000040 "MB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Mind Blast
 END
 VER 3 0000000000000026 "MD" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -149,6 +161,7 @@ VER 3 0000000000000008 "Mounts" "INV_MISC_QUESTIONMARK"
 END
 VER 3 0000000000000025 "MS" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/startattack
 /cast [@focus,nodead,exists][]Mind Sear;
 END
 VER 3 0000000000000020 "Passive" "INV_MISC_QUESTIONMARK"
@@ -210,20 +223,20 @@ END
 VER 3 000000000000001D "tar" "INV_MISC_QUESTIONMARK"
 /tar rusty
 END
+VER 3 0000000000000022 "Target" "INV_MISC_QUESTIONMARK"
+/tar @boss1
+END
 VER 3 000000000000000A "TARGET" "INV_MISC_QUESTIONMARK"
 /cancelaura atonement
 /cancelaura glimmer of light
 /cancelaura renewing mist
 END
-VER 3 0000000000000022 "Target" "INV_MISC_QUESTIONMARK"
-/tar @boss1
+VER 3 0000000000000023 "trap" "INV_MISC_QUESTIONMARK"
+/cast [@cursor,mod:alt][mod:alt]Freezing Trap;[@cursor,mod:shift]Tar Trap; [@player] Freezing Trap
 END
 VER 3 000000000000003D "trap" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player]Freezing Trap
-END
-VER 3 0000000000000023 "trap" "INV_MISC_QUESTIONMARK"
-/cast [@cursor,mod:alt][mod:alt]Freezing Trap;[@cursor,mod:shift]Tar Trap; [@player] Freezing Trap
 END
 VER 3 0000000000000012 "Tricks" "INV_MISC_QUESTIONMARK"
 #showtooltip
@@ -242,7 +255,13 @@ VER 3 0000000000000004 "TSMMacro" "Achievement_Faction_GoldenLotus"
 /click TSMVendoringSellAllButton
 /click TSMCraftingBtn
 END
+VER 3 0000000000000041 "VB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack
+/cast Void Eruption
+END
 VER 3 0000000000000036 "VT" "INV_MISC_QUESTIONMARK"
 #showtooltip
+/startattack
 /cast [@mouseover,harm,nodead,exists][]Vampiric Touch
 END

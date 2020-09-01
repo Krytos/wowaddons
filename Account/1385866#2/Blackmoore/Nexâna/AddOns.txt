@@ -18,7 +18,7 @@ AAP-BfA: enabled
 AAP-WoD: enabled
 AAP-Legion: enabled
 TwintopInsanityBar: disabled
-TipTac: enabled
+TipTac: disabled
 TipTacItemRef: enabled
 TipTacOptions: enabled
 TipTacTalents: enabled
@@ -43,3 +43,4 @@ LoggerHead: disabled
 ElvUI_DTBars2: disabled
 AdiBags: enabled
 Sorted: disabled
+Glass: enabled

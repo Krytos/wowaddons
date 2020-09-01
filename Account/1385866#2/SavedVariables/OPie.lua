@@ -2,21 +2,21 @@
 OneRing_Config = {
 	["CenterActions"] = {
 		["Pets"] = "ABuejwz2nBR",
-		["Buffs"] = "ABue4pLOLDwW",
 		["Hunter"] = "ABue4pLOLDk",
 		["Mounts"] = "ABuejfv4Ayr",
+		["Buffs"] = "ABue4pLOLDwW",
 	},
 	["CharProfiles"] = {
 		["Antonidas-Grillboost-3"] = "Hunter",
 		["Blackmoore-Nexâna-3"] = "Hunter",
 		["Blackmoore-Nexana-3"] = "Hunter",
-		["Blackmoore-Nexâna"] = "Hunter",
 		["Blackmoore-Nethenâ-3"] = "Hunter",
+		["Blackmoore-Nexâna"] = "Hunter",
 		["Blackmoore-Noxiâ"] = "Hunter",
-		["Dun Morogh-Grillboost-3"] = "Hunter",
-		["Blackmoore-Nethenâ-2"] = "Hunter",
-		["Blackmoore-Hrst"] = "Hunter",
 		["Blackmoore-Grillpatrol"] = "Hunter",
+		["Blackmoore-Nethenâ-2"] = "Hunter",
+		["Dun Morogh-Grillboost-3"] = "Hunter",
+		["Blackmoore-Hrst"] = "Hunter",
 		["Blackmoore-Lullidan"] = "Hunter",
 		["Blackmoore-Grillock"] = "Hunter",
 	},
@@ -37,24 +37,24 @@ OneRing_Config = {
 			["Bindings"] = {
 				["SpecMenu"] = false,
 				["CommonTrades"] = false,
-				["HunterAspects"] = false,
 				["OPieAutoQuest"] = false,
+				["WorldMarkers"] = false,
 				["HunterTraps"] = false,
-				["Mounts"] = "BUTTON5",
+				["RaidSymbols"] = "ALT-BUTTON3",
 				["TrinketSlots"] = false,
 				["Hunter"] = false,
-				["WorldMarkers"] = false,
+				["HunterAspects"] = false,
 				["OPieTracking"] = false,
 				["Buffs"] = false,
+				["Mounts"] = "BUTTON5",
 				["Pets"] = "BUTTON4",
-				["RaidSymbols"] = "ALT-BUTTON3",
 			},
 			["MIScale"] = false,
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 5,
-			["ClickPriority"] = false,
 			["RingAtMouse"] = true,
+			["ClickPriority"] = false,
 			["ShowCooldowns"] = true,
 			["CenterAction"] = true,
 			["XTPointerSpeed"] = 4,
@@ -101,8 +101,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABue4pLOLDwt",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABue4/sPyJ1",
 					["id"] = 2641,
+					["sliceToken"] = "ABue4/sPyJ1",
 				}, -- [8]
 				{
 					"mount", -- [1]
@@ -120,21 +120,21 @@ OneRing_Config = {
 			},
 			["Hunter"] = {
 				{
-					["sliceToken"] = "ABue4pLOLDk",
 					["id"] = 59752,
+					["sliceToken"] = "ABue4pLOLDk",
 					["fastClick"] = true,
 				}, -- [1]
 				{
-					["sliceToken"] = "ABue4pLOLD4",
 					["id"] = 1543,
+					["sliceToken"] = "ABue4pLOLD4",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABue4pLOLDh",
 					["id"] = 187650,
+					["sliceToken"] = "ABue4pLOLDh",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABue4pLOLDg",
 					["id"] = 187698,
+					["sliceToken"] = "ABue4pLOLDg",
 				}, -- [4]
 				{
 					["id"] = 199483,
@@ -147,21 +147,21 @@ OneRing_Config = {
 			},
 			["Pets"] = {
 				{
-					["sliceToken"] = "ABuejwz2nBR",
 					["id"] = 59752,
+					["sliceToken"] = "ABuejwz2nBR",
 					["fastClick"] = true,
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuejwz2nB7",
 					["id"] = 883,
+					["sliceToken"] = "ABuejwz2nB7",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABuejwz2nBE",
 					["id"] = 83242,
+					["sliceToken"] = "ABuejwz2nBE",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuejwz2nBW",
 					["id"] = 83243,
+					["sliceToken"] = "ABuejwz2nBW",
 				}, -- [4]
 				{
 					"macro", -- [1]
@@ -169,23 +169,23 @@ OneRing_Config = {
 					["sliceToken"] = "ABuejwz2nBn",
 				}, -- [5]
 				{
-					["sliceToken"] = "ABuejwz2nBQ",
 					["id"] = 83244,
+					["sliceToken"] = "ABuejwz2nBQ",
 				}, -- [6]
 				{
-					["sliceToken"] = "ABuejwz2nBm",
 					["id"] = 83245,
+					["sliceToken"] = "ABuejwz2nBm",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABuejw5=vBr",
 					["id"] = 2641,
+					["sliceToken"] = "ABuejw5=vBr",
 				}, -- [8]
 				{
 					["id"] = 199483,
 					["sliceToken"] = "ABuejdc8tBe",
 				}, -- [9]
-				["name"] = "Pets",
 				["save"] = true,
+				["name"] = "Pets",
 				["limit"] = "Grillpatrol-Blackmoore",
 			},
 			["Buffs"] = {
@@ -199,44 +199,44 @@ OneRing_Config = {
 				{
 					"item", -- [1]
 					168310, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4pLOLDwQ",
+					["forceShow"] = true,
 				}, -- [2]
 				{
 					"item", -- [1]
 					127840, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4pLOLDwm",
+					["forceShow"] = true,
 				}, -- [3]
 				{
 					"item", -- [1]
 					168651, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4pLOLDwn",
+					["forceShow"] = true,
 				}, -- [4]
 				{
 					"item", -- [1]
 					169451, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4pLOLDw6",
+					["forceShow"] = true,
 				}, -- [5]
 				{
 					"item", -- [1]
 					141446, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4pLOLDwb",
+					["forceShow"] = true,
 				}, -- [6]
 				{
 					"item", -- [1]
 					168655, -- [2]
-					["sliceToken"] = "ABue4aqciRe",
 					["forceShow"] = true,
+					["sliceToken"] = "ABue4aqciRe",
 				}, -- [7]
 				{
 					"item", -- [1]
 					154167, -- [2]
-					["forceShow"] = true,
 					["sliceToken"] = "ABue4gQGfLe",
+					["forceShow"] = true,
 				}, -- [8]
 				["offset"] = 0,
 				["name"] = "Buffs",

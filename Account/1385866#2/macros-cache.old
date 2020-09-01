@@ -114,11 +114,11 @@ VER 3 0000000000000027 "Heart" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,help,nodead][]Heart Essence
 END
-VER 3 000000000000000C "Hero" "INV_MISC_QUESTIONMARK"
-/rw HERO
-END
 VER 3 000000000000000F "Hero" "INV_MISC_QUESTIONMARK"
 /y HERO / BL ! ! !
+END
+VER 3 000000000000000C "Hero" "INV_MISC_QUESTIONMARK"
+/rw HERO
 END
 VER 3 0000000000000014 "Ini Flame" "INV_MISC_QUESTIONMARK"
 "ich kenne die inis von vor 7 Jahren besser als du, ich bin ja so geil"
@@ -218,12 +218,12 @@ END
 VER 3 0000000000000022 "Target" "INV_MISC_QUESTIONMARK"
 /tar @boss1
 END
-VER 3 0000000000000023 "trap" "INV_MISC_QUESTIONMARK"
-/cast [@cursor,mod:alt][mod:alt]Freezing Trap;[@cursor,mod:shift]Tar Trap; [@player] Freezing Trap
-END
 VER 3 000000000000003D "trap" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@player]Freezing Trap
+END
+VER 3 0000000000000023 "trap" "INV_MISC_QUESTIONMARK"
+/cast [@cursor,mod:alt][mod:alt]Freezing Trap;[@cursor,mod:shift]Tar Trap; [@player] Freezing Trap
 END
 VER 3 0000000000000012 "Tricks" "INV_MISC_QUESTIONMARK"
 #showtooltip

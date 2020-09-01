@@ -14,10 +14,10 @@ HandyNotesDB = {
 		["Grillboost - Zuluhed"] = "Grillboost - Zuluhed",
 		["Grillboost - Dun Morogh"] = "Grillboost - Dun Morogh",
 		["Grillboost - Krag'jin"] = "Grillboost - Krag'jin",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
@@ -53,15 +53,15 @@ HandyNotesDB = {
 		},
 		["Grillboost - Krag'jin"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
-			["icon_alpha_minimap"] = 0.76,
-			["icon_scale_minimap"] = 1.5,
+		["Nethenâ - Blackmoore"] = {
 		},
 		["Nexana - Blackmoore"] = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
+		["Grillpatrol - Blackmoore"] = {
+			["icon_alpha_minimap"] = 0.76,
+			["icon_scale_minimap"] = 1.5,
 		},
 		["Nexanâ - Blackmoore"] = {
 		},
@@ -94,10 +94,10 @@ HandyNotes_HandyNotesDB = {
 		["Grillboost - Zuluhed"] = "Grillboost - Zuluhed",
 		["Grillboost - Dun Morogh"] = "Grillboost - Dun Morogh",
 		["Grillboost - Krag'jin"] = "Grillboost - Krag'jin",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
@@ -133,13 +133,13 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Grillboost - Krag'jin"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
+		["Nethenâ - Blackmoore"] = {
 		},
 		["Nexana - Blackmoore"] = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
+		["Grillpatrol - Blackmoore"] = {
 		},
 		["Nexanâ - Blackmoore"] = {
 		},

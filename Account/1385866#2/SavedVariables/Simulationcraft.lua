@@ -17,11 +17,11 @@ SimulationCraftDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -62,10 +62,7 @@ SimulationCraftDB = {
 		},
 		["Grillboost - Antonidas"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
-			["minimap"] = {
-				["hide"] = true,
-			},
+		["Grillpatrol - Blackmoore"] = {
 		},
 		["Nexanâ - Blackmoore"] = {
 		},
@@ -73,7 +70,10 @@ SimulationCraftDB = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
+		["Nethenâ - Blackmoore"] = {
+			["minimap"] = {
+				["hide"] = true,
+			},
 		},
 		["Noxiâ - Blackmoore"] = {
 		},

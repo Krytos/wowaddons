@@ -1,13 +1,11 @@
 
 MogItDB = {
-	["global"] = {
-		["version"] = "3.9.0",
-	},
 	["profileKeys"] = {
+		["Nexana - Blackmoore"] = "Default",
 		["Nethenâ - Blackmoore"] = "Default",
 		["Grillboost - Alexstrasza"] = "Default",
+		["Hôrst - Ravencrest"] = "Default",
 		["Obliviongril - Bronze Dragonflight"] = "Default",
-		["Nexana - Blackmoore"] = "Default",
 		["Grillpatrol - Blackmoore"] = "Default",
 		["Neaxa - Blackmoore"] = "Default",
 		["Nexanâ - Blackmoore"] = "Default",
@@ -18,65 +16,77 @@ MogItDB = {
 		["Lullidan - Blackmoore"] = "Default",
 		["Grillock - Blackmoore"] = "Default",
 	},
+	["global"] = {
+		["version"] = "3.9.0",
+	},
 	["profiles"] = {
 		["Default"] = {
 			["previewProps"] = {
 				{
-					["y"] = 69.58712005615234,
+					["y"] = 5.587161064147949,
 					["h"] = 560.7462768554688,
-					["point"] = "RIGHT",
 					["w"] = 528.0159301757812,
-					["x"] = -113.8965454101563,
+					["x"] = 345.0956115722656,
 				}, -- [1]
+				{
+					["y"] = 0,
+					["h"] = 384.9999389648438,
+					["x"] = 0,
+				}, -- [2]
 			},
 			["gridHeight"] = 943.4918823242188,
-			["x"] = 1.016013860702515,
+			["x"] = -103.0629425048828,
 			["slotLabels"] = {
 				["Waist"] = "Waist",
 				["Fist"] = "Fist Weapons",
 				["Tabard"] = "Tabard",
 				["Legs"] = "Legs",
 				["Back"] = "Back",
-				["2H-axe"] = "Two-Handed Axes",
-				["2H-mace"] = "Two-Handed Maces",
+				["Warglaives"] = "Warglaives",
+				["ArtifactLegion"] = "Legion Artifacts",
 				["Shirt"] = "Shirt",
 				["Dagger"] = "Daggers",
 				["Hands"] = "Hands",
 				["Gun"] = "Guns",
 				["Polearm"] = "Polearms",
 				["2H-sword"] = "Two-Handed Swords",
-				["Warglaives"] = "Warglaives",
-				["ArtifactLegion"] = "Legion Artifacts",
+				["2H-axe"] = "Two-Handed Axes",
+				["2H-mace"] = "Two-Handed Maces",
 				["1H-mace"] = "One-Handed Maces",
 				["Head"] = "Head",
 				["Holdable"] = "Held In Off-hand",
-				["Shield"] = "Shields",
-				["1H-sword"] = "One-Handed Swords",
-				["Staff"] = "Staves",
-				["Chest"] = "Chest",
-				["1H-axe"] = "One-Handed Axes",
-				["Crossbow"] = "Crossbows",
-				["Wrist"] = "Wrist",
-				["Feet"] = "Feet",
 				["Bow"] = "Bows",
+				["Staff"] = "Staves",
+				["Feet"] = "Feet",
+				["Chest"] = "Chest",
+				["Wrist"] = "Wrist",
+				["Crossbow"] = "Crossbows",
+				["1H-axe"] = "One-Handed Axes",
+				["1H-sword"] = "One-Handed Swords",
+				["Shield"] = "Shields",
 				["Shoulder"] = "Shoulder",
 				["Wand"] = "Wands",
 			},
 			["minimap"] = {
 				["minimapPos"] = 185.5055332131577,
 			},
+			["tooltip"] = false,
 			["gridWidth"] = 1293.842041015625,
-			["point"] = "LEFT",
-			["y"] = -7.619038105010986,
+			["point"] = "TOP",
+			["y"] = -14.87300968170166,
 		},
 	},
 }
 MogItWishlist = {
+	["global"] = {
+		["version"] = 80300,
+	},
 	["profileKeys"] = {
+		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Grillboost - Alexstrasza"] = "Grillboost - Alexstrasza",
+		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Obliviongril - Bronze Dragonflight"] = "Obliviongril - Bronze Dragonflight",
-		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
@@ -87,17 +97,16 @@ MogItWishlist = {
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
 	},
-	["global"] = {
-		["version"] = 80300,
-	},
 	["profiles"] = {
+		["Nexana - Blackmoore"] = {
+		},
 		["Nethenâ - Blackmoore"] = {
 		},
 		["Grillboost - Alexstrasza"] = {
 		},
-		["Obliviongril - Bronze Dragonflight"] = {
+		["Hôrst - Ravencrest"] = {
 		},
-		["Nexana - Blackmoore"] = {
+		["Obliviongril - Bronze Dragonflight"] = {
 		},
 		["Grillpatrol - Blackmoore"] = {
 			["items"] = {
@@ -115,6 +124,25 @@ MogItWishlist = {
 		["Nexanâ - Ravencrest"] = {
 		},
 		["Nexâna - Blackmoore"] = {
+			["sets"] = {
+				{
+					["items"] = {
+						["ChestSlot"] = "item:147167:0",
+						["WristSlot"] = "item:159282:0",
+						["ShoulderSlot"] = "item:113903:0",
+						["MainHandSlot"] = "item:124380:0",
+						["FeetSlot"] = "item:40269:0",
+						["BackSlot"] = "item:121482:0",
+						["HandsSlot"] = "item:113933:0",
+						["LegsSlot"] = "item:156695:0",
+						["HeadSlot"] = "item:147165:0",
+						["WaistSlot"] = "item:113656:0",
+					},
+					["name"] = "Priest",
+					["alternateItems"] = {
+					},
+				}, -- [1]
+			},
 		},
 		["Hrst - Blackmoore"] = {
 		},

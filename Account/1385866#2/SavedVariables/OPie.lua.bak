@@ -1,24 +1,24 @@
 
 OneRing_Config = {
 	["CenterActions"] = {
-		["Mounts"] = "ABuejfv4Ayr",
+		["Pets"] = "ABuejwz2nBR",
 		["Buffs"] = "ABue4pLOLDwW",
 		["Hunter"] = "ABue4pLOLDk",
-		["Pets"] = "ABuejwz2nBR",
+		["Mounts"] = "ABuejfv4Ayr",
 	},
 	["CharProfiles"] = {
 		["Antonidas-Grillboost-3"] = "Hunter",
 		["Blackmoore-Nexâna-3"] = "Hunter",
 		["Blackmoore-Nexana-3"] = "Hunter",
 		["Blackmoore-Grillock"] = "Hunter",
-		["Blackmoore-Nethenâ-3"] = "Hunter",
-		["Blackmoore-Noxiâ"] = "Hunter",
-		["Blackmoore-Grillpatrol"] = "Hunter",
-		["Blackmoore-Nethenâ-2"] = "Hunter",
-		["Dun Morogh-Grillboost-3"] = "Hunter",
-		["Blackmoore-Hrst"] = "Hunter",
-		["Blackmoore-Lullidan"] = "Hunter",
 		["Blackmoore-Nexâna"] = "Hunter",
+		["Blackmoore-Noxiâ"] = "Hunter",
+		["Blackmoore-Hrst"] = "Hunter",
+		["Blackmoore-Nethenâ-2"] = "Hunter",
+		["Blackmoore-Grillpatrol"] = "Hunter",
+		["Dun Morogh-Grillboost-3"] = "Hunter",
+		["Blackmoore-Lullidan"] = "Hunter",
+		["Blackmoore-Nethenâ-3"] = "Hunter",
 	},
 	["_GameVersion"] = "8.3.7",
 	["_OPieVersion"] = "Walnut 6 (3.101)",
@@ -37,49 +37,49 @@ OneRing_Config = {
 			["Bindings"] = {
 				["SpecMenu"] = false,
 				["CommonTrades"] = false,
-				["Mounts"] = "BUTTON5",
 				["RaidSymbols"] = "ALT-BUTTON3",
-				["HunterTraps"] = false,
 				["Pets"] = "BUTTON4",
+				["HunterTraps"] = false,
+				["Mounts"] = "BUTTON5",
 				["TrinketSlots"] = false,
 				["Buffs"] = false,
-				["WorldMarkers"] = false,
+				["HunterAspects"] = false,
 				["OPieTracking"] = false,
 				["Hunter"] = false,
+				["WorldMarkers"] = false,
 				["OPieAutoQuest"] = false,
-				["HunterAspects"] = false,
 			},
 			["MIScale"] = false,
 			["XTScaleSpeed"] = 4,
 			["MISpinOnHide"] = false,
 			["XTRotationPeriod"] = 5,
 			["ShowCooldowns"] = true,
-			["RingAtMouse"] = true,
+			["ClickPriority"] = false,
 			["UseGameTooltip"] = false,
 			["CenterAction"] = true,
 			["XTPointerSpeed"] = 4,
-			["ClickPriority"] = false,
+			["RingAtMouse"] = true,
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
 			["Pets"] = {
 				{
-					["sliceToken"] = "ABuejwz2nBR",
 					["id"] = 59752,
+					["sliceToken"] = "ABuejwz2nBR",
 					["fastClick"] = true,
 				}, -- [1]
 				{
-					["sliceToken"] = "ABuejwz2nB7",
 					["id"] = 883,
+					["sliceToken"] = "ABuejwz2nB7",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABuejwz2nBE",
 					["id"] = 83242,
+					["sliceToken"] = "ABuejwz2nBE",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABuejwz2nBW",
 					["id"] = 83243,
+					["sliceToken"] = "ABuejwz2nBW",
 				}, -- [4]
 				{
 					"macro", -- [1]
@@ -87,23 +87,23 @@ OneRing_Config = {
 					["sliceToken"] = "ABuejwz2nBn",
 				}, -- [5]
 				{
-					["sliceToken"] = "ABuejwz2nBQ",
 					["id"] = 83244,
+					["sliceToken"] = "ABuejwz2nBQ",
 				}, -- [6]
 				{
-					["sliceToken"] = "ABuejwz2nBm",
 					["id"] = 83245,
+					["sliceToken"] = "ABuejwz2nBm",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABuejw5=vBr",
 					["id"] = 2641,
+					["sliceToken"] = "ABuejw5=vBr",
 				}, -- [8]
 				{
 					["id"] = 199483,
 					["sliceToken"] = "ABuejdc8tBe",
 				}, -- [9]
-				["limit"] = "Grillpatrol-Blackmoore",
 				["save"] = true,
+				["limit"] = "Grillpatrol-Blackmoore",
 				["name"] = "Pets",
 			},
 			["Buffs"] = {
@@ -199,8 +199,8 @@ OneRing_Config = {
 					["sliceToken"] = "ABue4pLOLDwt",
 				}, -- [7]
 				{
-					["sliceToken"] = "ABue4/sPyJ1",
 					["id"] = 2641,
+					["sliceToken"] = "ABue4/sPyJ1",
 				}, -- [8]
 				{
 					"mount", -- [1]
@@ -218,21 +218,21 @@ OneRing_Config = {
 			},
 			["Hunter"] = {
 				{
-					["sliceToken"] = "ABue4pLOLDk",
 					["id"] = 59752,
+					["sliceToken"] = "ABue4pLOLDk",
 					["fastClick"] = true,
 				}, -- [1]
 				{
-					["sliceToken"] = "ABue4pLOLD4",
 					["id"] = 1543,
+					["sliceToken"] = "ABue4pLOLD4",
 				}, -- [2]
 				{
-					["sliceToken"] = "ABue4pLOLDh",
 					["id"] = 187650,
+					["sliceToken"] = "ABue4pLOLDh",
 				}, -- [3]
 				{
-					["sliceToken"] = "ABue4pLOLDg",
 					["id"] = 187698,
+					["sliceToken"] = "ABue4pLOLDg",
 				}, -- [4]
 				{
 					["id"] = 199483,

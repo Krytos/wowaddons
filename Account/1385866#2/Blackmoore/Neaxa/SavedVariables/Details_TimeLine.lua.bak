@@ -3,14 +3,117 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_start"] = "02:29:46",
-			["date_end"] = "02:32:32",
-			["name"] = "The Lich King",
-			["total_time"] = 169.1210000000428,
+			["date_end"] = "01:00:07",
+			["date_start"] = "00:59:54",
+			["name"] = "Beastlord Darmac",
+			["total_time"] = 13.62799999999697,
 		}, -- [1]
 	},
 	["hide_on_combat"] = false,
 	["IndividualSpells"] = {
+		{
+			[175981] = {
+				{
+					3.435000000026776, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[181089] = {
+				{
+					7.079000000027008, -- [1]
+					"Beastlord Darmac", -- [2]
+					181089, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.70000000001164, -- [1]
+					"Beastlord Darmac", -- [2]
+					181089, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[175941] = {
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175941, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [1]
+		{
+			[68981] = {
+				{
+					13.43599999999788, -- [1]
+					"The Lich King", -- [2]
+					68981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[34189] = {
+				{
+					171.5879999999997, -- [1]
+					"Mischievous Ferret", -- [2]
+					34189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[71769] = {
+				{
+					92.4519999999975, -- [1]
+					"The Lich King", -- [2]
+					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72133] = {
+				{
+					15.10900000000038, -- [1]
+					"The Lich King", -- [2]
+					72133, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Neaxa", -- [5]
+				}, -- [1]
+			},
+			[70541] = {
+				{
+					5.661000000000058, -- [1]
+					"The Lich King", -- [2]
+					70541, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72350] = {
+				{
+					22.0679999999993, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72259] = {
+				{
+					18.3279999999977, -- [1]
+					"The Lich King", -- [2]
+					72259, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [2]
 		{
 			[68981] = {
 				{
@@ -20,21 +123,20 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
+			[72259] = {
+				{
+					18.25, -- [1]
+					"The Lich King", -- [2]
+					72259, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[71769] = {
 				{
 					91.13299999991432, -- [1]
 					"The Lich King", -- [2]
 					71769, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[72133] = {
-				{
-					15.01699999999255, -- [1]
-					"The Lich King", -- [2]
-					72133, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Neaxa", -- [5]
 				}, -- [1]
 			},
 			[70541] = {
@@ -53,15 +155,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[72259] = {
+			[72133] = {
 				{
-					18.25, -- [1]
+					15.01699999999255, -- [1]
 					"The Lich King", -- [2]
-					72259, -- [3]
+					72133, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Neaxa", -- [5]
 				}, -- [1]
 			},
-		}, -- [1]
+		}, -- [3]
 		{
 			[72350] = {
 				{
@@ -79,13 +182,21 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [2]
+		}, -- [4]
 		{
 			[71769] = {
 				{
 					86.31400000001304, -- [1]
 					"The Lich King", -- [2]
 					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72350] = {
+				{
+					16.69000000006054, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -105,21 +216,21 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[72350] = {
-				{
-					16.69000000006054, -- [1]
-					"The Lich King", -- [2]
-					72350, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [3]
+		}, -- [5]
 		{
 			[71769] = {
 				{
 					88.11100000003353, -- [1]
 					"The Lich King", -- [2]
 					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70541] = {
+				{
+					6.394000000087544, -- [1]
+					"The Lich King", -- [2]
+					70541, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -139,15 +250,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[70541] = {
-				{
-					6.394000000087544, -- [1]
-					"The Lich King", -- [2]
-					70541, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [4]
+		}, -- [6]
 		{
 			[66021] = {
 				{
@@ -192,53 +295,13 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [5]
+		}, -- [7]
 		{
 			[68981] = {
 				{
 					17.41700000000128, -- [1]
 					"The Lich King", -- [2]
 					68981, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[72259] = {
-				{
-					22.31000000000131, -- [1]
-					"The Lich King", -- [2]
-					72259, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[70358] = {
-				{
-					8.520000000000437, -- [1]
-					"The Lich King", -- [2]
-					70358, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[71769] = {
-				{
-					98.21600000000035, -- [1]
-					"The Lich King", -- [2]
-					71769, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[70541] = {
-				{
-					5.157999999999447, -- [1]
-					"The Lich King", -- [2]
-					70541, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[72350] = {
-				{
-					27.64900000000125, -- [1]
-					"The Lich King", -- [2]
-					72350, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -265,13 +328,69 @@ DetailsTimeLineDB = {
 					"Neaxa", -- [5]
 				}, -- [3]
 			},
-		}, -- [6]
+			[70358] = {
+				{
+					8.520000000000437, -- [1]
+					"The Lich King", -- [2]
+					70358, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72259] = {
+				{
+					22.31000000000131, -- [1]
+					"The Lich King", -- [2]
+					72259, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70541] = {
+				{
+					5.157999999999447, -- [1]
+					"The Lich King", -- [2]
+					70541, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72350] = {
+				{
+					27.64900000000125, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[71769] = {
+				{
+					98.21600000000035, -- [1]
+					"The Lich King", -- [2]
+					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [8]
 		{
 			[68981] = {
 				{
 					21.96500000000378, -- [1]
 					"The Lich King", -- [2]
 					68981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72259] = {
+				{
+					26.83800000000338, -- [1]
+					"The Lich King", -- [2]
+					72259, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[70358] = {
+				{
+					9.01600000000326, -- [1]
+					"The Lich King", -- [2]
+					70358, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -283,11 +402,19 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-			[70358] = {
+			[70541] = {
 				{
-					9.01600000000326, -- [1]
+					5.645000000004075, -- [1]
 					"The Lich King", -- [2]
-					70358, -- [3]
+					70541, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[72350] = {
+				{
+					33.01000000000204, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -314,31 +441,7 @@ DetailsTimeLineDB = {
 					"Neaxa", -- [5]
 				}, -- [3]
 			},
-			[70541] = {
-				{
-					5.645000000004075, -- [1]
-					"The Lich King", -- [2]
-					70541, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[72350] = {
-				{
-					33.01000000000204, -- [1]
-					"The Lich King", -- [2]
-					72350, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[72259] = {
-				{
-					26.83800000000338, -- [1]
-					"The Lich King", -- [2]
-					72259, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-		}, -- [7]
+		}, -- [9]
 	},
 	["useicons"] = true,
 	["cooldowns_timeline"] = {
@@ -353,28 +456,12 @@ DetailsTimeLineDB = {
 	["debuff_timeline"] = {
 		{
 			["Neaxa"] = {
-				[72133] = {
-					15.01699999999255, -- [1]
-					18.01699999999255, -- [2]
+				[155030] = {
+					10.73000000001048, -- [1]
+					13.62799999999697, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "The Lich King",
-					["active"] = false,
-				},
-				[70541] = {
-					6.790999999968335, -- [1]
-					7.804999999934807, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "The Lich King",
-					["active"] = false,
-				},
-				[72350] = {
-					23.22900000005029, -- [1]
-					25.21900000004098, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "The Lich King",
+					["source"] = "Dreadwing",
 					["active"] = false,
 				},
 			},
@@ -387,6 +474,97 @@ DetailsTimeLineDB = {
 		0.4, -- [4]
 	},
 	["BossSpellCast"] = {
+		{
+			["Iron Slag-Shaper"] = {
+				{
+					3.435000000026776, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175941, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					13.62799999999697, -- [1]
+					"Iron Slag-Shaper", -- [2]
+					175981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			["Beastlord Darmac"] = {
+				{
+					7.079000000027008, -- [1]
+					"Beastlord Darmac", -- [2]
+					181089, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.70000000001164, -- [1]
+					"Beastlord Darmac", -- [2]
+					181089, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["The Lich King"] = {
+				{
+					5.661000000000058, -- [1]
+					"The Lich King", -- [2]
+					70541, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.43599999999788, -- [1]
+					"The Lich King", -- [2]
+					68981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					15.10900000000038, -- [1]
+					"The Lich King", -- [2]
+					72133, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Neaxa", -- [5]
+				}, -- [3]
+				{
+					18.3279999999977, -- [1]
+					"The Lich King", -- [2]
+					72259, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					22.0679999999993, -- [1]
+					"The Lich King", -- [2]
+					72350, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					92.4519999999975, -- [1]
+					"The Lich King", -- [2]
+					71769, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+			},
+			["Mischievous Ferret"] = {
+				{
+					171.5879999999997, -- [1]
+					"Mischievous Ferret", -- [2]
+					34189, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [2]
 		{
 			["The Lich King"] = {
 				{
@@ -427,7 +605,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-		}, -- [1]
+		}, -- [3]
 		{
 			["The Lich King"] = {
 				{
@@ -443,7 +621,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [2]
+		}, -- [4]
 		{
 			["The Lich King"] = {
 				{
@@ -471,7 +649,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [3]
+		}, -- [5]
 		{
 			["The Lich King"] = {
 				{
@@ -499,7 +677,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [4]
+		}, -- [6]
 		{
 			["Ebon Champion"] = {
 				{
@@ -544,7 +722,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [5]
+		}, -- [7]
 		{
 			["The Lich King"] = {
 				{
@@ -605,7 +783,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [6]
+		}, -- [8]
 		{
 			["The Lich King"] = {
 				{
@@ -666,6 +844,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [7]
+		}, -- [9]
 	},
 }

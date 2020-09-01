@@ -9,7 +9,7 @@ TipTac_Config = {
 	["backdropEdgeSize"] = 14,
 	["if_showSpellIdAndRank"] = true,
 	["showTarget"] = "last",
-	["colSameGuild"] = "|cffff32ff",
+	["preFadeTime"] = 0.1,
 	["tipBackdropBG"] = "Interface\\Buttons\\WHITE8X8",
 	["fontFlags"] = "",
 	["tipColor"] = {
@@ -21,7 +21,7 @@ TipTac_Config = {
 	["hideDefaultBar"] = true,
 	["healthBar"] = true,
 	["colRace"] = "|cffffffff",
-	["fontSizeDelta"] = 2,
+	["hideWorldTips"] = true,
 	["tipBorderColor"] = {
 		0.3, -- [1]
 		0.3, -- [2]
@@ -31,36 +31,31 @@ TipTac_Config = {
 	["classification_normal"] = "%s ",
 	["colLevel"] = "|cffc0c0c0",
 	["healthBarClassColor"] = true,
-	["hideWorldTips"] = true,
 	["healthBarText"] = "value",
+	["powerBar"] = false,
 	["reactColoredBorder"] = false,
 	["classification_minus"] = "-%s ",
 	["barFontFlags"] = "OUTLINE",
-	["showHiddenTipsOnShift"] = true,
 	["if_showItemId"] = true,
-	["barFontFace"] = "Fonts\\ARIALN.TTF",
+	["gradientTip"] = true,
+	["left"] = 1588.3173828125,
 	["fontSize"] = 12,
 	["classification_rare"] = "%s|r (Rare) ",
 	["enableChatHoverTips"] = true,
 	["colorGuildByReaction"] = true,
-	["anchorFrameTipType"] = "normal",
-	["left"] = 1588.3173828125,
-	["showGuildRank"] = true,
-	["hideUFTipsInCombat"] = true,
+	["top"] = 285.3809509277344,
+	["optionsBottom"] = 418.4920654296875,
+	["if_showItemLevel"] = false,
+	["classification_worldboss"] = "%s|r (Boss) ",
 	["reactColoredBackdrop"] = false,
 	["hideAllTipsInCombat"] = false,
 	["classification_trivial"] = "~%s ",
 	["backdropInsets"] = 2.5,
-	["powerBar"] = false,
-	["healthBarColor"] = {
-		0.3, -- [1]
-		0.9, -- [2]
-		0.3, -- [3]
-		1, -- [4]
-	},
-	["colorNameByClass"] = false,
+	["fadeTime"] = 0.1,
+	["colSameGuild"] = "|cffff32ff",
 	["classification_rareelite"] = "+%s|r (Rare) ",
 	["manaBar"] = false,
+	["colorNameByClass"] = false,
 	["gradientColor"] = {
 		0.8, -- [1]
 		0.8, -- [2]
@@ -69,15 +64,20 @@ TipTac_Config = {
 	},
 	["classColoredBorder"] = false,
 	["anchorWorldUnitType"] = "normal",
-	["fadeTime"] = 0.1,
+	["healthBarColor"] = {
+		0.3, -- [1]
+		0.9, -- [2]
+		0.3, -- [3]
+		1, -- [4]
+	},
 	["targetYouText"] = "<<YOU>>",
-	["if_showItemLevel"] = false,
-	["top"] = 285.3809509277344,
-	["classification_worldboss"] = "%s|r (Boss) ",
-	["gradientTip"] = true,
-	["optionsBottom"] = 418.4920654296875,
+	["hideUFTipsInCombat"] = true,
+	["showGuildRank"] = true,
+	["anchorFrameTipType"] = "normal",
+	["barFontFace"] = "Fonts\\ARIALN.TTF",
 	["anchorWorldTipType"] = "normal",
+	["showHiddenTipsOnShift"] = true,
 	["barFontSize"] = 10,
 	["anchorFrameUnitType"] = "normal",
-	["preFadeTime"] = 0.1,
+	["fontSizeDelta"] = 2,
 }

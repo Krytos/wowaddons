@@ -17,11 +17,11 @@ ElephantDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -80,10 +80,8 @@ ElephantDB = {
 		},
 		["Grillboost - Antonidas"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
-			["minimap"] = {
-				["minimapPos"] = 247.3877532576787,
-			},
+		["Grillpatrol - Blackmoore"] = {
+			["maxlog"] = 10000,
 		},
 		["Nexanâ - Blackmoore"] = {
 			["minimap"] = {
@@ -97,8 +95,10 @@ ElephantDB = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
-			["maxlog"] = 10000,
+		["Nethenâ - Blackmoore"] = {
+			["minimap"] = {
+				["minimapPos"] = 247.3877532576787,
+			},
 		},
 		["Noxiâ - Blackmoore"] = {
 		},

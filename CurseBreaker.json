@@ -122,19 +122,19 @@
         },
         {
             "Checksums": {
-                "AAP-Core": "eb12ee8a8c0cbad32525c4c36dbb6900",
+                "AAP-Core": "7d8f03e26e8ebe922fb963001252f96b",
                 "AAP-EasternKingdoms": "116e519d10a179392514660504d26452",
                 "AAP-Shadowlands": "e9740305f357459fa97bfe875a773fed"
             },
             "Development": 1,
             "Directories": [
-                "AAP-Core",
                 "AAP-Shadowlands",
+                "AAP-Core",
                 "AAP-EasternKingdoms"
             ],
             "Name": "Azeroth Auto Pilot",
             "URL": "https://www.curseforge.com/wow/addons/azeroth-auto-pilot",
-            "Version": "V9.022-Beta"
+            "Version": "V9.025-Beta"
         },
         {
             "Checksums": {
@@ -152,17 +152,17 @@
             },
             "Development": 1,
             "Directories": [
-                "BigWigs_Core",
-                "BigWigs_EternalPalace",
-                "BigWigs_Options",
-                "BigWigs_CrucibleOfStorms",
                 "BigWigs_Nyalotha",
-                "BigWigs_Uldir",
-                "BigWigs_CastleNathria",
-                "BigWigs_Plugins",
+                "BigWigs_CrucibleOfStorms",
                 "BigWigs",
                 "BigWigs_BattleOfDazaralor",
-                "BigWigs_Azeroth"
+                "BigWigs_Plugins",
+                "BigWigs_Options",
+                "BigWigs_Core",
+                "BigWigs_Azeroth",
+                "BigWigs_CastleNathria",
+                "BigWigs_EternalPalace",
+                "BigWigs_Uldir"
             ],
             "Name": "BigWigs Bossmods",
             "URL": "https://www.curseforge.com/wow/addons/big-wigs",
@@ -253,12 +253,12 @@
             "Development": 1,
             "Directories": [
                 "Details_TinyThreat",
-                "Details_Vanguard",
+                "Details_RaidCheck",
+                "Details_EncounterDetails",
                 "Details",
                 "Details_DataStorage",
-                "Details_EncounterDetails",
-                "Details_Streamer",
-                "Details_RaidCheck"
+                "Details_Vanguard",
+                "Details_Streamer"
             ],
             "Name": "Details! Damage Meter",
             "URL": "https://www.curseforge.com/wow/addons/details",
@@ -338,7 +338,7 @@
         },
         {
             "Checksums": {
-                "ElvUI_SLE": "b0cddfbbbe4c3a0d9733ef0cc0be828b"
+                "ElvUI_SLE": "96b59e680134522e3cde43f1555dcb2c"
             },
             "Development": 1,
             "Directories": [
@@ -346,7 +346,7 @@
             ],
             "Name": "ElvUI Shadow & Light",
             "URL": "https://www.curseforge.com/wow/addons/elvui-shadow-light",
-            "Version": "v3.77"
+            "Version": "v3.78"
         },
         {
             "Checksums": {
@@ -511,8 +511,8 @@
             },
             "Development": 1,
             "Directories": [
-                "MethodDungeonTools",
-                "MythicDungeonTools"
+                "MythicDungeonTools",
+                "MethodDungeonTools"
             ],
             "Name": "Mythic Dungeon Tools",
             "URL": "https://www.curseforge.com/wow/addons/method-dungeon-tools",
@@ -520,7 +520,7 @@
         },
         {
             "Checksums": {
-                "MythicPlusTimer": "e39461fa1eb8c8dfd6fe104a22ba2454"
+                "MythicPlusTimer": "f12eef83e68079288ed20f6f7c07f903"
             },
             "Development": 1,
             "Directories": [
@@ -528,7 +528,7 @@
             ],
             "Name": "MythicPlusTimer",
             "URL": "https://www.curseforge.com/wow/addons/mythicplustimer",
-            "Version": "MythicPlusTimer 4.0.0 Beta 4"
+            "Version": "MythicPlusTimer 4.0.0 Beta 5"
         },
         {
             "Checksums": {
@@ -642,7 +642,7 @@
         },
         {
             "Checksums": {
-                "RaiderIO": "12c43181c63d12faa16a07c95d862c91",
+                "RaiderIO": "ffee6df3ed42186796603679326010e1",
                 "RaiderIO_DB_EU_A": "fd959a8a6c27b885904f3692f96fdcf3",
                 "RaiderIO_DB_EU_A_R": "f75e949037b35cb7ed1dd0fe35729ae3",
                 "RaiderIO_DB_EU_H": "9552561b19236903824907281da06bd6",
@@ -662,31 +662,31 @@
             },
             "Development": 1,
             "Directories": [
-                "RaiderIO_DB_KR_H_R",
                 "RaiderIO_DB_KR_A_R",
-                "RaiderIO_DB_US_H_R",
-                "RaiderIO_DB_US_A",
                 "RaiderIO_DB_US_H",
-                "RaiderIO_DB_EU_A",
-                "RaiderIO_DB_TW_A",
-                "RaiderIO_DB_TW_H_R",
-                "RaiderIO_DB_EU_H",
-                "RaiderIO_DB_TW_A_R",
-                "RaiderIO",
-                "RaiderIO_DB_TW_H",
-                "RaiderIO_DB_KR_H",
                 "RaiderIO_DB_US_A_R",
+                "RaiderIO_DB_TW_A",
                 "RaiderIO_DB_EU_A_R",
+                "RaiderIO_DB_TW_A_R",
                 "RaiderIO_DB_EU_H_R",
-                "RaiderIO_DB_KR_A"
+                "RaiderIO_DB_EU_A",
+                "RaiderIO",
+                "RaiderIO_DB_EU_H",
+                "RaiderIO_DB_KR_H_R",
+                "RaiderIO_DB_US_H_R",
+                "RaiderIO_DB_TW_H_R",
+                "RaiderIO_DB_KR_A",
+                "RaiderIO_DB_TW_H",
+                "RaiderIO_DB_US_A",
+                "RaiderIO_DB_KR_H"
             ],
             "Name": "Raider.IO Mythic Plus and Raid Progress",
             "URL": "https://www.curseforge.com/wow/addons/raiderio",
-            "Version": "v202008270600"
+            "Version": "v202009010600"
         },
         {
             "Checksums": {
-                "RareScanner": "78fe294c9c3ed8ceaf5835e086454c79"
+                "RareScanner": "19db8416ef1da2b1fb72c8fd2c259bd1"
             },
             "Development": 1,
             "Directories": [
@@ -694,7 +694,7 @@
             ],
             "Name": "RareScanner",
             "URL": "https://www.curseforge.com/wow/addons/rarescanner",
-            "Version": "RareScanner_8.6"
+            "Version": "RareScanner_9.0.0b1"
         },
         {
             "Checksums": {
@@ -806,7 +806,7 @@
         },
         {
             "Checksums": {
-                "TheUndermineJournal": "2c7f72dee21cf57990b22d4792e979b9"
+                "TheUndermineJournal": "1bdf3fb54c441e9fcb15ae059ab50e6b"
             },
             "Development": 1,
             "Directories": [
@@ -814,7 +814,7 @@
             ],
             "Name": "The Undermine Journal",
             "URL": "https://www.curseforge.com/wow/addons/undermine-journal",
-            "Version": "TheUndermineJournal.5.5.20200825.zip"
+            "Version": "TheUndermineJournal.5.5.20200901.zip"
         },
         {
             "Checksums": {
@@ -850,11 +850,11 @@
             },
             "Development": 1,
             "Directories": [
-                "WeakAurasTemplates",
                 "WeakAurasModelPaths",
                 "WeakAurasOptions",
                 "WeakAuras",
-                "WeakAurasArchive"
+                "WeakAurasArchive",
+                "WeakAurasTemplates"
             ],
             "Name": "WeakAuras",
             "URL": "https://www.curseforge.com/wow/addons/weakauras-2",
@@ -947,19 +947,19 @@
         },
         {
             "Checksums": {
-                "Glass": "174b831479523f595c9b0f5b2150246e"
+                "Glass": "4dc0a6b739e09c25897991adbcef5adf"
             },
             "Directories": [
                 "Glass"
             ],
             "Name": "Glass",
             "URL": "https://www.curseforge.com/wow/addons/glass",
-            "Version": "1.1.1"
+            "Version": "1.2.1"
         },
         {
             "Checksums": {
-                "ElvUI": "802fe83bd36dd28e2e2ce871c82466bd",
-                "ElvUI_OptionsUI": "f095d2f76a5ed04e5947a4ec669a22d6"
+                "ElvUI": "43ba08970f601abfe59cb04f5516c178",
+                "ElvUI_OptionsUI": "4f172d3043dcf60db3fc7ac3a8b2f27e"
             },
             "Directories": [
                 "ElvUI",
@@ -967,7 +967,18 @@
             ],
             "Name": "ElvUI",
             "URL": "ElvUI",
-            "Version": "46b26e84"
+            "Version": "487725da"
+        },
+        {
+            "Checksums": {
+                "CanIMogIt": "29d098a52ed322bb582aaf90907f3472"
+            },
+            "Directories": [
+                "CanIMogIt"
+            ],
+            "Name": "Can I Mog It?",
+            "URL": "https://www.curseforge.com/wow/addons/can-i-mog-it",
+            "Version": "8.3.0v1.25"
         }
     ],
     "Backup": {
@@ -1068,10 +1079,10 @@
         "weakauras-2": "65387",
         "world-quest-tracker": "100610"
     },
-    "CFCacheTimestamp": 1598511994.5873227,
+    "CFCacheTimestamp": 1598968816.987198,
     "CompactMode": false,
     "IgnoreClientVersion": {},
-    "Version": "3.9.3",
+    "Version": "3.9.4",
     "WAAPIKey": "",
     "WAAccountName": "1385866#2",
     "WACompanionVersion": 111,

@@ -40,7 +40,7 @@ NarcissusDB = {
 	["CameraOrbit"] = true,
 	["GemManager"] = true,
 	["ModelPanelScale"] = 1,
-	["DressingRoomIncludeItemID"] = false,
+	["TooltipTheme"] = "Dark",
 	["WeatherEffect"] = true,
 	["EnableDoubleTap"] = false,
 	["Tutorials"] = {
@@ -54,7 +54,7 @@ NarcissusDB = {
 		["SpellVisualBrowser"] = false,
 		["RaceChange"] = true,
 	},
-	["TooltipTheme"] = "Dark",
+	["DressingRoomIncludeItemID"] = false,
 	["PhotoModeButton"] = {
 		["HideTexts"] = true,
 	},

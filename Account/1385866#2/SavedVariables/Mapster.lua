@@ -23,11 +23,11 @@ MapsterDB = {
 		["Hôrst - Ravencrest"] = "Default",
 		["Nexana - Blackmoore"] = "Default",
 		["Grillboost - Antonidas"] = "Default",
-		["Lullidan - Ravencrest"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
 		["Nexanâ - Blackmoore"] = "Default",
 		["Grillpatrol - Blackmoore"] = "Default",
 		["Nexâna - Blackmoore"] = "Default",
-		["Nethenâ - Blackmoore"] = "Default",
+		["Lullidan - Ravencrest"] = "Default",
 		["Noxiâ - Blackmoore"] = "Default",
 		["Lullidan - Blackmoore"] = "Default",
 		["Grillock - Blackmoore"] = "Default",
@@ -35,9 +35,9 @@ MapsterDB = {
 	["profiles"] = {
 		["Default"] = {
 			["scale"] = 1.339723467826843,
-			["y"] = -16.99995249156564,
-			["x"] = -29.02760136319557,
-			["point"] = "CENTER",
+			["y"] = -37.99992262332444,
+			["x"] = 230.475637162599,
+			["point"] = "RIGHT",
 		},
 	},
 }

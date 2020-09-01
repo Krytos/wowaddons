@@ -3,38 +3,1614 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_end"] = "02:01:51",
-			["date_start"] = "02:00:43",
-			["name"] = "Archaedas",
-			["total_time"] = 67.01000000000931,
+			["date_end"] = "21:03:30",
+			["date_start"] = "21:02:15",
+			["name"] = "Ingvar the Plunderer",
+			["total_time"] = 75.72499999997672,
 		}, -- [1]
 		{
-			["date_end"] = "01:54:58",
-			["date_start"] = "01:53:33",
-			["name"] = "Ancient Stone Keeper",
-			["total_time"] = 84.90100000007078,
+			["date_end"] = "20:59:10",
+			["date_start"] = "20:58:40",
+			["name"] = "Skarvold & Dalronn",
+			["total_time"] = 30.05799999998999,
 		}, -- [2]
 		{
-			["date_end"] = "01:51:52",
-			["date_start"] = "01:50:42",
-			["name"] = "Grimlok",
-			["total_time"] = 70.37100000004284,
+			["date_end"] = "20:54:32",
+			["date_start"] = "20:53:52",
+			["name"] = "Prince Keleseth",
+			["total_time"] = 41.52700000000186,
 		}, -- [3]
-		{
-			["date_end"] = "01:48:17",
-			["date_start"] = "01:47:12",
-			["name"] = "Galgann Firehammer",
-			["total_time"] = 67.06800000020303,
-		}, -- [4]
 	},
 	["hide_on_combat"] = false,
 	["IndividualSpells"] = {
 		{
-			[10258] = {
+			[42708] = {
 				{
-					52.23200000007637, -- [1]
+					19.63399999999092, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42708, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[42724] = {
+				{
+					7.13399999999092, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42724, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					16.87200000000303, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42724, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [2]
+			},
+			[42705] = {
+				{
+					10.33499999999185, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42705, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[42723] = {
+				{
+					63.13699999998789, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42723, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[42730] = {
+				{
+					59.612999999983, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42730, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+			},
+			[42669] = {
+				{
+					14.95799999998417, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42669, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[42729] = {
+				{
+					47.58900000000722, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					71.862999999983, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			[43649] = {
+				{
+					5.334999999991851, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Galathia-Alleria", -- [5]
+				}, -- [1]
+				{
+					7.756999999983236, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+				{
+					10.19199999998091, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [3]
+				{
+					13.83399999997346, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [4]
+				{
+					16.25699999998324, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [5]
+				{
+					18.67699999999604, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [6]
+				{
+					21.11699999999837, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [7]
+				{
+					24.72999999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [8]
+				{
+					27.16899999999441, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [9]
+				{
+					29.60499999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [10]
+			},
+			[48583] = {
+				{
+					14.25199999997858, -- [1]
+					"Skarvald the Constructor", -- [2]
+					48583, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+			},
+			[43650] = {
+				{
+					10.60499999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43650, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+				{
+					21.51699999999255, -- [1]
+					"Dalronn the Controller", -- [2]
+					43650, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+			},
+			[43651] = {
+				{
+					16.67299999998068, -- [1]
+					"Skarvald the Constructor", -- [2]
+					43651, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Galathia-Alleria", -- [5]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			[43667] = {
+				{
+					1.806000000011409, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					6.676999999996042, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [2]
+				{
+					9.111000000004424, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [3]
+				{
+					11.512000000017, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [4]
+				{
+					15.16200000001118, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [5]
+				{
+					18.78800000000047, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [6]
+				{
+					21.22100000001956, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [7]
+				{
+					30.9440000000177, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [8]
+				{
+					33.37799999999697, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [9]
+				{
+					35.80800000001909, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [10]
+			},
+			[42702] = {
+				{
+					19.36500000001979, -- [1]
+					"Vrykul Skeleton", -- [2]
+					42702, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					19.61300000001211, -- [1]
+					"Vrykul Skeleton", -- [2]
+					42702, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+			},
+		}, -- [3]
+		{
+			[3391] = {
+				{
+					9.921000000002095, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					20.85599999999977, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					32.27599999998347, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					43.31500000000233, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					56.3519999999844, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+			},
+			[12890] = {
+				{
+					13.36600000000908, -- [1]
+					"Shade of Eranikus", -- [2]
+					12890, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					43.31500000000233, -- [1]
+					"Shade of Eranikus", -- [2]
+					12890, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+			},
+			[12891] = {
+				{
+					5.079999999987194, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					26.51600000000326, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					47.16399999998976, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					68.98300000000745, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[11876] = {
+				{
+					24.08499999999185, -- [1]
+					"Shade of Eranikus", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					48.36600000000908, -- [1]
+					"Shade of Eranikus", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [4]
+		{
+			[12884] = {
+				{
+					3.861999999993714, -- [1]
+					"Morphaz", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					5.076999999990221, -- [1]
+					"Hazzas", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					15.98300000000745, -- [1]
+					"Morphaz", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					17.19899999999325, -- [1]
+					"Hazzas", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[12882] = {
+				{
+					11.12799999999697, -- [1]
+					"Morphaz", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.5570000000007, -- [1]
+					"Hazzas", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [5]
+		{
+			[12882] = {
+				{
+					13.50800000000163, -- [1]
+					"Dreamscythe", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					15.9429999999993, -- [1]
+					"Weaver", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					42.64899999997579, -- [1]
+					"Dreamscythe", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					46.29299999997602, -- [1]
+					"Weaver", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[12884] = {
+				{
+					3.802999999985332, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					9.872000000003027, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					15.9429999999993, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					22.00899999999092, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					30.49499999999534, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					34.13699999998789, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					43.86599999997998, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					48.72399999998743, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+			},
+			[12097] = {
+				{
+					21.48499999998603, -- [1]
+					"Nightmare Wanderer", -- [2]
+					12097, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+			},
+			[11976] = {
+				{
+					13.55999999999767, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					17.47800000000279, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+				{
+					25.57199999998557, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+				{
+					29.5109999999986, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [4]
+				{
+					41.53199999997742, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [5]
+				{
+					43.612999999983, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [6]
+				{
+					50.83899999997811, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [7]
+			},
+		}, -- [6]
+		{
+			[96231] = {
+				{
+					95.8190000000177, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					96231, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+			},
+			[8376] = {
+				{
+					3.782000000006519, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					26.80000000001746, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[125439] = {
+				{
+					44.50500000000466, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					125439, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[31850] = {
+				{
+					44.50500000000466, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					31850, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[853] = {
+				{
+					41.76300000000629, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					853, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+				{
+					86.19700000001467, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					853, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xalldîn", -- [5]
+				}, -- [2]
+			},
+			[6940] = {
+				{
+					85.71100000001024, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					6940, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [1]
+			},
+			[12493] = {
+				{
+					27.51300000000629, -- [1]
+					"Ogom the Wretched", -- [2]
+					12493, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+			},
+			[62124] = {
+				{
+					42.33499999999185, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					62124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Klekkorill", -- [5]
+				}, -- [1]
+				{
+					88.14199999999255, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					62124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Klekkorill", -- [5]
+				}, -- [2]
+			},
+			[53600] = {
+				{
+					86.92800000001444, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					53600, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[12471] = {
+				{
+					5.072000000014668, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					8.684000000008382, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+				{
+					12.33199999999488, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+				{
+					18.40299999999115, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [4]
+				{
+					22.02900000000955, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [5]
+				{
+					25.68600000001607, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [6]
+				{
+					35.36999999999534, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [7]
+				{
+					39, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [8]
+			},
+			[642] = {
+				{
+					46.93700000000536, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					642, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[12480] = {
+				{
+					41.16700000001583, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					61.7730000000156, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Neny-Malygos", -- [5]
+				}, -- [2]
+				{
+					82.36300000001211, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+			},
+			[31935] = {
+				{
+					43.28800000000047, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					31935, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Regulator-Tichondrius", -- [5]
+				}, -- [1]
+			},
+			[1022] = {
+				{
+					83.29099999999744, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					1022, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [1]
+			},
+			[12468] = {
+				{
+					7.475000000005821, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12468, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					22.02900000000955, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12468, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[45438] = {
+				{
+					67.52600000001257, -- [1]
+					"Neny-Malygos", -- [2]
+					45438, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[11639] = {
+				{
+					12.95300000000862, -- [1]
+					"Ogom the Wretched", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					26.30400000000373, -- [1]
+					"Ogom the Wretched", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dreadstalker", -- [5]
+				}, -- [2]
+			},
+			[59542] = {
+				{
+					43.28800000000047, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					59542, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [1]
+			},
+			[53595] = {
+				{
+					87.98199999998906, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					53595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+			},
+		}, -- [7]
+		{
+			[12888] = {
+				{
+					7.561000000016065, -- [1]
+					"Avatar of Hakkar", -- [2]
+					12888, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xalldîn", -- [5]
+				}, -- [1]
+			},
+			[853] = {
+				{
+					8.76600000000326, -- [1]
+					"Xalldîn", -- [2]
+					853, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Brainpow-Antonidas", -- [5]
+				}, -- [1]
+			},
+			[12889] = {
+				{
+					19.68600000001607, -- [1]
+					"Avatar of Hakkar", -- [2]
+					12889, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					48.8070000000007, -- [1]
+					"Avatar of Hakkar", -- [2]
+					12889, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[6607] = {
+				{
+					13.62400000001071, -- [1]
+					"Avatar of Hakkar", -- [2]
+					6607, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					46.38099999999395, -- [1]
+					"Avatar of Hakkar", -- [2]
+					6607, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+			},
+		}, -- [8]
+		{
+			[11902] = {
+				{
+					17.80999999999767, -- [1]
+					"Gahz'rilla", -- [2]
+					11902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[11131] = {
+				{
+					2.375, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					8.011999999987893, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+				{
+					9.612999999983003, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [3]
+				{
+					24.19799999997485, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+				{
+					36.30499999999302, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [5]
+				{
+					39.95499999998719, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [6]
+				{
+					44.81399999998394, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [7]
+			},
+			[11836] = {
+				{
+					28.82499999998254, -- [1]
+					"Gahz'rilla", -- [2]
+					11836, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+		}, -- [9]
+		{
+			[17843] = {
+				{
+					31.99600000001374, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					17843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Witch Doctor", -- [5]
+				}, -- [1]
+				{
+					93.33699999999953, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					17843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Witch Doctor", -- [5]
+				}, -- [2]
+			},
+			[11020] = {
+				{
+					20.79000000000815, -- [1]
+					"Sul'lithuz Sandcrawler", -- [2]
+					11020, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+			[8264] = {
+				{
+					7.445000000006985, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					8264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					65.70199999999022, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					8264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[11641] = {
+				{
+					13.15499999999884, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [1]
+				{
+					13.51000000000931, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					17.375, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [3]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+				{
+					41.03200000000652, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [5]
+				{
+					64.09799999999814, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [6]
+			},
+			[11898] = {
+				{
+					15.93900000001304, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					19.58400000000256, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					30.92199999999139, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					35.35700000001816, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					43.45800000001327, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					55.59900000001653, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					76.65100000001257, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			[78802] = {
+				{
+					20.79000000000815, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					42.64699999999721, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					63.2730000000156, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			[15547] = {
+				{
+					2.584999999991851, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					2.584999999991851, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					3.393000000010943, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [3]
+				{
+					3.393000000010943, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+				{
+					7.445000000006985, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [5]
+				{
+					8.657999999995809, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [6]
+				{
+					11.07699999999022, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [7]
+				{
+					13.14199999999255, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [8]
+				{
+					15.93900000001304, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [9]
+				{
+					23.2390000000014, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [10]
+				{
+					23.2390000000014, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [11]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [12]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [13]
+				{
+					49.92800000001444, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [14]
+				{
+					51.14999999999418, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [15]
+				{
+					55.59900000001653, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [16]
+				{
+					63.2730000000156, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [17]
+			},
+			[12491] = {
+				{
+					39.18299999998999, -- [1]
+					"Hydromancer Velratha", -- [2]
+					12491, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sul'lithuz Sandcrawler", -- [5]
+				}, -- [1]
+				{
+					76, -- [1]
+					"Hydromancer Velratha", -- [2]
+					12491, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Blood Drinker", -- [5]
+				}, -- [2]
+			},
+			[78801] = {
+				{
+					19.65799999999581, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [1]
+				{
+					24.3859999999986, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+				{
+					28.95300000000862, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [3]
+				{
+					47.57699999999022, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Void Tendril", -- [5]
+				}, -- [4]
+			},
+		}, -- [10]
+		{
+			[11898] = {
+				{
+					15.38999999998487, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					33.6140000000014, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[11837] = {
+				{
+					9.23399999999674, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					21.26900000000023, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					35.27799999999115, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [3]
+			},
+			[15496] = {
+				{
+					10.43100000001141, -- [1]
+					"Ruuzlu", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					13.2390000000014, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					27.26499999998487, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [3]
+				{
+					47.30199999999604, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+			},
+		}, -- [11]
+		{
+			[9613] = {
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [1]
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [3]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [4]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [5]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [6]
+				{
+					13.52199999999721, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [7]
+				{
+					13.52199999999721, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [8]
+				{
+					15.95100000000093, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [9]
+				{
+					18.76900000000023, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [10]
+				{
+					21.20000000001164, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [11]
+				{
+					24.43499999999767, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [12]
+			},
+			[8599] = {
+				{
+					9.337999999988824, -- [1]
+					"Sandfury Zealot", -- [2]
+					8599, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					10.51999999998952, -- [1]
+					"Sandfury Zealot", -- [2]
+					8599, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[11980] = {
+				{
+					16.98199999998906, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [1]
+				{
+					18.20499999998719, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+			},
+			[11981] = {
+				{
+					28.46700000000419, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+			},
+			[11639] = {
+				{
+					10.51999999998952, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [1]
+				{
+					15.55300000001444, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+				{
+					19.00099999998929, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [3]
+			},
+			[13704] = {
+				{
+					23.05799999998999, -- [1]
+					"Shadowpriest Sezz'ziz", -- [2]
+					13704, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[8362] = {
+				{
+					27.48600000000442, -- [1]
+					"Shadowpriest Sezz'ziz", -- [2]
+					8362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shadowpriest Sezz'ziz", -- [5]
+				}, -- [1]
+			},
+		}, -- [12]
+		{
+			[11086] = {
+				{
+					16.65000000002328, -- [1]
+					"Witch Doctor Zum'rah", -- [2]
+					11086, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					32.82500000001164, -- [1]
+					"Witch Doctor Zum'rah", -- [2]
+					11086, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [13]
+		{
+			[17843] = {
+				{
+					19.41799999997602, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					17843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Witch Doctor", -- [5]
+				}, -- [1]
+			},
+			[11020] = {
+				{
+					32.487999999983, -- [1]
+					"Servant of Antu'sul", -- [2]
+					11020, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+			[15501] = {
+				{
+					22.75299999999697, -- [1]
+					"Antu'sul", -- [2]
+					15501, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					37.35099999999511, -- [1]
+					"Antu'sul", -- [2]
+					15501, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+			},
+			[8376] = {
+				{
+					11.10799999997835, -- [1]
+					"Antu'sul", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					29.36499999999069, -- [1]
+					"Antu'sul", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[8264] = {
+				{
+					25.18299999998999, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					8264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			[11894] = {
+				{
+					13.03699999998207, -- [1]
+					"Antu'sul", -- [2]
+					11894, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					40.99299999998766, -- [1]
+					"Antu'sul", -- [2]
+					11894, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			[16006] = {
+				{
+					35.49399999997695, -- [1]
+					"Antu'sul", -- [2]
+					16006, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+			[11895] = {
+				{
+					44.83299999998417, -- [1]
+					"Antu'sul", -- [2]
+					11895, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [14]
+		{
+		}, -- [15]
+		{
+			[10252] = {
+				{
+					24.18900000001304, -- [1]
 					"Archaedas", -- [2]
-					10258, -- [3]
+					10252, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -43,14 +1619,6 @@ DetailsTimeLineDB = {
 					58.14500000001863, -- [1]
 					"Archaedas", -- [2]
 					6524, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[10252] = {
-				{
-					24.18900000001304, -- [1]
-					"Archaedas", -- [2]
-					10252, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
@@ -338,7 +1906,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [47]
 			},
-		}, -- [1]
+			[10258] = {
+				{
+					52.23200000007637, -- [1]
+					"Archaedas", -- [2]
+					10258, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [16]
 		{
 			[10092] = {
 				{
@@ -420,7 +1996,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [2]
+		}, -- [17]
 		{
 			[3391] = {
 				{
@@ -640,7 +2216,7 @@ DetailsTimeLineDB = {
 					"Grimlok", -- [5]
 				}, -- [2]
 			},
-		}, -- [3]
+		}, -- [18]
 		{
 			[9482] = {
 				{
@@ -741,7 +2317,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [4]
+		}, -- [19]
 		{
 			[3391] = {
 				{
@@ -937,7 +2513,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [5]
+		}, -- [20]
 		{
 			[9941] = {
 				{
@@ -1018,7 +2594,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [1]
 			},
-		}, -- [6]
+		}, -- [21]
 		{
 			[11876] = {
 				{
@@ -1122,7 +2698,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [10]
 			},
-		}, -- [7]
+		}, -- [22]
 		{
 			[5605] = {
 				{
@@ -1167,15 +2743,6 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [3]
 			},
-			[16006] = {
-				{
-					59.99099999992177, -- [1]
-					"Revelosh", -- [2]
-					16006, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hrst", -- [5]
-				}, -- [1]
-			},
 			[8599] = {
 				{
 					10.90999999991618, -- [1]
@@ -1202,7 +2769,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [8]
+			[16006] = {
+				{
+					59.99099999992177, -- [1]
+					"Revelosh", -- [2]
+					16006, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+			},
+		}, -- [23]
 		{
 			[113136] = {
 				{
@@ -1334,7 +2910,7 @@ DetailsTimeLineDB = {
 					"Gariand-Antonidas", -- [5]
 				}, -- [3]
 			},
-		}, -- [9]
+		}, -- [24]
 		{
 			[111775] = {
 				{
@@ -1352,7 +2928,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [10]
+		}, -- [25]
 		{
 			[113999] = {
 				{
@@ -1391,7 +2967,7 @@ DetailsTimeLineDB = {
 					"Gariand-Antonidas", -- [5]
 				}, -- [5]
 			},
-		}, -- [11]
+		}, -- [26]
 		{
 			[114062] = {
 				{
@@ -1499,7 +3075,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [15]
 			},
-		}, -- [12]
+		}, -- [27]
 		{
 			[111606] = {
 				{
@@ -1525,7 +3101,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [13]
+		}, -- [28]
 		{
 			[150601] = {
 				{
@@ -1563,6 +3139,20 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Fummelfix-DieAldor", -- [5]
 				}, -- [3]
+			},
+			[151962] = {
+				{
+					14.75, -- [1]
+					"Death Speaker Blackthorn", -- [2]
+					151962, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					28.90500000002794, -- [1]
+					"Death Speaker Blackthorn", -- [2]
+					151962, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
 			},
 			[151010] = {
 				{
@@ -1657,20 +3247,6 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [13]
 			},
-			[151962] = {
-				{
-					14.75, -- [1]
-					"Death Speaker Blackthorn", -- [2]
-					151962, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					28.90500000002794, -- [1]
-					"Death Speaker Blackthorn", -- [2]
-					151962, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
 			[150332] = {
 				{
 					25.69699999992736, -- [1]
@@ -1757,22 +3333,6 @@ DetailsTimeLineDB = {
 					"Tauryl-DieAldor", -- [5]
 				}, -- [12]
 			},
-			[224729] = {
-				{
-					50.58499999996275, -- [1]
-					"Splinterbone Warrior", -- [2]
-					224729, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Tauryl-DieAldor", -- [5]
-				}, -- [1]
-				{
-					50.58499999996275, -- [1]
-					"Splinterbone Warrior", -- [2]
-					224729, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hrst", -- [5]
-				}, -- [2]
-			},
 			[150550] = {
 				{
 					37.42500000004657, -- [1]
@@ -1799,7 +3359,23 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [14]
+			[224729] = {
+				{
+					50.58499999996275, -- [1]
+					"Splinterbone Warrior", -- [2]
+					224729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Tauryl-DieAldor", -- [5]
+				}, -- [1]
+				{
+					50.58499999996275, -- [1]
+					"Splinterbone Warrior", -- [2]
+					224729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+			},
+		}, -- [29]
 		{
 			[149851] = {
 				{
@@ -1863,7 +3439,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [2]
 			},
-		}, -- [15]
+		}, -- [30]
 		{
 			[150067] = {
 				{
@@ -1984,7 +3560,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [9]
 			},
-		}, -- [16]
+		}, -- [31]
 		{
 			[150072] = {
 				{
@@ -2023,7 +3599,7 @@ DetailsTimeLineDB = {
 					"Theá-Aegwynn", -- [5]
 				}, -- [5]
 			},
-		}, -- [17]
+		}, -- [32]
 		{
 			[21869] = {
 				{
@@ -2044,64 +3620,6 @@ DetailsTimeLineDB = {
 					21869, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
-			},
-			[21909] = {
-				{
-					15.92800000007264, -- [1]
-					"Princess Theradras", -- [2]
-					21909, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					45.00699999998324, -- [1]
-					"Princess Theradras", -- [2]
-					21909, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					70.4769999999553, -- [1]
-					"Princess Theradras", -- [2]
-					21909, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					97.1699999999255, -- [1]
-					"Princess Theradras", -- [2]
-					21909, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-			},
-			[150528] = {
-				{
-					0.1, -- [1]
-					"Death's Head Arachnomancer", -- [2]
-					150528, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					0.1, -- [1]
-					"Death's Head Arachnomancer", -- [2]
-					150528, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					0.1, -- [1]
-					"Death's Head Arachnomancer", -- [2]
-					150528, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					0.1, -- [1]
-					"Death's Head Arachnomancer", -- [2]
-					150528, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					0.1, -- [1]
-					"Death's Head Arachnomancer", -- [2]
-					150528, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
 			},
 			[21832] = {
 				{
@@ -2182,7 +3700,65 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [18]
+			[21909] = {
+				{
+					15.92800000007264, -- [1]
+					"Princess Theradras", -- [2]
+					21909, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					45.00699999998324, -- [1]
+					"Princess Theradras", -- [2]
+					21909, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					70.4769999999553, -- [1]
+					"Princess Theradras", -- [2]
+					21909, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					97.1699999999255, -- [1]
+					"Princess Theradras", -- [2]
+					21909, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+			[150528] = {
+				{
+					0.1, -- [1]
+					"Death's Head Arachnomancer", -- [2]
+					150528, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					0.1, -- [1]
+					"Death's Head Arachnomancer", -- [2]
+					150528, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					0.1, -- [1]
+					"Death's Head Arachnomancer", -- [2]
+					150528, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					0.1, -- [1]
+					"Death's Head Arachnomancer", -- [2]
+					150528, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					0.1, -- [1]
+					"Death's Head Arachnomancer", -- [2]
+					150528, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+			},
+		}, -- [33]
 		{
 			[13584] = {
 				{
@@ -2277,36 +3853,6 @@ DetailsTimeLineDB = {
 					"Gåmøriè-Malygos", -- [5]
 				}, -- [13]
 			},
-			[110762] = {
-				{
-					6.327000000048429, -- [1]
-					"Landslide", -- [2]
-					110762, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thespouk", -- [5]
-				}, -- [1]
-				{
-					34.21399999991991, -- [1]
-					"Landslide", -- [2]
-					110762, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thespouk", -- [5]
-				}, -- [2]
-				{
-					57.25600000005215, -- [1]
-					"Landslide", -- [2]
-					110762, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thespouk", -- [5]
-				}, -- [3]
-				{
-					73.06400000001304, -- [1]
-					"Landslide", -- [2]
-					110762, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Thespouk", -- [5]
-				}, -- [4]
-			},
 			[21808] = {
 				{
 					20.87199999997392, -- [1]
@@ -2347,7 +3893,37 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [19]
+			[110762] = {
+				{
+					6.327000000048429, -- [1]
+					"Landslide", -- [2]
+					110762, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thespouk", -- [5]
+				}, -- [1]
+				{
+					34.21399999991991, -- [1]
+					"Landslide", -- [2]
+					110762, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thespouk", -- [5]
+				}, -- [2]
+				{
+					57.25600000005215, -- [1]
+					"Landslide", -- [2]
+					110762, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thespouk", -- [5]
+				}, -- [3]
+				{
+					73.06400000001304, -- [1]
+					"Landslide", -- [2]
+					110762, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Thespouk", -- [5]
+				}, -- [4]
+			},
+		}, -- [34]
 		{
 			[111107] = {
 				{
@@ -2409,43 +3985,6 @@ DetailsTimeLineDB = {
 					111670, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
-			},
-			[127399] = {
-				{
-					33.26799999992363, -- [1]
-					"High Inquisitor Whitemane", -- [2]
-					127399, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"High Inquisitor Whitemane", -- [5]
-				}, -- [1]
-				{
-					57.58299999986775, -- [1]
-					"High Inquisitor Whitemane", -- [2]
-					127399, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"High Inquisitor Whitemane", -- [5]
-				}, -- [2]
-				{
-					73.35100000002421, -- [1]
-					"High Inquisitor Whitemane", -- [2]
-					127399, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"High Inquisitor Whitemane", -- [5]
-				}, -- [3]
-				{
-					89.0999999998603, -- [1]
-					"High Inquisitor Whitemane", -- [2]
-					127399, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"High Inquisitor Whitemane", -- [5]
-				}, -- [4]
-				{
-					106.1069999998435, -- [1]
-					"High Inquisitor Whitemane", -- [2]
-					127399, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"High Inquisitor Whitemane", -- [5]
-				}, -- [5]
 			},
 			[114848] = {
 				{
@@ -2540,7 +4079,44 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [13]
 			},
-		}, -- [20]
+			[127399] = {
+				{
+					33.26799999992363, -- [1]
+					"High Inquisitor Whitemane", -- [2]
+					127399, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"High Inquisitor Whitemane", -- [5]
+				}, -- [1]
+				{
+					57.58299999986775, -- [1]
+					"High Inquisitor Whitemane", -- [2]
+					127399, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"High Inquisitor Whitemane", -- [5]
+				}, -- [2]
+				{
+					73.35100000002421, -- [1]
+					"High Inquisitor Whitemane", -- [2]
+					127399, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"High Inquisitor Whitemane", -- [5]
+				}, -- [3]
+				{
+					89.0999999998603, -- [1]
+					"High Inquisitor Whitemane", -- [2]
+					127399, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"High Inquisitor Whitemane", -- [5]
+				}, -- [4]
+				{
+					106.1069999998435, -- [1]
+					"High Inquisitor Whitemane", -- [2]
+					127399, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"High Inquisitor Whitemane", -- [5]
+				}, -- [5]
+			},
+		}, -- [35]
 		{
 			[114807] = {
 				{
@@ -2626,7 +4202,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [9]
 			},
-		}, -- [21]
+		}, -- [36]
 		{
 			[115139] = {
 				{
@@ -2707,7 +4283,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [22]
+		}, -- [37]
 		{
 			[151534] = {
 				{
@@ -2763,7 +4339,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [23]
+		}, -- [38]
 		{
 			[151432] = {
 				{
@@ -2857,7 +4433,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [24]
+		}, -- [39]
 		{
 			[151312] = {
 				{
@@ -3153,7 +4729,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [26]
 			},
-		}, -- [25]
+		}, -- [40]
 		{
 			[150881] = {
 				{
@@ -3247,7 +4823,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [7]
 			},
-		}, -- [26]
+		}, -- [41]
 		{
 			[150849] = {
 				{
@@ -3632,7 +5208,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [29]
 			},
-		}, -- [27]
+		}, -- [42]
 		{
 			[10348] = {
 				{
@@ -3732,7 +5308,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [4]
 			},
-		}, -- [28]
+		}, -- [43]
 		{
 			[10348] = {
 				{
@@ -3799,7 +5375,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [1]
 			},
-		}, -- [29]
+		}, -- [44]
 		{
 			[21687] = {
 				{
@@ -3833,7 +5409,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [30]
+		}, -- [45]
 		{
 			[87081] = {
 				{
@@ -3977,46 +5553,46 @@ DetailsTimeLineDB = {
 					"Gebrexe-Ysera", -- [5]
 				}, -- [3]
 			},
-		}, -- [31]
+		}, -- [46]
 	},
 	["useicons"] = true,
 	["cooldowns_timeline"] = {
 		{
-			["Eleowen-Aman'thul"] = {
+			["Galathia-Alleria"] = {
 				{
-					39.36000000010245, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					15286, -- [3]
+					65.33299999998417, -- [1]
+					"Galathia-Alleria", -- [2]
+					109304, -- [3]
 				}, -- [1]
 			},
 		}, -- [1]
 		{
-			["Eleowen-Aman'thul"] = {
+			["Verîtas-Alleria"] = {
 				{
-					9.543999999994412, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					15286, -- [3]
+					7.951000000000931, -- [1]
+					"Verîtas-Alleria", -- [2]
+					31850, -- [3]
 				}, -- [1]
 			},
 		}, -- [2]
 		{
-			["Eleowen-Aman'thul"] = {
+			["Misstex-DunMorogh"] = {
 				{
-					9.584999999962747, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					15286, -- [3]
+					15.64500000001863, -- [1]
+					"Misstex-DunMorogh", -- [2]
+					104773, -- [3]
+				}, -- [1]
+			},
+			["Verîtas-Alleria"] = {
+				{
+					6.939000000013039, -- [1]
+					"Verîtas-Alleria", -- [2]
+					31850, -- [3]
 				}, -- [1]
 			},
 		}, -- [3]
-		{
-		}, -- [4]
 	},
-	["backdrop_color"] = {
-		0, -- [1]
-		0, -- [2]
-		0, -- [3]
-		0.4, -- [4]
-	},
+	["window_scale"] = 1,
 	["deaths_data"] = {
 		{
 		}, -- [1]
@@ -4024,435 +5600,1509 @@ DetailsTimeLineDB = {
 		}, -- [2]
 		{
 		}, -- [3]
-		{
-		}, -- [4]
 	},
 	["debuff_timeline"] = {
 		{
-			["Druing-Aegwynn"] = {
-				[6524] = {
-					58.14500000001863, -- [1]
-					60.16300000017509, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Archaedas",
-					["active"] = false,
-				},
-			},
-			["Thespouk"] = {
-				[1604] = {
-					40.33400000003167, -- [1]
-					44.33100000000559, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Earthen Guardian",
-					["active"] = false,
-				},
-				[6524] = {
-					58.14500000001863, -- [1]
-					60.16300000017509, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Archaedas",
-					["active"] = false,
-				},
-			},
-			["Gariand-Antonidas"] = {
-				[6524] = {
-					58.14500000001863, -- [1]
-					60.16300000017509, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Archaedas",
-					["active"] = false,
-				},
-			},
-			["Eleowen-Aman'thul"] = {
-				[6524] = {
-					58.14500000001863, -- [1]
-					60.16300000017509, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Archaedas",
-					["active"] = false,
-				},
-			},
 			["Hrst"] = {
-				[6524] = {
-					58.14500000001863, -- [1]
-					60.16300000017509, -- [2]
+				[42723] = {
+					63.13699999998789, -- [1]
+					65.15599999998813, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Archaedas",
+					["source"] = "Ingvar the Plunderer",
+					["active"] = false,
+				},
+			},
+			["Misstex-DunMorogh"] = {
+				[42723] = {
+					63.13699999998789, -- [1]
+					65.15599999998813, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ingvar the Plunderer",
+					["active"] = false,
+				},
+			},
+			["Striptina"] = {
+				[205179] = {
+					75.72499999997672, -- [1]
+					75.72499999997672, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Hatred-AeriePeak",
+					["active"] = false,
+				},
+				[214222] = {
+					75.72499999997672, -- [1]
+					75.72499999997672, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Fueltoalibi-AeriePeak",
+					["active"] = false,
+				},
+			},
+			["Galathia-Alleria"] = {
+				[42723] = {
+					63.13699999998789, -- [1]
+					65.15599999998813, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ingvar the Plunderer",
+					["active"] = false,
+				},
+			},
+			["Merir-Tichondrius"] = {
+				[42723] = {
+					63.13699999998789, -- [1]
+					65.15599999998813, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ingvar the Plunderer",
+					["active"] = false,
+				},
+			},
+			["Verîtas-Alleria"] = {
+				[42730] = {
+					59.612999999983, -- [1]
+					69.61699999999837, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ingvar the Plunderer",
+					["active"] = false,
+				},
+				[42723] = {
+					63.13699999998789, -- [1]
+					65.15599999998813, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Ingvar the Plunderer",
 					["active"] = false,
 				},
 			},
 		}, -- [1]
 		{
-			["Druing-Aegwynn"] = {
-				[10093] = {
-					25.93999999994412, -- [1]
-					26.93999999994412, -- [2]
-					36.00099999993108, -- [3]
-					37.00099999993108, -- [4]
-					37.00099999993108, -- [5]
-					38.002000000095, -- [6]
-					38.002000000095, -- [7]
-					39.002000000095, -- [8]
-					39.002000000095, -- [9]
-					41.0230000000447, -- [10]
-					41.0230000000447, -- [11]
-					42.0230000000447, -- [12]
-					42.0230000000447, -- [13]
-					44.03499999991618, -- [14]
-					44.03499999991618, -- [15]
-					46.05200000014156, -- [16]
-					51.10000000009313, -- [17]
-					52.0910000000149, -- [18]
-					52.0910000000149, -- [19]
-					55.10700000007637, -- [20]
-					55.10700000007637, -- [21]
-					55.92100000008941, -- [22]
-					55.92100000008941, -- [23]
-					56.09899999992922, -- [24]
-					56.09899999992922, -- [25]
-					56.92299999995157, -- [26]
-					56.92299999995157, -- [27]
-					57.12899999995716, -- [28]
-					57.12899999995716, -- [29]
-					57.93699999991804, -- [30]
-					57.93699999991804, -- [31]
-					58.11499999999069, -- [32]
-					58.11499999999069, -- [33]
-					58.93900000001304, -- [34]
-					58.93900000001304, -- [35]
-					59.11700000008568, -- [36]
-					59.11700000008568, -- [37]
-					60.13500000000931, -- [38]
-					60.13500000000931, -- [39]
-					62.13800000003539, -- [40]
-					62.13800000003539, -- [41]
-					64.13500000000931, -- [42]
-					64.14899999997579, -- [43]
-					65.15100000007078, -- [44]
-					65.15100000007078, -- [45]
-					66.15200000000186, -- [46]
-					66.16500000003725, -- [47]
-					67.16599999996834, -- [48]
-					67.16599999996834, -- [49]
-					69.17599999997765, -- [50]
-					69.17599999997765, -- [51]
-					70.17700000014156, -- [52]
-					70.17700000014156, -- [53]
-					71.19100000010803, -- [54]
-					71.19100000010803, -- [55]
-					72.19400000013411, -- [56]
-					72.19400000013411, -- [57]
-					74.18699999991804, -- [58]
-					74.18699999991804, -- [59]
-					75.20100000011735, -- [60]
-					75.20100000011735, -- [61]
-					76.21699999994598, -- [62]
-					76.21699999994598, -- [63]
-					77.21900000004098, -- [64]
-					77.21900000004098, -- [65]
-					78.21900000004098, -- [66]
-					78.21900000004098, -- [67]
-					79.21900000004098, -- [68]
-					79.21900000004098, -- [69]
-					80.23500000010245, -- [70]
-					80.23500000010245, -- [71]
-					81.23600000003353, -- [72]
-					["stacks"] = {
-					},
-					["source"] = "Sand Storm",
-					["active"] = false,
-				},
-				[6524] = {
-					40.38899999996647, -- [1]
-					42.39299999992363, -- [2]
-					56.1820000000298, -- [3]
-					58.1840000001248, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Stone Steward",
-					["active"] = false,
-				},
-			},
-			["Thespouk"] = {
-				[10093] = {
-					14.70400000014342, -- [1]
-					15.69900000002235, -- [2]
-					15.69900000002235, -- [3]
-					16.7180000001099, -- [4]
-					16.7180000001099, -- [5]
-					17.71999999997206, -- [6]
-					17.8980000000447, -- [7]
-					18.89899999997579, -- [8]
-					18.89899999997579, -- [9]
-					19.91700000013225, -- [10]
-					22.73399999993853, -- [11]
-					23.73800000012852, -- [12]
-					50.89400000008754, -- [13]
-					51.89899999997579, -- [14]
-					51.89899999997579, -- [15]
-					52.91299999994226, -- [16]
-					["stacks"] = {
-					},
-					["source"] = "Sand Storm",
-					["active"] = false,
-				},
-				[6524] = {
-					40.38899999996647, -- [1]
-					42.39299999992363, -- [2]
-					56.1820000000298, -- [3]
-					58.1840000001248, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Stone Steward",
-					["active"] = false,
-				},
-			},
-			["Gariand-Antonidas"] = {
-				[10093] = {
-					16.7180000001099, -- [1]
-					16.89599999994971, -- [2]
-					16.89599999994971, -- [3]
-					17.71999999997206, -- [4]
-					17.71999999997206, -- [5]
-					17.8980000000447, -- [6]
-					17.8980000000447, -- [7]
-					18.71999999997206, -- [8]
-					18.71999999997206, -- [9]
-					18.89899999997579, -- [10]
-					18.89899999997579, -- [11]
-					19.72500000009313, -- [12]
-					19.72500000009313, -- [13]
-					19.91700000013225, -- [14]
-					19.91700000013225, -- [15]
-					20.72600000002421, -- [16]
-					20.72600000002421, -- [17]
-					20.91999999992549, -- [18]
-					20.91999999992549, -- [19]
-					21.92599999997765, -- [20]
-					21.92599999997765, -- [21]
-					22.73399999993853, -- [22]
-					22.73399999993853, -- [23]
-					23.73800000012852, -- [24]
-					23.73800000012852, -- [25]
-					24.74600000004284, -- [26]
-					31.98100000014529, -- [27]
-					32.97900000005029, -- [28]
-					32.97900000005029, -- [29]
-					33.99600000004284, -- [30]
-					33.99600000004284, -- [31]
-					34.99600000004284, -- [32]
-					50.89400000008754, -- [33]
-					51.89899999997579, -- [34]
-					51.89899999997579, -- [35]
-					52.91299999994226, -- [36]
-					52.91299999994226, -- [37]
-					54.91599999996834, -- [38]
-					["stacks"] = {
-					},
-					["source"] = "Sand Storm",
-					["active"] = false,
-				},
-				[6524] = {
-					40.38899999996647, -- [1]
-					42.39299999992363, -- [2]
-					56.1820000000298, -- [3]
-					58.1840000001248, -- [4]
-					["stacks"] = {
-					},
-					["source"] = "Stone Steward",
-					["active"] = false,
-				},
-			},
-			["Eleowen-Aman'thul"] = {
-				[10093] = {
-					15.89299999992363, -- [1]
-					16.7180000001099, -- [2]
-					16.7180000001099, -- [3]
-					16.89599999994971, -- [4]
-					16.89599999994971, -- [5]
-					17.71999999997206, -- [6]
-					17.71999999997206, -- [7]
-					18.71999999997206, -- [8]
-					23.92900000000373, -- [9]
-					24.93699999991804, -- [10]
-					24.93699999991804, -- [11]
-					27.95400000014342, -- [12]
-					27.95400000014342, -- [13]
-					28.95400000014342, -- [14]
-					28.95400000014342, -- [15]
-					29.96200000005774, -- [16]
-					29.96200000005774, -- [17]
-					30.9660000000149, -- [18]
-					37.00099999993108, -- [19]
-					38.002000000095, -- [20]
-					38.002000000095, -- [21]
-					39.002000000095, -- [22]
-					39.002000000095, -- [23]
-					41.0230000000447, -- [24]
-					41.0230000000447, -- [25]
-					42.0230000000447, -- [26]
-					42.0230000000447, -- [27]
-					44.03499999991618, -- [28]
-					44.03499999991618, -- [29]
-					46.05200000014156, -- [30]
-					51.10000000009313, -- [31]
-					52.0910000000149, -- [32]
-					52.0910000000149, -- [33]
-					55.10700000007637, -- [34]
-					55.10700000007637, -- [35]
-					56.09899999992922, -- [36]
-					56.09899999992922, -- [37]
-					56.92299999995157, -- [38]
-					56.92299999995157, -- [39]
-					57.12899999995716, -- [40]
-					57.12899999995716, -- [41]
-					57.93699999991804, -- [42]
-					57.93699999991804, -- [43]
-					58.11499999999069, -- [44]
-					58.11499999999069, -- [45]
-					58.93900000001304, -- [46]
-					58.93900000001304, -- [47]
-					59.11700000008568, -- [48]
-					59.11700000008568, -- [49]
-					60.13500000000931, -- [50]
-					60.13500000000931, -- [51]
-					62.13800000003539, -- [52]
-					62.13800000003539, -- [53]
-					64.13500000000931, -- [54]
-					64.13500000000931, -- [55]
-					65.15100000007078, -- [56]
-					65.15100000007078, -- [57]
-					66.15200000000186, -- [58]
-					66.15200000000186, -- [59]
-					67.16599999996834, -- [60]
-					67.16599999996834, -- [61]
-					69.17599999997765, -- [62]
-					69.17599999997765, -- [63]
-					70.17700000014156, -- [64]
-					70.17700000014156, -- [65]
-					71.19100000010803, -- [66]
-					71.19100000010803, -- [67]
-					72.19400000013411, -- [68]
-					72.19400000013411, -- [69]
-					74.18699999991804, -- [70]
-					74.18699999991804, -- [71]
-					75.20100000011735, -- [72]
-					75.20100000011735, -- [73]
-					76.21699999994598, -- [74]
-					76.21699999994598, -- [75]
-					77.21900000004098, -- [76]
-					77.21900000004098, -- [77]
-					78.21900000004098, -- [78]
-					78.21900000004098, -- [79]
-					79.21900000004098, -- [80]
-					79.21900000004098, -- [81]
-					80.23500000010245, -- [82]
-					80.23500000010245, -- [83]
-					81.23600000003353, -- [84]
-					["stacks"] = {
-					},
-					["source"] = "Sand Storm",
-					["active"] = false,
-				},
-			},
 			["Hrst"] = {
-				[6524] = {
-					40.38899999996647, -- [1]
-					42.39299999992363, -- [2]
-					56.1820000000298, -- [3]
-					58.1840000001248, -- [4]
+				[43650] = {
+					10.61699999999837, -- [1]
+					18.625, -- [2]
+					21.51699999999255, -- [3]
+					29.53199999997742, -- [4]
 					["stacks"] = {
 					},
-					["source"] = "Stone Steward",
+					["source"] = "Dalronn the Controller",
 					["active"] = false,
 				},
-				[10093] = {
-					50.89400000008754, -- [1]
-					51.89899999997579, -- [2]
+			},
+			["Galathia-Alleria"] = {
+				[43651] = {
+					17.53499999997439, -- [1]
+					19.54999999998836, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Sand Storm",
+					["source"] = "Skarvald the Constructor",
 					["active"] = false,
 				},
 			},
 		}, -- [2]
 		{
 			["Hrst"] = {
-				[10452] = {
-					14.58600000012666, -- [1]
-					24.38100000005215, -- [2]
+				[42702] = {
+					19.62299999999232, -- [1]
+					29.63500000000931, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Stonevault Geomancer",
-					["active"] = false,
-				},
-				[3636] = {
-					20.76300000003539, -- [1]
-					23.75699999998324, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Jadespine Basilisk",
-					["active"] = false,
-				},
-				[11892] = {
-					61.79600000008941, -- [1]
-					70.37100000004284, -- [2]
-					["stacks"] = {
-					},
-					["source"] = "Grimlok",
+					["source"] = "Vrykul Skeleton",
 					["active"] = false,
 				},
 			},
-			["Thespouk"] = {
-				[11892] = {
-					61.79600000008941, -- [1]
-					70.37100000004284, -- [2]
+			["Misstex-DunMorogh"] = {
+				[48400] = {
+					13.00400000001537, -- [1]
+					21.96400000000722, -- [2]
 					["stacks"] = {
 					},
-					["source"] = "Grimlok",
+					["source"] = "Unknown",
+					["active"] = false,
+				},
+			},
+			["Verîtas-Alleria"] = {
+				[42702] = {
+					19.38300000000163, -- [1]
+					29.36900000000605, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Vrykul Skeleton",
+					["active"] = false,
+				},
+				[48400] = {
+					26.30800000001909, -- [1]
+					30.31500000000233, -- [2]
+					["stacks"] = {
+					},
+					["source"] = "Frost Tomb",
 					["active"] = false,
 				},
 			},
 		}, -- [3]
+	},
+	["backdrop_color"] = {
+		0, -- [1]
+		0, -- [2]
+		0, -- [3]
+		0.4, -- [4]
+	},
+	["BossSpellCast"] = {
 		{
-			["Hrst"] = {
-				[9482] = {
-					9.179999999934807, -- [1]
-					17.83899999991991, -- [2]
-					24.94599999999628, -- [3]
-					34.94999999995343, -- [4]
-					44.39000000013039, -- [5]
-					54.39400000008754, -- [6]
-					61.39500000001863, -- [7]
-					67.06800000020303, -- [8]
-					["stacks"] = {
-					},
-					["source"] = "Galgann Firehammer",
-					["active"] = false,
-				},
-				[3356] = {
-					10.39000000013039, -- [1]
-					17.83899999991991, -- [2]
-					35.88500000000931, -- [3]
-					36.04900000011548, -- [4]
-					50.46299999998882, -- [5]
-					67.06800000020303, -- [6]
-					["stacks"] = {
-					},
-					["source"] = "Galgann Firehammer",
-					["active"] = false,
-				},
+			["Ingvar the Plunderer"] = {
+				{
+					7.13399999999092, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42724, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					10.33499999999185, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42705, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					14.95799999998417, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42669, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					16.87200000000303, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42724, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [4]
+				{
+					19.63399999999092, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42708, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					47.58900000000722, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					59.612999999983, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42730, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [7]
+				{
+					63.13699999998789, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42723, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					71.862999999983, -- [1]
+					"Ingvar the Plunderer", -- [2]
+					42729, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+			},
+		}, -- [1]
+		{
+			["Skarvald the Constructor"] = {
+				{
+					14.25199999997858, -- [1]
+					"Skarvald the Constructor", -- [2]
+					48583, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					16.67299999998068, -- [1]
+					"Skarvald the Constructor", -- [2]
+					43651, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Galathia-Alleria", -- [5]
+				}, -- [2]
+			},
+			["Dalronn the Controller"] = {
+				{
+					5.334999999991851, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Galathia-Alleria", -- [5]
+				}, -- [1]
+				{
+					7.756999999983236, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+				{
+					10.19199999998091, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [3]
+				{
+					10.60499999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43650, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [4]
+				{
+					13.83399999997346, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [5]
+				{
+					16.25699999998324, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [6]
+				{
+					18.67699999999604, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [7]
+				{
+					21.11699999999837, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [8]
+				{
+					21.51699999999255, -- [1]
+					"Dalronn the Controller", -- [2]
+					43650, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [9]
+				{
+					24.72999999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Merir-Tichondrius", -- [5]
+				}, -- [10]
+				{
+					27.16899999999441, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [11]
+				{
+					29.60499999998137, -- [1]
+					"Dalronn the Controller", -- [2]
+					43649, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [12]
+			},
+		}, -- [2]
+		{
+			["Vrykul Skeleton"] = {
+				{
+					19.36500000001979, -- [1]
+					"Vrykul Skeleton", -- [2]
+					42702, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					19.61300000001211, -- [1]
+					"Vrykul Skeleton", -- [2]
+					42702, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [2]
+			},
+			["Prince Keleseth"] = {
+				{
+					1.806000000011409, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [1]
+				{
+					6.676999999996042, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [2]
+				{
+					9.111000000004424, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [3]
+				{
+					11.512000000017, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [4]
+				{
+					15.16200000001118, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [5]
+				{
+					18.78800000000047, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [6]
+				{
+					21.22100000001956, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [7]
+				{
+					30.9440000000177, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [8]
+				{
+					33.37799999999697, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [9]
+				{
+					35.80800000001909, -- [1]
+					"Prince Keleseth", -- [2]
+					43667, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Verîtas-Alleria", -- [5]
+				}, -- [10]
+			},
+		}, -- [3]
+		{
+			["Shade of Eranikus"] = {
+				{
+					5.079999999987194, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					9.921000000002095, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					13.36600000000908, -- [1]
+					"Shade of Eranikus", -- [2]
+					12890, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+				{
+					20.85599999999977, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					24.08499999999185, -- [1]
+					"Shade of Eranikus", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					26.51600000000326, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					32.27599999998347, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					43.31500000000233, -- [1]
+					"Shade of Eranikus", -- [2]
+					12890, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [8]
+				{
+					43.31500000000233, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					47.16399999998976, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					48.36600000000908, -- [1]
+					"Shade of Eranikus", -- [2]
+					11876, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					56.3519999999844, -- [1]
+					"Shade of Eranikus", -- [2]
+					3391, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					68.98300000000745, -- [1]
+					"Shade of Eranikus", -- [2]
+					12891, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
 			},
 		}, -- [4]
-	},
-	["window_scale"] = 1,
-	["BossSpellCast"] = {
+		{
+			["Morphaz"] = {
+				{
+					3.861999999993714, -- [1]
+					"Morphaz", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					11.12799999999697, -- [1]
+					"Morphaz", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					15.98300000000745, -- [1]
+					"Morphaz", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+			["Hazzas"] = {
+				{
+					5.076999999990221, -- [1]
+					"Hazzas", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.5570000000007, -- [1]
+					"Hazzas", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					17.19899999999325, -- [1]
+					"Hazzas", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+			},
+		}, -- [5]
+		{
+			["Nightmare Wanderer"] = {
+				{
+					13.55999999999767, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					17.47800000000279, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+				{
+					21.48499999998603, -- [1]
+					"Nightmare Wanderer", -- [2]
+					12097, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+				{
+					25.57199999998557, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [4]
+				{
+					29.5109999999986, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [5]
+				{
+					41.53199999997742, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [6]
+				{
+					43.612999999983, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [7]
+				{
+					50.83899999997811, -- [1]
+					"Nightmare Wanderer", -- [2]
+					11976, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [8]
+			},
+			["Weaver"] = {
+				{
+					9.872000000003027, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					15.9429999999993, -- [1]
+					"Weaver", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					22.00899999999092, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					34.13699999998789, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					46.29299999997602, -- [1]
+					"Weaver", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					48.72399999998743, -- [1]
+					"Weaver", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+			},
+			["Dreamscythe"] = {
+				{
+					3.802999999985332, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					13.50800000000163, -- [1]
+					"Dreamscythe", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					15.9429999999993, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					30.49499999999534, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					42.64899999997579, -- [1]
+					"Dreamscythe", -- [2]
+					12882, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					43.86599999997998, -- [1]
+					"Dreamscythe", -- [2]
+					12884, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+			},
+		}, -- [6]
+		{
+			["Ogom the Wretched"] = {
+				{
+					5.072000000014668, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [1]
+				{
+					8.684000000008382, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [2]
+				{
+					12.33199999999488, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [3]
+				{
+					12.95300000000862, -- [1]
+					"Ogom the Wretched", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [4]
+				{
+					18.40299999999115, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [5]
+				{
+					22.02900000000955, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [6]
+				{
+					25.68600000001607, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [7]
+				{
+					26.30400000000373, -- [1]
+					"Ogom the Wretched", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dreadstalker", -- [5]
+				}, -- [8]
+				{
+					27.51300000000629, -- [1]
+					"Ogom the Wretched", -- [2]
+					12493, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [9]
+				{
+					35.36999999999534, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [10]
+				{
+					39, -- [1]
+					"Ogom the Wretched", -- [2]
+					12471, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [11]
+			},
+			["Jammal'an the Prophet"] = {
+				{
+					3.782000000006519, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					7.475000000005821, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12468, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					22.02900000000955, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12468, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					26.80000000001746, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					8376, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					41.16700000001583, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [5]
+				{
+					61.7730000000156, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Neny-Malygos", -- [5]
+				}, -- [6]
+				{
+					82.36300000001211, -- [1]
+					"Jammal'an the Prophet", -- [2]
+					12480, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Beamhammer-Garrosh", -- [5]
+				}, -- [7]
+			},
+			["Beamhammer-Garrosh"] = {
+				{
+					41.76300000000629, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					853, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [1]
+				{
+					42.33499999999185, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					62124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Klekkorill", -- [5]
+				}, -- [2]
+				{
+					43.28800000000047, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					59542, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [3]
+				{
+					43.28800000000047, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					31935, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Regulator-Tichondrius", -- [5]
+				}, -- [4]
+				{
+					44.50500000000466, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					31850, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					44.50500000000466, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					125439, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					46.93700000000536, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					642, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					83.29099999999744, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					1022, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [8]
+				{
+					85.71100000001024, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					6940, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Jammal'an the Prophet", -- [5]
+				}, -- [9]
+				{
+					86.19700000001467, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					853, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xalldîn", -- [5]
+				}, -- [10]
+				{
+					86.92800000001444, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					53600, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					87.98199999998906, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					53595, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [12]
+				{
+					88.14199999999255, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					62124, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Klekkorill", -- [5]
+				}, -- [13]
+				{
+					95.8190000000177, -- [1]
+					"Beamhammer-Garrosh", -- [2]
+					96231, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [14]
+			},
+			["Neny-Malygos"] = {
+				{
+					67.52600000001257, -- [1]
+					"Neny-Malygos", -- [2]
+					45438, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [7]
+		{
+			["Gahz'rilla"] = {
+				{
+					2.375, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					8.011999999987893, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+				{
+					9.612999999983003, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [3]
+				{
+					17.80999999999767, -- [1]
+					"Gahz'rilla", -- [2]
+					11902, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					24.19799999997485, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [5]
+				{
+					28.82499999998254, -- [1]
+					"Gahz'rilla", -- [2]
+					11836, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [6]
+				{
+					36.30499999999302, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [7]
+				{
+					39.95499999998719, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [8]
+				{
+					44.81399999998394, -- [1]
+					"Gahz'rilla", -- [2]
+					11131, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [9]
+			},
+		}, -- [8]
+		{
+			["Sandfury Shadowhunter"] = {
+				{
+					2.584999999991851, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					2.584999999991851, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					3.393000000010943, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [3]
+				{
+					3.393000000010943, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+				{
+					7.445000000006985, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [5]
+				{
+					8.657999999995809, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [6]
+				{
+					11.07699999999022, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [7]
+				{
+					13.14199999999255, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [8]
+				{
+					13.15499999999884, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [9]
+				{
+					13.51000000000931, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [10]
+				{
+					15.93900000001304, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [11]
+				{
+					17.375, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [12]
+				{
+					23.2390000000014, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [13]
+				{
+					23.2390000000014, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [14]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [15]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [16]
+				{
+					26.43799999999465, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [17]
+				{
+					41.03200000000652, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [18]
+				{
+					49.92800000001444, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [19]
+				{
+					51.14999999999418, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [20]
+				{
+					55.59900000001653, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [21]
+				{
+					63.2730000000156, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					15547, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [22]
+				{
+					64.09799999999814, -- [1]
+					"Sandfury Shadowhunter", -- [2]
+					11641, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [23]
+			},
+			["Sandfury Witch Doctor"] = {
+				{
+					7.445000000006985, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					8264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					31.99600000001374, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					17843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Witch Doctor", -- [5]
+				}, -- [2]
+				{
+					65.70199999999022, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					8264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					93.33699999999953, -- [1]
+					"Sandfury Witch Doctor", -- [2]
+					17843, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Witch Doctor", -- [5]
+				}, -- [4]
+			},
+			["Sandfury Blood Drinker"] = {
+				{
+					15.93900000001304, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					19.58400000000256, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					30.92199999999139, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					35.35700000001816, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					43.45800000001327, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					55.59900000001653, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					76.65100000001257, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+			},
+			["Sul'lithuz Sandcrawler"] = {
+				{
+					20.79000000000815, -- [1]
+					"Sul'lithuz Sandcrawler", -- [2]
+					11020, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+			["Hydromancer Velratha"] = {
+				{
+					19.65799999999581, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [1]
+				{
+					20.79000000000815, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					24.3859999999986, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [3]
+				{
+					28.95300000000862, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [4]
+				{
+					39.18299999998999, -- [1]
+					"Hydromancer Velratha", -- [2]
+					12491, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sul'lithuz Sandcrawler", -- [5]
+				}, -- [5]
+				{
+					42.64699999999721, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					47.57699999999022, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78801, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Void Tendril", -- [5]
+				}, -- [7]
+				{
+					63.2730000000156, -- [1]
+					"Hydromancer Velratha", -- [2]
+					78802, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					76, -- [1]
+					"Hydromancer Velratha", -- [2]
+					12491, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Sandfury Blood Drinker", -- [5]
+				}, -- [9]
+			},
+		}, -- [9]
+		{
+			["Chief Ukorz Sandscalp"] = {
+				{
+					9.23399999999674, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+				{
+					13.2390000000014, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [2]
+				{
+					21.26900000000023, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [3]
+				{
+					27.26499999998487, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [4]
+				{
+					35.27799999999115, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					11837, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [5]
+				{
+					47.30199999999604, -- [1]
+					"Chief Ukorz Sandscalp", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [6]
+			},
+			["Ruuzlu"] = {
+				{
+					10.43100000001141, -- [1]
+					"Ruuzlu", -- [2]
+					15496, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dyranta", -- [5]
+				}, -- [1]
+			},
+			["Sandfury Blood Drinker"] = {
+				{
+					15.38999999998487, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					33.6140000000014, -- [1]
+					"Sandfury Blood Drinker", -- [2]
+					11898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+		}, -- [10]
+		{
+			["Sandfury Zealot"] = {
+				{
+					9.337999999988824, -- [1]
+					"Sandfury Zealot", -- [2]
+					8599, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					10.51999999998952, -- [1]
+					"Sandfury Zealot", -- [2]
+					8599, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
+			["Shadowpriest Sezz'ziz"] = {
+				{
+					23.05799999998999, -- [1]
+					"Shadowpriest Sezz'ziz", -- [2]
+					13704, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					27.48600000000442, -- [1]
+					"Shadowpriest Sezz'ziz", -- [2]
+					8362, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shadowpriest Sezz'ziz", -- [5]
+				}, -- [2]
+			},
+			["Sandfury Acolyte"] = {
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [1]
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [2]
+				{
+					9.795000000012806, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [3]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [4]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [5]
+				{
+					9.869000000006054, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [6]
+				{
+					10.51999999998952, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [7]
+				{
+					13.52199999999721, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [8]
+				{
+					13.52199999999721, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [9]
+				{
+					15.55300000001444, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [10]
+				{
+					15.95100000000093, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [11]
+				{
+					16.98199999998906, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [12]
+				{
+					18.20499999998719, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11980, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mâd-Antonidas", -- [5]
+				}, -- [13]
+				{
+					18.76900000000023, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [14]
+				{
+					19.00099999998929, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11639, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hyperion-Alleria", -- [5]
+				}, -- [15]
+				{
+					21.20000000001164, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [16]
+				{
+					24.43499999999767, -- [1]
+					"Sandfury Acolyte", -- [2]
+					9613, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Xevius-Nazjatar", -- [5]
+				}, -- [17]
+				{
+					28.46700000000419, -- [1]
+					"Sandfury Acolyte", -- [2]
+					11981, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hrst", -- [5]
+				}, -- [18]
+			},
+		}, -- [11]
 		{
 			["Vault Warder"] = {
 				{
@@ -4762,7 +7412,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [12]
 			},
-		}, -- [1]
+		}, -- [12]
 		{
 			["Ancient Stone Keeper"] = {
 				{
@@ -4844,7 +7494,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [2]
+		}, -- [13]
 		{
 			["Grimlok"] = {
 				{
@@ -5052,7 +7702,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [3]
+		}, -- [14]
 		{
 			["Shadowforge Geologist"] = {
 				{
@@ -5151,7 +7801,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [13]
 			},
-		}, -- [4]
+		}, -- [15]
 		{
 			["Darkmaster Gandling"] = {
 				{
@@ -5281,7 +7931,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [18]
 			},
-		}, -- [5]
+		}, -- [16]
 		{
 			["Lilian Voss"] = {
 				{
@@ -5299,7 +7949,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [6]
+		}, -- [17]
 		{
 			["Rattlegore"] = {
 				{
@@ -5338,7 +7988,7 @@ DetailsTimeLineDB = {
 					"Gariand-Antonidas", -- [5]
 				}, -- [5]
 			},
-		}, -- [7]
+		}, -- [18]
 		{
 			["Jandice Barov"] = {
 				{
@@ -5444,7 +8094,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [17]
 			},
-		}, -- [8]
+		}, -- [19]
 		{
 			["Splinterbone Warrior"] = {
 				{
@@ -5708,7 +8358,7 @@ DetailsTimeLineDB = {
 					"Fummelfix-DieAldor", -- [5]
 				}, -- [11]
 			},
-		}, -- [9]
+		}, -- [20]
 		{
 			["Gelatanized Plague Gunk"] = {
 				{
@@ -5770,7 +8420,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [7]
 			},
-		}, -- [10]
+		}, -- [21]
 		{
 			["Blazing Servitor"] = {
 				{
@@ -5887,7 +8537,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [14]
 			},
-		}, -- [11]
+		}, -- [22]
 		{
 			["Aarux"] = {
 				{
@@ -5926,7 +8576,7 @@ DetailsTimeLineDB = {
 					"Theá-Aegwynn", -- [5]
 				}, -- [5]
 			},
-		}, -- [12]
+		}, -- [23]
 		{
 			["Princess Theradras"] = {
 				{
@@ -6079,7 +8729,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [13]
+		}, -- [24]
 		{
 			["Landslide"] = {
 				{
@@ -6240,7 +8890,7 @@ DetailsTimeLineDB = {
 					"Gåmøriè-Malygos", -- [5]
 				}, -- [13]
 			},
-		}, -- [14]
+		}, -- [25]
 		{
 			["Scarlet Zealot"] = {
 				{
@@ -6427,7 +9077,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [3]
 			},
-		}, -- [15]
+		}, -- [26]
 		{
 			["Brother Korloff"] = {
 				{
@@ -6509,7 +9159,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [13]
 			},
-		}, -- [16]
+		}, -- [27]
 		{
 			["Unknown"] = {
 				{
@@ -6584,7 +9234,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [17]
+		}, -- [28]
 		{
 			["Venomous Discharge Crystal"] = {
 				{
@@ -6638,7 +9288,7 @@ DetailsTimeLineDB = {
 					"Zalpetyr", -- [5]
 				}, -- [4]
 			},
-		}, -- [18]
+		}, -- [29]
 		{
 			["Groyat, the Blind Hunter"] = {
 				{
@@ -6726,7 +9376,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [13]
 			},
-		}, -- [19]
+		}, -- [30]
 		{
 			["Aggem Thorncurse"] = {
 				{
@@ -7020,7 +9670,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [14]
 			},
-		}, -- [20]
+		}, -- [31]
 		{
 			["Hunter Bonetusk"] = {
 				{
@@ -7106,7 +9756,7 @@ DetailsTimeLineDB = {
 					"Thespouk", -- [5]
 				}, -- [12]
 			},
-		}, -- [21]
+		}, -- [32]
 		{
 			["Mekgineer Thermaplugg"] = {
 				{
@@ -7202,7 +9852,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [22]
+		}, -- [33]
 		{
 			["Electrocutioner 6000"] = {
 				{
@@ -7263,7 +9913,7 @@ DetailsTimeLineDB = {
 					"Hrst", -- [5]
 				}, -- [1]
 			},
-		}, -- [23]
+		}, -- [34]
 		{
 			["Viscous Fallout"] = {
 				{
@@ -7297,7 +9947,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
-		}, -- [24]
+		}, -- [35]
 		{
 			["Caverndeep Reaver"] = {
 				{
@@ -7441,6 +10091,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [25]
+		}, -- [36]
 	},
 }

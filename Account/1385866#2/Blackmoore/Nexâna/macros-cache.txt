@@ -69,10 +69,12 @@ END
 VER 3 0100000000000004 "Smite" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /stopmacro [channeling]
+/startattack
 /cast [mod:shift,@mouseover,harm,nodead,exists][mod:shift]Holy Word: Chastise; Smite
 END
 VER 3 0100000000000001 "SW:P" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /stopcast [channeling]
+/startattack
 /cast [spec:2,@mouseover,harm,nodead,exists][spec:2]Holy Fire; [@mouseover,harm,nodead,exists][]Shadow Word: Pain
 END

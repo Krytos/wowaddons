@@ -300,9 +300,9 @@ RematchSettings = {
 		["Level"] = {
 			[4] = true,
 		},
-		["Sources"] = {
-		},
 		["Similar"] = {
+		},
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
@@ -341,7 +341,7 @@ RematchSettings = {
 		true, -- [13]
 	},
 	["ColorPetNames"] = true,
-	["ElvUIToastDefaulted"] = true,
+	["PreferredMode"] = 1,
 	["ActivePanel"] = 1,
 	["Sanctuary"] = {
 		["BattlePet-0-000009806754"] = {
@@ -465,7 +465,7 @@ RematchSettings = {
 			4, -- [8]
 		},
 	},
-	["PreferredMode"] = 1,
+	["ElvUIToastDefaulted"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
 	["loadedTeam"] = 162466,
 	["JournalUsed"] = true,

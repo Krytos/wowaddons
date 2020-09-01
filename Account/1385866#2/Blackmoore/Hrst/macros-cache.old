@@ -1,14 +1,18 @@
 VER 3 0100000000000007 "BoF" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][]Blessing of Freedom
+/cast [@mouseover,help,nodead][@player]Blessing of Freedom
+END
+VER 3 0100000000000009 "BoP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][@player]Blessing of Protection
 END
 VER 3 0100000000000008 "Cleanse" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][]Cleanse
+/cast [@mouseover,help,nodead][@player]Cleanse
 END
 VER 3 0100000000000006 "FoL" "INV_MISC_QUESTIONMARK"
 #showtooltip
-/cast [@mouseover,help,nodead][]Flash of Light
+/cast [@mouseover,help,nodead][@player]Flash of Light
 END
 VER 3 0100000000000005 "Holy Light" "INV_MISC_QUESTIONMARK"
 #showtooltip

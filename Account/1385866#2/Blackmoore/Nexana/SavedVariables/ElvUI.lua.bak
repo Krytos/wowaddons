@@ -2,841 +2,27 @@
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" laptop mitnehmen^^", -- [1]
-		"/raid lol?", -- [2]
-		"/opie", -- [3]
-		"WAs und Elvui", -- [4]
-		"/cw Tardex-Silvermoon br pls", -- [5]
-		"/raid hi", -- [6]
-		"/played", -- [7]
-		"/roll", -- [8]
-		"/p ty", -- [9]
-		"/wa", -- [10]
-		"/raid keep aggro on adds", -- [11]
-		"/p gz", -- [12]
-		"/plater", -- [13]
+		"/cw Tardex-Silvermoon br pls", -- [2]
+		"/p ty", -- [3]
+		"/played", -- [4]
+		"/cw Dáv-Shadowsong we both got trinket", -- [5]
+		"/raid lol?", -- [6]
+		"/plater", -- [7]
+		"/macro", -- [8]
+		"/p gz", -- [9]
+		"^^", -- [10]
+		"/opie", -- [11]
+		"/raid keep aggro on adds", -- [12]
+		"/wa", -- [13]
 		"naja, so wiorste dich nie verbessern wenn alle wichtige info verteilt ist, aber ok^^", -- [14]
-		"/macro", -- [15]
-		"/p hi", -- [16]
-		"/cw Dáv-Shadowsong we both got trinket", -- [17]
+		"/p gj", -- [15]
+		"WAs und Elvui", -- [16]
+		"/raid hi", -- [17]
 		"laptop mitnehmen^^", -- [18]
-		"/p gj", -- [19]
-		"^^", -- [20]
+		"/p hi", -- [19]
+		"/roll", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"<Deadly Boss Mods> Dinosh is busy fighting against Mythic - Champion of the Light (99%, 18/18 people alive)", -- [1]
-			"Dinosh-Ravencrest", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dinosh-Ravencrest", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1968, -- [11]
-			"Player-1329-065DE03C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcDinosh-Ravencrest|r",
-			[51] = 1559488176,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [1]
-		{
-			"<DBM> Dinosh has wiped on Mythic - Champion of the Light at 99%", -- [1]
-			"Dinosh-Ravencrest", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Dinosh-Ravencrest", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1974, -- [11]
-			"Player-1329-065DE03C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff006fdcDinosh-Ravencrest|r",
-			[51] = 1559488181,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [2]
-		{
-			"hi", -- [1]
-			"Nexana-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexana-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1980, -- [11]
-			"Player-580-0801B3DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexana|r",
-			[51] = 1559488190,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [3]
-		{
-			"Yall here", -- [1]
-			"Cleepy-Ravencrest", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cleepy-Ravencrest", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1987, -- [11]
-			"Player-1329-0619C7CD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
-			[51] = 1559488485,
-			[50] = "CHAT_MSG_RAID_LEADER",
-		}, -- [4]
-		{
-			"no", -- [1]
-			"Engeliq-Ravencrest", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Engeliq-Ravencrest", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			1988, -- [11]
-			"Player-1329-06AB7C0D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeEngeliq-Ravencrest|r",
-			[51] = 1559488500,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [5]
-		{
-			"unlucky", -- [1]
-			"Shadowhuntr-DieSilberneHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shadowhuntr-DieSilberneHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2007, -- [11]
-			"Player-1118-086C95FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Shadowhuntr-DieSilberneHand|r",
-			[51] = 1559488637,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [6]
-		{
-			"xd", -- [1]
-			"Limoenhuis-Frostmane", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Limoenhuis-Frostmane", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2008, -- [11]
-			"Player-1300-078F66FA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cLimoenhuis-Frostmane|r",
-			[51] = 1559488639,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [7]
-		{
-			"ADDS", -- [1]
-			"Akuru-Drak'thul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Akuru-Drak'thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2009, -- [11]
-			"Player-1092-08F1C795", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAkuru-Drak'thul|r",
-			[51] = 1559488648,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [8]
-		{
-			"XD, so many", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2012, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488662,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [9]
-		{
-			"getting hit", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2013, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488663,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
-		{
-			"ADDS ADDS ADDS", -- [1]
-			"Cleepy-Ravencrest", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Cleepy", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2029, -- [11]
-			"Player-1329-0619C7CD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
-			[51] = 1559488750,
-			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [11]
-		{
-			"add tank is not holding aggro", -- [1]
-			"Nexana-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexana-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2037, -- [11]
-			"Player-580-0801B3DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexana|r",
-			[51] = 1559488776,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
-		{
-			"we didnt kick on start", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2041, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488784,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
-		{
-			"I had aggro like 3 times", -- [1]
-			"Nexana-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexana-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2042, -- [11]
-			"Player-580-0801B3DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexana|r",
-			[51] = 1559488788,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
-		{
-			"when hero", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2043, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488789,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
-		{
-			"..", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2044, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488790,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [16]
-		{
-			"when one add", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2046, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488792,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [17]
-		{
-			"if we do this, its kill", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2049, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488799,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [18]
-		{
-			"=/", -- [1]
-			"Демоньпони-Гордунни", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Демоньпони-Гордунни", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2050, -- [11]
-			"Player-1602-098619E3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffa22fc8Демоньпони-Гордунни|r",
-			[51] = 1559488800,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [19]
-		{
-			"Please", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2056, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488824,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [20]
-		{
-			"for the love of fucking god", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2057, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488826,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [21]
-		{
-			"how hard is it to dodge Wave of Light?", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2058, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488830,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [22]
-		{
-			"next try is a kill", -- [1]
-			"Shadowhuntr-DieSilberneHand", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Shadowhuntr-DieSilberneHand", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2059, -- [11]
-			"Player-1118-086C95FC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffef367Shadowhuntr-DieSilberneHand|r",
-			[51] = 1559488830,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [23]
-		{
-			"Not very hard", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2060, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488832,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [24]
-		{
-			"so PLEASE, do it", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2062, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488833,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [25]
-		{
-			"keep aggro on adds", -- [1]
-			"Nexana-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexana-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2067, -- [11]
-			"Player-580-0801B3DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexana|r",
-			[51] = 1559488842,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [26]
-		{
-			"I died to melee attack", -- [1]
-			"Nexana-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nexana-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2068, -- [11]
-			"Player-580-0801B3DF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeNexana|r",
-			[51] = 1559488846,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [27]
-		{
-			"please dodge wave and mallets", -- [1]
-			"Akuru-Drak'thul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Akuru-Drak'thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2069, -- [11]
-			"Player-1092-08F1C795", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAkuru-Drak'thul|r",
-			[51] = 1559488871,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [28]
-		{
-			"^^^^^^^^^^^^", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2070, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488876,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [29]
-		{
-			"Yes", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2071, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488877,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [30]
-		{
-			"we'd have this kill a long time ago", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2072, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488883,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [31]
-		{
-			"if that happened", -- [1]
-			"Emodruid-Sunstrider", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Emodruid-Sunstrider", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2073, -- [11]
-			"Player-1598-0B4BB4AA", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
-			[51] = 1559488885,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [32]
-		{
-			"like.. 10kk dmg from wave,8kk from mallets", -- [1]
-			"Akuru-Drak'thul", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Akuru-Drak'thul", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2074, -- [11]
-			"Player-1092-08F1C795", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc59a6cAkuru-Drak'thul|r",
-			[51] = 1559488895,
-			[50] = "CHAT_MSG_RAID",
-		}, -- [33]
-		{
-			"turns her |Hitem:118427|h|cFFFFFFFF[Autographed Hearthstone Card]|r|h card over, revealing a |cffff8000[Legendary Hearthstone Card]|r!", -- [1]
-			"Tictacx-BurningLegion", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Tictacx-BurningLegion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2075, -- [11]
-			"Player-3713-093CCCFF", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfff38bb9Tictacx-BurningLegion|r",
-			[51] = 1559488915,
-			[50] = "CHAT_MSG_EMOTE",
-		}, -- [34]
-		{
-			"Shroud up", -- [1]
-			"Sickology-Blackmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Sickology-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2077, -- [11]
-			"Player-580-081CD084", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSickology|r",
-			[51] = 1559488929,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
-		{
-			"14", -- [1]
-			"Sickology-Blackmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Sickology-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2078, -- [11]
-			"Player-580-081CD084", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSickology|r",
-			[51] = 1559488931,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
-		{
-			"13", -- [1]
-			"Sickology-Blackmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Sickology-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2080, -- [11]
-			"Player-580-081CD084", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSickology|r",
-			[51] = 1559488932,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
 		{
 			"12", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -858,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488933,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [38]
+		}, -- [1]
 		{
 			"11", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -880,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [39]
+		}, -- [2]
 		{
 			"10", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -902,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [40]
+		}, -- [3]
 		{
 			"9", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -924,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [4]
 		{
 			"ADDS ADDS ADDS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -946,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559488994,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [42]
+		}, -- [5]
 		{
 			"ADDS ADDS ADDS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -968,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559488994,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [43]
+		}, -- [6]
 		{
 			"BOSS BOSS BOSS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -990,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489090,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [44]
+		}, -- [7]
 		{
 			"Hey, if you don't need |cffa335ee|Hitem:165919::::::::120:258::6:3:4800:1537:4786:::|h[Desecrated Blade of the Disciples]|h|r, I would very much appreciate it <3", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -1012,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489119,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [45]
+		}, -- [8]
 		{
 			"need", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -1034,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489132,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [46]
+		}, -- [9]
 		{
 			"Any loot you don't need?", -- [1]
 			"Emodruid-Sunstrider", -- [2]
@@ -1056,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
 			[51] = 1559489134,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [47]
+		}, -- [10]
 		{
 			"gratz", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -1078,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489137,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [48]
+		}, -- [11]
 		{
 			"thx bb", -- [1]
 			"Amisia-Arthas", -- [2]
@@ -1100,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Amisia-Arthas|r",
 			[51] = 1559489143,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [49]
+		}, -- [12]
 		{
 			"players like limo should never ever raid again, pls just dont do it", -- [1]
 			"Trivisaurus-Blackmoore", -- [2]
@@ -1122,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTrivisaurus|r",
 			[51] = 1559489144,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [50]
+		}, -- [13]
 		{
 			"ffs", -- [1]
 			"Trivisaurus-Blackmoore", -- [2]
@@ -1144,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTrivisaurus|r",
 			[51] = 1559489150,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [51]
+		}, -- [14]
 		{
 			"Thanks everyone", -- [1]
 			"Atrixe-TheVentureCo", -- [2]
@@ -1166,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cAtrixe-TheVentureCo|r",
 			[51] = 1559489152,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [52]
+		}, -- [15]
 		{
 			"hi, 1300 rio main and 7/9M ", -- [1]
 			"Yes-Elune", -- [2]
@@ -1188,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677498,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [53]
+		}, -- [16]
 		{
 			"ty :-)", -- [1]
 			"Yes-Elune", -- [2]
@@ -1210,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677515,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [54]
+		}, -- [17]
 		{
 			"hi", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1232,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677541,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+		}, -- [18]
 		{
 			"hello", -- [1]
 			"Мидрас-Гордунни", -- [2]
@@ -1254,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cМидрас-Гордунни|r",
 			[51] = 1559677561,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [56]
+		}, -- [19]
 		{
 			"hi", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -1276,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677563,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [57]
+		}, -- [20]
 		{
 			"hi", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1298,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677565,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [21]
 		{
 			"hi", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1320,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559677566,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [22]
 		{
 			"ty", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1342,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677693,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [23]
 		{
 			"пщ", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -1364,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677757,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [61]
+		}, -- [24]
 		{
 			"go", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -1386,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677761,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [62]
+		}, -- [25]
 		{
 			"big pack", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -1408,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677772,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [26]
 		{
 			"?", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -1430,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677776,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [27]
 		{
 			"hero ?", -- [1]
 			"Yes-Elune", -- [2]
@@ -1452,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677783,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [28]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -1474,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677958,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [66]
+		}, -- [29]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -1496,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678324,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:1044:0|h[Blessing of Freedom]|h|r cast on You!", -- [1]
 			"Yes-Elune", -- [2]
@@ -1518,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678459,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [68]
+		}, -- [31]
 		{
 			"|cff71d5ff|Hspell:1044:0|h[Blessing of Freedom]|h|r cast on You!", -- [1]
 			"Yes-Elune", -- [2]
@@ -1540,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678505,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [69]
+		}, -- [32]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -1562,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678598,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [70]
+		}, -- [33]
 		{
 			"Cannon Barrage on Nexana", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1584,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [71]
+		}, -- [34]
 		{
 			"Vormos Iiqaath za C'toth", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1606,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678801,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [72]
+		}, -- [35]
 		{
 			"Vormos Iiqaath za C'toth", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1628,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [73]
+		}, -- [36]
 		{
 			"Cannon Barrage on Kockata", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1650,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559678842,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [74]
+		}, -- [37]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -1672,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678917,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [75]
+		}, -- [38]
 		{
 			"heroism", -- [1]
 			"Yes-Elune", -- [2]
@@ -1694,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679169,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [76]
+		}, -- [39]
 		{
 			":..Lust Detector:..: Kockata-Silvermoon Casted a Spell |cff71d5ff|Hspell:32182:0|h[Heroism]|h|r!", -- [1]
 			"Yes-Elune", -- [2]
@@ -1716,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679176,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [40]
 		{
 			"Shark Toss on Kockata", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1738,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679244,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [78]
+		}, -- [41]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -1760,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679299,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [42]
 		{
 			"gj", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1782,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559679302,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [80]
+		}, -- [43]
 		{
 			"Hey, if you don't need |cffa335ee|Hitem:158314::::::::120:258::16:4:5010:42:1572:4786:::|h[Seal of Questionable Loyalties]|h|r, I would very much appreciate it <3", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1804,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679339,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [81]
+		}, -- [44]
 		{
 			"i need it sry", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1826,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679353,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [82]
+		}, -- [45]
 		{
 			"gz", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1848,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559679361,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [46]
 		{
 			"ty boys", -- [1]
 			"Yes-Elune", -- [2]
@@ -1870,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [47]
 		{
 			"ty", -- [1]
 			"Мидрас-Гордунни", -- [2]
@@ -1892,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cМидрас-Гордунни|r",
 			[51] = 1559679369,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [85]
+		}, -- [48]
 		{
 			"and girls", -- [1]
 			"Yes-Elune", -- [2]
@@ -1914,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679370,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [86]
+		}, -- [49]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1936,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909148,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [50]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1958,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909148,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [51]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1980,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909195,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [52]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2002,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909196,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
+		}, -- [53]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2024,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642163,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [54]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2046,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642163,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [55]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2068,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642279,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [93]
+		}, -- [56]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2090,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642279,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [94]
+		}, -- [57]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2112,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642775,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [95]
+		}, -- [58]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2134,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588787949,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [59]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2156,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588787950,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [60]
 		{
 			"|cffffff00The Broken Front is under attack!|r", -- [1]
 			"", -- [2]
@@ -2178,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1588788017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [61]
 		{
 			"was willst den ändern kevin^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2201,7 +1387,7 @@ ElvCharacterDB = {
 			[51] = 1588788118,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [99]
+		}, -- [62]
 		{
 			"WAs und Elvui", -- [1]
 			"|Kq10|k", -- [2]
@@ -2224,7 +1410,7 @@ ElvCharacterDB = {
 			[51] = 1588788130,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [100]
+		}, -- [63]
 		{
 			"ich will es nicht ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2247,7 +1433,7 @@ ElvCharacterDB = {
 			[51] = 1588788141,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [101]
+		}, -- [64]
 		{
 			"ich liebe classic^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2270,7 +1456,7 @@ ElvCharacterDB = {
 			[51] = 1588788149,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [102]
+		}, -- [65]
 		{
 			"interface^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2293,7 +1479,7 @@ ElvCharacterDB = {
 			[51] = 1588788157,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [103]
+		}, -- [66]
 		{
 			"naja, so wiorste dich nie verbessern wenn alle wichtige info verteilt ist, aber ok^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2316,7 +1502,7 @@ ElvCharacterDB = {
 			[51] = 1588788180,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [104]
+		}, -- [67]
 		{
 			":(", -- [1]
 			"|Kq10|k", -- [2]
@@ -2339,7 +1525,7 @@ ElvCharacterDB = {
 			[51] = 1588788188,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [105]
+		}, -- [68]
 		{
 			"mage macht jetzt 50k dps ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2362,7 +1548,7 @@ ElvCharacterDB = {
 			[51] = 1588788266,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [106]
+		}, -- [69]
 		{
 			"manchmal ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2385,7 +1571,7 @@ ElvCharacterDB = {
 			[51] = 1588788270,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [107]
+		}, -- [70]
 		{
 			"xDD", -- [1]
 			"|Kq10|k", -- [2]
@@ -2408,7 +1594,7 @@ ElvCharacterDB = {
 			[51] = 1588788271,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [108]
+		}, -- [71]
 		{
 			"^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -2431,7 +1617,7 @@ ElvCharacterDB = {
 			[51] = 1588788275,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [109]
+		}, -- [72]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2453,7 +1639,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [110]
+		}, -- [73]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2475,7 +1661,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [111]
+		}, -- [74]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2497,7 +1683,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463635,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [112]
+		}, -- [75]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2519,7 +1705,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463635,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [113]
+		}, -- [76]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2541,7 +1727,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1590538452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [114]
+		}, -- [77]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2563,7 +1749,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1590538452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [115]
+		}, -- [78]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2585,7 +1771,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593119580,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [79]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2607,7 +1793,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120374,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [80]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2629,7 +1815,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120741,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [81]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2651,7 +1837,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [82]
 		{
 			"Toll...ich bin auf der Arbeit...alle Patienten schlafen...und mir ist langweilig :/", -- [1]
 			"|Kq1|k", -- [2]
@@ -2674,7 +1860,7 @@ ElvCharacterDB = {
 			[51] = 1593122274,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [120]
+		}, -- [83]
 		{
 			"xD", -- [1]
 			"|Kq1|k", -- [2]
@@ -2697,7 +1883,7 @@ ElvCharacterDB = {
 			[51] = 1593122275,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [121]
+		}, -- [84]
 		{
 			"laptop mitnehmen^^", -- [1]
 			"|Kq1|k", -- [2]
@@ -2720,7 +1906,7 @@ ElvCharacterDB = {
 			[51] = 1593122286,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Padeee",
-		}, -- [122]
+		}, -- [85]
 		{
 			"Kein Internet hier...", -- [1]
 			"|Kq1|k", -- [2]
@@ -2743,7 +1929,7 @@ ElvCharacterDB = {
 			[51] = 1593122303,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [123]
+		}, -- [86]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2765,7 +1951,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593122652,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [87]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2787,7 +1973,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593122893,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [88]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2809,7 +1995,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593123012,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [89]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2831,6 +2017,204 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593123135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [127]
+		}, -- [90]
+		{
+			"<SavedInstances> Reset all instances", -- [1]
+			"Nexana-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nexana-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			638, -- [11]
+			"Player-580-0801B3DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNexana|r",
+			[51] = 1598118446,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [91]
+		{
+			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
+			"Nexana-Blackmoore", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Nexana-Blackmoore", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			640, -- [11]
+			"Player-580-0801B3DF", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeNexana|r",
+			[51] = 1598118446,
+			[50] = "CHAT_MSG_PARTY_LEADER",
+		}, -- [92]
+		{
+			"WTS Heroic Kills: <Carapace - 55k>, <N'zoth - 75k>, <Carapace & N'zoth-110k>. Experienced team with 1000+ kills. Having Runs every 30 minutes. Accepting payment on ALL realms. Your 470+ BiS Gear, Curve and Mount is waiting! /w ", -- [1]
+			"Lighthookbl-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Lighthookbl-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			641, -- [11]
+			"Player-580-09315048", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeLighthookbl|r",
+			[51] = 1598118456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [93]
+		{
+			"|cffa335ee|Hitem:166705::::::::120:102::6:1:3524:::|h[Eisiger Gezeitensturm]|h|r vk das einer", -- [1]
+			"Nâzugl-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nâzugl-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			642, -- [11]
+			"Player-580-07192CDD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffe7b09Nâzugl|r",
+			[51] = 1598118456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"Verkaufe Freehold level boost 3,5k pro level mit level gear / 4,5k ohne levelgear (110-120) einzelne level möglich", -- [1]
+			"Demokritt-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Demokritt-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			643, -- [11]
+			"Player-580-07BDD231", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDemokritt|r",
+			[51] = 1598118456,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"[Gino´s Söldner] verkaufen Ny´Alotha 12/12 HC um 21:00 Uhr @150k Persoloot - @250k + 1 VIP - @340k + 2 VIP- @600k + 5 VIP! N'Zoth + Mount @65k /w oder https://discord.gg/ZtvHhVE für Infos. Nur gegen Gold!", -- [1]
+			"Ginoboosst-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ginoboosst-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			648, -- [11]
+			"Player-580-09614EE3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeGinoboosst|r",
+			[51] = 1598118465,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Biete Lvl Boost 4k das lvl", -- [1]
+			"Foxo-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Foxo-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			649, -- [11]
+			"Player-580-08343AD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Foxo|r",
+			[51] = 1598118466,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"<Oblivion> Wir bieten euch Ny'alotha 12/12 HC JETZT Lootshare für 200k buchbar. * N'Zoth für 70k. * M+15 nur 120k. Armorstack & Wunschkey für kl. Aufpreis buchbar. * Jaina Mount für 400k. * /w me. :)", -- [1]
+			"Cutemieze-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Cutemieze-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			650, -- [11]
+			"Player-580-0919F3B6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeCutemieze|r",
+			[51] = 1598118474,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS M+10-20 Keys |cffffff00|Hachievement:14145:Player-3687-09DF5126:1:3:16:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Master: Season Four]|h|r/Mechagon Hardmode/Jaina |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r/0-5 Mask Vision/|cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r 110-120 /W Me For Price", -- [1]
+			"Iccboost-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Iccboost-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			683, -- [11]
+			"Player-580-09525297", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Iccboost|r",
+			[51] = 1598118836,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
 	},
 }

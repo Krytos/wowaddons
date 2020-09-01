@@ -41,7 +41,7 @@ Mapster: enabled
 RCLootCouncil: enabled
 TomTom: disabled
 LoggerHead: disabled
-AdiBags: enabled
+AdiBags: disabled
 Sorted: disabled
 ElvUI_DTBars2: disabled
 TipTac: enabled

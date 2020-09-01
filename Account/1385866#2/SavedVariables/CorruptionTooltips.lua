@@ -15,12 +15,12 @@ CorruptionTooltipsDB = {
 		["Grillboost - Krag'jin"] = "Grillboost - Krag'jin",
 		["Noxiâ - Antonidas"] = "Noxiâ - Antonidas",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -54,9 +54,9 @@ CorruptionTooltipsDB = {
 		},
 		["Nexana - Blackmoore"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
-		},
 		["Nethenâ - Blackmoore"] = {
+		},
+		["Lullidan - Ravencrest"] = {
 		},
 		["Nexanâ - Blackmoore"] = {
 		},
@@ -64,7 +64,7 @@ CorruptionTooltipsDB = {
 		},
 		["Grillboost - Antonidas"] = {
 		},
-		["Lullidan - Ravencrest"] = {
+		["Grillpatrol - Blackmoore"] = {
 		},
 		["Noxiâ - Blackmoore"] = {
 		},

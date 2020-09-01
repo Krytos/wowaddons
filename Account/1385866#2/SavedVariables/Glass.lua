@@ -6,10 +6,10 @@ GlassDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["frameHeight"] = 300,
+			["frameHeight"] = 260,
 			["positionAnchor"] = {
-				["yOfs"] = 5.000168800354004,
-				["xOfs"] = 1.000007510185242,
+				["yOfs"] = -0.9999418258666992,
+				["xOfs"] = 2.000049352645874,
 			},
 			["messageFontSize"] = 14,
 			["font"] = "Expressway",

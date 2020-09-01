@@ -6,6 +6,10 @@ VER 3 0100000000000012 "Dispel" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /use [@mouseover,help][help, spec:3] Purify Disease; [@mouseover,help][help, spec:1] Purify;[@mouseover,harm][]Dispel Magic; 
 END
+VER 3 0100000000000013 "Feather" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@player]Angelic Feather
+END
 VER 3 010000000000000F "Grip" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [@mouseover,help,nodead,exists][]Leap of Faith

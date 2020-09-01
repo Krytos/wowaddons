@@ -2,3679 +2,3696 @@
 RCLootCouncilDB = {
 	["global"] = {
 		["log"] = {
-			"14:10:58 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (18)", -- [1]
-			"14:10:58 - UpdatePlayersData()", -- [2]
-			"14:15:07 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Morlán) (distri:) (GUILD)", -- [3]
-			"14:15:12 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (18) (0)", -- [4]
-			"14:16:11 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [5]
-			"14:16:14 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (18)", -- [6]
-			"14:16:14 - UpdatePlayersData()", -- [7]
-			"14:23:47 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Dalirya) (distri:) (GUILD)", -- [8]
-			"14:26:04 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (18) (1)", -- [9]
-			"14:26:07 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [10]
-			"14:26:07 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [11]
-			"14:26:07 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [12]
-			"14:26:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Zïzo-Silvermoon) (SHAMAN)", -- [13]
-			"14:26:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174533) (|cffa335ee|Hitem:174533::::::::120:253::5:5:4823:6516:6513:1502:4786:::|h[Ring of Cosmic Potential]|h|r) (1) (Geldar-Alexstrasza) (DRUID)", -- [14]
-			"14:26:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Zïzo-Silvermoon) (SHAMAN)", -- [15]
-			"14:26:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Geldar-Alexstrasza) (DRUID)", -- [16]
-			"14:26:14 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [17]
-			"14:26:14 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [18]
-			"14:26:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174133) (|cffa335ee|Hitem:174133::::::::120:253::5:4:4823:1502:4786:6509:::|h[Pauldrons of the Great Convergence]|h|r) (1) (Arrsen-BurningLegion) (DRUID)", -- [19]
-			"14:26:26 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Matarel-BurningLegion) (MAGE)", -- [20]
-			"14:26:32 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [21]
-			"14:26:32 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [22]
-			"14:27:23 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [23]
-			"14:27:23 - GetML()", -- [24]
-			"14:27:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [25]
-			"14:27:47 - OnMLDBReceived", -- [26]
-			"14:27:47 - Comm received:^1^Scandidates^T^N1^T^SSundawner-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SDroodiskand-Hyjal^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMatarel-BurningLegion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SBlackstar-Zuluhed^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SKhalinou-Dalaran^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SArrsen-BurningLegion^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [27]
-			"14:27:53 - Event: (PARTY_LEADER_CHANGED)", -- [28]
-			"14:27:53 - GetML()", -- [29]
-			"14:27:53 - Resetting council as we have a new ML!", -- [30]
-			"14:27:53 - MasterLooter =  (Eddiè-Silvermoon)", -- [31]
-			"14:27:53 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [32]
-			"14:27:53 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [33]
-			"14:27:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [34]
-			"14:27:53 - OnMLDBReceived", -- [35]
-			"14:27:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [36]
-			"14:27:53 - OnMLDBReceived", -- [37]
-			"14:27:53 - Comm received:^1^Scandidates^T^N1^T^SSundawner-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SArrsen-BurningLegion^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDroodiskand-Hyjal^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMatarel-BurningLegion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SBlackstar-Zuluhed^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SKhalinou-Dalaran^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [38]
-			"14:27:53 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [39]
-			"14:27:53 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [40]
-			"14:27:53 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [41]
-			"14:27:53 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [42]
-			"14:27:54 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [43]
-			"14:28:03 - Comm received:^1^Scandidates^T^N1^T^SSundawner-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SArrsen-BurningLegion^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDroodiskand-Hyjal^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMatarel-BurningLegion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SBlackstar-Zuluhed^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SKhalinou-Dalaran^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [44]
-			"14:28:04 - Comm received:^1^Sxrealm^T^N1^SKeldár-Proudmoore^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [45]
-			"14:28:04 - Comm received:^1^Sxrealm^T^N1^SAthanor-Blackmoore^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [46]
-			"14:28:04 - Comm received:^1^Sxrealm^T^N1^SAnotherkekw-Onyxia^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [47]
-			"14:28:04 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [48]
-			"14:28:04 - OnMLDBReceived", -- [49]
-			"14:28:04 - Comm received:^1^Scandidates^T^N1^T^SSundawner-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDroodiskand-Hyjal^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [50]
-			"14:28:08 - Timer MLdb_check passed", -- [51]
-			"14:28:27 - Comm received:^1^Sxrealm^T^N1^SLullãby-Outland^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [52]
-			"14:28:27 - Comm received:^1^Sxrealm^T^N1^SMytrol-Nozdormu^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [53]
-			"14:28:27 - Comm received:^1^Sxrealm^T^N1^SRuvon-Madmortem^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [54]
-			"14:28:27 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [55]
-			"14:28:27 - OnMLDBReceived", -- [56]
-			"14:28:27 - Comm received:^1^Scandidates^T^N1^T^SSundawner-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [57]
-			"14:28:51 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [58]
-			"14:28:51 - OnMLDBReceived", -- [59]
-			"14:28:51 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SDìa-Aegwynn^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [60]
-			"14:29:01 - Comm received:^1^Sxrealm^T^N1^SShinaupandi-Nozdormu^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [61]
-			"14:29:01 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [62]
-			"14:29:01 - OnMLDBReceived", -- [63]
-			"14:29:01 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [64]
-			"14:29:02 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Nozdormu^N4^SMAGE^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N64^t^^ (from:) (Shinaupandi-Nozdormu) (distri:) (RAID)", -- [65]
-			"14:29:09 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^Scouncil_request^t^^ (from:) (Shinaupandi-Nozdormu) (distri:) (RAID)", -- [66]
-			"14:29:10 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [67]
-			"14:29:10 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [68]
-			"14:29:11 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [69]
-			"14:29:11 - Comm received:^1^Sxrealm^T^N1^SZentiva-Un'Goro^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [70]
-			"14:29:11 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [71]
-			"14:29:11 - OnMLDBReceived", -- [72]
-			"14:29:11 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [73]
-			"14:29:21 - Comm received:^1^Sxrealm^T^N1^SShebra-Outland^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [74]
-			"14:29:21 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [75]
-			"14:29:21 - OnMLDBReceived", -- [76]
-			"14:29:21 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [77]
-			"14:29:31 - Comm received:^1^Sxrealm^T^N1^SWimmycollect-Un'Goro^N2^SplayerInfoRequest^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [78]
-			"14:29:31 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [79]
-			"14:29:31 - OnMLDBReceived", -- [80]
-			"14:29:31 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [81]
-			"14:29:32 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [82]
-			"14:29:32 - Event: (PARTY_LEADER_CHANGED)", -- [83]
-			"14:29:32 - GetML()", -- [84]
-			"14:29:32 - Resetting council as we have a new ML!", -- [85]
-			"14:29:32 - MasterLooter =  (Myrinä-Sylvanas)", -- [86]
-			"14:29:33 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [87]
-			"14:29:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [88]
-			"14:29:33 - OnMLDBReceived", -- [89]
-			"14:29:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [90]
-			"14:29:33 - OnMLDBReceived", -- [91]
-			"14:29:33 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [92]
-			"14:29:33 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [93]
-			"14:29:33 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [94]
-			"14:29:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [95]
-			"14:29:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Nozdormu^N4^SMAGE^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N64^t^^ (from:) (Shinaupandi-Nozdormu) (distri:) (RAID)", -- [96]
-			"14:29:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [97]
-			"14:29:43 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [98]
-			"14:29:47 - Timer MLdb_check passed", -- [99]
-			"14:30:01 - Comm received:^1^Sxrealm^T^N1^SZizoblivion-Onyxia^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [100]
-			"14:30:01 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [101]
-			"14:30:01 - OnMLDBReceived", -- [102]
-			"14:30:01 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [103]
-			"14:30:21 - Comm received:^1^Sxrealm^T^N1^SOblicollect-Outland^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [104]
-			"14:30:21 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [105]
-			"14:30:21 - OnMLDBReceived", -- [106]
-			"14:30:21 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [107]
-			"14:30:21 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SOblicollect-Outland^N4^SHUNTER^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N253^t^^ (from:) (Oblicollect-Outland) (distri:) (RAID)", -- [108]
-			"14:30:27 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Oblicollect-Outland) (distri:) (RAID)", -- [109]
-			"14:30:27 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [110]
-			"14:30:27 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [111]
-			"14:30:31 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWimmycollect-Un'Goro^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [112]
-			"14:30:41 - Comm received:^1^Sxrealm^T^N1^SDondemondar-Madmortem^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [113]
-			"14:30:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [114]
-			"14:30:41 - OnMLDBReceived", -- [115]
-			"14:30:41 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [116]
-			"14:30:42 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SDondemondar-Madmortem^N4^SWARRIOR^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N71^t^^ (from:) (Dondemondar-Madmortem) (distri:) (RAID)", -- [117]
-			"14:30:51 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-Madmortem) (distri:) (RAID)", -- [118]
-			"14:30:51 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [119]
-			"14:30:51 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [120]
-			"14:30:51 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [121]
-			"14:32:09 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Xarilah) (distri:) (GUILD)", -- [122]
-			"14:32:41 - Comm received:^1^Sxrealm^T^N1^STirnael-Hyjal^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [123]
-			"14:32:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [124]
-			"14:32:41 - OnMLDBReceived", -- [125]
-			"14:32:41 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SXahrtas-Antonidas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [126]
-			"14:32:52 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [127]
-			"14:32:52 - OnMLDBReceived", -- [128]
-			"14:32:52 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKönigspython-Nethersturm^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [129]
-			"14:33:01 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [130]
-			"14:33:01 - OnMLDBReceived", -- [131]
-			"14:33:01 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZizoblivion-Onyxia^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [132]
-			"14:34:02 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [133]
-			"14:34:02 - OnMLDBReceived", -- [134]
-			"14:34:02 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SOblicollect-Outland^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [135]
-			"14:34:48 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [136]
-			"14:34:48 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [137]
-			"14:34:49 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [138]
-			"14:34:49 - OnMLDBReceived", -- [139]
-			"14:34:49 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [140]
-			"14:34:49 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [141]
-			"14:35:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [142]
-			"14:35:41 - OnMLDBReceived", -- [143]
-			"14:35:41 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Nozdormu^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [144]
-			"14:36:06 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [145]
-			"14:36:06 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [146]
-			"14:36:06 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [147]
-			"14:36:06 - OnMLDBReceived", -- [148]
-			"14:36:06 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [149]
-			"14:36:06 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [150]
-			"14:37:27 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [151]
-			"14:37:27 - OnMLDBReceived", -- [152]
-			"14:37:27 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [153]
-			"14:38:16 - Comm received:^1^Sxrealm^T^N1^SShinaupandi-Hyjal^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [154]
-			"14:38:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [155]
-			"14:38:16 - OnMLDBReceived", -- [156]
-			"14:38:16 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShinaupandi-Hyjal^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [157]
-			"14:38:16 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Hyjal^N4^SMAGE^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N64^t^^ (from:) (Shinaupandi-Hyjal) (distri:) (RAID)", -- [158]
-			"14:38:21 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Shinaupandi-Hyjal) (distri:) (RAID)", -- [159]
-			"14:38:22 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [160]
-			"14:38:22 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [161]
-			"14:38:26 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShinaupandi-Hyjal^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKeldár-Proudmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [162]
-			"14:40:07 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [163]
-			"14:40:07 - OnMLDBReceived", -- [164]
-			"14:40:07 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShinaupandi-Hyjal^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [165]
-			"14:40:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [166]
-			"14:40:41 - OnMLDBReceived", -- [167]
-			"14:40:41 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [168]
-			"14:41:25 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [169]
-			"14:41:25 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [170]
-			"14:41:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [171]
-			"14:41:26 - OnMLDBReceived", -- [172]
-			"14:41:26 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [173]
-			"14:41:26 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [174]
-			"14:42:22 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (325057) (1) (0)", -- [175]
-			"14:42:22 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [176]
-			"14:42:22 - GetML()", -- [177]
-			"14:43:38 - Comm received:^1^Sxrealm^T^N1^SDangerzone-Ravencrest^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [178]
-			"14:43:38 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [179]
-			"14:43:38 - OnMLDBReceived", -- [180]
-			"14:43:38 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDangerzone-Ravencrest^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [181]
-			"14:43:38 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SDangerzone-Ravencrest^N4^SMAGE^N5^SDAMAGER^N6^SWall~`Guard^N8^N0^N9^N461.125^N10^N64^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [182]
-			"14:43:43 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [183]
-			"14:43:43 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [184]
-			"14:43:43 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [185]
-			"14:43:48 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDangerzone-Ravencrest^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SWall~`Guard^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [186]
-			"14:43:48 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [187]
-			"14:43:48 - OnMLDBReceived", -- [188]
-			"14:43:48 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDangerzone-Ravencrest^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SWall~`Guard^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [189]
-			"14:43:58 - Comm received:^1^Sxrealm^T^N1^SDondemondar-ArgentDawn^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [190]
-			"14:43:58 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [191]
-			"14:43:58 - OnMLDBReceived", -- [192]
-			"14:43:58 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDangerzone-Ravencrest^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SWall~`Guard^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [193]
-			"14:43:58 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SDondemondar-ArgentDawn^N4^SDEMONHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [194]
-			"14:43:59 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDangerzone-Ravencrest^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SWall~`Guard^t^STirnael-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SRuvon-Madmortem^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SShebra-Outland^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SMytrol-Nozdormu^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZentiva-Un'Goro^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAthanor-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [195]
-			"14:44:05 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [196]
-			"14:44:05 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [197]
-			"14:44:05 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [198]
-			"14:44:50 - TradeUI: Traded item(s) to (Athanor-Blackmoore)", -- [199]
-			"14:44:50 - TradeUI:Show() (nil)", -- [200]
-			"14:44:50 - TradeUI:Hide()", -- [201]
-			"14:45:17 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (17)", -- [202]
-			"14:45:17 - UpdatePlayersData()", -- [203]
-			"14:54:23 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (17) (1)", -- [204]
-			"14:54:27 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [205]
-			"14:54:27 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [206]
-			"14:54:27 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [207]
-			"14:54:36 - Comm received:^1^Sbonus_roll^T^N1^SDangerzone-Ravencrest^N2^Sitem^N3^S|cffa335ee|Hitem:174103::::::::120:64::5:4:4823:6513:1502:4786:::|h[Manifesto~`of~`Madness]|h|r^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [208]
-			"14:54:36 - Comm received:^1^Shistory^T^N1^SDangerzone-Ravencrest^N2^T^SmapID^N2217^Sowner^SDangerzone-Ravencrest^Sid^S1598097276-0^Sinstance^SNy'alotha,~`the~`Waking~`City-Heroic^Sclass^SMAGE^Sdate^S22/08/20^Sresponse^SBonus~`Loot^SgroupSize^N17^SisAwardReason^b^SlootWon^S|cffa335ee|Hitem:174103::::::::120:64::5:4:4823:6513:1502:4786:::|h[Manifesto~`of~`Madness]|h|r^SdifficultyID^N15^Sboss^SN'Zoth~`the~`Corruptor^SresponseID^SBONUSROLL^Stime^S14:54:36^Scolor^T^N1^N1^N2^N0.8^N3^N0^N4^N1^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [209]
-			"14:54:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Zentiva-Un'Goro) (WARRIOR)", -- [210]
-			"14:54:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Athanor) (PALADIN)", -- [211]
-			"14:54:38 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174533) (|cffa335ee|Hitem:174533::::::::120:253::5:5:4823:6516:6513:1502:4786:::|h[Ring of Cosmic Potential]|h|r) (1) (Mytrol-Nozdormu) (WARRIOR)", -- [212]
-			"14:54:43 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174103) (|cffa335ee|Hitem:174103::::::::120:253::5:4:4823:6513:1502:4786:::|h[Manifesto of Madness]|h|r) (1) (Anotherkekw-Onyxia) (PRIEST)", -- [213]
-			"14:54:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Dangerzone-Ravencrest) (MAGE)", -- [214]
-			"14:54:50 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [215]
-			"14:54:50 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [216]
-			"14:54:52 - Comm received:^1^Snot_tradeable^T^N1^S|cffff8000|Hitem:175062::::::::120:64::5::::|h[Malefic~`Core]|h|r^N2^S341820^t^^ (from:) (Dangerzone-Ravencrest) (distri:) (RAID)", -- [217]
-			"14:55:11 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [218]
-			"14:55:11 - GetML()", -- [219]
-			"08/22/20", -- [220]
-			"15:02:06 - Logged In", -- [221]
-			"15:02:06 - ML initialized!", -- [222]
-			"15:02:06 - TradeUI enabled", -- [223]
-			"15:02:19 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [224]
-			"15:02:19 - ActivateSkin (bfa)", -- [225]
-			"15:02:23 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [226]
-			"15:02:23 - GetML()", -- [227]
-			"15:02:23 - UpdatePlayersData()", -- [228]
-			"15:02:27 - GetPlayersGuildRank()", -- [229]
-			"15:02:27 - GetPlayersGuildRank()", -- [230]
-			"15:02:27 - Found Guild Rank: Raider", -- [231]
-			"15:02:27 - Event: (PARTY_LEADER_CHANGED)", -- [232]
-			"15:02:27 - GetML()", -- [233]
-			"15:02:27 - Resetting council as we have a new ML!", -- [234]
-			"15:02:27 - MasterLooter =  (Myrinä-Sylvanas)", -- [235]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [236]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [237]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [238]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [239]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [240]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [241]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [242]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [243]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [244]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [245]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [246]
-			"15:02:28 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [247]
-			"15:02:29 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [248]
-			"15:02:32 - Comm received:^1^Sxrealm^T^N1^SPersefonee-Wildhammer^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [249]
-			"15:02:32 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [250]
-			"15:02:32 - OnMLDBReceived", -- [251]
-			"15:02:32 - Comm received:^1^Scandidates^T^N1^T^SLullãby-Outland^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [252]
-			"15:02:45 - Timer MLdb_check passed", -- [253]
-			"15:02:45 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [254]
-			"15:02:45 - GetML()", -- [255]
-			"15:03:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [256]
-			"15:03:33 - OnMLDBReceived", -- [257]
-			"15:03:33 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SAnotherkekw-Onyxia^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [258]
-			"15:03:39 - TradeUI: Traded item(s) to (Coxmaul-Blackmoore)", -- [259]
-			"15:03:39 - TradeUI:Show() (nil)", -- [260]
-			"15:03:39 - TradeUI:Hide()", -- [261]
-			"15:03:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [262]
-			"15:03:43 - OnMLDBReceived", -- [263]
-			"15:03:43 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [264]
-			"15:03:52 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (323767) (1) (0)", -- [265]
-			"15:03:52 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [266]
-			"15:03:52 - GetML()", -- [267]
-			"15:04:08 - Comm received:^1^Sxrealm^T^N1^SWimmycollect-Runetotem^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [268]
-			"15:04:08 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [269]
-			"15:04:08 - OnMLDBReceived", -- [270]
-			"15:04:08 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SWimmycollect-Runetotem^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [271]
-			"15:04:29 - Comm received:^1^Sxrealm^T^N1^SZizoblivion-Aggramar^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [272]
-			"15:04:29 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [273]
-			"15:04:29 - OnMLDBReceived", -- [274]
-			"15:04:29 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZizoblivion-Aggramar^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SWimmycollect-Runetotem^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [275]
-			"15:05:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [276]
-			"15:05:28 - OnMLDBReceived", -- [277]
-			"15:05:28 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SDondemondar-Madmortem^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SAzaela-Aggramar^T^Srole^SHEALER^Sclass^SMONK^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillboost-Sanguino^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZizoblivion-Aggramar^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [278]
-			"08/22/20", -- [279]
-			"15:09:22 - Logged In", -- [280]
-			"15:09:22 - ML initialized!", -- [281]
-			"15:09:22 - TradeUI enabled", -- [282]
-			"15:09:30 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [283]
-			"15:09:30 - ActivateSkin (bfa)", -- [284]
-			"15:09:34 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [285]
-			"15:09:34 - GetML()", -- [286]
-			"15:09:34 - UpdatePlayersData()", -- [287]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [288]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [289]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [290]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [291]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [292]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [293]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [294]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [295]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [296]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [297]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [298]
-			"15:09:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [299]
-			"15:09:38 - GetPlayersGuildRank()", -- [300]
-			"15:09:38 - Found Guild Rank: Raider", -- [301]
-			"15:09:39 - Event: (PARTY_LEADER_CHANGED)", -- [302]
-			"15:09:39 - GetML()", -- [303]
-			"15:09:39 - Unknown ML", -- [304]
-			"15:09:40 - GetML()", -- [305]
-			"15:09:40 - Unknown ML", -- [306]
-			"15:09:40 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [307]
-			"15:09:41 - GetML()", -- [308]
-			"15:09:41 - Resetting council as we have a new ML!", -- [309]
-			"15:09:41 - MasterLooter =  (Myrinä-Sylvanas)", -- [310]
-			"15:09:52 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [311]
-			"15:09:52 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [312]
-			"15:09:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [313]
-			"15:09:53 - OnMLDBReceived", -- [314]
-			"15:09:53 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [315]
-			"15:09:53 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [316]
-			"15:09:55 - Timer MLdb_check passed", -- [317]
-			"15:10:11 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [318]
-			"15:10:11 - OnMLDBReceived", -- [319]
-			"15:10:11 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [320]
-			"15:10:44 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [321]
-			"15:10:44 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [322]
-			"15:10:44 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [323]
-			"15:10:44 - OnMLDBReceived", -- [324]
-			"15:10:44 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [325]
-			"15:10:44 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [326]
-			"15:11:29 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (17)", -- [327]
-			"15:11:29 - UpdatePlayersData()", -- [328]
-			"15:19:38 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (17) (1)", -- [329]
-			"15:19:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [330]
-			"15:19:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [331]
-			"15:19:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [332]
-			"15:19:50 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Kernas-Terokkar) (DEATHKNIGHT)", -- [333]
-			"15:19:50 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Kernas-Terokkar) (DEATHKNIGHT)", -- [334]
-			"15:19:51 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Coxmaul) (PALADIN)", -- [335]
-			"15:20:03 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [336]
-			"15:20:03 - GetML()", -- [337]
-			"15:20:28 - Event: (PARTY_LEADER_CHANGED)", -- [338]
-			"15:20:28 - GetML()", -- [339]
-			"15:20:28 - Resetting council as we have a new ML!", -- [340]
-			"15:20:28 - MasterLooter =  (Eddiè-Silvermoon)", -- [341]
-			"15:20:28 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [342]
-			"15:20:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [343]
-			"15:20:28 - OnMLDBReceived", -- [344]
-			"15:20:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [345]
-			"15:20:28 - OnMLDBReceived", -- [346]
-			"15:20:28 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [347]
-			"15:20:28 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [348]
-			"15:20:28 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [349]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [350]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SDondemondar-ArgentDawn^N4^SDEMONHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [351]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [352]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [353]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [354]
-			"15:20:28 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SSethwow-Quel'Thalas^N4^SWARRIOR^N5^SDAMAGER^N6^SAdventurer^N8^N0^N9^N460.1875^N10^N72^t^^ (from:) (Sethwow-Quel'Thalas) (distri:) (RAID)", -- [355]
-			"15:20:28 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [356]
-			"15:20:34 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [357]
-			"15:20:34 - GetML()", -- [358]
-			"15:20:38 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SUzukolyo-Drek'Thar^T^Srole^SDAMAGER^Sclass^SSHAMAN^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [359]
-			"15:20:43 - Timer MLdb_check passed", -- [360]
-			"15:20:47 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^Scouncil_request^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [361]
-			"15:20:47 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [362]
-			"15:20:47 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [363]
-			"15:20:50 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [364]
-			"15:20:50 - Event: (PARTY_LEADER_CHANGED)", -- [365]
-			"15:20:50 - GetML()", -- [366]
-			"15:20:50 - Resetting council as we have a new ML!", -- [367]
-			"15:20:50 - MasterLooter =  (Myrinä-Sylvanas)", -- [368]
-			"15:20:50 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [369]
-			"15:20:50 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [370]
-			"15:20:50 - OnMLDBReceived", -- [371]
-			"15:20:50 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [372]
-			"15:20:50 - OnMLDBReceived", -- [373]
-			"15:20:50 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [374]
-			"15:20:50 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [375]
-			"15:20:50 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [376]
-			"15:20:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SSethwow-Quel'Thalas^N4^SWARRIOR^N5^SDAMAGER^N6^SAdventurer^N8^N0^N9^N460.1875^N10^N72^t^^ (from:) (Sethwow-Quel'Thalas) (distri:) (RAID)", -- [377]
-			"15:20:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [378]
-			"15:20:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [379]
-			"15:20:51 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [380]
-			"15:20:51 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SDondemondar-ArgentDawn^N4^SDEMONHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [381]
-			"15:21:00 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKernas-Terokkar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SCromius-Runetotem^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SCoxmaul-Blackmoore^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [382]
-			"15:21:02 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [383]
-			"15:21:02 - OnMLDBReceived", -- [384]
-			"15:21:02 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [385]
-			"15:21:05 - Timer MLdb_check passed", -- [386]
-			"15:21:11 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Sethwow-Quel'Thalas) (distri:) (RAID)", -- [387]
-			"15:21:11 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Sethwow-Quel'Thalas) (distri:) (RAID)", -- [388]
-			"15:21:14 - Comm received:^1^Stradable^T^N1^S|cff0070dd|Hitem:174452::::::::120:72::5::::|h[Eye~`of~`Corruption]|h|r^N2^S341820^t^^ (from:) (Sethwow-Quel'Thalas) (distri:) (RAID)", -- [389]
-			"15:21:47 - Comm received:^1^Sxrealm^T^N1^SCherryhunt-Turalyon^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [390]
-			"15:21:47 - Comm received:^1^Sxrealm^T^N1^SKurima-Antonidas^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [391]
-			"15:21:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [392]
-			"15:21:47 - OnMLDBReceived", -- [393]
-			"15:21:47 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [394]
-			"15:21:57 - Comm received:^1^Sxrealm^T^N1^SLaag-Aegwynn^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [395]
-			"15:21:57 - Comm received:^1^Sxrealm^T^N1^SAryà-Darksorrow^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [396]
-			"15:21:57 - Comm received:^1^Sxrealm^T^N1^SHuntaria-Ravencrest^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [397]
-			"15:21:57 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [398]
-			"15:21:57 - OnMLDBReceived", -- [399]
-			"15:21:57 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SKurima-Antonidas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SBarskalin-Madmortem^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SSelenia-Nethersturm^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [400]
-			"15:22:07 - Comm received:^1^Sxrealm^T^N1^SKelsier-Proudmoore^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [401]
-			"15:22:07 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [402]
-			"15:22:07 - OnMLDBReceived", -- [403]
-			"15:22:07 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SSethwow-Quel'Thalas^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAdventurer^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [404]
-			"15:22:17 - Comm received:^1^Sxrealm^T^N1^SShinaupandi-Aegwynn^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [405]
-			"15:22:17 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [406]
-			"15:22:17 - OnMLDBReceived", -- [407]
-			"15:22:17 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SShinaupandi-Aegwynn^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [408]
-			"15:22:17 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Aegwynn^N4^SMAGE^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N64^t^^ (from:) (Shinaupandi-Aegwynn) (distri:) (RAID)", -- [409]
-			"15:22:17 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SShinaupandi-Aegwynn^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SPersefonee-Wildhammer^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [410]
-			"15:22:32 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Shinaupandi-Aegwynn) (distri:) (RAID)", -- [411]
-			"15:22:32 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [412]
-			"15:22:32 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [413]
-			"15:22:55 - Comm received:^1^Sxrealm^T^N1^SHietake-Malfurion^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [414]
-			"15:22:55 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [415]
-			"15:22:55 - OnMLDBReceived", -- [416]
-			"15:22:55 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SShinaupandi-Aegwynn^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [417]
-			"08/22/20", -- [418]
-			"15:25:09 - Logged In", -- [419]
-			"15:25:09 - ML initialized!", -- [420]
-			"15:25:09 - TradeUI enabled", -- [421]
-			"15:25:22 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [422]
-			"15:25:22 - ActivateSkin (bfa)", -- [423]
-			"15:25:26 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [424]
-			"15:25:26 - GetML()", -- [425]
-			"15:25:26 - UpdatePlayersData()", -- [426]
-			"15:25:29 - GetPlayersGuildRank()", -- [427]
-			"15:25:29 - GetPlayersGuildRank()", -- [428]
-			"15:25:29 - Found Guild Rank: Raider", -- [429]
-			"15:25:31 - Event: (PARTY_LEADER_CHANGED)", -- [430]
-			"15:25:31 - GetML()", -- [431]
-			"15:25:31 - Resetting council as we have a new ML!", -- [432]
-			"15:25:31 - MasterLooter =  (Myrinä-Sylvanas)", -- [433]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [434]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [435]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [436]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [437]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [438]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [439]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [440]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [441]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [442]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [443]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [444]
-			"15:25:31 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [445]
-			"15:25:31 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [446]
-			"15:25:46 - Timer MLdb_check passed", -- [447]
-			"15:25:46 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [448]
-			"15:25:46 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [449]
-			"15:25:46 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [450]
-			"15:25:46 - OnMLDBReceived", -- [451]
-			"15:25:46 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [452]
-			"15:25:46 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [453]
-			"15:26:27 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [454]
-			"15:26:27 - OnMLDBReceived", -- [455]
-			"15:26:27 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [456]
-			"15:30:03 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [457]
-			"15:30:03 - OnMLDBReceived", -- [458]
-			"15:30:03 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [459]
-			"15:30:34 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [460]
-			"15:30:34 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [461]
-			"15:30:34 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [462]
-			"15:30:34 - OnMLDBReceived", -- [463]
-			"15:30:34 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [464]
-			"15:30:34 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [465]
-			"08/22/20", -- [466]
-			"15:31:21 - Logged In", -- [467]
-			"15:31:21 - ML initialized!", -- [468]
-			"15:31:21 - TradeUI enabled", -- [469]
-			"15:31:28 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [470]
-			"15:31:28 - ActivateSkin (bfa)", -- [471]
-			"15:31:33 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [472]
-			"15:31:33 - GetML()", -- [473]
-			"15:31:33 - Resetting council as we have a new ML!", -- [474]
-			"15:31:33 - MasterLooter =  (Myrinä-Sylvanas)", -- [475]
-			"15:31:33 - Player relog...", -- [476]
-			"15:31:33 - UpdatePlayersData()", -- [477]
-			"15:31:36 - GetPlayersGuildRank()", -- [478]
-			"15:31:36 - Found Guild Rank: Raider", -- [479]
-			"15:31:36 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [480]
-			"15:31:36 - OnMLDBReceived", -- [481]
-			"15:31:36 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [482]
-			"15:31:36 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [483]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [484]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [485]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [486]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [487]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [488]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [489]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [490]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [491]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [492]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [493]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [494]
-			"15:31:37 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [495]
-			"15:31:37 - Timer MLdb_check passed", -- [496]
-			"15:31:37 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [497]
-			"15:31:37 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [498]
-			"15:31:37 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Sreconnect^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [499]
-			"15:31:37 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [500]
-			"15:31:37 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SMLdb^N3^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [501]
-			"15:31:37 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^SnumButtons^N3^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [502]
-			"15:31:37 - OnMLDBReceived", -- [503]
-			"15:31:37 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scouncil^N3^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [504]
-			"15:31:37 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [505]
-			"15:31:37 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [506]
-			"15:31:39 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scandidates^N3^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [507]
-			"15:31:39 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Senchant_lvl^N175^SspecID^N70^Senchanter^B^Srank^SAlt^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Senchant_lvl^N0^SspecID^N73^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Senchant_lvl^N175^SspecID^N268^Senchanter^B^Srank^SCookie-Master~`^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Senchant_lvl^N0^Srole^SDAMAGER^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Senchant_lvl^N0^SspecID^N577^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^Senchant_lvl^N0^SspecID^N71^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Senchant_lvl^N175^SspecID^N267^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [508]
-			"15:33:19 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [509]
-			"15:42:44 - Comm received:^1^Sxrealm^T^N1^SWimmycollect-Nagrand^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [510]
-			"15:42:44 - Comm received:^1^Sxrealm^T^N1^SEezee-Hellfire^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [511]
-			"15:42:44 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [512]
-			"15:42:44 - OnMLDBReceived", -- [513]
-			"15:42:44 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondeobliv-Malfurion^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillboost-Darksorrow^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [514]
-			"15:45:26 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [515]
-			"15:45:26 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [516]
-			"15:45:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [517]
-			"15:45:26 - OnMLDBReceived", -- [518]
-			"15:45:26 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [519]
-			"15:45:26 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [520]
-			"15:46:08 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (321231) (1) (0)", -- [521]
-			"15:46:09 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [522]
-			"15:46:09 - GetML()", -- [523]
-			"15:46:30 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [524]
-			"15:46:30 - OnMLDBReceived", -- [525]
-			"15:46:30 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [526]
-			"15:47:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [527]
-			"15:47:16 - OnMLDBReceived", -- [528]
-			"15:47:16 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [529]
-			"15:48:45 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (16)", -- [530]
-			"15:48:45 - UpdatePlayersData()", -- [531]
-			"15:48:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [532]
-			"15:48:47 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [533]
-			"15:48:47 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [534]
-			"15:48:47 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [535]
-			"15:48:52 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [536]
-			"15:48:52 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [537]
-			"15:48:52 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [538]
-			"15:48:52 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [539]
-			"15:48:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [540]
-			"15:48:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [541]
-			"15:51:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [542]
-			"15:51:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [543]
-			"15:51:25 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [544]
-			"15:51:25 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame20:Show())", -- [545]
-			"15:52:24 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [546]
-			"15:53:30 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame15:Show())", -- [547]
-			"15:56:37 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (16) (1)", -- [548]
-			"15:56:40 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [549]
-			"15:56:40 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [550]
-			"15:56:40 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [551]
-			"15:56:45 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Aryà-Darksorrow) (WARRIOR)", -- [552]
-			"15:56:45 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174533) (|cffa335ee|Hitem:174533::::::::120:253::5:5:4823:6516:6515:1502:4786:::|h[Ring of Cosmic Potential]|h|r) (1) (Aryà-Darksorrow) (WARRIOR)", -- [553]
-			"15:56:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Huntaria-Ravencrest) (HUNTER)", -- [554]
-			"15:56:50 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Kelsier-Proudmoore) (MAGE)", -- [555]
-			"15:56:55 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174118) (|cffa335ee|Hitem:174118::::::::120:253::5:4:4823:1502:4786:6508:::|h[Visage of Nightmarish Machinations]|h|r) (1) (Hietake-Malfurion) (MAGE)", -- [556]
-			"15:57:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Cherryhunt-Turalyon) (DEMONHUNTER)", -- [557]
-			"15:57:19 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [558]
-			"15:57:19 - GetML()", -- [559]
-			"15:57:39 - Event: (PARTY_LEADER_CHANGED)", -- [560]
-			"15:57:39 - GetML()", -- [561]
-			"15:57:39 - Resetting council as we have a new ML!", -- [562]
-			"15:57:39 - MasterLooter =  (Eddiè-Silvermoon)", -- [563]
-			"15:57:40 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [564]
-			"15:57:42 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [565]
-			"15:57:42 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [566]
-			"15:57:42 - OnMLDBReceived", -- [567]
-			"15:57:42 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [568]
-			"15:57:42 - OnMLDBReceived", -- [569]
-			"15:57:42 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [570]
-			"15:57:42 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [571]
-			"15:57:42 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [572]
-			"15:57:42 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [573]
-			"15:57:42 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [574]
-			"15:57:42 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [575]
-			"15:57:42 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [576]
-			"15:57:52 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SKelsier-Proudmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [577]
-			"15:57:54 - Timer MLdb_check passed", -- [578]
-			"15:58:01 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [579]
-			"15:58:01 - OnMLDBReceived", -- [580]
-			"15:58:01 - Comm received:^1^Scandidates^T^N1^T^SCherryhunt-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SXenya-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [581]
-			"15:58:10 - Event: (PARTY_LEADER_CHANGED)", -- [582]
-			"15:58:10 - GetML()", -- [583]
-			"15:58:10 - Resetting council as we have a new ML!", -- [584]
-			"15:58:10 - MasterLooter =  (Myrinä-Sylvanas)", -- [585]
-			"15:58:10 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [586]
-			"15:58:10 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [587]
-			"15:58:10 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [588]
-			"15:58:10 - OnMLDBReceived", -- [589]
-			"15:58:10 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [590]
-			"15:58:10 - OnMLDBReceived", -- [591]
-			"15:58:10 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [592]
-			"15:58:10 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [593]
-			"15:58:10 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [594]
-			"15:58:11 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SEezee-Hellfire^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [595]
-			"15:58:11 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [596]
-			"15:58:11 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [597]
-			"15:58:16 - Event: (PARTY_LEADER_CHANGED)", -- [598]
-			"15:58:16 - GetML()", -- [599]
-			"15:58:16 - Resetting council as we have a new ML!", -- [600]
-			"15:58:16 - MasterLooter =  (Eddiè-Silvermoon)", -- [601]
-			"15:58:16 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [602]
-			"15:58:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [603]
-			"15:58:16 - OnMLDBReceived", -- [604]
-			"15:58:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [605]
-			"15:58:16 - OnMLDBReceived", -- [606]
-			"15:58:16 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [607]
-			"15:58:16 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [608]
-			"15:58:16 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [609]
-			"15:58:16 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [610]
-			"15:58:16 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [611]
-			"15:58:16 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [612]
-			"15:58:16 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [613]
-			"15:58:16 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [614]
-			"15:58:25 - Timer MLdb_check passed", -- [615]
-			"15:58:26 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SAryà-Darksorrow^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SHietake-Malfurion^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [616]
-			"15:58:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [617]
-			"15:58:28 - OnMLDBReceived", -- [618]
-			"15:58:28 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLaag-Aegwynn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SHuntaria-Ravencrest^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [619]
-			"15:58:31 - Timer MLdb_check passed", -- [620]
-			"15:58:38 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [621]
-			"15:58:38 - OnMLDBReceived", -- [622]
-			"15:58:38 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [623]
-			"15:58:46 - Event: (PARTY_LEADER_CHANGED)", -- [624]
-			"15:58:46 - GetML()", -- [625]
-			"15:58:46 - Resetting council as we have a new ML!", -- [626]
-			"15:58:46 - MasterLooter =  (Myrinä-Sylvanas)", -- [627]
-			"15:58:46 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [628]
-			"15:58:46 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [629]
-			"15:58:46 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [630]
-			"15:58:46 - OnMLDBReceived", -- [631]
-			"15:58:46 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [632]
-			"15:58:46 - OnMLDBReceived", -- [633]
-			"15:58:46 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [634]
-			"15:58:46 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [635]
-			"15:58:46 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [636]
-			"15:58:46 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [637]
-			"15:58:46 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [638]
-			"15:58:46 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [639]
-			"15:58:56 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [640]
-			"15:59:01 - Timer MLdb_check passed", -- [641]
-			"08/22/20", -- [642]
-			"16:00:18 - Logged In", -- [643]
-			"16:00:18 - ML initialized!", -- [644]
-			"16:00:18 - TradeUI enabled", -- [645]
-			"16:00:30 - Obliviongril-BronzeDragonflight (2.19.3) (nil)", -- [646]
-			"16:00:30 - ActivateSkin (bfa)", -- [647]
-			"16:00:36 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [648]
-			"16:00:36 - GetML()", -- [649]
-			"16:00:36 - UpdatePlayersData()", -- [650]
-			"16:00:40 - LUA_WARNING (0) ((null))", -- [651]
-			"16:00:40 - LUA_WARNING (0) ((null))", -- [652]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDataBroker-1.1\\LibDataBroker-1.1.lua)", -- [653]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDBIcon-1.0\\LibDBIcon-1.0.lua)", -- [654]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDataBroker-1.1\\LibDataBroker-1.1.lua)", -- [655]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDBIcon-1.0\\LibDBIcon-1.0.lua)", -- [656]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDataBroker-1.1\\LibDataBroker-1.1.lua)", -- [657]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDBIcon-1.0\\LibDBIcon-1.0.lua)", -- [658]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [659]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [660]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [661]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [662]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [663]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [664]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [665]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [666]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [667]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [668]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [669]
-			"16:00:40 - LUA_WARNING (0) ((null))", -- [670]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDataBroker-1.1\\LibDataBroker-1.1.lua)", -- [671]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\SexyCooldown2\\Libs\\LibDBIcon-1.0\\LibDBIcon-1.0.lua)", -- [672]
-			"16:00:40 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [673]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [674]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [675]
-			"16:00:40 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [676]
-			"08/22/20", -- [677]
-			"16:11:17 - Logged In", -- [678]
-			"16:11:17 - ML initialized!", -- [679]
-			"16:11:17 - TradeUI enabled", -- [680]
-			"16:11:29 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [681]
-			"16:11:29 - ActivateSkin (bfa)", -- [682]
-			"16:11:33 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [683]
-			"16:11:33 - GetML()", -- [684]
-			"16:11:33 - UpdatePlayersData()", -- [685]
-			"16:11:37 - GetPlayersGuildRank()", -- [686]
-			"16:11:37 - Found Guild Rank: Raider", -- [687]
-			"16:11:37 - Event: (PARTY_LEADER_CHANGED)", -- [688]
-			"16:11:37 - GetML()", -- [689]
-			"16:11:37 - Resetting council as we have a new ML!", -- [690]
-			"16:11:37 - MasterLooter =  (Myrinä-Sylvanas)", -- [691]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [692]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [693]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [694]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [695]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [696]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [697]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [698]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [699]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [700]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [701]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [702]
-			"16:11:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [703]
-			"16:11:39 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [704]
-			"16:11:52 - Timer MLdb_check passed", -- [705]
-			"16:11:52 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [706]
-			"16:11:52 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [707]
-			"16:11:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [708]
-			"16:11:53 - OnMLDBReceived", -- [709]
-			"16:11:53 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [710]
-			"16:11:53 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [711]
-			"16:12:41 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [712]
-			"16:12:41 - GetML()", -- [713]
-			"16:13:13 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (319606) (1) (0)", -- [714]
-			"16:13:14 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [715]
-			"16:13:14 - GetML()", -- [716]
-			"16:13:35 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [717]
-			"16:13:35 - OnMLDBReceived", -- [718]
-			"16:13:35 - Comm received:^1^Scandidates^T^N1^T^STrinidadscor-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SAjfleming-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGedzka-BronzeDragonflight^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SDemonpig-Hellfire^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRhea-Ravenholdt^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SQuintaar-TheMaelstrom^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N0^Sclass^SPALADIN^Srank^SSocial^t^SCorteaz-Antonidas^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SAlbusp-Sylvanas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDreamflame-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SFistárn-Outland^T^Srole^SDAMAGER^Sclass^SMONK^Srank^S^t^SObliviongril-BronzeDragonflight^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [719]
-			"16:13:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [720]
-			"16:13:51 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [721]
-			"16:13:51 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [722]
-			"16:14:03 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [723]
-			"16:14:04 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [724]
-			"16:14:04 - OnMLDBReceived", -- [725]
-			"16:14:57 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [726]
-			"16:14:57 - OnMLDBReceived", -- [727]
-			"16:14:57 - Comm received:^1^Scandidates^T^N1^T^STrinidadscor-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SAjfleming-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGedzka-BronzeDragonflight^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SDemonpig-Hellfire^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRhea-Ravenholdt^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SCorteaz-Antonidas^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SAlbusp-Sylvanas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDreamflame-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SFistárn-Outland^T^Srole^SDAMAGER^Sclass^SMONK^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [728]
-			"16:16:29 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (17)", -- [729]
-			"16:16:29 - UpdatePlayersData()", -- [730]
-			"16:24:37 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (17) (1)", -- [731]
-			"16:24:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [732]
-			"16:24:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [733]
-			"16:24:41 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [734]
-			"16:24:58 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Corteaz-Antonidas) (DEATHKNIGHT)", -- [735]
-			"16:24:58 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174533) (|cffa335ee|Hitem:174533::::::::120:253::5:5:4823:6516:6515:1502:4786:::|h[Ring of Cosmic Potential]|h|r) (1) (Trinidadscor-TheMaelstrom) (DEMONHUNTER)", -- [736]
-			"16:25:00 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Ajfleming-Silvermoon) (PALADIN)", -- [737]
-			"16:25:00 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Ajfleming-Silvermoon) (PALADIN)", -- [738]
-			"16:25:02 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174167) (|cffa335ee|Hitem:174167::::::::120:253::5:4:4823:1502:4786:6508:::|h[Greathelm of Phantasmic Reality]|h|r) (1) (Dreamflame-TheMaelstrom) (DEATHKNIGHT)", -- [739]
-			"16:25:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [740]
-			"16:25:26 - OnMLDBReceived", -- [741]
-			"16:25:26 - Comm received:^1^Scandidates^T^N1^T^STrinidadscor-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SAjfleming-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGedzka-BronzeDragonflight^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SDemonpig-Hellfire^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRhea-Ravenholdt^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SAlbusp-Sylvanas^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SDreamflame-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [742]
-			"16:25:45 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [743]
-			"16:25:45 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [744]
-			"16:25:45 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [745]
-			"16:25:45 - OnMLDBReceived", -- [746]
-			"16:25:45 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [747]
-			"16:25:45 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [748]
-			"16:25:54 - Event: (PARTY_LEADER_CHANGED)", -- [749]
-			"16:25:54 - GetML()", -- [750]
-			"16:25:54 - Resetting council as we have a new ML!", -- [751]
-			"16:25:54 - MasterLooter =  (Eddiè-Silvermoon)", -- [752]
-			"16:25:54 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [753]
-			"16:25:55 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [754]
-			"16:25:55 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [755]
-			"16:25:55 - OnMLDBReceived", -- [756]
-			"16:25:55 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [757]
-			"16:25:55 - OnMLDBReceived", -- [758]
-			"16:25:55 - Comm received:^1^Scandidates^T^N1^T^STrinidadscor-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDreamflame-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGedzka-BronzeDragonflight^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SDemonpig-Hellfire^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [759]
-			"16:25:55 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [760]
-			"16:25:55 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [761]
-			"16:25:55 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [762]
-			"16:25:55 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [763]
-			"16:25:55 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [764]
-			"16:25:55 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [765]
-			"08/22/20", -- [766]
-			"16:38:16 - Logged In", -- [767]
-			"16:38:16 - ML initialized!", -- [768]
-			"16:38:16 - TradeUI enabled", -- [769]
-			"16:38:24 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [770]
-			"16:38:24 - ActivateSkin (bfa)", -- [771]
-			"16:38:28 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [772]
-			"16:38:28 - GetML()", -- [773]
-			"16:38:28 - UpdatePlayersData()", -- [774]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [775]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [776]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [777]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [778]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [779]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [780]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [781]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [782]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [783]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [784]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [785]
-			"16:38:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [786]
-			"16:38:33 - GetPlayersGuildRank()", -- [787]
-			"16:38:33 - Found Guild Rank: Raider", -- [788]
-			"16:38:33 - Comm received:^1^Sxrealm^T^N1^SMedzon-Arathor^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [789]
-			"16:38:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [790]
-			"16:38:33 - Non-ML: (Myrinä-Sylvanas) (sent Mldb!)", -- [791]
-			"16:38:33 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SZizoblivion-Dalaran^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [792]
-			"16:38:33 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SZizoblivion-Dalaran^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [793]
-			"16:38:33 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [794]
-			"16:38:33 - Event: (PARTY_LEADER_CHANGED)", -- [795]
-			"16:38:33 - GetML()", -- [796]
-			"16:38:33 - Unknown ML", -- [797]
-			"16:38:35 - GetML()", -- [798]
-			"16:38:35 - Unknown ML", -- [799]
-			"16:38:35 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [800]
-			"16:38:35 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SMedzon-Arathor^N4^SWARRIOR^N5^SDAMAGER^N6^SFriss^N8^N0^N9^N425.5625^N10^N72^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [801]
-			"16:38:35 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [802]
-			"16:38:36 - GetML()", -- [803]
-			"16:38:36 - Resetting council as we have a new ML!", -- [804]
-			"16:38:36 - MasterLooter =  (Myrinä-Sylvanas)", -- [805]
-			"16:38:50 - Timer MLdb_check passed", -- [806]
-			"16:38:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [807]
-			"16:38:50 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [808]
-			"16:38:50 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [809]
-			"16:38:50 - OnMLDBReceived", -- [810]
-			"16:38:50 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [811]
-			"16:38:50 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [812]
-			"16:39:17 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [813]
-			"16:39:17 - OnMLDBReceived", -- [814]
-			"16:39:17 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [815]
-			"16:39:17 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [816]
-			"16:39:37 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [817]
-			"16:39:37 - OnMLDBReceived", -- [818]
-			"16:39:37 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [819]
-			"16:39:55 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [820]
-			"16:39:55 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [821]
-			"16:39:55 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [822]
-			"16:39:55 - OnMLDBReceived", -- [823]
-			"16:39:55 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [824]
-			"16:39:55 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [825]
-			"16:40:40 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [826]
-			"16:40:40 - GetML()", -- [827]
-			"16:40:49 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (317950) (1) (0)", -- [828]
-			"16:40:50 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [829]
-			"16:40:50 - GetML()", -- [830]
-			"16:41:32 - Comm received:^1^Sxrealm^T^N1^SOblicollect-Frostmane^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [831]
-			"16:41:32 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [832]
-			"16:41:32 - OnMLDBReceived", -- [833]
-			"16:41:32 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [834]
-			"16:41:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SOblicollect-Frostmane^N4^SHUNTER^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N253^t^^ (from:) (Oblicollect-Frostmane) (distri:) (RAID)", -- [835]
-			"16:41:38 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Oblicollect-Frostmane) (distri:) (RAID)", -- [836]
-			"16:41:38 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [837]
-			"16:41:38 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [838]
-			"16:41:43 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [839]
-			"08/22/20", -- [840]
-			"16:42:17 - Logged In", -- [841]
-			"16:42:17 - ML initialized!", -- [842]
-			"16:42:17 - TradeUI enabled", -- [843]
-			"16:42:25 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [844]
-			"16:42:25 - ActivateSkin (bfa)", -- [845]
-			"16:42:29 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [846]
-			"16:42:29 - GetML()", -- [847]
-			"16:42:29 - Resetting council as we have a new ML!", -- [848]
-			"16:42:29 - MasterLooter =  (Myrinä-Sylvanas)", -- [849]
-			"16:42:29 - Player relog...", -- [850]
-			"16:42:29 - UpdatePlayersData()", -- [851]
-			"16:42:33 - GetPlayersGuildRank()", -- [852]
-			"16:42:33 - Found Guild Rank: Raider", -- [853]
-			"16:42:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [854]
-			"16:42:33 - OnMLDBReceived", -- [855]
-			"16:42:33 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [856]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [857]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [858]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [859]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [860]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [861]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [862]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [863]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [864]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [865]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [866]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [867]
-			"16:42:33 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [868]
-			"16:42:33 - Timer MLdb_check passed", -- [869]
-			"16:42:33 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [870]
-			"16:42:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.875^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [871]
-			"16:42:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Sreconnect^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [872]
-			"16:42:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [873]
-			"16:42:33 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [874]
-			"16:42:33 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SMLdb^N3^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [875]
-			"16:42:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^SnumButtons^N3^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [876]
-			"16:42:33 - OnMLDBReceived", -- [877]
-			"16:42:33 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scouncil^N3^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [878]
-			"16:42:33 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [879]
-			"16:42:33 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [880]
-			"16:42:33 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [881]
-			"16:42:33 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [882]
-			"16:42:35 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scandidates^N3^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [883]
-			"16:42:35 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Senchant_lvl^N0^SspecID^N253^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^Senchant_lvl^N0^SspecID^N73^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^Senchant_lvl^N0^SspecID^N72^Sclass^SWARRIOR^Srank^SFriss^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Senchant_lvl^N0^Srole^SDAMAGER^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SOblicollect-Frostmane^T^Srole^SDAMAGER^Senchant_lvl^N0^SspecID^N253^Sclass^SHUNTER^Srank^SUnguilded^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (WHISPER)", -- [884]
-			"16:43:05 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [885]
-			"16:43:05 - OnMLDBReceived", -- [886]
-			"16:43:05 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [887]
-			"16:44:10 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [888]
-			"16:44:10 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [889]
-			"16:44:10 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [890]
-			"16:44:10 - OnMLDBReceived", -- [891]
-			"16:44:10 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [892]
-			"16:44:10 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [893]
-			"16:44:35 - Comm received:^1^Sxrealm^T^N1^SZoe-Hellfire^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [894]
-			"16:44:35 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [895]
-			"16:44:35 - OnMLDBReceived", -- [896]
-			"16:44:35 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZoe-Hellfire^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [897]
-			"16:44:45 - Comm received:^1^Sxrealm^T^N1^SWimmycollect-Nagrand^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [898]
-			"16:44:45 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [899]
-			"16:44:45 - OnMLDBReceived", -- [900]
-			"16:44:45 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZoe-Hellfire^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SWimmycollect-Nagrand^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [901]
-			"16:46:14 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [902]
-			"16:46:14 - OnMLDBReceived", -- [903]
-			"16:46:14 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZoe-Hellfire^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [904]
-			"16:48:27 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (18)", -- [905]
-			"16:48:27 - UpdatePlayersData()", -- [906]
-			"16:48:29 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [907]
-			"16:48:29 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [908]
-			"16:48:29 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [909]
-			"16:48:29 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [910]
-			"16:48:34 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [911]
-			"16:48:34 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [912]
-			"16:48:35 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [913]
-			"16:48:35 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [914]
-			"16:48:35 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [915]
-			"16:48:35 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [916]
-			"16:51:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [917]
-			"16:51:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [918]
-			"16:51:22 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame11:Show())", -- [919]
-			"16:51:22 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame17:Show())", -- [920]
-			"16:57:57 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (18) (1)", -- [921]
-			"16:58:00 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [922]
-			"16:58:00 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [923]
-			"16:58:00 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [924]
-			"16:58:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Apaisant-Arathor) (SHAMAN)", -- [925]
-			"16:58:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Apaisant-Arathor) (SHAMAN)", -- [926]
-			"16:58:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (172187) (|cffa335ee|Hitem:172187::::::::120:253::5:6:4823:6539:6578:6579:1502:4786:::|h[Devastation's Hour]|h|r) (1) (Medzon-Arathor) (WARRIOR)", -- [927]
-			"16:58:16 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [928]
-			"16:58:16 - Comm received:^1^Slooted^T^N1^S341820^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [929]
-			"16:58:19 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:172187::::::::120:72::5:6:4823:6539:6578:6579:1502:4786:::|h[Devastation's~`Hour]|h|r^N2^S341820^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [930]
-			"16:58:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Lochton-ArgentDawn) (ROGUE)", -- [931]
-			"16:58:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174167) (|cffa335ee|Hitem:174167::::::::120:253::5:4:4823:1502:4786:6508:::|h[Greathelm of Phantasmic Reality]|h|r) (1) (Smycket-Frostmane) (WARRIOR)", -- [932]
-			"16:58:24 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Foxtrott-Arathor) (PALADIN)", -- [933]
-			"16:58:35 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [934]
-			"16:58:35 - GetML()", -- [935]
-			"16:58:40 - Event: (PARTY_LEADER_CHANGED)", -- [936]
-			"16:58:40 - GetML()", -- [937]
-			"16:58:40 - Resetting council as we have a new ML!", -- [938]
-			"16:58:40 - MasterLooter =  (Eddiè-Silvermoon)", -- [939]
-			"16:58:41 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [940]
-			"16:58:42 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [941]
-			"16:58:42 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [942]
-			"16:58:42 - OnMLDBReceived", -- [943]
-			"16:58:42 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [944]
-			"16:58:42 - OnMLDBReceived", -- [945]
-			"16:58:42 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [946]
-			"16:58:43 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMedzon-Arathor^N4^SWARRIOR^N5^SDAMAGER^N6^SFriss^N8^N0^N9^N425.6875^N10^N72^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [947]
-			"16:58:43 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [948]
-			"16:58:43 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.875^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [949]
-			"16:58:43 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SDondemondar-ArgentDawn^N4^SDEMONHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [950]
-			"16:58:43 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [951]
-			"16:58:44 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [952]
-			"16:58:44 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [953]
-			"16:58:44 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [954]
-			"16:58:52 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SFoxtrott-Arathor^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [955]
-			"16:58:55 - Timer MLdb_check passed", -- [956]
-			"16:58:57 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [957]
-			"16:58:57 - OnMLDBReceived", -- [958]
-			"16:58:57 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [959]
-			"16:59:06 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (316853) (1) (0)", -- [960]
-			"16:59:06 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [961]
-			"16:59:06 - GetML()", -- [962]
-			"16:59:13 - Event: (PARTY_LEADER_CHANGED)", -- [963]
-			"16:59:13 - GetML()", -- [964]
-			"16:59:13 - Resetting council as we have a new ML!", -- [965]
-			"16:59:13 - MasterLooter =  (Myrinä-Sylvanas)", -- [966]
-			"16:59:14 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [967]
-			"16:59:14 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [968]
-			"16:59:14 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [969]
-			"16:59:14 - OnMLDBReceived", -- [970]
-			"16:59:14 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [971]
-			"16:59:14 - OnMLDBReceived", -- [972]
-			"16:59:14 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [973]
-			"16:59:14 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [974]
-			"16:59:14 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [975]
-			"16:59:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.875^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [976]
-			"16:59:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SMedzon-Arathor^N4^SWARRIOR^N5^SDAMAGER^N6^SFriss^N8^N0^N9^N425.6875^N10^N72^t^^ (from:) (Medzon-Arathor) (distri:) (RAID)", -- [977]
-			"16:59:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [978]
-			"16:59:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [979]
-			"16:59:24 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SApaisant-Arathor^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SLochton-ArgentDawn^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [980]
-			"16:59:24 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [981]
-			"16:59:24 - OnMLDBReceived", -- [982]
-			"16:59:24 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SSmycket-Frostmane^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMedzon-Arathor^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SFriss^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [983]
-			"16:59:28 - Timer MLdb_check passed", -- [984]
-			"16:59:35 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [985]
-			"16:59:35 - OnMLDBReceived", -- [986]
-			"16:59:35 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SIredean-Quel'Thalas^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SHymdal-Dalaran^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SZélon-Hyjal^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMinode-Dalaran^T^Srole^SHEALER^Sclass^SDRUID^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [987]
-			"08/22/20", -- [988]
-			"17:11:59 - Logged In", -- [989]
-			"17:11:59 - ML initialized!", -- [990]
-			"17:11:59 - TradeUI enabled", -- [991]
-			"17:12:07 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [992]
-			"17:12:07 - ActivateSkin (bfa)", -- [993]
-			"17:12:12 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [994]
-			"17:12:12 - GetML()", -- [995]
-			"17:12:12 - UpdatePlayersData()", -- [996]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [997]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [998]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [999]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1000]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1001]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1002]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1003]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1004]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1005]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1006]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1007]
-			"17:12:16 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1008]
-			"17:12:16 - GetPlayersGuildRank()", -- [1009]
-			"17:12:16 - GetPlayersGuildRank()", -- [1010]
-			"17:12:16 - Found Guild Rank: Raider", -- [1011]
-			"17:12:16 - Event: (PARTY_LEADER_CHANGED)", -- [1012]
-			"17:12:16 - GetML()", -- [1013]
-			"17:12:16 - Unknown ML", -- [1014]
-			"17:12:17 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [1015]
-			"17:12:18 - GetML()", -- [1016]
-			"17:12:18 - Unknown ML", -- [1017]
-			"17:12:18 - GetML()", -- [1018]
-			"17:12:18 - Resetting council as we have a new ML!", -- [1019]
-			"17:12:18 - MasterLooter =  (Myrinä-Sylvanas)", -- [1020]
-			"17:12:33 - Timer MLdb_check passed", -- [1021]
-			"17:12:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1022]
-			"17:12:33 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1023]
-			"17:12:33 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1024]
-			"17:12:33 - OnMLDBReceived", -- [1025]
-			"17:12:33 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1026]
-			"17:12:33 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1027]
-			"17:16:05 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1028]
-			"17:16:05 - OnMLDBReceived", -- [1029]
-			"17:16:05 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWolfinside-Drak'thul^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SBejita-KirinTor^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SAmèn-Nemesis^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKamakazii-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SNozi-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1030]
-			"17:16:37 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (17)", -- [1031]
-			"17:16:37 - UpdatePlayersData()", -- [1032]
-			"17:24:42 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (17) (1)", -- [1033]
-			"17:24:45 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [1034]
-			"17:24:45 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [1035]
-			"17:24:45 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [1036]
-			"17:24:56 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Wolfinside-Drak'thul) (WARRIOR)", -- [1037]
-			"17:25:14 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1038]
-			"17:25:14 - GetML()", -- [1039]
-			"17:25:32 - Event: (PARTY_LEADER_CHANGED)", -- [1040]
-			"17:25:32 - GetML()", -- [1041]
-			"17:25:32 - Resetting council as we have a new ML!", -- [1042]
-			"17:25:32 - MasterLooter =  (Eddiè-Silvermoon)", -- [1043]
-			"17:25:32 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1044]
-			"17:25:32 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1045]
-			"17:25:32 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1046]
-			"17:25:32 - OnMLDBReceived", -- [1047]
-			"17:25:32 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1048]
-			"17:25:32 - OnMLDBReceived", -- [1049]
-			"17:25:32 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SWolfinside-Drak'thul^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SBejita-KirinTor^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SAmèn-Nemesis^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKamakazii-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SNozi-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1050]
-			"17:25:32 - Comm received:^1^Scouncil^T^N1^T^N1^SEddiè-Silvermoon^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1051]
-			"17:25:32 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1052]
-			"17:25:32 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [1053]
-			"17:25:32 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [1054]
-			"17:25:32 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SMyrinä-Sylvanas^N4^SWARRIOR^N5^STANK^N6^SMember^N8^N0^N9^N479.625^N10^N73^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1055]
-			"17:25:33 - Comm received:^1^Sxrealm^T^N1^SEddiè-Silvermoon^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1056]
-			"17:25:42 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SWolfinside-Drak'thul^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SBejita-KirinTor^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SAmèn-Nemesis^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKamakazii-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SNozi-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1057]
-			"17:25:47 - Timer MLdb_check passed", -- [1058]
-			"17:26:02 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1059]
-			"17:26:02 - OnMLDBReceived", -- [1060]
-			"17:26:02 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SBejita-KirinTor^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SAmèn-Nemesis^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SKamakazii-TheMaelstrom^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1061]
-			"17:26:04 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Heroic)) (315235) (1) (0)", -- [1062]
-			"17:26:04 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1063]
-			"17:26:04 - GetML()", -- [1064]
-			"17:26:12 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1065]
-			"17:26:12 - OnMLDBReceived", -- [1066]
-			"17:26:12 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^t^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1067]
-			"17:26:14 - Event: (PARTY_LEADER_CHANGED)", -- [1068]
-			"17:26:14 - GetML()", -- [1069]
-			"17:26:14 - Resetting council as we have a new ML!", -- [1070]
-			"17:26:14 - MasterLooter =  (Myrinä-Sylvanas)", -- [1071]
-			"17:26:14 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1072]
-			"17:26:14 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1073]
-			"17:26:14 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1074]
-			"17:26:14 - OnMLDBReceived", -- [1075]
-			"17:26:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SGrillpatrol-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N253^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1076]
-			"17:26:14 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SEddiè-Silvermoon^N4^SPALADIN^N5^SDAMAGER^N6^SAlt^N7^B^N8^N175^N9^N474.3125^N10^N70^t^^ (from:) (Eddiè-Silvermoon) (distri:) (RAID)", -- [1077]
-			"17:26:17 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1078]
-			"17:26:17 - OnMLDBReceived", -- [1079]
-			"17:26:19 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1080]
-			"17:26:19 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1081]
-			"17:26:19 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1082]
-			"17:26:24 - Comm received:^1^Scandidates^T^N1^T^SEddiè-Silvermoon^T^Srole^SDAMAGER^SspecID^N70^Senchant_lvl^N175^Sclass^SPALADIN^Senchanter^B^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDobbyy-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SDRUID^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZaelaris-ArgentDawn^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1083]
-			"17:26:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1084]
-			"17:26:26 - OnMLDBReceived", -- [1085]
-			"17:26:26 - Comm received:^1^Scandidates^T^N1^T^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SNarbé-Hyjal^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNeix-Turalyon^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1086]
-			"08/22/20", -- [1087]
-			"17:33:31 - Logged In", -- [1088]
-			"17:33:31 - ML initialized!", -- [1089]
-			"17:33:31 - TradeUI enabled", -- [1090]
-			"17:33:40 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [1091]
-			"17:33:40 - ActivateSkin (bfa)", -- [1092]
-			"17:33:44 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1093]
-			"17:33:44 - GetML()", -- [1094]
-			"17:33:44 - UpdatePlayersData()", -- [1095]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1096]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1097]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1098]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1099]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1100]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1101]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1102]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1103]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1104]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1105]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1106]
-			"17:33:48 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1107]
-			"17:33:48 - GetPlayersGuildRank()", -- [1108]
-			"17:33:48 - Found Guild Rank: Raider", -- [1109]
-			"17:33:49 - Event: (PARTY_LEADER_CHANGED)", -- [1110]
-			"17:33:49 - GetML()", -- [1111]
-			"17:33:49 - Unknown ML", -- [1112]
-			"17:33:51 - GetML()", -- [1113]
-			"17:33:51 - Unknown ML", -- [1114]
-			"17:33:51 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [1115]
-			"17:33:51 - GetML()", -- [1116]
-			"17:33:51 - Resetting council as we have a new ML!", -- [1117]
-			"17:33:51 - MasterLooter =  (Myrinä-Sylvanas)", -- [1118]
-			"17:34:06 - Timer MLdb_check passed", -- [1119]
-			"17:34:06 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1120]
-			"17:34:06 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1121]
-			"17:34:06 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1122]
-			"17:34:06 - OnMLDBReceived", -- [1123]
-			"17:34:06 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1124]
-			"17:34:06 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1125]
-			"17:34:07 - Comm received:^1^Sxrealm^T^N1^SKayobli-DefiasBrotherhood^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1126]
-			"17:34:07 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1127]
-			"17:34:07 - OnMLDBReceived", -- [1128]
-			"17:34:07 - Comm received:^1^Scandidates^T^N1^T^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1129]
-			"17:34:07 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SKayobli-DefiasBrotherhood^N4^SMAGE^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N64^t^^ (from:) (Kayobli-DefiasBrotherhood) (distri:) (RAID)", -- [1130]
-			"17:34:17 - Comm received:^1^Scandidates^T^N1^T^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1131]
-			"17:35:11 - Comm received:^1^Sxrealm^T^N1^SElisheba-LosErrantes^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1132]
-			"17:35:11 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1133]
-			"17:35:11 - OnMLDBReceived", -- [1134]
-			"17:35:11 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1135]
-			"17:36:12 - Comm received:^1^Sxrealm^T^N1^SZwead-Antonidas^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1136]
-			"17:36:12 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1137]
-			"17:36:12 - OnMLDBReceived", -- [1138]
-			"17:36:12 - Comm received:^1^Scandidates^T^N1^T^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1139]
-			"17:36:55 - Comm received:^1^Sxrealm^T^N1^SWimmycollect-LosErrantes^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1140]
-			"17:36:55 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1141]
-			"17:36:55 - OnMLDBReceived", -- [1142]
-			"17:36:55 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SWimmycollect-LosErrantes^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1143]
-			"17:37:00 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [1144]
-			"17:37:00 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1145]
-			"17:37:00 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1146]
-			"17:37:18 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [1147]
-			"17:37:18 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [1148]
-			"17:37:18 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1149]
-			"17:37:18 - OnMLDBReceived", -- [1150]
-			"17:37:19 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1151]
-			"17:37:19 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1152]
-			"17:37:35 - Comm received:^1^Sxrealm^T^N1^SYsengrin-Kazzak^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1153]
-			"17:37:35 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1154]
-			"17:37:35 - OnMLDBReceived", -- [1155]
-			"17:37:35 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SWimmycollect-LosErrantes^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SKayobli-DefiasBrotherhood^T^Srole^SDAMAGER^SspecID^N64^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1156]
-			"17:37:45 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1157]
-			"17:37:45 - OnMLDBReceived", -- [1158]
-			"17:37:45 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SWimmycollect-LosErrantes^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1159]
-			"08/22/20", -- [1160]
-			"17:40:33 - Logged In", -- [1161]
-			"17:40:33 - ML initialized!", -- [1162]
-			"17:40:33 - TradeUI enabled", -- [1163]
-			"17:40:42 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [1164]
-			"17:40:42 - ActivateSkin (bfa)", -- [1165]
-			"17:40:46 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1166]
-			"17:40:46 - GetML()", -- [1167]
-			"17:40:46 - UpdatePlayersData()", -- [1168]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1169]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1170]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1171]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1172]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1173]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1174]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1175]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1176]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1177]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1178]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1179]
-			"17:40:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1180]
-			"17:40:50 - GetPlayersGuildRank()", -- [1181]
-			"17:40:51 - GetPlayersGuildRank()", -- [1182]
-			"17:40:51 - Found Guild Rank: Raider", -- [1183]
-			"17:40:51 - Comm received:^1^Sxrealm^T^N1^SOblicollect-Ambossar^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1184]
-			"17:40:51 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1185]
-			"17:40:51 - Non-ML: (Myrinä-Sylvanas) (sent Mldb!)", -- [1186]
-			"17:40:51 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SOblicollect-Ambossar^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrilloblivio-Kazzak^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDondemondar-ChamberofAspects^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1187]
-			"17:40:51 - Event: (PARTY_LEADER_CHANGED)", -- [1188]
-			"17:40:51 - GetML()", -- [1189]
-			"17:40:51 - Unknown ML", -- [1190]
-			"17:40:52 - GetML()", -- [1191]
-			"17:40:52 - Unknown ML", -- [1192]
-			"17:40:52 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [1193]
-			"17:40:52 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SplayerInfo^N3^SOblicollect-Ambossar^N4^SHUNTER^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N12.5^N10^N253^t^^ (from:) (Oblicollect-Ambossar) (distri:) (RAID)", -- [1194]
-			"17:40:53 - GetML()", -- [1195]
-			"17:40:53 - Resetting council as we have a new ML!", -- [1196]
-			"17:40:53 - MasterLooter =  (Myrinä-Sylvanas)", -- [1197]
-			"17:40:56 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SOblicollect-Ambossar^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrilloblivio-Kazzak^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDondemondar-ChamberofAspects^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1198]
-			"17:40:59 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Oblicollect-Ambossar) (distri:) (RAID)", -- [1199]
-			"17:41:00 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1200]
-			"17:41:00 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1201]
-			"17:41:07 - Timer MLdb_check passed", -- [1202]
-			"17:41:08 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1203]
-			"17:41:08 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1204]
-			"17:41:08 - OnMLDBReceived", -- [1205]
-			"17:43:09 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1206]
-			"17:43:09 - OnMLDBReceived", -- [1207]
-			"17:43:09 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrilloblivio-Kazzak^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDondemondar-ChamberofAspects^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1208]
-			"17:43:29 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1209]
-			"17:43:29 - OnMLDBReceived", -- [1210]
-			"17:43:29 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDondemondar-ChamberofAspects^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1211]
-			"17:43:39 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [1212]
-			"17:43:39 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1213]
-			"17:43:39 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1214]
-			"17:44:14 - Comm received:^1^Sxrealm^T^N1^SCarena-ChamberofAspects^N2^SplayerInfoRequest^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1215]
-			"17:44:14 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1216]
-			"17:44:14 - OnMLDBReceived", -- [1217]
-			"17:44:14 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SCarena-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SDondemondar-ChamberofAspects^T^Srole^SDAMAGER^SspecID^N71^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1218]
-			"17:45:12 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1219]
-			"17:45:12 - OnMLDBReceived", -- [1220]
-			"17:45:12 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1221]
-			"17:45:48 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^SMLdb_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [1222]
-			"17:45:48 - Comm received:^1^Sxrealm^T^N1^SMyrinä-Sylvanas^N2^Scouncil_request^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [1223]
-			"17:45:48 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1224]
-			"17:45:48 - OnMLDBReceived", -- [1225]
-			"17:45:48 - Comm received:^1^Scouncil^T^N1^T^N1^SMyrinä-Sylvanas^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1226]
-			"17:45:48 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1227]
-			"17:46:21 - Event: (ENCOUNTER_START) (2344) (N'Zoth the Corruptor) (15) (18)", -- [1228]
-			"17:46:21 - UpdatePlayersData()", -- [1229]
-			"17:50:58 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1230]
-			"17:50:58 - OnMLDBReceived", -- [1231]
-			"17:50:58 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SRetreatless-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1232]
-			"17:52:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1233]
-			"17:52:28 - OnMLDBReceived", -- [1234]
-			"17:52:28 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SMyrinä-Sylvanas^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SMember^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^t^t^^ (from:) (Myrinä-Sylvanas) (distri:) (RAID)", -- [1235]
-			"17:55:56 - Event: (ENCOUNTER_END) (2344) (N'Zoth the Corruptor) (15) (18) (1)", -- [1236]
-			"17:55:59 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:ClearAllPoints())", -- [1237]
-			"17:55:59 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [1238]
-			"17:55:59 - ADDON_ACTION_BLOCKED (ElvUI_SLE) (WorldFrame:SetPoint())", -- [1239]
-			"17:56:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Lorimas-Aegwynn) (PALADIN)", -- [1240]
-			"17:56:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Wordem-MarécagedeZangar) (DEATHKNIGHT)", -- [1241]
-			"17:56:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (172229) (|cffa335ee|Hitem:172229::::::::120:253::5:5:4823:6516:6515:1502:4786:::|h[Dominion, Lurker Beyond Dreams]|h|r) (1) (Ysengrin-Kazzak) (HUNTER)", -- [1242]
-			"17:56:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (175062) (|cffff8000|Hitem:175062::::::::120:253::5::::|h[Malefic Core]|h|r) (1) (Wordem-MarécagedeZangar) (DEATHKNIGHT)", -- [1243]
-			"17:56:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174452) (|cff0070dd|Hitem:174452::::::::120:253::5::::|h[Eye of Corruption]|h|r) (1) (Teikori-Silvermoon) (PRIEST)", -- [1244]
-			"17:56:15 - Event: (ENCOUNTER_LOOT_RECEIVED) (2344) (174103) (|cffa335ee|Hitem:174103::::::::120:253::5:4:4823:6513:1502:4786:::|h[Manifesto of Madness]|h|r) (1) (Teikori-Silvermoon) (PRIEST)", -- [1245]
-			"17:56:25 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1246]
-			"17:56:25 - GetML()", -- [1247]
-			"17:56:28 - Event: (PARTY_LEADER_CHANGED)", -- [1248]
-			"17:56:28 - GetML()", -- [1249]
-			"17:56:28 - Resetting council as we have a new ML!", -- [1250]
-			"17:56:28 - MasterLooter =  (Grillpatrol-Blackmoore)", -- [1251]
-			"17:56:28 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1252]
-			"17:56:28 - ML:NewML (Grillpatrol-Blackmoore)", -- [1253]
-			"17:56:28 - UpdateMLdb", -- [1254]
-			"17:56:28 - OnMLDBReceived", -- [1255]
-			"17:56:28 - UpdateGroup (true)", -- [1256]
-			"17:56:28 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1257]
-			"17:56:28 - ML:AddCandidate (Zïzo-Silvermoon) (SHAMAN) (HEALER) (nil) (nil) (nil) (nil) (nil)", -- [1258]
-			"17:56:28 - ML:AddCandidate (Shinaupandi-Antonidas) (MONK) (TANK) (nil) (nil) (nil) (nil) (nil)", -- [1259]
-			"17:56:28 - ML:AddCandidate (Eddiê-Silvermoon) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1260]
-			"17:56:28 - ML:AddCandidate (Derektoo-DefiasBrotherhood) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1261]
-			"17:56:28 - ML:AddCandidate (Dondemondar-ArgentDawn) (DEMONHUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1262]
-			"17:56:28 - ML:AddCandidate (Káyleth-Sylvanas) (WARLOCK) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1263]
-			"17:56:28 - ML:AddCandidate (Wimmy-Ravencrest) (PRIEST) (HEALER) (nil) (nil) (nil) (nil) (nil)", -- [1264]
-			"17:56:28 - ML:AddCandidate (Wordem-MarécagedeZangar) (DEATHKNIGHT) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1265]
-			"17:56:28 - ML:AddCandidate (Laykri-Hyjal) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1266]
-			"17:56:28 - ML:AddCandidate (Lorimas-Aegwynn) (PALADIN) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1267]
-			"17:56:28 - ML:AddCandidate (Littlechelle-ChamberofAspects) (PALADIN) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1268]
-			"17:56:28 - ML:AddCandidate (Teikori-Silvermoon) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1269]
-			"17:56:28 - ML:AddCandidate (Elisheba-LosErrantes) (WARLOCK) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1270]
-			"17:56:28 - ML:AddCandidate (Zwead-Antonidas) (WARRIOR) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1271]
-			"17:56:28 - ML:AddCandidate (Ysengrin-Kazzak) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1272]
-			"17:56:28 - ML:AddCandidate (Clintt-Ambossar) (DEATHKNIGHT) (TANK) (nil) (nil) (nil) (nil) (nil)", -- [1273]
-			"17:56:28 - RCLootCouncilML:SendCandidates()", -- [1274]
-			"17:56:28 - candidates_cooldown == false", -- [1275]
-			"17:56:28 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1276]
-			"17:56:28 - ML:SendCouncil()", -- [1277]
-			"17:56:29 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1278]
-			"17:56:29 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1279]
-			"17:56:29 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SplayerInfo^N3^SDondemondar-ArgentDawn^N4^SDEMONHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.25^N10^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (RAID)", -- [1280]
-			"17:56:29 - Comm received:^1^SplayerInfo^T^N1^SDondemondar-ArgentDawn^N2^SDEMONHUNTER^N3^SDAMAGER^N4^SRaider^N6^N0^N7^N480.25^N8^N577^t^^ (from:) (Dondemondar-ArgentDawn) (distri:) (WHISPER)", -- [1281]
-			"17:56:29 - ML:AddCandidate (Dondemondar-ArgentDawn) (DEMONHUNTER) (DAMAGER) (Raider) (nil) (0) (480.25) (577)", -- [1282]
-			"17:56:29 - RCLootCouncilML:SendCandidates()", -- [1283]
-			"17:56:29 - candidates_cooldown == true", -- [1284]
-			"17:56:29 - candidate_send == false", -- [1285]
-			"17:56:29 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SplayerInfo^N3^SEddiê-Silvermoon^N4^SHUNTER^N5^SDAMAGER^N6^SRaider^N8^N0^N9^N480.375^N10^N253^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [1286]
-			"17:56:29 - Comm received:^1^SplayerInfo^T^N1^SEddiê-Silvermoon^N2^SHUNTER^N3^SDAMAGER^N4^SRaider^N6^N0^N7^N480.375^N8^N253^t^^ (from:) (Eddiê-Silvermoon) (distri:) (WHISPER)", -- [1287]
-			"17:56:29 - ML:AddCandidate (Eddiê-Silvermoon) (HUNTER) (DAMAGER) (Raider) (nil) (0) (480.375) (253)", -- [1288]
-			"17:56:29 - RCLootCouncilML:SendCandidates()", -- [1289]
-			"17:56:29 - candidates_cooldown == true", -- [1290]
-			"17:56:29 - candidate_send == true", -- [1291]
-			"17:56:29 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SplayerInfo^N3^SKáyleth-Sylvanas^N4^SWARLOCK^N5^SDAMAGER^N6^SMember^N7^B^N8^N175^N9^N480.875^N10^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [1292]
-			"17:56:29 - Comm received:^1^SplayerInfo^T^N1^SKáyleth-Sylvanas^N2^SWARLOCK^N3^SDAMAGER^N4^SMember^N5^B^N6^N175^N7^N480.875^N8^N267^t^^ (from:) (Káyleth-Sylvanas) (distri:) (WHISPER)", -- [1293]
-			"17:56:29 - ML:AddCandidate (Káyleth-Sylvanas) (WARLOCK) (DAMAGER) (Member) (true) (175) (480.875) (267)", -- [1294]
-			"17:56:29 - RCLootCouncilML:SendCandidates()", -- [1295]
-			"17:56:29 - candidates_cooldown == true", -- [1296]
-			"17:56:29 - candidate_send == true", -- [1297]
-			"17:56:30 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^SplayerInfo^N3^SShinaupandi-Antonidas^N4^SMONK^N5^STANK^N6^SCookie-Master~`^N7^B^N8^N175^N9^N476.1875^N10^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (RAID)", -- [1298]
-			"17:56:30 - Comm received:^1^SplayerInfo^T^N1^SShinaupandi-Antonidas^N2^SMONK^N3^STANK^N4^SCookie-Master~`^N5^B^N6^N175^N7^N476.1875^N8^N268^t^^ (from:) (Shinaupandi-Antonidas) (distri:) (WHISPER)", -- [1299]
-			"17:56:30 - ML:AddCandidate (Shinaupandi-Antonidas) (MONK) (TANK) (Cookie-Master ) (true) (175) (476.1875) (268)", -- [1300]
-			"17:56:30 - RCLootCouncilML:SendCandidates()", -- [1301]
-			"17:56:30 - candidates_cooldown == true", -- [1302]
-			"17:56:30 - candidate_send == true", -- [1303]
-			"17:56:32 - ML:OnCouncilCooldown()", -- [1304]
-			"17:56:34 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1305]
-			"17:56:34 - Comm received:^1^SplayerInfo^T^N1^SGrillpatrol-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SRaider^N6^N0^N7^N480.25^N8^N253^t^^ (from:) (Grillpatrol) (distri:) (WHISPER)", -- [1306]
-			"17:56:34 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (Raider) (nil) (0) (480.25) (253)", -- [1307]
-			"17:56:34 - RCLootCouncilML:SendCandidates()", -- [1308]
-			"17:56:34 - candidates_cooldown == true", -- [1309]
-			"17:56:34 - candidate_send == true", -- [1310]
-			"17:56:36 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scouncil_request^t^^ (from:) (Káyleth-Sylvanas) (distri:) (RAID)", -- [1311]
-			"17:56:36 - Comm received:^1^Scouncil_request^T^t^^ (from:) (Káyleth-Sylvanas) (distri:) (WHISPER)", -- [1312]
-			"17:56:36 - ML:SendCouncil()", -- [1313]
-			"17:56:36 - Comm received:^1^Sxrealm^T^N1^SGrillpatrol-Blackmoore^N2^Scouncil_request^t^^ (from:) (Eddiê-Silvermoon) (distri:) (RAID)", -- [1314]
-			"17:56:36 - Comm received:^1^Scouncil_request^T^t^^ (from:) (Eddiê-Silvermoon) (distri:) (WHISPER)", -- [1315]
-			"17:56:37 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^Sclass^SMONK^Srank^S^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1316]
-			"17:56:37 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1317]
-			"17:56:37 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1318]
-			"17:56:37 - GetLootDBStatistics()", -- [1319]
-			"17:56:37 - GetGuildRankNum()", -- [1320]
-			"17:56:37 - RCVotingFrame (enabled)", -- [1321]
-			"17:56:37 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1322]
-			"17:56:37 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1323]
-			"17:56:37 - ML:SendCandidates()", -- [1324]
-			"17:56:37 - RCLootCouncilML:OnCandidatesCooldown()", -- [1325]
-			"17:56:37 - Player declined usage", -- [1326]
-			"17:56:41 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SYsengrin-Kazzak^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SZïzo-Silvermoon^T^Srole^SHEALER^Sclass^SSHAMAN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1327]
-			"17:56:41 - ML:SendCouncil()", -- [1328]
-			"17:56:41 - ML:OnCouncilCooldown()", -- [1329]
-			"17:56:41 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1330]
-			"17:56:41 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1331]
-			"17:56:42 - VotingFrame:Update() without lootTable!!", -- [1332]
-			"17:56:42 - Timer MLdb_check passed", -- [1333]
-			"17:56:42 - UpdateGroup (table: 0000028CCA97D140)", -- [1334]
-			"17:56:42 - ML:RemoveCandidate (Ysengrin-Kazzak)", -- [1335]
-			"17:56:42 - ML:RemoveCandidate (Zïzo-Silvermoon)", -- [1336]
-			"17:56:42 - RCLootCouncilML:SendCandidates()", -- [1337]
-			"17:56:42 - candidates_cooldown == false", -- [1338]
-			"17:56:42 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1339]
-			"17:56:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1340]
-			"17:56:44 - Comm received:^1^Scandidates^T^N1^T^SEddiê-Silvermoon^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^SKáyleth-Sylvanas^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N175^Sclass^SWARLOCK^Senchanter^B^Srank^SMember^t^SWimmy-Ravencrest^T^Srole^SHEALER^Sclass^SPRIEST^Srank^S^t^SDondemondar-ArgentDawn^T^Srole^SDAMAGER^SspecID^N577^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SRaider^t^SDerektoo-DefiasBrotherhood^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLorimas-Aegwynn^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^STeikori-Silvermoon^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SLaykri-Hyjal^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SClintt-Ambossar^T^Srole^STANK^Sclass^SDEATHKNIGHT^Srank^S^t^SWordem-MarécagedeZangar^T^Srole^SDAMAGER^Sclass^SDEATHKNIGHT^Srank^S^t^SZwead-Antonidas^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SLittlechelle-ChamberofAspects^T^Srole^SDAMAGER^Sclass^SPALADIN^Srank^S^t^SShinaupandi-Antonidas^T^Srole^STANK^SspecID^N268^Senchant_lvl^N175^Sclass^SMONK^Senchanter^B^Srank^SCookie-Master~`^t^SElisheba-LosErrantes^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^t^t^^ (from:) (Grillpatrol) (distri:) (RAID)", -- [1341]
-			"17:56:46 - Event: (GROUP_LEFT) (1) (Party-3687-00002B536AB4)", -- [1342]
-			"17:56:46 - GetML()", -- [1343]
-			"17:56:46 - Stop handling loot", -- [1344]
-			"17:56:46 - ML Disabled", -- [1345]
-			"17:56:46 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Grillpatrol) (distri:) (WHISPER)", -- [1346]
-			"08/22/20", -- [1347]
-			"18:31:15 - Logged In", -- [1348]
-			"18:31:15 - ML initialized!", -- [1349]
-			"18:31:15 - TradeUI enabled", -- [1350]
-			"18:31:28 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [1351]
-			"18:31:28 - ActivateSkin (bfa)", -- [1352]
-			"18:31:33 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1353]
-			"18:31:33 - GetML()", -- [1354]
-			"18:31:33 - UpdatePlayersData()", -- [1355]
-			"18:31:36 - GetPlayersGuildRank()", -- [1356]
-			"18:31:37 - GetPlayersGuildRank()", -- [1357]
-			"18:31:37 - Found Guild Rank: Raider", -- [1358]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1359]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1360]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1361]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1362]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1363]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1364]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1365]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1366]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1367]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1368]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1369]
-			"18:31:38 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1370]
-			"18:31:39 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [1371]
-			"18:31:51 - Event: (PARTY_LEADER_CHANGED)", -- [1372]
-			"18:31:51 - GetML()", -- [1373]
-			"18:31:51 - Resetting council as we have a new ML!", -- [1374]
-			"18:31:51 - MasterLooter =  (Grillpatrol-Blackmoore)", -- [1375]
-			"18:31:51 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1376]
-			"18:31:51 - ML:NewML (Grillpatrol-Blackmoore)", -- [1377]
-			"18:31:51 - UpdateMLdb", -- [1378]
-			"18:31:51 - OnMLDBReceived", -- [1379]
-			"18:31:51 - UpdateGroup (true)", -- [1380]
-			"18:31:51 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1381]
-			"18:31:51 - RCLootCouncilML:SendCandidates()", -- [1382]
-			"18:31:51 - candidates_cooldown == false", -- [1383]
-			"18:31:51 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1384]
-			"18:31:51 - ML:SendCouncil()", -- [1385]
-			"18:31:52 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1386]
-			"18:31:52 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1387]
-			"18:31:52 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1388]
-			"18:31:52 - Comm received:^1^Scandidates^T^N1^T^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1389]
-			"18:31:52 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1390]
-			"18:31:52 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1391]
-			"18:31:52 - GetLootDBStatistics()", -- [1392]
-			"18:31:52 - GetGuildRankNum()", -- [1393]
-			"18:31:52 - RCVotingFrame (enabled)", -- [1394]
-			"18:31:52 - Comm received:^1^SplayerInfo^T^N1^SGrillpatrol-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SRaider^N6^N0^N7^N480.25^N8^N253^t^^ (from:) (Grillpatrol) (distri:) (WHISPER)", -- [1395]
-			"18:31:52 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (Raider) (nil) (0) (480.25) (253)", -- [1396]
-			"18:31:52 - RCLootCouncilML:SendCandidates()", -- [1397]
-			"18:31:52 - candidates_cooldown == true", -- [1398]
-			"18:31:52 - candidate_send == false", -- [1399]
-			"18:31:56 - ML:OnCouncilCooldown()", -- [1400]
-			"18:32:01 - ML:SendCandidates()", -- [1401]
-			"18:32:01 - RCLootCouncilML:OnCandidatesCooldown()", -- [1402]
-			"18:32:02 - Comm received:^1^Scandidates^T^N1^T^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1403]
-			"18:32:02 - VotingFrame:Update() without lootTable!!", -- [1404]
-			"18:32:06 - Timer MLdb_check passed", -- [1405]
-			"18:32:11 - UpdateGroup (table: 0000018844D563D0)", -- [1406]
-			"18:32:11 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1407]
-			"18:32:11 - RCLootCouncilML:SendCandidates()", -- [1408]
-			"18:32:11 - candidates_cooldown == false", -- [1409]
-			"18:32:11 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1410]
-			"18:32:11 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1411]
-			"18:32:11 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1412]
-			"18:32:11 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [1413]
-			"18:32:11 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [1414]
-			"18:32:11 - RCLootCouncilML:SendCandidates()", -- [1415]
-			"18:32:11 - candidates_cooldown == true", -- [1416]
-			"18:32:11 - candidate_send == false", -- [1417]
-			"18:32:13 - VotingFrame:Update() without lootTable!!", -- [1418]
-			"18:32:16 - Comm received:^1^Scouncil_request^T^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [1419]
-			"18:32:16 - ML:SendCouncil()", -- [1420]
-			"18:32:16 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1421]
-			"18:32:16 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1422]
-			"18:32:21 - RCLootCouncilML:OnCandidatesCooldown()", -- [1423]
-			"18:32:21 - ML:SendCandidates()", -- [1424]
-			"18:32:21 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SRaider^t^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1425]
-			"18:32:21 - ML:OnCouncilCooldown()", -- [1426]
-			"18:32:28 - VotingFrame:Update() without lootTable!!", -- [1427]
-			"18:32:39 - VotingFrame:Update() without lootTable!!", -- [1428]
-			"18:33:05 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1429]
-			"18:33:05 - GetML()", -- [1430]
-			"18:33:07 - VotingFrame:Update() without lootTable!!", -- [1431]
-			"18:33:28 - VotingFrame:Update() without lootTable!!", -- [1432]
-			"18:33:44 - VotingFrame:Update() without lootTable!!", -- [1433]
-			"18:34:24 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (311135) (0) (0)", -- [1434]
-			"18:34:25 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1435]
-			"18:34:25 - GetML()", -- [1436]
-			"18:34:27 - VotingFrame:Update() without lootTable!!", -- [1437]
-			"18:34:39 - UpdateGroup (table: 0000018844D563D0)", -- [1438]
-			"18:35:15 - Event: (ENCOUNTER_START) (1101) (Lord Marrowgar) (6) (25)", -- [1439]
-			"18:35:15 - UpdatePlayersData()", -- [1440]
-			"18:35:18 - Event: (ENCOUNTER_END) (1101) (Lord Marrowgar) (6) (25) (1)", -- [1441]
-			"18:35:26 - ML event (PLAYER_REGEN_ENABLED)", -- [1442]
-			"18:35:33 - ML event (PLAYER_REGEN_ENABLED)", -- [1443]
-			"18:35:50 - Event: (ENCOUNTER_START) (1100) (Lady Deathwhisper) (6) (25)", -- [1444]
-			"18:35:50 - UpdatePlayersData()", -- [1445]
-			"18:35:52 - Event: (ENCOUNTER_END) (1100) (Lady Deathwhisper) (6) (25) (1)", -- [1446]
-			"18:36:08 - ML event (PLAYER_REGEN_ENABLED)", -- [1447]
-			"18:36:10 - ML event (PLAYER_REGEN_ENABLED)", -- [1448]
-			"18:36:48 - ML event (PLAYER_REGEN_ENABLED)", -- [1449]
-			"18:37:49 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1450]
-			"18:37:49 - UpdatePlayersData()", -- [1451]
-			"18:38:39 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1452]
-			"18:38:40 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1453]
-			"18:38:40 - UpdatePlayersData()", -- [1454]
-			"18:38:43 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1455]
-			"18:38:53 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1456]
-			"18:38:53 - UpdatePlayersData()", -- [1457]
-			"18:38:54 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1458]
-			"18:38:55 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1459]
-			"18:38:55 - UpdatePlayersData()", -- [1460]
-			"18:38:57 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1461]
-			"18:39:02 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1462]
-			"18:39:02 - UpdatePlayersData()", -- [1463]
-			"18:39:03 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1464]
-			"18:39:04 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1465]
-			"18:39:04 - UpdatePlayersData()", -- [1466]
-			"18:39:06 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1467]
-			"18:39:07 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1468]
-			"18:39:07 - UpdatePlayersData()", -- [1469]
-			"18:39:09 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1470]
-			"18:39:10 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1471]
-			"18:39:10 - UpdatePlayersData()", -- [1472]
-			"18:39:12 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1473]
-			"18:39:13 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1474]
-			"18:39:13 - UpdatePlayersData()", -- [1475]
-			"18:39:15 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1476]
-			"18:39:16 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1477]
-			"18:39:16 - UpdatePlayersData()", -- [1478]
-			"18:39:18 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1479]
-			"18:39:19 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1480]
-			"18:39:19 - UpdatePlayersData()", -- [1481]
-			"18:39:23 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1482]
-			"18:39:27 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1483]
-			"18:39:27 - UpdatePlayersData()", -- [1484]
-			"18:39:27 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1485]
-			"18:39:28 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1486]
-			"18:39:28 - UpdatePlayersData()", -- [1487]
-			"18:39:31 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1488]
-			"18:39:55 - Event: (ENCOUNTER_START) (1099) (Icecrown Gunship Battle) (6) (25)", -- [1489]
-			"18:39:55 - UpdatePlayersData()", -- [1490]
-			"18:39:57 - Event: (ENCOUNTER_END) (1099) (Icecrown Gunship Battle) (6) (25) (0)", -- [1491]
-			"18:40:24 - ML event (PLAYER_REGEN_ENABLED)", -- [1492]
-			"18:41:44 - Event: (ENCOUNTER_START) (1096) (Deathbringer Saurfang) (6) (25)", -- [1493]
-			"18:41:44 - UpdatePlayersData()", -- [1494]
-			"18:41:48 - Event: (ENCOUNTER_END) (1096) (Deathbringer Saurfang) (6) (25) (1)", -- [1495]
-			"18:41:56 - ML event (PLAYER_REGEN_ENABLED)", -- [1496]
-			"18:42:35 - ML event (PLAYER_REGEN_ENABLED)", -- [1497]
-			"18:42:42 - ML event (PLAYER_REGEN_ENABLED)", -- [1498]
-			"18:42:52 - Event: (ENCOUNTER_START) (1097) (Festergut) (6) (25)", -- [1499]
-			"18:42:52 - UpdatePlayersData()", -- [1500]
-			"18:42:54 - Event: (ENCOUNTER_END) (1097) (Festergut) (6) (25) (1)", -- [1501]
-			"18:42:55 - ML event (PLAYER_REGEN_ENABLED)", -- [1502]
-			"18:43:34 - Event: (ENCOUNTER_START) (1104) (Rotface) (6) (25)", -- [1503]
-			"18:43:34 - UpdatePlayersData()", -- [1504]
-			"18:43:37 - Event: (ENCOUNTER_END) (1104) (Rotface) (6) (25) (1)", -- [1505]
-			"18:43:47 - ML event (PLAYER_REGEN_ENABLED)", -- [1506]
-			"18:43:55 - ML event (PLAYER_REGEN_ENABLED)", -- [1507]
-			"18:44:13 - ML event (PLAYER_REGEN_ENABLED)", -- [1508]
-			"18:44:15 - ML event (PLAYER_REGEN_ENABLED)", -- [1509]
-			"18:44:26 - ML event (PLAYER_REGEN_ENABLED)", -- [1510]
-			"18:44:43 - Event: (ENCOUNTER_START) (1102) (Professor Putricide) (6) (25)", -- [1511]
-			"18:44:43 - UpdatePlayersData()", -- [1512]
-			"18:44:43 - Event: (ENCOUNTER_END) (1102) (Professor Putricide) (6) (25) (1)", -- [1513]
-			"18:44:44 - ML event (PLAYER_REGEN_ENABLED)", -- [1514]
-			"18:45:03 - ML event (PLAYER_REGEN_ENABLED)", -- [1515]
-			"18:45:07 - ML event (PLAYER_REGEN_ENABLED)", -- [1516]
-			"18:45:15 - ML event (PLAYER_REGEN_ENABLED)", -- [1517]
-			"18:45:29 - ML event (PLAYER_REGEN_ENABLED)", -- [1518]
-			"18:45:34 - ML event (PLAYER_REGEN_ENABLED)", -- [1519]
-			"18:45:37 - ML event (PLAYER_REGEN_ENABLED)", -- [1520]
-			"18:45:58 - ML event (PLAYER_REGEN_ENABLED)", -- [1521]
-			"18:46:37 - ML event (PLAYER_REGEN_ENABLED)", -- [1522]
-			"18:46:42 - ML event (PLAYER_REGEN_ENABLED)", -- [1523]
-			"18:46:44 - ML event (PLAYER_REGEN_ENABLED)", -- [1524]
-			"18:47:41 - Event: (ENCOUNTER_START) (1095) (Blood Council) (6) (25)", -- [1525]
-			"18:47:41 - UpdatePlayersData()", -- [1526]
-			"18:47:43 - Event: (ENCOUNTER_END) (1095) (Blood Council) (6) (25) (1)", -- [1527]
-			"18:47:44 - ML event (PLAYER_REGEN_ENABLED)", -- [1528]
-			"18:48:05 - ML event (PLAYER_REGEN_ENABLED)", -- [1529]
-			"18:48:13 - ML event (PLAYER_REGEN_ENABLED)", -- [1530]
-			"18:48:16 - Event: (ENCOUNTER_START) (1103) (Queen Lana'thel) (6) (25)", -- [1531]
-			"18:48:16 - UpdatePlayersData()", -- [1532]
-			"18:48:20 - Event: (ENCOUNTER_END) (1103) (Queen Lana'thel) (6) (25) (1)", -- [1533]
-			"18:48:21 - ML event (PLAYER_REGEN_ENABLED)", -- [1534]
-			"18:49:20 - ML event (PLAYER_REGEN_ENABLED)", -- [1535]
-			"18:49:22 - ML event (PLAYER_REGEN_ENABLED)", -- [1536]
-			"18:49:25 - ML event (PLAYER_REGEN_ENABLED)", -- [1537]
-			"18:49:31 - ML event (PLAYER_REGEN_ENABLED)", -- [1538]
-			"18:49:36 - ML event (PLAYER_REGEN_ENABLED)", -- [1539]
-			"18:49:39 - ML event (PLAYER_REGEN_ENABLED)", -- [1540]
-			"18:50:00 - ML event (PLAYER_REGEN_ENABLED)", -- [1541]
-			"18:51:18 - ML event (PLAYER_REGEN_ENABLED)", -- [1542]
-			"18:51:25 - ML event (PLAYER_REGEN_ENABLED)", -- [1543]
-			"18:51:29 - ML event (PLAYER_REGEN_ENABLED)", -- [1544]
-			"18:51:35 - ML event (PLAYER_REGEN_ENABLED)", -- [1545]
-			"18:51:36 - ML event (PLAYER_REGEN_ENABLED)", -- [1546]
-			"18:51:37 - ML event (PLAYER_REGEN_ENABLED)", -- [1547]
-			"18:51:39 - ML event (PLAYER_REGEN_ENABLED)", -- [1548]
-			"18:51:41 - ML event (PLAYER_REGEN_ENABLED)", -- [1549]
-			"18:51:45 - ML event (PLAYER_REGEN_ENABLED)", -- [1550]
-			"18:51:47 - ML event (PLAYER_REGEN_ENABLED)", -- [1551]
-			"18:51:49 - ML event (PLAYER_REGEN_ENABLED)", -- [1552]
-			"18:51:51 - ML event (PLAYER_REGEN_ENABLED)", -- [1553]
-			"18:52:01 - ML event (PLAYER_REGEN_ENABLED)", -- [1554]
-			"18:52:05 - ML event (PLAYER_REGEN_ENABLED)", -- [1555]
-			"18:52:06 - ML event (PLAYER_REGEN_ENABLED)", -- [1556]
-			"18:52:10 - ML event (PLAYER_REGEN_ENABLED)", -- [1557]
-			"18:52:11 - ML event (PLAYER_REGEN_ENABLED)", -- [1558]
-			"18:52:12 - ML event (PLAYER_REGEN_ENABLED)", -- [1559]
-			"18:52:30 - ML event (PLAYER_REGEN_ENABLED)", -- [1560]
-			"18:52:37 - ML event (PLAYER_REGEN_ENABLED)", -- [1561]
-			"18:52:51 - ML event (PLAYER_REGEN_ENABLED)", -- [1562]
-			"18:53:04 - Event: (ENCOUNTER_START) (1105) (Sindragosa) (6) (25)", -- [1563]
-			"18:53:04 - UpdatePlayersData()", -- [1564]
-			"18:53:06 - Event: (ENCOUNTER_END) (1105) (Sindragosa) (6) (25) (1)", -- [1565]
-			"18:53:07 - ML event (PLAYER_REGEN_ENABLED)", -- [1566]
-			"18:54:19 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1567]
-			"18:54:19 - GetML()", -- [1568]
-			"18:54:23 - VotingFrame:Update() without lootTable!!", -- [1569]
-			"18:54:26 - Event: (PARTY_LEADER_CHANGED)", -- [1570]
-			"18:54:26 - GetML()", -- [1571]
-			"18:54:26 - Stop handling loot", -- [1572]
-			"18:54:26 - ML Disabled", -- [1573]
-			"18:54:26 - Resetting council as we have a new ML!", -- [1574]
-			"18:54:26 - MasterLooter =  (Tyleen-Blackmoore)", -- [1575]
-			"18:54:26 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1576]
-			"18:54:26 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1577]
-			"18:54:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1578]
-			"18:54:26 - OnMLDBReceived", -- [1579]
-			"18:54:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1580]
-			"18:54:26 - OnMLDBReceived", -- [1581]
-			"18:54:26 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1582]
-			"18:54:26 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1583]
-			"18:54:26 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1584]
-			"18:54:26 - Hide VotingFrame", -- [1585]
-			"08/22/20", -- [1586]
-			"18:54:40 - Logged In", -- [1587]
-			"18:54:40 - ML initialized!", -- [1588]
-			"18:54:40 - TradeUI enabled", -- [1589]
-			"18:54:58 - Lullidan-Blackmoore (2.19.3) (nil)", -- [1590]
-			"18:54:58 - ActivateSkin (bfa)", -- [1591]
-			"18:55:02 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1592]
-			"18:55:02 - GetML()", -- [1593]
-			"18:55:02 - UpdatePlayersData()", -- [1594]
-			"18:55:05 - GetPlayersGuildRank()", -- [1595]
-			"18:55:06 - GetPlayersGuildRank()", -- [1596]
-			"18:55:06 - Found Guild Rank: Alt", -- [1597]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1598]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1599]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1600]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1601]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1602]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1603]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1604]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1605]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1606]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1607]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1608]
-			"18:55:07 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1609]
-			"18:55:07 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Lullidan) (distri:) (GUILD)", -- [1610]
-			"18:55:26 - Event: (PARTY_LEADER_CHANGED)", -- [1611]
-			"18:55:26 - GetML()", -- [1612]
-			"18:55:26 - Resetting council as we have a new ML!", -- [1613]
-			"18:55:26 - MasterLooter =  (Tyleen-Blackmoore)", -- [1614]
-			"18:55:30 - Event: (PARTY_LEADER_CHANGED)", -- [1615]
-			"18:55:30 - GetML()", -- [1616]
-			"18:55:30 - Resetting council as we have a new ML!", -- [1617]
-			"18:55:30 - MasterLooter =  (Lullidan-Blackmoore)", -- [1618]
-			"18:55:30 - GetCouncilInGroup (Lullidan-Blackmoore)", -- [1619]
-			"18:55:30 - ML:NewML (Lullidan-Blackmoore)", -- [1620]
-			"18:55:30 - UpdateMLdb", -- [1621]
-			"18:55:30 - OnMLDBReceived", -- [1622]
-			"18:55:30 - UpdateGroup (true)", -- [1623]
-			"18:55:30 - ML:AddCandidate (Lullidan-Blackmoore) (DEMONHUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1624]
-			"18:55:30 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1625]
-			"18:55:30 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1626]
-			"18:55:30 - RCLootCouncilML:SendCandidates()", -- [1627]
-			"18:55:30 - candidates_cooldown == false", -- [1628]
-			"18:55:30 - GetCouncilInGroup (Lullidan-Blackmoore)", -- [1629]
-			"18:55:30 - ML:SendCouncil()", -- [1630]
-			"18:55:30 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Lullidan) (distri:) (PARTY)", -- [1631]
-			"18:55:30 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Lullidan) (distri:) (PARTY)", -- [1632]
-			"18:55:30 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Lullidan) (distri:) (PARTY)", -- [1633]
-			"18:55:30 - Comm received:^1^Scandidates^T^N1^T^SLullidan-Blackmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Lullidan) (distri:) (PARTY)", -- [1634]
-			"18:55:30 - Comm received:^1^Scouncil^T^N1^T^N1^SLullidan-Blackmoore^t^t^^ (from:) (Lullidan) (distri:) (PARTY)", -- [1635]
-			"18:55:30 - true = (ConcilContains) (Lullidan-Blackmoore)", -- [1636]
-			"18:55:30 - GetLootDBStatistics()", -- [1637]
-			"18:55:30 - GetGuildRankNum()", -- [1638]
-			"18:55:30 - RCVotingFrame (enabled)", -- [1639]
-			"18:55:30 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1640]
-			"18:55:30 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [1641]
-			"18:55:30 - RCLootCouncilML:SendCandidates()", -- [1642]
-			"18:55:30 - candidates_cooldown == true", -- [1643]
-			"18:55:30 - candidate_send == false", -- [1644]
-			"18:55:30 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [1645]
-			"18:55:30 - ML:AddCandidate (Lullidan-Blackmoore) (DEMONHUNTER) (DAMAGER) (Alt) (nil) (0) (476.625) (581)", -- [1646]
-			"18:55:30 - RCLootCouncilML:SendCandidates()", -- [1647]
-			"18:55:30 - candidates_cooldown == true", -- [1648]
-			"18:55:30 - candidate_send == true", -- [1649]
-			"18:55:30 - Comm received:^1^SplayerInfo^T^N1^SLullidan-Blackmoore^N2^SDEMONHUNTER^N3^SDAMAGER^N4^SAlt^N6^N0^N7^N476.625^N8^N581^t^^ (from:) (Lullidan) (distri:) (WHISPER)", -- [1650]
-			"18:55:35 - ML:OnCouncilCooldown()", -- [1651]
-			"18:55:41 - ML:SendCandidates()", -- [1652]
-			"18:55:41 - RCLootCouncilML:OnCandidatesCooldown()", -- [1653]
-			"18:55:41 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1654]
-			"18:55:41 - GetML()", -- [1655]
-			"18:55:42 - Timer MLdb_check passed", -- [1656]
-			"18:55:43 - VotingFrame:Update() without lootTable!!", -- [1657]
-			"18:55:45 - Timer MLdb_check passed", -- [1658]
-			"18:55:52 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1659]
-			"18:55:52 - GetML()", -- [1660]
-			"18:55:54 - VotingFrame:Update() without lootTable!!", -- [1661]
-			"18:56:13 - VotingFrame:Update() without lootTable!!", -- [1662]
-			"18:56:30 - VotingFrame:Update() without lootTable!!", -- [1663]
-			"18:56:30 - UpdateGroup (table: 0000018785325BF0)", -- [1664]
-			"18:57:03 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (309776) (0) (0)", -- [1665]
-			"18:57:03 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1666]
-			"18:57:03 - GetML()", -- [1667]
-			"18:57:05 - VotingFrame:Update() without lootTable!!", -- [1668]
-			"18:57:07 - Player declined usage", -- [1669]
-			"18:57:21 - UpdateGroup (table: 0000018785325BF0)", -- [1670]
-			"18:58:41 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [1671]
-			"18:58:41 - UpdatePlayersData()", -- [1672]
-			"19:01:09 - Event: (LOOT_READY) (true)", -- [1673]
-			"19:01:09 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-631-21027-36597-0000414E68) (375223)", -- [1674]
-			"19:01:09 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1675]
-			"19:01:09 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1676]
-			"19:01:09 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1677]
-			"19:01:09 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1678]
-			"19:01:09 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1679]
-			"19:01:09 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4)", -- [1680]
-			"19:01:10 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (4)", -- [1681]
-			"19:01:10 - Event: (LOOT_READY) (true)", -- [1682]
-			"19:01:10 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-631-21027-36597-0000414E68) (375223)", -- [1683]
-			"19:01:10 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1684]
-			"19:01:10 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1685]
-			"19:01:10 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (4) (1) (Creature-0-3890-631-21027-36597-0000414E68) (1)", -- [1686]
-			"19:01:10 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (4)", -- [1687]
-			"19:01:10 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (4)", -- [1688]
-			"19:01:10 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (4)", -- [1689]
-			"19:01:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50732) (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (1) (Lullidan) (DEMONHUNTER)", -- [1690]
-			"19:01:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50736) (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (1) (Lullidan) (DEMONHUNTER)", -- [1691]
-			"19:01:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50738) (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (1) (Lullidan) (DEMONHUNTER)", -- [1692]
-			"19:01:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52027) (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (1) (Lullidan) (DEMONHUNTER)", -- [1693]
-			"19:01:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50734) (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (1) (Lullidan) (DEMONHUNTER)", -- [1694]
-			"19:01:10 - OnLootSlotCleared() (1) (nil) (1)", -- [1695]
-			"19:01:10 - Event: (LOOT_CLOSED)", -- [1696]
-			"19:01:10 - Event: (LOOT_CLOSED)", -- [1697]
-			"19:01:10 - Comm received:^1^Slooted^T^N1^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1698]
-			"19:01:10 - Comm received:^1^Slooted^T^N1^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1699]
-			"19:01:11 - Storage:New (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (temp)", -- [1700]
-			"19:01:11 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:577::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [1701]
-			"19:01:11 - Found item at (0) (20)", -- [1702]
-			"19:01:11 - Found: (0) (20) (0)", -- [1703]
-			"19:01:12 - Storage:New (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (temp)", -- [1704]
-			"19:01:12 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:577::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [1705]
-			"19:01:12 - Found item at (2) (4)", -- [1706]
-			"19:01:12 - Found: (2) (4) (0)", -- [1707]
-			"19:01:12 - Storage:New (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (temp)", -- [1708]
-			"19:01:12 - Storage: searching for item: (||cffa335ee||Hitem:50738::::::::120:577::::::||h[Mithrios, Bronzebeard's Legacy]||h||r) (5)", -- [1709]
-			"19:01:12 - Found item at (3) (27)", -- [1710]
-			"19:01:12 - Found: (3) (27) (0)", -- [1711]
-			"19:01:12 - Storage:New (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp)", -- [1712]
-			"19:01:12 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:577::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [1713]
-			"19:01:12 - Found item at (3) (28)", -- [1714]
-			"19:01:12 - Found: (3) (28) (0)", -- [1715]
-			"19:01:12 - Storage:New (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (temp)", -- [1716]
-			"19:01:12 - Storage: searching for item: (||cffa335ee||Hitem:50734::::::::120:577::::::||h[Royal Scepter of Terenas II]||h||r) (5)", -- [1717]
-			"19:01:12 - Found item at (3) (29)", -- [1718]
-			"19:01:12 - Found: (3) (29) (0)", -- [1719]
-			"19:01:12 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:577::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [1720]
-			"19:01:12 - Found item at (0) (20)", -- [1721]
-			"19:01:12 - Found: (0) (20) (0)", -- [1722]
-			"19:01:12 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge,~`Kel'Thuzad's~`Blade~`of~`Agony]|h|r^N2^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1723]
-			"19:01:13 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:577::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [1724]
-			"19:01:13 - Found item at (2) (4)", -- [1725]
-			"19:01:13 - Found: (2) (4) (0)", -- [1726]
-			"19:01:13 - Storage: searching for item: (||cffa335ee||Hitem:50738::::::::120:577::::::||h[Mithrios, Bronzebeard's Legacy]||h||r) (5)", -- [1727]
-			"19:01:13 - Found item at (3) (27)", -- [1728]
-			"19:01:13 - Found: (3) (27) (0)", -- [1729]
-			"19:01:13 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:577::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [1730]
-			"19:01:13 - Found item at (3) (28)", -- [1731]
-			"19:01:13 - Found: (3) (28) (0)", -- [1732]
-			"19:01:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's~`Fall,~`Kryss~`of~`a~`Thousand~`Lies]|h|r^N2^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1733]
-			"19:01:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios,~`Bronzebeard's~`Legacy]|h|r^N2^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1734]
-			"19:01:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1735]
-			"19:01:13 - Storage: searching for item: (||cffa335ee||Hitem:50734::::::::120:577::::::||h[Royal Scepter of Terenas II]||h||r) (5)", -- [1736]
-			"19:01:13 - Found item at (3) (29)", -- [1737]
-			"19:01:13 - Found: (3) (29) (0)", -- [1738]
-			"19:01:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal~`Scepter~`of~`Terenas~`II]|h|r^N2^S36597^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1739]
-			"19:01:17 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [1740]
-			"19:01:17 - ML event (PLAYER_REGEN_ENABLED)", -- [1741]
-			"19:03:46 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1742]
-			"19:03:46 - GetML()", -- [1743]
-			"19:03:49 - VotingFrame:Update() without lootTable!!", -- [1744]
-			"19:04:03 - VotingFrame:Update() without lootTable!!", -- [1745]
-			"19:04:06 - UpdateGroup (table: 0000018785325BF0)", -- [1746]
-			"19:04:06 - ML:RemoveCandidate (Grillpatrol-Blackmoore)", -- [1747]
-			"19:04:06 - RCLootCouncilML:SendCandidates()", -- [1748]
-			"19:04:06 - candidates_cooldown == false", -- [1749]
-			"19:04:06 - GetCouncilInGroup (Lullidan-Blackmoore)", -- [1750]
-			"19:04:06 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1751]
-			"19:04:06 - Comm received:^1^Scandidates^T^N1^T^SLullidan-Blackmoore^T^Srole^SDAMAGER^SspecID^N581^Senchant_lvl^N0^Sclass^SDEMONHUNTER^Srank^SAlt^t^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^t^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1752]
-			"19:04:16 - RCLootCouncilML:OnCandidatesCooldown()", -- [1753]
-			"19:04:28 - ML event (PLAYER_REGEN_ENABLED)", -- [1754]
-			"19:05:17 - ML event (PLAYER_REGEN_ENABLED)", -- [1755]
-			"19:07:26 - VotingFrame:Update() without lootTable!!", -- [1756]
-			"19:07:32 - VotingFrame:Update() without lootTable!!", -- [1757]
-			"19:07:42 - VotingFrame:Update() without lootTable!!", -- [1758]
-			"19:07:53 - VotingFrame:Update() without lootTable!!", -- [1759]
-			"19:08:03 - VotingFrame:Update() without lootTable!!", -- [1760]
-			"19:08:14 - VotingFrame:Update() without lootTable!!", -- [1761]
-			"19:08:46 - VotingFrame:Update() without lootTable!!", -- [1762]
-			"19:09:49 - ML event (PLAYER_REGEN_ENABLED)", -- [1763]
-			"19:10:26 - ML event (PLAYER_REGEN_ENABLED)", -- [1764]
-			"19:11:25 - ML event (PLAYER_REGEN_ENABLED)", -- [1765]
-			"19:11:43 - Event: (PARTY_LEADER_CHANGED)", -- [1766]
-			"19:11:43 - GetML()", -- [1767]
-			"19:11:43 - Stop handling loot", -- [1768]
-			"19:11:43 - ML Disabled", -- [1769]
-			"19:11:43 - Resetting council as we have a new ML!", -- [1770]
-			"19:11:43 - MasterLooter =  (Tyleen-Blackmoore)", -- [1771]
-			"19:11:43 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Lullidan) (distri:) (RAID)", -- [1772]
-			"19:11:43 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1773]
-			"19:11:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1774]
-			"19:11:43 - OnMLDBReceived", -- [1775]
-			"19:11:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1776]
-			"19:11:43 - OnMLDBReceived", -- [1777]
-			"19:11:43 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLullidan-Blackmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1778]
-			"19:11:43 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1779]
-			"19:11:43 - false = (ConcilContains) (Lullidan-Blackmoore)", -- [1780]
-			"19:11:43 - Hide VotingFrame", -- [1781]
-			"08/22/20", -- [1782]
-			"19:11:56 - Logged In", -- [1783]
-			"19:11:56 - ML initialized!", -- [1784]
-			"19:11:56 - TradeUI enabled", -- [1785]
-			"19:12:09 - Nethenâ-Blackmoore (2.19.3) (nil)", -- [1786]
-			"19:12:09 - ActivateSkin (bfa)", -- [1787]
-			"19:12:14 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1788]
-			"19:12:14 - GetML()", -- [1789]
-			"19:12:14 - UpdatePlayersData()", -- [1790]
-			"19:12:18 - GetPlayersGuildRank()", -- [1791]
-			"19:12:18 - Found Guild Rank: Alt", -- [1792]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1793]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1794]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1795]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1796]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1797]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1798]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1799]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1800]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1801]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1802]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1803]
-			"19:12:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1804]
-			"19:12:19 - Storage:New (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (temp) (restored) (table: 00000188389AED10)", -- [1805]
-			"19:12:19 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:577::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [1806]
-			"19:12:19 - Found: (nil) (nil) (nil)", -- [1807]
-			"19:12:19 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r)", -- [1808]
-			"19:12:19 - Storage:RemoveItem (|cffa335ee|Hitem:50732::::::::120:577::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r)", -- [1809]
-			"19:12:19 - Storage:New (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (temp) (restored) (table: 00000188389AEE50)", -- [1810]
-			"19:12:19 - Storage: searching for item: (||cffa335ee||Hitem:50738::::::::120:577::::::||h[Mithrios, Bronzebeard's Legacy]||h||r) (5)", -- [1811]
-			"19:12:19 - Found: (nil) (nil) (nil)", -- [1812]
-			"19:12:19 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r)", -- [1813]
-			"19:12:19 - Storage:RemoveItem (|cffa335ee|Hitem:50738::::::::120:577::::::|h[Mithrios, Bronzebeard's Legacy]|h|r)", -- [1814]
-			"19:12:19 - Storage:New (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r) (temp) (restored) (table: 00000188389AEF90)", -- [1815]
-			"19:12:19 - Storage: searching for item: (||cffa335ee||Hitem:50734::::::::120:577::::::||h[Royal Scepter of Terenas II]||h||r) (5)", -- [1816]
-			"19:12:19 - Found: (nil) (nil) (nil)", -- [1817]
-			"19:12:19 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r)", -- [1818]
-			"19:12:19 - Storage:RemoveItem (|cffa335ee|Hitem:50734::::::::120:577::::::|h[Royal Scepter of Terenas II]|h|r)", -- [1819]
-			"19:12:19 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nethenâ) (distri:) (GUILD)", -- [1820]
-			"19:12:34 - Event: (PARTY_LEADER_CHANGED)", -- [1821]
-			"19:12:34 - GetML()", -- [1822]
-			"19:12:34 - Resetting council as we have a new ML!", -- [1823]
-			"19:12:34 - MasterLooter =  (Tyleen-Blackmoore)", -- [1824]
-			"19:12:36 - Event: (PARTY_LEADER_CHANGED)", -- [1825]
-			"19:12:36 - GetML()", -- [1826]
-			"19:12:36 - Resetting council as we have a new ML!", -- [1827]
-			"19:12:36 - MasterLooter =  (Nethenâ-Blackmoore)", -- [1828]
-			"19:12:36 - GetCouncilInGroup (Nethenâ-Blackmoore)", -- [1829]
-			"19:12:36 - ML:NewML (Nethenâ-Blackmoore)", -- [1830]
-			"19:12:36 - UpdateMLdb", -- [1831]
-			"19:12:36 - OnMLDBReceived", -- [1832]
-			"19:12:36 - UpdateGroup (true)", -- [1833]
-			"19:12:36 - ML:AddCandidate (Nethenâ-Blackmoore) (WARRIOR) (TANK) (nil) (nil) (nil) (nil) (nil)", -- [1834]
-			"19:12:36 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1835]
-			"19:12:36 - ML:AddCandidate (Lullidan-Blackmoore) (DEMONHUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1836]
-			"19:12:36 - RCLootCouncilML:SendCandidates()", -- [1837]
-			"19:12:36 - candidates_cooldown == false", -- [1838]
-			"19:12:36 - GetCouncilInGroup (Nethenâ-Blackmoore)", -- [1839]
-			"19:12:36 - ML:SendCouncil()", -- [1840]
-			"19:12:36 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (RAID)", -- [1841]
-			"19:12:36 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1842]
-			"19:12:36 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1843]
-			"19:12:36 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1844]
-			"19:12:36 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SLullidan-Blackmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNethenâ-Blackmoore^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1845]
-			"19:12:36 - Comm received:^1^Scouncil^T^N1^T^N1^SNethenâ-Blackmoore^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1846]
-			"19:12:36 - true = (ConcilContains) (Nethenâ-Blackmoore)", -- [1847]
-			"19:12:36 - GetLootDBStatistics()", -- [1848]
-			"19:12:36 - GetGuildRankNum()", -- [1849]
-			"19:12:36 - RCVotingFrame (enabled)", -- [1850]
-			"19:12:36 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [1851]
-			"19:12:36 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [1852]
-			"19:12:36 - RCLootCouncilML:SendCandidates()", -- [1853]
-			"19:12:36 - candidates_cooldown == true", -- [1854]
-			"19:12:36 - candidate_send == false", -- [1855]
-			"19:12:36 - Comm received:^1^SplayerInfo^T^N1^SNethenâ-Blackmoore^N2^SWARRIOR^N3^STANK^N4^SAlt^N6^N0^N7^N475.75^N8^N73^t^^ (from:) (Nethenâ) (distri:) (WHISPER)", -- [1856]
-			"19:12:36 - ML:AddCandidate (Nethenâ-Blackmoore) (WARRIOR) (TANK) (Alt) (nil) (0) (475.75) (73)", -- [1857]
-			"19:12:36 - RCLootCouncilML:SendCandidates()", -- [1858]
-			"19:12:36 - candidates_cooldown == true", -- [1859]
-			"19:12:36 - candidate_send == true", -- [1860]
-			"19:12:39 - Player declined usage", -- [1861]
-			"19:12:45 - ML:OnCouncilCooldown()", -- [1862]
-			"19:12:45 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1863]
-			"19:12:45 - GetML()", -- [1864]
-			"19:12:46 - ML:SendCandidates()", -- [1865]
-			"19:12:46 - RCLootCouncilML:OnCandidatesCooldown()", -- [1866]
-			"19:12:47 - VotingFrame:Update() without lootTable!!", -- [1867]
-			"19:12:49 - Timer MLdb_check passed", -- [1868]
-			"19:12:51 - Timer MLdb_check passed", -- [1869]
-			"19:12:52 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SLullidan-Blackmoore^T^Srole^SDAMAGER^Sclass^SDEMONHUNTER^Srank^S^t^SNethenâ-Blackmoore^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAlt^t^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1870]
-			"19:13:27 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1871]
-			"19:13:27 - GetML()", -- [1872]
-			"19:13:28 - VotingFrame:Update() without lootTable!!", -- [1873]
-			"19:13:48 - VotingFrame:Update() without lootTable!!", -- [1874]
-			"19:13:52 - UpdateGroup (table: 000001878DECFAD0)", -- [1875]
-			"19:14:04 - VotingFrame:Update() without lootTable!!", -- [1876]
-			"19:14:33 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player (Heroic))) (308726) (0) (0)", -- [1877]
-			"19:14:33 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1878]
-			"19:14:33 - GetML()", -- [1879]
-			"19:14:34 - VotingFrame:Update() without lootTable!!", -- [1880]
-			"19:14:45 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1881]
-			"19:14:45 - GetML()", -- [1882]
-			"19:14:47 - VotingFrame:Update() without lootTable!!", -- [1883]
-			"19:15:07 - UpdateGroup (table: 000001878DECFAD0)", -- [1884]
-			"19:15:18 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (308681) (0) (0)", -- [1885]
-			"19:15:19 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1886]
-			"19:15:19 - GetML()", -- [1887]
-			"19:15:20 - VotingFrame:Update() without lootTable!!", -- [1888]
-			"19:15:32 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1889]
-			"19:15:32 - GetML()", -- [1890]
-			"19:15:34 - VotingFrame:Update() without lootTable!!", -- [1891]
-			"19:15:48 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (308651) (0) (0)", -- [1892]
-			"19:15:48 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1893]
-			"19:15:48 - GetML()", -- [1894]
-			"19:15:49 - VotingFrame:Update() without lootTable!!", -- [1895]
-			"19:15:56 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1896]
-			"19:15:56 - GetML()", -- [1897]
-			"19:15:57 - VotingFrame:Update() without lootTable!!", -- [1898]
-			"19:16:13 - UpdateGroup (table: 000001878DECFAD0)", -- [1899]
-			"19:16:13 - ML:RemoveCandidate (Lullidan-Blackmoore)", -- [1900]
-			"19:16:13 - RCLootCouncilML:SendCandidates()", -- [1901]
-			"19:16:13 - candidates_cooldown == false", -- [1902]
-			"19:16:13 - GetCouncilInGroup (Nethenâ-Blackmoore)", -- [1903]
-			"19:16:13 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1904]
-			"19:16:13 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNethenâ-Blackmoore^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAlt^t^t^t^^ (from:) (Nethenâ) (distri:) (RAID)", -- [1905]
-			"19:16:23 - RCLootCouncilML:OnCandidatesCooldown()", -- [1906]
-			"08/22/20", -- [1907]
-			"19:16:37 - Logged In", -- [1908]
-			"19:16:37 - ML initialized!", -- [1909]
-			"19:16:37 - TradeUI enabled", -- [1910]
-			"19:16:52 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [1911]
-			"19:16:52 - ActivateSkin (bfa)", -- [1912]
-			"19:16:56 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1913]
-			"19:16:56 - GetML()", -- [1914]
-			"19:16:56 - UpdatePlayersData()", -- [1915]
-			"19:17:01 - GetPlayersGuildRank()", -- [1916]
-			"19:17:01 - GetPlayersGuildRank()", -- [1917]
-			"19:17:01 - Found Guild Rank: Raider", -- [1918]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1919]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1920]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1921]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1922]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1923]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1924]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1925]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1926]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1927]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [1928]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [1929]
-			"19:17:02 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [1930]
-			"19:17:02 - Storage:New (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (temp) (restored) (table: 0000018839D15C50)", -- [1931]
-			"19:17:02 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:577::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [1932]
-			"19:17:02 - Found: (nil) (nil) (nil)", -- [1933]
-			"19:17:02 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r)", -- [1934]
-			"19:17:02 - Storage:RemoveItem (|cffa335ee|Hitem:50736::::::::120:577::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r)", -- [1935]
-			"19:17:02 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [1936]
-			"19:17:48 - Event: (PARTY_LEADER_CHANGED)", -- [1937]
-			"19:17:48 - GetML()", -- [1938]
-			"19:17:48 - Resetting council as we have a new ML!", -- [1939]
-			"19:17:48 - MasterLooter =  (Tyleen-Blackmoore)", -- [1940]
-			"19:17:50 - Event: (PARTY_LEADER_CHANGED)", -- [1941]
-			"19:17:50 - GetML()", -- [1942]
-			"19:17:50 - Resetting council as we have a new ML!", -- [1943]
-			"19:17:50 - MasterLooter =  (Grillpatrol-Blackmoore)", -- [1944]
-			"19:17:50 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1945]
-			"19:17:50 - ML:NewML (Grillpatrol-Blackmoore)", -- [1946]
-			"19:17:50 - UpdateMLdb", -- [1947]
-			"19:17:50 - OnMLDBReceived", -- [1948]
-			"19:17:50 - UpdateGroup (true)", -- [1949]
-			"19:17:50 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1950]
-			"19:17:50 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [1951]
-			"19:17:50 - RCLootCouncilML:SendCandidates()", -- [1952]
-			"19:17:50 - candidates_cooldown == false", -- [1953]
-			"19:17:50 - GetCouncilInGroup (Grillpatrol-Blackmoore)", -- [1954]
-			"19:17:50 - ML:SendCouncil()", -- [1955]
-			"19:17:50 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1956]
-			"19:17:50 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1957]
-			"19:17:50 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1958]
-			"19:17:50 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1959]
-			"19:17:50 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1960]
-			"19:17:50 - Comm received:^1^Scouncil^T^N1^T^N1^SGrillpatrol-Blackmoore^t^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1961]
-			"19:17:50 - true = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1962]
-			"19:17:50 - GetLootDBStatistics()", -- [1963]
-			"19:17:50 - GetGuildRankNum()", -- [1964]
-			"19:17:50 - RCVotingFrame (enabled)", -- [1965]
-			"19:17:51 - Comm received:^1^SplayerInfo^T^N1^SGrillpatrol-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SRaider^N6^N0^N7^N480.25^N8^N253^t^^ (from:) (Grillpatrol) (distri:) (WHISPER)", -- [1966]
-			"19:17:51 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (Raider) (nil) (0) (480.25) (253)", -- [1967]
-			"19:17:51 - RCLootCouncilML:SendCandidates()", -- [1968]
-			"19:17:51 - candidates_cooldown == true", -- [1969]
-			"19:17:51 - candidate_send == false", -- [1970]
-			"19:17:51 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [1971]
-			"19:17:51 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [1972]
-			"19:17:51 - RCLootCouncilML:SendCandidates()", -- [1973]
-			"19:17:51 - candidates_cooldown == true", -- [1974]
-			"19:17:51 - candidate_send == true", -- [1975]
-			"19:17:53 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1976]
-			"19:17:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1977]
-			"19:17:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1978]
-			"19:17:53 - Event: (PARTY_LEADER_CHANGED)", -- [1979]
-			"19:17:53 - GetML()", -- [1980]
-			"19:17:53 - Stop handling loot", -- [1981]
-			"19:17:53 - ML Disabled", -- [1982]
-			"19:17:53 - Resetting council as we have a new ML!", -- [1983]
-			"19:17:53 - MasterLooter =  (Tyleen-Blackmoore)", -- [1984]
-			"19:17:53 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1985]
-			"19:17:53 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [1986]
-			"19:17:53 - false = (ConcilContains) (Grillpatrol-Blackmoore)", -- [1987]
-			"19:17:53 - Hide VotingFrame", -- [1988]
-			"19:17:53 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Grillpatrol) (distri:) (PARTY)", -- [1989]
-			"08/22/20", -- [1990]
-			"19:18:10 - Logged In", -- [1991]
-			"19:18:10 - ML initialized!", -- [1992]
-			"19:18:10 - TradeUI enabled", -- [1993]
-			"19:18:23 - Nethenâ-Blackmoore (2.19.3) (nil)", -- [1994]
-			"19:18:23 - ActivateSkin (bfa)", -- [1995]
-			"19:18:27 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1996]
-			"19:18:27 - GetML()", -- [1997]
-			"19:18:27 - UpdatePlayersData()", -- [1998]
-			"19:18:31 - GetPlayersGuildRank()", -- [1999]
-			"19:18:31 - GetPlayersGuildRank()", -- [2000]
-			"19:18:31 - Found Guild Rank: Alt", -- [2001]
-			"19:18:32 - Event: (GROUP_LEFT) (1) (Party-580-000025B281B4)", -- [2002]
-			"19:18:32 - GetML()", -- [2003]
-			"19:18:32 - Event: (PARTY_LEADER_CHANGED)", -- [2004]
-			"19:18:32 - GetML()", -- [2005]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2006]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2007]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2008]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2009]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2010]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2011]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2012]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2013]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2014]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2015]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2016]
-			"19:18:32 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2017]
-			"19:18:32 - Storage:New (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp) (restored) (table: 000001883FAD0340)", -- [2018]
-			"19:18:32 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:577::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2019]
-			"19:18:32 - Found: (nil) (nil) (nil)", -- [2020]
-			"19:18:32 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2021]
-			"19:18:32 - Storage:RemoveItem (|cffa335ee|Hitem:52027::::::::120:577::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2022]
-			"19:18:33 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nethenâ) (distri:) (GUILD)", -- [2023]
-			"19:18:45 - Event: (PARTY_LEADER_CHANGED)", -- [2024]
-			"19:18:45 - GetML()", -- [2025]
-			"19:18:45 - Resetting council as we have a new ML!", -- [2026]
-			"19:18:45 - MasterLooter =  (Tyleen-Blackmoore)", -- [2027]
-			"19:18:47 - Event: (PARTY_LEADER_CHANGED)", -- [2028]
-			"19:18:47 - GetML()", -- [2029]
-			"19:18:47 - Resetting council as we have a new ML!", -- [2030]
-			"19:18:47 - MasterLooter =  (Nethenâ-Blackmoore)", -- [2031]
-			"19:18:47 - GetCouncilInGroup (Nethenâ-Blackmoore)", -- [2032]
-			"19:18:47 - ML:NewML (Nethenâ-Blackmoore)", -- [2033]
-			"19:18:47 - UpdateMLdb", -- [2034]
-			"19:18:47 - OnMLDBReceived", -- [2035]
-			"19:18:47 - UpdateGroup (true)", -- [2036]
-			"19:18:47 - ML:AddCandidate (Nethenâ-Blackmoore) (WARRIOR) (TANK) (nil) (nil) (nil) (nil) (nil)", -- [2037]
-			"19:18:47 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2038]
-			"19:18:47 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2039]
-			"19:18:47 - RCLootCouncilML:SendCandidates()", -- [2040]
-			"19:18:47 - candidates_cooldown == false", -- [2041]
-			"19:18:47 - GetCouncilInGroup (Nethenâ-Blackmoore)", -- [2042]
-			"19:18:47 - ML:SendCouncil()", -- [2043]
-			"19:18:47 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2044]
-			"19:18:47 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2045]
-			"19:18:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2046]
-			"19:18:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2047]
-			"19:18:47 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNethenâ-Blackmoore^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2048]
-			"19:18:47 - Comm received:^1^Scouncil^T^N1^T^N1^SNethenâ-Blackmoore^t^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2049]
-			"19:18:47 - true = (ConcilContains) (Nethenâ-Blackmoore)", -- [2050]
-			"19:18:47 - GetLootDBStatistics()", -- [2051]
-			"19:18:47 - GetGuildRankNum()", -- [2052]
-			"19:18:47 - RCVotingFrame (enabled)", -- [2053]
-			"19:18:47 - ML:AddCandidate (Nethenâ-Blackmoore) (WARRIOR) (TANK) (Alt) (nil) (0) (475.75) (73)", -- [2054]
-			"19:18:47 - RCLootCouncilML:SendCandidates()", -- [2055]
-			"19:18:47 - candidates_cooldown == true", -- [2056]
-			"19:18:47 - candidate_send == false", -- [2057]
-			"19:18:47 - Comm received:^1^SplayerInfo^T^N1^SNethenâ-Blackmoore^N2^SWARRIOR^N3^STANK^N4^SAlt^N6^N0^N7^N475.75^N8^N73^t^^ (from:) (Nethenâ) (distri:) (WHISPER)", -- [2058]
-			"19:18:47 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2059]
-			"19:18:47 - RCLootCouncilML:SendCandidates()", -- [2060]
-			"19:18:47 - candidates_cooldown == true", -- [2061]
-			"19:18:47 - candidate_send == true", -- [2062]
-			"19:18:47 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2063]
-			"19:18:52 - ML:OnCouncilCooldown()", -- [2064]
-			"19:18:57 - ML:SendCandidates()", -- [2065]
-			"19:18:57 - RCLootCouncilML:OnCandidatesCooldown()", -- [2066]
-			"19:18:57 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNethenâ-Blackmoore^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2067]
-			"19:19:00 - Timer MLdb_check passed", -- [2068]
-			"19:19:00 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (308459) (0) (0)", -- [2069]
-			"19:19:01 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2070]
-			"19:19:01 - GetML()", -- [2071]
-			"19:19:02 - Timer MLdb_check passed", -- [2072]
-			"19:19:02 - VotingFrame:Update() without lootTable!!", -- [2073]
-			"19:19:16 - UpdateGroup (table: 000001889C7EC6A0)", -- [2074]
-			"19:19:47 - Event: (PARTY_LEADER_CHANGED)", -- [2075]
-			"19:19:47 - GetML()", -- [2076]
-			"19:19:47 - Stop handling loot", -- [2077]
-			"19:19:47 - ML Disabled", -- [2078]
-			"19:19:47 - Resetting council as we have a new ML!", -- [2079]
-			"19:19:47 - MasterLooter =  (Tyleen-Blackmoore)", -- [2080]
-			"19:19:47 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2081]
-			"19:19:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2082]
-			"19:19:47 - OnMLDBReceived", -- [2083]
-			"19:19:47 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2084]
-			"19:19:47 - OnMLDBReceived", -- [2085]
-			"19:19:47 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNethenâ-Blackmoore^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2086]
-			"19:19:47 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2087]
-			"19:19:47 - false = (ConcilContains) (Nethenâ-Blackmoore)", -- [2088]
-			"19:19:47 - Hide VotingFrame", -- [2089]
-			"19:19:47 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2090]
-			"19:19:57 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNethenâ-Blackmoore^T^Srole^STANK^SspecID^N73^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2091]
-			"19:20:02 - Timer MLdb_check passed", -- [2092]
-			"19:20:38 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2093]
-			"19:20:38 - UpdatePlayersData()", -- [2094]
-			"19:23:10 - Event: (LOOT_READY) (true)", -- [2095]
-			"19:23:10 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-631-22027-36597-000041538B) (329227)", -- [2096]
-			"19:23:10 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2097]
-			"19:23:10 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2098]
-			"19:23:10 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2099]
-			"19:23:10 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2100]
-			"19:23:10 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2101]
-			"19:23:10 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4)", -- [2102]
-			"19:23:10 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r) (4)", -- [2103]
-			"19:23:10 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4)", -- [2104]
-			"19:23:10 - Event: (LOOT_READY) (true)", -- [2105]
-			"19:23:10 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-631-22027-36597-000041538B) (329227)", -- [2106]
-			"19:23:10 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2107]
-			"19:23:10 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (4) (1) (Creature-0-3890-631-22027-36597-000041538B) (1)", -- [2108]
-			"19:23:10 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (4)", -- [2109]
-			"19:23:10 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4)", -- [2110]
-			"19:23:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50732) (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (1) (Nethenâ) (WARRIOR)", -- [2111]
-			"19:23:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52027) (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r) (1) (Nethenâ) (WARRIOR)", -- [2112]
-			"19:23:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52028) (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r) (1) (Nethenâ) (WARRIOR)", -- [2113]
-			"19:23:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50736) (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (1) (Nethenâ) (WARRIOR)", -- [2114]
-			"19:23:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50733) (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (1) (Nethenâ) (WARRIOR)", -- [2115]
-			"19:23:10 - OnLootSlotCleared() (1) (nil) (1)", -- [2116]
-			"19:23:10 - Event: (LOOT_CLOSED)", -- [2117]
-			"19:23:10 - Event: (LOOT_CLOSED)", -- [2118]
-			"19:23:10 - Comm received:^1^Slooted^T^N1^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2119]
-			"19:23:10 - Comm received:^1^Slooted^T^N1^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2120]
-			"19:23:12 - Storage:New (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (temp)", -- [2121]
-			"19:23:12 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:73::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [2122]
-			"19:23:12 - Found item at (1) (26)", -- [2123]
-			"19:23:12 - Found: (1) (26) (0)", -- [2124]
-			"19:23:12 - Storage:New (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp)", -- [2125]
-			"19:23:12 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:73::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2126]
-			"19:23:12 - Found item at (1) (30)", -- [2127]
-			"19:23:12 - Found: (1) (30) (0)", -- [2128]
-			"19:23:12 - Storage:New (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r) (temp)", -- [2129]
-			"19:23:12 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:73::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2130]
-			"19:23:12 - Found item at (2) (1)", -- [2131]
-			"19:23:12 - Found: (2) (1) (0)", -- [2132]
-			"19:23:12 - Storage:New (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (temp)", -- [2133]
-			"19:23:12 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:73::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [2134]
-			"19:23:12 - Found item at (2) (2)", -- [2135]
-			"19:23:12 - Found: (2) (2) (0)", -- [2136]
-			"19:23:12 - Storage:New (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (temp)", -- [2137]
-			"19:23:12 - Storage: searching for item: (||cffa335ee||Hitem:50733::::::::120:73::::::||h[Fal'inrush, Defender of Quel'thalas]||h||r) (5)", -- [2138]
-			"19:23:12 - Found item at (2) (3)", -- [2139]
-			"19:23:12 - Found: (2) (3) (0)", -- [2140]
-			"19:23:13 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:73::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [2141]
-			"19:23:13 - Found item at (1) (26)", -- [2142]
-			"19:23:13 - Found: (1) (26) (0)", -- [2143]
-			"19:23:13 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:73::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2144]
-			"19:23:13 - Found item at (1) (30)", -- [2145]
-			"19:23:13 - Found: (1) (30) (0)", -- [2146]
-			"19:23:13 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:73::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2147]
-			"19:23:13 - Found item at (2) (1)", -- [2148]
-			"19:23:13 - Found: (2) (1) (0)", -- [2149]
-			"19:23:13 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:73::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [2150]
-			"19:23:13 - Found item at (2) (2)", -- [2151]
-			"19:23:13 - Found: (2) (2) (0)", -- [2152]
-			"19:23:13 - Storage: searching for item: (||cffa335ee||Hitem:50733::::::::120:73::::::||h[Fal'inrush, Defender of Quel'thalas]||h||r) (5)", -- [2153]
-			"19:23:13 - Found item at (2) (3)", -- [2154]
-			"19:23:13 - Found: (2) (3) (0)", -- [2155]
-			"19:23:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge,~`Kel'Thuzad's~`Blade~`of~`Agony]|h|r^N2^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2156]
-			"19:23:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2157]
-			"19:23:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2158]
-			"19:23:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's~`Fall,~`Kryss~`of~`a~`Thousand~`Lies]|h|r^N2^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2159]
-			"19:23:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush,~`Defender~`of~`Quel'thalas]|h|r^N2^S36597^t^^ (from:) (Nethenâ) (distri:) (PARTY)", -- [2160]
-			"19:23:16 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2161]
-			"19:23:44 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2162]
-			"19:23:44 - GetML()", -- [2163]
-			"08/22/20", -- [2164]
-			"19:23:59 - Logged In", -- [2165]
-			"19:23:59 - ML initialized!", -- [2166]
-			"19:23:59 - TradeUI enabled", -- [2167]
-			"19:24:12 - Nexâna-Blackmoore (2.19.3) (nil)", -- [2168]
-			"19:24:12 - ActivateSkin (bfa)", -- [2169]
-			"19:24:16 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2170]
-			"19:24:16 - GetML()", -- [2171]
-			"19:24:16 - UpdatePlayersData()", -- [2172]
-			"19:24:18 - GetPlayersGuildRank()", -- [2173]
-			"19:24:18 - GetPlayersGuildRank()", -- [2174]
-			"19:24:18 - Found Guild Rank: Alt", -- [2175]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2176]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2177]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2178]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2179]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2180]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2181]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2182]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2183]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2184]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2185]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2186]
-			"19:24:19 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2187]
-			"19:24:20 - Storage:New (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (temp) (restored) (table: 0000018834342EB0)", -- [2188]
-			"19:24:20 - Storage: searching for item: (||cffa335ee||Hitem:50732::::::::120:73::::::||h[Bloodsurge, Kel'Thuzad's Blade of Agony]||h||r) (5)", -- [2189]
-			"19:24:20 - Found: (nil) (nil) (nil)", -- [2190]
-			"19:24:20 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r)", -- [2191]
-			"19:24:20 - Storage:RemoveItem (|cffa335ee|Hitem:50732::::::::120:73::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r)", -- [2192]
-			"19:24:20 - Storage:New (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r) (temp) (restored) (table: 0000018834342FF0)", -- [2193]
-			"19:24:20 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:73::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2194]
-			"19:24:20 - Found: (nil) (nil) (nil)", -- [2195]
-			"19:24:20 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r)", -- [2196]
-			"19:24:20 - Storage:RemoveItem (|cffa335ee|Hitem:52028::::::::120:73::::::|h[Vanquisher's Mark of Sanctification]|h|r)", -- [2197]
-			"19:24:20 - Storage:New (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (temp) (restored) (table: 0000018834343130)", -- [2198]
-			"19:24:20 - Storage: searching for item: (||cffa335ee||Hitem:50733::::::::120:73::::::||h[Fal'inrush, Defender of Quel'thalas]||h||r) (5)", -- [2199]
-			"19:24:20 - Found: (nil) (nil) (nil)", -- [2200]
-			"19:24:20 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r)", -- [2201]
-			"19:24:20 - Storage:RemoveItem (|cffa335ee|Hitem:50733::::::::120:73::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r)", -- [2202]
-			"19:24:20 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [2203]
-			"19:24:29 - Event: (PARTY_LEADER_CHANGED)", -- [2204]
-			"19:24:29 - GetML()", -- [2205]
-			"19:24:29 - Resetting council as we have a new ML!", -- [2206]
-			"19:24:29 - MasterLooter =  (Tyleen-Blackmoore)", -- [2207]
-			"19:24:31 - Event: (PARTY_LEADER_CHANGED)", -- [2208]
-			"19:24:31 - GetML()", -- [2209]
-			"19:24:31 - Resetting council as we have a new ML!", -- [2210]
-			"19:24:31 - MasterLooter =  (Nexâna-Blackmoore)", -- [2211]
-			"19:24:31 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [2212]
-			"19:24:31 - ML:NewML (Nexâna-Blackmoore)", -- [2213]
-			"19:24:31 - UpdateMLdb", -- [2214]
-			"19:24:31 - OnMLDBReceived", -- [2215]
-			"19:24:31 - UpdateGroup (true)", -- [2216]
-			"19:24:31 - ML:AddCandidate (Nexâna-Blackmoore) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2217]
-			"19:24:31 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2218]
-			"19:24:31 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2219]
-			"19:24:31 - ML:AddCandidate (Nethenâ-Blackmoore) (WARRIOR) (TANK) (nil) (nil) (nil) (nil) (nil)", -- [2220]
-			"19:24:31 - RCLootCouncilML:SendCandidates()", -- [2221]
-			"19:24:31 - candidates_cooldown == false", -- [2222]
-			"19:24:31 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [2223]
-			"19:24:31 - ML:SendCouncil()", -- [2224]
-			"19:24:31 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2225]
-			"19:24:31 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2226]
-			"19:24:31 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2227]
-			"19:24:31 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2228]
-			"19:24:31 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNethenâ-Blackmoore^T^Srole^STANK^Sclass^SWARRIOR^Srank^S^t^SNexâna-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2229]
-			"19:24:31 - Comm received:^1^Scouncil^T^N1^T^N1^SNexâna-Blackmoore^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2230]
-			"19:24:31 - true = (ConcilContains) (Nexâna-Blackmoore)", -- [2231]
-			"19:24:31 - GetLootDBStatistics()", -- [2232]
-			"19:24:31 - GetGuildRankNum()", -- [2233]
-			"19:24:31 - RCVotingFrame (enabled)", -- [2234]
-			"19:24:31 - ML:AddCandidate (Nexâna-Blackmoore) (PRIEST) (DAMAGER) (Alt) (nil) (0) (465.25) (258)", -- [2235]
-			"19:24:31 - RCLootCouncilML:SendCandidates()", -- [2236]
-			"19:24:31 - candidates_cooldown == true", -- [2237]
-			"19:24:31 - candidate_send == false", -- [2238]
-			"19:24:31 - Comm received:^1^SplayerInfo^T^N1^SNexâna-Blackmoore^N2^SPRIEST^N3^SDAMAGER^N4^SAlt^N6^N0^N7^N465.25^N8^N258^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2239]
-			"19:24:31 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2240]
-			"19:24:31 - RCLootCouncilML:SendCandidates()", -- [2241]
-			"19:24:31 - candidates_cooldown == true", -- [2242]
-			"19:24:31 - candidate_send == true", -- [2243]
-			"19:24:31 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2244]
-			"19:24:36 - ML:OnCouncilCooldown()", -- [2245]
-			"19:24:43 - ML:SendCandidates()", -- [2246]
-			"19:24:43 - RCLootCouncilML:OnCandidatesCooldown()", -- [2247]
-			"19:24:44 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2248]
-			"19:24:44 - GetML()", -- [2249]
-			"19:24:44 - Timer MLdb_check passed", -- [2250]
-			"19:24:45 - VotingFrame:Update() without lootTable!!", -- [2251]
-			"19:24:46 - UpdateGroup (table: 0000018881B0F1F0)", -- [2252]
-			"19:24:46 - ML:RemoveCandidate (Nethenâ-Blackmoore)", -- [2253]
-			"19:24:46 - RCLootCouncilML:SendCandidates()", -- [2254]
-			"19:24:46 - candidates_cooldown == false", -- [2255]
-			"19:24:46 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [2256]
-			"19:24:46 - Timer MLdb_check passed", -- [2257]
-			"19:24:49 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2258]
-			"19:24:50 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNexâna-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N0^Sclass^SPRIEST^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2259]
-			"19:24:55 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2260]
-			"19:24:55 - GetML()", -- [2261]
-			"19:24:56 - RCLootCouncilML:OnCandidatesCooldown()", -- [2262]
-			"19:24:56 - VotingFrame:Update() without lootTable!!", -- [2263]
-			"19:25:16 - VotingFrame:Update() without lootTable!!", -- [2264]
-			"19:25:29 - UpdateGroup (table: 0000018881B0F1F0)", -- [2265]
-			"19:25:32 - VotingFrame:Update() without lootTable!!", -- [2266]
-			"19:26:04 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (308035) (0) (0)", -- [2267]
-			"19:26:05 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2268]
-			"19:26:05 - GetML()", -- [2269]
-			"19:26:06 - VotingFrame:Update() without lootTable!!", -- [2270]
-			"19:26:16 - Event: (PARTY_LEADER_CHANGED)", -- [2271]
-			"19:26:16 - GetML()", -- [2272]
-			"19:26:16 - Stop handling loot", -- [2273]
-			"19:26:16 - ML Disabled", -- [2274]
-			"19:26:16 - Resetting council as we have a new ML!", -- [2275]
-			"19:26:16 - MasterLooter =  (Tyleen-Blackmoore)", -- [2276]
-			"19:26:16 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2277]
-			"19:26:16 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2278]
-			"19:26:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2279]
-			"19:26:16 - OnMLDBReceived", -- [2280]
-			"19:26:16 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2281]
-			"19:26:16 - OnMLDBReceived", -- [2282]
-			"19:26:16 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexâna-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2283]
-			"19:26:16 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2284]
-			"19:26:16 - false = (ConcilContains) (Nexâna-Blackmoore)", -- [2285]
-			"19:26:16 - Hide VotingFrame", -- [2286]
-			"19:26:26 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNexâna-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N0^Sclass^SPRIEST^Srank^SAlt^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2287]
-			"19:26:31 - Timer MLdb_check passed", -- [2288]
-			"19:27:48 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2289]
-			"19:27:48 - UpdatePlayersData()", -- [2290]
-			"19:30:13 - Event: (LOOT_READY) (false)", -- [2291]
-			"19:30:13 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-631-28024-36597-0000415533) (351146)", -- [2292]
-			"19:30:13 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2293]
-			"19:30:13 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2294]
-			"19:30:13 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2295]
-			"19:30:13 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2296]
-			"19:30:13 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2297]
-			"19:30:20 - Event: (LOOT_CLOSED)", -- [2298]
-			"19:30:20 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2299]
-			"19:30:20 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2300]
-			"19:30:22 - Event: (LOOT_READY) (false)", -- [2301]
-			"19:30:22 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-631-28024-36597-0000415533) (351146)", -- [2302]
-			"19:30:22 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2303]
-			"19:30:22 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2304]
-			"19:30:22 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2305]
-			"19:30:22 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2306]
-			"19:30:22 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2307]
-			"19:30:24 - OnLootSlotCleared() (1) (nil) (1)", -- [2308]
-			"19:30:35 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (4)", -- [2309]
-			"19:30:35 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52030) (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (1) (Nexâna) (PRIEST)", -- [2310]
-			"19:30:36 - Event: (LOOT_CLOSED)", -- [2311]
-			"19:30:36 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal~`Scepter~`of~`Terenas~`II]|h|r^N2^S36597^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2312]
-			"19:30:37 - Storage:New (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp)", -- [2313]
-			"19:30:37 - Storage: searching for item: (||cffa335ee||Hitem:52030::::::::120:258::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2314]
-			"19:30:37 - Found item at (0) (18)", -- [2315]
-			"19:30:37 - Found: (0) (18) (0)", -- [2316]
-			"19:30:38 - Storage: searching for item: (||cffa335ee||Hitem:52030::::::::120:258::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2317]
-			"19:30:38 - Found item at (0) (18)", -- [2318]
-			"19:30:38 - Found: (0) (18) (0)", -- [2319]
-			"19:30:38 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2320]
-			"19:30:38 - Event: (LOOT_CLOSED)", -- [2321]
-			"19:30:38 - Event: (LOOT_READY) (false)", -- [2322]
-			"19:30:38 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2323]
-			"19:30:38 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2324]
-			"19:30:38 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2325]
-			"19:30:38 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3103-631-28024-36597-0000415533) (1)", -- [2326]
-			"19:30:39 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal~`Scepter~`of~`Terenas~`II]|h|r^N2^S36597^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2327]
-			"19:30:41 - Event: (LOOT_CLOSED)", -- [2328]
-			"19:30:41 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50734::::::::120:258::::::|h[Royal~`Scepter~`of~`Terenas~`II]|h|r^N2^S36597^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [2329]
-			"19:30:57 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2330]
-			"19:30:57 - GetML()", -- [2331]
-			"08/22/20", -- [2332]
-			"19:31:12 - Logged In", -- [2333]
-			"19:31:12 - ML initialized!", -- [2334]
-			"19:31:12 - TradeUI enabled", -- [2335]
-			"19:31:24 - Noxiâ-Blackmoore (2.19.3) (nil)", -- [2336]
-			"19:31:24 - ActivateSkin (bfa)", -- [2337]
-			"19:31:28 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2338]
-			"19:31:28 - GetML()", -- [2339]
-			"19:31:28 - UpdatePlayersData()", -- [2340]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2341]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2342]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2343]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2344]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2345]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2346]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2347]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2348]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2349]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2350]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2351]
-			"19:31:34 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2352]
-			"19:31:34 - Storage:New (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp) (restored) (table: 000001874C49F720)", -- [2353]
-			"19:31:34 - Storage: searching for item: (||cffa335ee||Hitem:52027::::::::120:73::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2354]
-			"19:31:34 - Found: (nil) (nil) (nil)", -- [2355]
-			"19:31:34 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2356]
-			"19:31:34 - Storage:RemoveItem (|cffa335ee|Hitem:52027::::::::120:73::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2357]
-			"19:31:34 - Storage:New (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r) (temp) (restored) (table: 000001874C49F860)", -- [2358]
-			"19:31:34 - Storage: searching for item: (||cffa335ee||Hitem:52030::::::::120:258::::::||h[Conqueror's Mark of Sanctification]||h||r) (5)", -- [2359]
-			"19:31:34 - Found: (nil) (nil) (nil)", -- [2360]
-			"19:31:34 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2361]
-			"19:31:34 - Storage:RemoveItem (|cffa335ee|Hitem:52030::::::::120:258::::::|h[Conqueror's Mark of Sanctification]|h|r)", -- [2362]
-			"19:31:41 - Event: (PARTY_LEADER_CHANGED)", -- [2363]
-			"19:31:41 - GetML()", -- [2364]
-			"19:31:41 - Resetting council as we have a new ML!", -- [2365]
-			"19:31:41 - MasterLooter =  (Tyleen-Blackmoore)", -- [2366]
-			"19:31:43 - Event: (PARTY_LEADER_CHANGED)", -- [2367]
-			"19:31:43 - GetML()", -- [2368]
-			"19:31:43 - Resetting council as we have a new ML!", -- [2369]
-			"19:31:43 - MasterLooter =  (Noxiâ-Blackmoore)", -- [2370]
-			"19:31:43 - GetCouncilInGroup (Noxiâ-Blackmoore)", -- [2371]
-			"19:31:43 - ML:NewML (Noxiâ-Blackmoore)", -- [2372]
-			"19:31:43 - UpdateMLdb", -- [2373]
-			"19:31:43 - OnMLDBReceived", -- [2374]
-			"19:31:43 - UpdateGroup (true)", -- [2375]
-			"19:31:43 - ML:AddCandidate (Noxiâ-Blackmoore) (ROGUE) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2376]
-			"19:31:43 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2377]
-			"19:31:43 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2378]
-			"19:31:43 - ML:AddCandidate (Nexâna-Blackmoore) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2379]
-			"19:31:43 - RCLootCouncilML:SendCandidates()", -- [2380]
-			"19:31:43 - candidates_cooldown == false", -- [2381]
-			"19:31:43 - GetCouncilInGroup (Noxiâ-Blackmoore)", -- [2382]
-			"19:31:43 - ML:SendCouncil()", -- [2383]
-			"19:31:43 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2384]
-			"19:31:43 - I'm an enchanter", -- [2385]
-			"19:31:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2386]
-			"19:31:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2387]
-			"19:31:43 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexâna-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2388]
-			"19:31:43 - Comm received:^1^Scouncil^T^N1^T^N1^SNoxiâ-Blackmoore^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2389]
-			"19:31:43 - true = (ConcilContains) (Noxiâ-Blackmoore)", -- [2390]
-			"19:31:43 - GetLootDBStatistics()", -- [2391]
-			"19:31:43 - RCVotingFrame (enabled)", -- [2392]
-			"19:31:43 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2393]
-			"19:31:43 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2394]
-			"19:31:43 - RCLootCouncilML:SendCandidates()", -- [2395]
-			"19:31:43 - candidates_cooldown == true", -- [2396]
-			"19:31:43 - candidate_send == false", -- [2397]
-			"19:31:43 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2398]
-			"19:31:43 - Comm received:^1^SplayerInfo^T^N1^SNoxiâ-Blackmoore^N2^SROGUE^N3^SDAMAGER^N4^SUnguilded^N5^B^N6^N18^N7^N458.1875^N8^N259^t^^ (from:) (Noxiâ) (distri:) (WHISPER)", -- [2399]
-			"19:31:43 - ML:AddCandidate (Noxiâ-Blackmoore) (ROGUE) (DAMAGER) (Unguilded) (true) (18) (458.1875) (259)", -- [2400]
-			"19:31:43 - RCLootCouncilML:SendCandidates()", -- [2401]
-			"19:31:43 - candidates_cooldown == true", -- [2402]
-			"19:31:43 - candidate_send == true", -- [2403]
-			"19:31:48 - ML:OnCouncilCooldown()", -- [2404]
-			"19:31:54 - RCLootCouncilML:OnCandidatesCooldown()", -- [2405]
-			"19:31:54 - ML:SendCandidates()", -- [2406]
-			"19:31:55 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2407]
-			"19:31:55 - GetML()", -- [2408]
-			"19:31:56 - Timer MLdb_check passed", -- [2409]
-			"19:31:56 - VotingFrame:Update() without lootTable!!", -- [2410]
-			"19:31:58 - Timer MLdb_check passed", -- [2411]
-			"19:31:58 - Comm received:^1^Scouncil_request^T^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2412]
-			"19:31:58 - ML:SendCouncil()", -- [2413]
-			"19:31:58 - Comm received:^1^Scouncil^T^N1^T^N1^SNoxiâ-Blackmoore^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2414]
-			"19:31:58 - true = (ConcilContains) (Noxiâ-Blackmoore)", -- [2415]
-			"19:31:58 - UpdateGroup (table: 000001879ADED1B0)", -- [2416]
-			"19:31:58 - ML:RemoveCandidate (Nexâna-Blackmoore)", -- [2417]
-			"19:31:58 - RCLootCouncilML:SendCandidates()", -- [2418]
-			"19:31:58 - candidates_cooldown == false", -- [2419]
-			"19:31:58 - GetCouncilInGroup (Noxiâ-Blackmoore)", -- [2420]
-			"19:31:59 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2421]
-			"19:32:00 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^SspecID^N259^Senchant_lvl^N18^Sclass^SROGUE^Senchanter^B^Srank^SUnguilded^t^t^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2422]
-			"19:32:05 - ML:OnCouncilCooldown()", -- [2423]
-			"19:32:05 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2424]
-			"19:32:05 - GetML()", -- [2425]
-			"19:32:06 - VotingFrame:Update() without lootTable!!", -- [2426]
-			"19:32:08 - RCLootCouncilML:OnCandidatesCooldown()", -- [2427]
-			"19:32:26 - VotingFrame:Update() without lootTable!!", -- [2428]
-			"19:32:28 - UpdateGroup (table: 000001879ADED1B0)", -- [2429]
-			"19:32:43 - VotingFrame:Update() without lootTable!!", -- [2430]
-			"19:33:24 - ML event (PLAYER_REGEN_ENABLED)", -- [2431]
-			"19:33:25 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (307594) (0) (0)", -- [2432]
-			"19:33:25 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2433]
-			"19:33:25 - GetML()", -- [2434]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (PartyMemberFrame1:Hide())", -- [2435]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (UNKNOWN())", -- [2436]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (PartyMemberFrame2:Hide())", -- [2437]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (UNKNOWN())", -- [2438]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (PartyMemberFrame3:Hide())", -- [2439]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (UNKNOWN())", -- [2440]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (PartyMemberFrame4:Hide())", -- [2441]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (UNKNOWN())", -- [2442]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2443]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2444]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2445]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2446]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2447]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2448]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (ElvUF_Raidpet:Hide())", -- [2449]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2450]
-			"19:33:25 - ADDON_ACTION_BLOCKED (AdiBags) (SecureStateDriverManager:SetAttribute())", -- [2451]
-			"19:33:25 - ADDON_ACTION_BLOCKED (ElvUI) (ElvUF_Raid:Hide())", -- [2452]
-			"19:33:26 - VotingFrame:Update() without lootTable!!", -- [2453]
-			"19:33:29 - ML event (PLAYER_REGEN_ENABLED)", -- [2454]
-			"19:33:42 - UpdateGroup (table: 000001879ADED1B0)", -- [2455]
-			"19:33:43 - Event: (PARTY_LEADER_CHANGED)", -- [2456]
-			"19:33:43 - GetML()", -- [2457]
-			"19:33:43 - Stop handling loot", -- [2458]
-			"19:33:43 - ML Disabled", -- [2459]
-			"19:33:43 - Resetting council as we have a new ML!", -- [2460]
-			"19:33:43 - MasterLooter =  (Tyleen-Blackmoore)", -- [2461]
-			"19:33:43 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2462]
-			"19:33:43 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2463]
-			"19:33:43 - I'm an enchanter", -- [2464]
-			"19:33:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2465]
-			"19:33:43 - OnMLDBReceived", -- [2466]
-			"19:33:43 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2467]
-			"19:33:43 - OnMLDBReceived", -- [2468]
-			"19:33:43 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2469]
-			"19:33:43 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2470]
-			"19:33:43 - false = (ConcilContains) (Noxiâ-Blackmoore)", -- [2471]
-			"19:33:43 - Hide VotingFrame", -- [2472]
-			"19:33:53 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^SspecID^N259^Senchant_lvl^N18^Sclass^SROGUE^Senchanter^B^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2473]
-			"19:33:58 - Timer MLdb_check passed", -- [2474]
-			"19:34:57 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2475]
-			"19:34:57 - UpdatePlayersData()", -- [2476]
-			"19:37:24 - Event: (LOOT_READY) (false)", -- [2477]
-			"19:37:24 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-631-21129-36597-00004156ED) (375946)", -- [2478]
-			"19:37:24 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52026::::::::120:259::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2479]
-			"19:37:24 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50730::::::::120:259::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2480]
-			"19:37:24 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50737::::::::120:259::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2481]
-			"19:37:24 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50734::::::::120:259::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2482]
-			"19:37:24 - Event: (LOOT_READY) (false)", -- [2483]
-			"19:37:24 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-631-21129-36597-00004156ED) (375946)", -- [2484]
-			"19:37:24 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52026::::::::120:259::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2485]
-			"19:37:24 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50730::::::::120:259::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2486]
-			"19:37:24 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50737::::::::120:259::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2487]
-			"19:37:24 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50734::::::::120:259::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2488]
-			"19:37:24 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:50734::::::::120:259::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2489]
-			"19:37:33 - Event: (LOOT_CLOSED)", -- [2490]
-			"19:37:33 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2491]
-			"19:37:33 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52026::::::::120:259::::::|h[Protector's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2492]
-			"19:37:35 - Event: (LOOT_READY) (false)", -- [2493]
-			"19:37:35 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-631-21129-36597-00004156ED) (375946)", -- [2494]
-			"19:37:35 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50730::::::::120:259::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2495]
-			"19:37:35 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:52026::::::::120:259::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2496]
-			"19:37:35 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50734::::::::120:259::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2497]
-			"19:37:35 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50737::::::::120:259::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2498]
-			"19:37:35 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50734::::::::120:259::::::|h[Royal Scepter of Terenas II]|h|r) (4) (1) (Creature-0-3889-631-21129-36597-00004156ED) (1)", -- [2499]
-			"19:37:36 - OnLootSlotCleared() (1) (nil) (1)", -- [2500]
-			"19:37:47 - Event: (LOOT_CLOSED)", -- [2501]
-			"19:37:48 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50730::::::::120:259::::::|h[Glorenzelg,~`High-Blade~`of~`the~`Silver~`Hand]|h|r^N2^S36597^t^^ (from:) (Noxiâ) (distri:) (PARTY)", -- [2502]
-			"19:38:04 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2503]
-			"19:38:04 - GetML()", -- [2504]
-			"08/22/20", -- [2505]
-			"19:38:30 - Logged In", -- [2506]
-			"19:38:30 - ML initialized!", -- [2507]
-			"19:38:30 - TradeUI enabled", -- [2508]
-			"19:38:43 - Neaxa-Blackmoore (2.19.3) (nil)", -- [2509]
-			"19:38:43 - ActivateSkin (bfa)", -- [2510]
-			"19:38:48 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2511]
-			"19:38:48 - GetML()", -- [2512]
-			"19:38:48 - UpdatePlayersData()", -- [2513]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2514]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2515]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2516]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2517]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2518]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2519]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2520]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2521]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2522]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2523]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2524]
-			"19:38:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2525]
-			"19:38:53 - Storage:New (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r) (temp) (restored) (table: 00000187469ECA10)", -- [2526]
-			"19:38:53 - Storage: searching for item: (||cffa335ee||Hitem:50736::::::::120:73::::::||h[Heaven's Fall, Kryss of a Thousand Lies]||h||r) (5)", -- [2527]
-			"19:38:53 - Found: (nil) (nil) (nil)", -- [2528]
-			"19:38:53 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r)", -- [2529]
-			"19:38:53 - Storage:RemoveItem (|cffa335ee|Hitem:50736::::::::120:73::::::|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r)", -- [2530]
-			"19:39:11 - Event: (PARTY_LEADER_CHANGED)", -- [2531]
-			"19:39:11 - GetML()", -- [2532]
-			"19:39:11 - Resetting council as we have a new ML!", -- [2533]
-			"19:39:11 - MasterLooter =  (Tyleen-Blackmoore)", -- [2534]
-			"19:39:12 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2535]
-			"19:39:12 - Event: (PARTY_LEADER_CHANGED)", -- [2536]
-			"19:39:12 - GetML()", -- [2537]
-			"19:39:12 - Resetting council as we have a new ML!", -- [2538]
-			"19:39:12 - MasterLooter =  (Neaxa-Blackmoore)", -- [2539]
-			"19:39:12 - GetCouncilInGroup (Neaxa-Blackmoore)", -- [2540]
-			"19:39:12 - ML:NewML (Neaxa-Blackmoore)", -- [2541]
-			"19:39:12 - UpdateMLdb", -- [2542]
-			"19:39:12 - OnMLDBReceived", -- [2543]
-			"19:39:12 - UpdateGroup (true)", -- [2544]
-			"19:39:12 - ML:AddCandidate (Neaxa-Blackmoore) (MAGE) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2545]
-			"19:39:12 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2546]
-			"19:39:12 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2547]
-			"19:39:12 - ML:AddCandidate (Noxiâ-Blackmoore) (ROGUE) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2548]
-			"19:39:12 - RCLootCouncilML:SendCandidates()", -- [2549]
-			"19:39:12 - candidates_cooldown == false", -- [2550]
-			"19:39:12 - GetCouncilInGroup (Neaxa-Blackmoore)", -- [2551]
-			"19:39:12 - ML:SendCouncil()", -- [2552]
-			"19:39:13 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2553]
-			"19:39:13 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2554]
-			"19:39:13 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2555]
-			"19:39:13 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SNeaxa-Blackmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2556]
-			"19:39:13 - Comm received:^1^Scouncil^T^N1^T^N1^SNeaxa-Blackmoore^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2557]
-			"19:39:13 - true = (ConcilContains) (Neaxa-Blackmoore)", -- [2558]
-			"19:39:13 - GetLootDBStatistics()", -- [2559]
-			"19:39:13 - RCVotingFrame (enabled)", -- [2560]
-			"19:39:13 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2561]
-			"19:39:13 - RCLootCouncilML:SendCandidates()", -- [2562]
-			"19:39:13 - candidates_cooldown == true", -- [2563]
-			"19:39:13 - candidate_send == false", -- [2564]
-			"19:39:13 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2565]
-			"19:39:13 - ML:AddCandidate (Neaxa-Blackmoore) (MAGE) (DAMAGER) (Unguilded) (nil) (0) (382.9375) (63)", -- [2566]
-			"19:39:13 - RCLootCouncilML:SendCandidates()", -- [2567]
-			"19:39:13 - candidates_cooldown == true", -- [2568]
-			"19:39:13 - candidate_send == true", -- [2569]
-			"19:39:13 - Comm received:^1^SplayerInfo^T^N1^SNeaxa-Blackmoore^N2^SMAGE^N3^SDAMAGER^N4^SUnguilded^N6^N0^N7^N382.9375^N8^N63^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [2570]
-			"19:39:17 - ML:OnCouncilCooldown()", -- [2571]
-			"19:39:22 - ML:SendCandidates()", -- [2572]
-			"19:39:22 - RCLootCouncilML:OnCandidatesCooldown()", -- [2573]
-			"19:39:23 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNoxiâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SROGUE^Srank^S^t^SNeaxa-Blackmoore^T^Srole^SDAMAGER^SspecID^N63^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2574]
-			"19:39:26 - Timer MLdb_check passed", -- [2575]
-			"19:39:27 - Timer MLdb_check passed", -- [2576]
-			"19:39:36 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2577]
-			"19:39:36 - GetML()", -- [2578]
-			"19:39:37 - UpdateGroup (table: 00000188013F18A0)", -- [2579]
-			"19:39:37 - ML:RemoveCandidate (Noxiâ-Blackmoore)", -- [2580]
-			"19:39:37 - RCLootCouncilML:SendCandidates()", -- [2581]
-			"19:39:37 - candidates_cooldown == false", -- [2582]
-			"19:39:37 - GetCouncilInGroup (Neaxa-Blackmoore)", -- [2583]
-			"19:39:37 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2584]
-			"19:39:37 - VotingFrame:Update() without lootTable!!", -- [2585]
-			"19:39:41 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNeaxa-Blackmoore^T^Srole^SDAMAGER^SspecID^N63^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2586]
-			"19:39:46 - VotingFrame:Update() without lootTable!!", -- [2587]
-			"19:39:47 - UpdateGroup (table: 00000188013F18A0)", -- [2588]
-			"19:39:47 - RCLootCouncilML:OnCandidatesCooldown()", -- [2589]
-			"19:39:54 - VotingFrame:Update() without lootTable!!", -- [2590]
-			"19:40:12 - VotingFrame:Update() without lootTable!!", -- [2591]
-			"19:40:47 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (307152) (0) (0)", -- [2592]
-			"19:40:47 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2593]
-			"19:40:47 - GetML()", -- [2594]
-			"19:40:48 - VotingFrame:Update() without lootTable!!", -- [2595]
-			"19:41:02 - UpdateGroup (table: 00000188013F18A0)", -- [2596]
-			"19:42:24 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2597]
-			"19:42:24 - UpdatePlayersData()", -- [2598]
-			"19:45:07 - Event: (LOOT_READY) (false)", -- [2599]
-			"19:45:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-631-21563-36597-00004158A5) (344116)", -- [2600]
-			"19:45:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52027::::::::120:62::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2601]
-			"19:45:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50730::::::::120:62::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2602]
-			"19:45:07 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50735::::::::120:62::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2603]
-			"19:45:07 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2604]
-			"19:45:07 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:50733::::::::120:62::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2605]
-			"19:45:14 - OnLootSlotCleared() (1) (nil) (1)", -- [2606]
-			"19:45:16 - Event: (LOOT_CLOSED)", -- [2607]
-			"19:45:16 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2608]
-			"19:45:16 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52027::::::::120:62::::::|h[Conqueror's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2609]
-			"19:45:16 - ML event (PLAYER_REGEN_ENABLED)", -- [2610]
-			"19:45:18 - Event: (LOOT_READY) (false)", -- [2611]
-			"19:45:18 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:52027::::::::120:62::::::|h[Conqueror's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2612]
-			"19:45:18 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50730::::::::120:62::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2613]
-			"19:45:18 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50735::::::::120:62::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2614]
-			"19:45:18 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50733::::::::120:62::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2615]
-			"19:45:18 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3889-631-21563-36597-00004158A5) (1)", -- [2616]
-			"19:45:29 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4)", -- [2617]
-			"19:45:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52028) (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (1) (Neaxa) (MAGE)", -- [2618]
-			"19:45:30 - Event: (LOOT_CLOSED)", -- [2619]
-			"19:45:30 - Comm received:^1^Sfullbags^T^N1^S|cffa335ee|Hitem:52027::::::::120:62::::::|h[Conqueror's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2620]
-			"19:45:31 - Storage:New (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (temp)", -- [2621]
-			"19:45:31 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:62::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2622]
-			"19:45:31 - Found item at (4) (13)", -- [2623]
-			"19:45:31 - Found: (4) (13) (0)", -- [2624]
-			"19:45:32 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:62::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2625]
-			"19:45:32 - Found item at (4) (13)", -- [2626]
-			"19:45:32 - Found: (4) (13) (0)", -- [2627]
-			"19:45:32 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2628]
-			"19:45:38 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2629]
-			"19:45:38 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2630]
-			"19:45:38 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2631]
-			"19:45:38 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNeaxa-Blackmoore^T^Srole^SDAMAGER^Sclass^SMAGE^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2632]
-			"19:45:38 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2633]
-			"19:45:39 - Event: (PARTY_LEADER_CHANGED)", -- [2634]
-			"19:45:39 - GetML()", -- [2635]
-			"19:45:39 - Stop handling loot", -- [2636]
-			"19:45:39 - ML Disabled", -- [2637]
-			"19:45:39 - Resetting council as we have a new ML!", -- [2638]
-			"19:45:39 - MasterLooter =  (Tyleen-Blackmoore)", -- [2639]
-			"19:45:39 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Neaxa) (distri:) (PARTY)", -- [2640]
-			"19:45:49 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNeaxa-Blackmoore^T^Srole^SDAMAGER^SspecID^N62^Senchant_lvl^N0^Sclass^SMAGE^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2641]
-			"19:45:49 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2642]
-			"19:45:49 - GetML()", -- [2643]
-			"19:45:51 - VotingFrame:Update() without lootTable!!", -- [2644]
-			"19:45:53 - Event: (GROUP_LEFT) (1) (Party-580-000025B29DD2)", -- [2645]
-			"19:45:53 - GetML()", -- [2646]
-			"19:45:54 - Timer MLdb_check passed", -- [2647]
-			"08/22/20", -- [2648]
-			"19:46:07 - Logged In", -- [2649]
-			"19:46:07 - ML initialized!", -- [2650]
-			"19:46:07 - TradeUI enabled", -- [2651]
-			"19:46:17 - Nexana-Blackmoore (2.19.3) (nil)", -- [2652]
-			"19:46:17 - ActivateSkin (bfa)", -- [2653]
-			"19:46:22 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2654]
-			"19:46:22 - GetML()", -- [2655]
-			"19:46:22 - UpdatePlayersData()", -- [2656]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2657]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2658]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2659]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2660]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2661]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2662]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2663]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2664]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2665]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2666]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2667]
-			"19:46:26 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2668]
-			"19:46:26 - Storage:New (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r) (temp) (restored) (table: 00000187EAF035F0)", -- [2669]
-			"19:46:26 - Storage: searching for item: (||cffa335ee||Hitem:52028::::::::120:62::::::||h[Vanquisher's Mark of Sanctification]||h||r) (5)", -- [2670]
-			"19:46:26 - Found: (nil) (nil) (nil)", -- [2671]
-			"19:46:26 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r)", -- [2672]
-			"19:46:26 - Storage:RemoveItem (|cffa335ee|Hitem:52028::::::::120:62::::::|h[Vanquisher's Mark of Sanctification]|h|r)", -- [2673]
-			"19:46:34 - Event: (PARTY_LEADER_CHANGED)", -- [2674]
-			"19:46:34 - GetML()", -- [2675]
-			"19:46:34 - Resetting council as we have a new ML!", -- [2676]
-			"19:46:34 - MasterLooter =  (Tyleen-Blackmoore)", -- [2677]
-			"19:46:36 - Event: (PARTY_LEADER_CHANGED)", -- [2678]
-			"19:46:36 - GetML()", -- [2679]
-			"19:46:36 - Resetting council as we have a new ML!", -- [2680]
-			"19:46:36 - MasterLooter =  (Nexana-Blackmoore)", -- [2681]
-			"19:46:36 - GetCouncilInGroup (Nexana-Blackmoore)", -- [2682]
-			"19:46:36 - ML:NewML (Nexana-Blackmoore)", -- [2683]
-			"19:46:36 - UpdateMLdb", -- [2684]
-			"19:46:36 - OnMLDBReceived", -- [2685]
-			"19:46:36 - UpdateGroup (true)", -- [2686]
-			"19:46:36 - ML:AddCandidate (Nexana-Blackmoore) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2687]
-			"19:46:36 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2688]
-			"19:46:36 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2689]
-			"19:46:36 - RCLootCouncilML:SendCandidates()", -- [2690]
-			"19:46:36 - candidates_cooldown == false", -- [2691]
-			"19:46:36 - GetCouncilInGroup (Nexana-Blackmoore)", -- [2692]
-			"19:46:36 - ML:SendCouncil()", -- [2693]
-			"19:46:36 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2694]
-			"19:46:36 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2695]
-			"19:46:36 - I'm an enchanter", -- [2696]
-			"19:46:36 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2697]
-			"19:46:36 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2698]
-			"19:46:36 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexana-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2699]
-			"19:46:36 - Comm received:^1^Scouncil^T^N1^T^N1^SNexana-Blackmoore^t^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2700]
-			"19:46:36 - true = (ConcilContains) (Nexana-Blackmoore)", -- [2701]
-			"19:46:36 - GetLootDBStatistics()", -- [2702]
-			"19:46:36 - RCVotingFrame (enabled)", -- [2703]
-			"19:46:36 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2704]
-			"19:46:36 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2705]
-			"19:46:36 - RCLootCouncilML:SendCandidates()", -- [2706]
-			"19:46:36 - candidates_cooldown == true", -- [2707]
-			"19:46:36 - candidate_send == false", -- [2708]
-			"19:46:37 - Comm received:^1^SplayerInfo^T^N1^SNexana-Blackmoore^N2^SPRIEST^N3^SDAMAGER^N4^SUnguilded^N5^B^N6^N27^N7^N402.6875^N8^N258^t^^ (from:) (Nexana) (distri:) (WHISPER)", -- [2709]
-			"19:46:37 - ML:AddCandidate (Nexana-Blackmoore) (PRIEST) (DAMAGER) (Unguilded) (true) (27) (402.6875) (258)", -- [2710]
-			"19:46:37 - RCLootCouncilML:SendCandidates()", -- [2711]
-			"19:46:37 - candidates_cooldown == true", -- [2712]
-			"19:46:37 - candidate_send == true", -- [2713]
-			"19:46:41 - ML:OnCouncilCooldown()", -- [2714]
-			"19:46:46 - ML:SendCandidates()", -- [2715]
-			"19:46:46 - RCLootCouncilML:OnCandidatesCooldown()", -- [2716]
-			"19:46:46 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNexana-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N27^Sclass^SPRIEST^Senchanter^B^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2717]
-			"19:46:56 - Timer MLdb_check passed", -- [2718]
-			"19:46:56 - Timer MLdb_check passed", -- [2719]
-			"19:46:57 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2720]
-			"19:46:57 - GetML()", -- [2721]
-			"19:46:59 - VotingFrame:Update() without lootTable!!", -- [2722]
-			"19:47:06 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2723]
-			"19:47:06 - GetML()", -- [2724]
-			"19:47:07 - VotingFrame:Update() without lootTable!!", -- [2725]
-			"19:47:08 - VotingFrame:Update() without lootTable!!", -- [2726]
-			"19:47:21 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2727]
-			"19:47:21 - GetML()", -- [2728]
-			"19:47:22 - VotingFrame:Update() without lootTable!!", -- [2729]
-			"19:47:37 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2730]
-			"19:47:37 - GetML()", -- [2731]
-			"19:47:39 - VotingFrame:Update() without lootTable!!", -- [2732]
-			"19:47:43 - VotingFrame:Update() without lootTable!!", -- [2733]
-			"19:47:52 - UpdateGroup (table: 0000018844A72B70)", -- [2734]
-			"19:47:57 - VotingFrame:Update() without lootTable!!", -- [2735]
-			"19:48:14 - VotingFrame:Update() without lootTable!!", -- [2736]
-			"19:48:51 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (306668) (0) (0)", -- [2737]
-			"19:48:51 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2738]
-			"19:48:51 - GetML()", -- [2739]
-			"19:48:54 - VotingFrame:Update() without lootTable!!", -- [2740]
-			"19:49:08 - UpdateGroup (table: 0000018844A72B70)", -- [2741]
-			"19:50:31 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2742]
-			"19:50:31 - UpdatePlayersData()", -- [2743]
-			"19:51:05 - VotingFrame:Update() without lootTable!!", -- [2744]
-			"19:51:11 - VotingFrame:Update() without lootTable!!", -- [2745]
-			"19:53:15 - Event: (LOOT_READY) (false)", -- [2746]
-			"19:53:15 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-631-18096-36597-0000415A8A) (320627)", -- [2747]
-			"19:53:15 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2748]
-			"19:53:15 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2749]
-			"19:53:15 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2750]
-			"19:53:15 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2751]
-			"19:53:15 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:50738::::::::120:258::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2752]
-			"19:53:16 - OnLootSlotCleared() (1) (nil) (1)", -- [2753]
-			"19:53:22 - Event: (LOOT_CLOSED)", -- [2754]
-			"19:53:23 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2755]
-			"19:53:23 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2756]
-			"19:53:23 - VotingFrame:Update() without lootTable!!", -- [2757]
-			"19:53:24 - ML event (PLAYER_REGEN_ENABLED)", -- [2758]
-			"19:53:25 - Event: (LOOT_READY) (false)", -- [2759]
-			"19:53:25 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2760]
-			"19:53:25 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52029::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2761]
-			"19:53:25 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50738::::::::120:258::::::|h[Mithrios, Bronzebeard's Legacy]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2762]
-			"19:53:25 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50735::::::::120:258::::::|h[Oathbinder, Charge of the Ranger-General]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2763]
-			"19:53:25 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52026::::::::120:258::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3109-631-18096-36597-0000415A8A) (1)", -- [2764]
-			"19:53:29 - VotingFrame:Update() without lootTable!!", -- [2765]
-			"19:53:29 - Event: (LOOT_CLOSED)", -- [2766]
-			"19:53:30 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2767]
-			"19:53:40 - Event: (PARTY_LEADER_CHANGED)", -- [2768]
-			"19:53:40 - GetML()", -- [2769]
-			"19:53:40 - Stop handling loot", -- [2770]
-			"19:53:40 - ML Disabled", -- [2771]
-			"19:53:40 - Resetting council as we have a new ML!", -- [2772]
-			"19:53:40 - MasterLooter =  (Tyleen-Blackmoore)", -- [2773]
-			"19:53:40 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nexana) (distri:) (PARTY)", -- [2774]
-			"19:53:40 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2775]
-			"19:53:40 - I'm an enchanter", -- [2776]
-			"19:53:40 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2777]
-			"19:53:40 - OnMLDBReceived", -- [2778]
-			"19:53:40 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2779]
-			"19:53:40 - OnMLDBReceived", -- [2780]
-			"19:53:40 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexana-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2781]
-			"19:53:40 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2782]
-			"19:53:40 - false = (ConcilContains) (Nexana-Blackmoore)", -- [2783]
-			"19:53:40 - Hide VotingFrame", -- [2784]
-			"19:53:53 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNexana-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N27^Sclass^SPRIEST^Senchanter^B^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2785]
-			"19:53:53 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2786]
-			"19:53:53 - GetML()", -- [2787]
-			"19:53:56 - Timer MLdb_check passed", -- [2788]
-			"19:54:01 - Event: (GROUP_LEFT) (1) (Party-580-000025B29DD2)", -- [2789]
-			"19:54:01 - GetML()", -- [2790]
-			"08/22/20", -- [2791]
-			"19:54:25 - Logged In", -- [2792]
-			"19:54:25 - ML initialized!", -- [2793]
-			"19:54:25 - TradeUI enabled", -- [2794]
-			"19:54:39 - Nexanâ-Blackmoore (2.19.3) (nil)", -- [2795]
-			"19:54:39 - ActivateSkin (bfa)", -- [2796]
-			"19:54:44 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2797]
-			"19:54:44 - GetML()", -- [2798]
-			"19:54:44 - UpdatePlayersData()", -- [2799]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2800]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2801]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2802]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2803]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2804]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2805]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2806]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2807]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2808]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2809]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2810]
-			"19:54:50 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2811]
-			"19:56:52 - Event: (PARTY_LEADER_CHANGED)", -- [2812]
-			"19:56:52 - GetML()", -- [2813]
-			"19:56:52 - Resetting council as we have a new ML!", -- [2814]
-			"19:56:52 - MasterLooter =  (Tyleen-Blackmoore)", -- [2815]
-			"19:56:53 - Event: (PARTY_LEADER_CHANGED)", -- [2816]
-			"19:56:53 - GetML()", -- [2817]
-			"19:56:53 - Resetting council as we have a new ML!", -- [2818]
-			"19:56:53 - MasterLooter =  (Nexanâ-Blackmoore)", -- [2819]
-			"19:56:53 - GetCouncilInGroup (Nexanâ-Blackmoore)", -- [2820]
-			"19:56:53 - ML:NewML (Nexanâ-Blackmoore)", -- [2821]
-			"19:56:53 - UpdateMLdb", -- [2822]
-			"19:56:53 - OnMLDBReceived", -- [2823]
-			"19:56:53 - UpdateGroup (true)", -- [2824]
-			"19:56:53 - ML:AddCandidate (Nexanâ-Blackmoore) (WARLOCK) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2825]
-			"19:56:53 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2826]
-			"19:56:53 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2827]
-			"19:56:53 - RCLootCouncilML:SendCandidates()", -- [2828]
-			"19:56:53 - candidates_cooldown == false", -- [2829]
-			"19:56:53 - GetCouncilInGroup (Nexanâ-Blackmoore)", -- [2830]
-			"19:56:53 - ML:SendCouncil()", -- [2831]
-			"19:56:53 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2832]
-			"19:56:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2833]
-			"19:56:53 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2834]
-			"19:56:53 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexanâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2835]
-			"19:56:53 - Comm received:^1^Scouncil^T^N1^T^N1^SNexanâ-Blackmoore^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2836]
-			"19:56:53 - true = (ConcilContains) (Nexanâ-Blackmoore)", -- [2837]
-			"19:56:53 - GetLootDBStatistics()", -- [2838]
-			"19:56:53 - RCVotingFrame (enabled)", -- [2839]
-			"19:56:53 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2840]
-			"19:56:53 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [2841]
-			"19:56:53 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2842]
-			"19:56:53 - RCLootCouncilML:SendCandidates()", -- [2843]
-			"19:56:53 - candidates_cooldown == true", -- [2844]
-			"19:56:53 - candidate_send == false", -- [2845]
-			"19:56:54 - Comm received:^1^SplayerInfo^T^N1^SNexanâ-Blackmoore^N2^SWARLOCK^N3^SDAMAGER^N4^SUnguilded^N6^N0^N7^N329.0625^N8^N267^t^^ (from:) (Nexanâ) (distri:) (WHISPER)", -- [2846]
-			"19:56:54 - ML:AddCandidate (Nexanâ-Blackmoore) (WARLOCK) (DAMAGER) (Unguilded) (nil) (0) (329.0625) (267)", -- [2847]
-			"19:56:54 - RCLootCouncilML:SendCandidates()", -- [2848]
-			"19:56:54 - candidates_cooldown == true", -- [2849]
-			"19:56:54 - candidate_send == true", -- [2850]
-			"19:56:58 - ML:OnCouncilCooldown()", -- [2851]
-			"19:57:03 - RCLootCouncilML:OnCandidatesCooldown()", -- [2852]
-			"19:57:03 - ML:SendCandidates()", -- [2853]
-			"19:57:03 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^SNexanâ-Blackmoore^T^Srole^SDAMAGER^SspecID^N267^Senchant_lvl^N0^Sclass^SWARLOCK^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2854]
-			"19:57:06 - Timer MLdb_check passed", -- [2855]
-			"19:57:08 - Timer MLdb_check passed", -- [2856]
-			"19:57:41 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2857]
-			"19:57:41 - GetML()", -- [2858]
-			"19:57:43 - VotingFrame:Update() without lootTable!!", -- [2859]
-			"19:57:59 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2860]
-			"19:57:59 - GetML()", -- [2861]
-			"19:58:01 - VotingFrame:Update() without lootTable!!", -- [2862]
-			"19:58:32 - VotingFrame:Update() without lootTable!!", -- [2863]
-			"19:58:50 - VotingFrame:Update() without lootTable!!", -- [2864]
-			"19:59:27 - VotingFrame:Update() without lootTable!!", -- [2865]
-			"19:59:31 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (306028) (0) (0)", -- [2866]
-			"19:59:31 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2867]
-			"19:59:31 - GetML()", -- [2868]
-			"19:59:32 - VotingFrame:Update() without lootTable!!", -- [2869]
-			"19:59:36 - UpdateGroup (table: 000001885ACF65A0)", -- [2870]
-			"19:59:46 - UpdateGroup (table: 000001885ACF65A0)", -- [2871]
-			"20:01:07 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [2872]
-			"20:01:07 - UpdatePlayersData()", -- [2873]
-			"20:04:07 - Event: (LOOT_READY) (false)", -- [2874]
-			"20:04:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-631-9577-36597-0000415D09) (320781)", -- [2875]
-			"20:04:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52025::::::::120:267::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2876]
-			"20:04:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2877]
-			"20:04:07 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50737::::::::120:267::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2878]
-			"20:04:07 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52029::::::::120:267::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2879]
-			"20:04:07 - Event: (LOOT_READY) (false)", -- [2880]
-			"20:04:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-631-9577-36597-0000415D09) (320781)", -- [2881]
-			"20:04:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52025::::::::120:267::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2882]
-			"20:04:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2883]
-			"20:04:07 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50737::::::::120:267::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2884]
-			"20:04:07 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:52029::::::::120:267::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2885]
-			"20:04:07 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:52029::::::::120:267::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2886]
-			"20:04:09 - OnLootSlotCleared() (1) (nil) (1)", -- [2887]
-			"20:04:12 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4)", -- [2888]
-			"20:04:12 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (50730) (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (1) (Nexanâ) (WARLOCK)", -- [2889]
-			"20:04:14 - Event: (LOOT_CLOSED)", -- [2890]
-			"20:04:14 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [2891]
-			"20:04:14 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52025::::::::120:267::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2892]
-			"20:04:14 - Storage:New (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (temp)", -- [2893]
-			"20:04:14 - Storage: searching for item: (||cffa335ee||Hitem:50730::::::::120:267::::::||h[Glorenzelg, High-Blade of the Silver Hand]||h||r) (5)", -- [2894]
-			"20:04:14 - Found item at (1) (10)", -- [2895]
-			"20:04:14 - Found item at (2) (4)", -- [2896]
-			"20:04:14 - Found: (2) (4) (0)", -- [2897]
-			"20:04:15 - ML event (PLAYER_REGEN_ENABLED)", -- [2898]
-			"20:04:15 - Storage: searching for item: (||cffa335ee||Hitem:50730::::::::120:267::::::||h[Glorenzelg, High-Blade of the Silver Hand]||h||r) (5)", -- [2899]
-			"20:04:15 - Found item at (1) (10)", -- [2900]
-			"20:04:15 - Found item at (2) (4)", -- [2901]
-			"20:04:15 - Found: (2) (4) (0)", -- [2902]
-			"20:04:15 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg,~`High-Blade~`of~`the~`Silver~`Hand]|h|r^N2^S36597^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2903]
-			"20:04:18 - Event: (LOOT_READY) (false)", -- [2904]
-			"20:04:18 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:52025::::::::120:267::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2905]
-			"20:04:18 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52029::::::::120:267::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2906]
-			"20:04:18 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50737::::::::120:267::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2907]
-			"20:04:18 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:52029::::::::120:267::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3767-631-9577-36597-0000415D09) (1)", -- [2908]
-			"20:04:22 - Event: (LOOT_CLOSED)", -- [2909]
-			"20:04:23 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52025::::::::120:267::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2910]
-			"20:04:25 - Event: (PARTY_LEADER_CHANGED)", -- [2911]
-			"20:04:25 - GetML()", -- [2912]
-			"20:04:25 - Stop handling loot", -- [2913]
-			"20:04:25 - ML Disabled", -- [2914]
-			"20:04:25 - Resetting council as we have a new ML!", -- [2915]
-			"20:04:25 - MasterLooter =  (Tyleen-Blackmoore)", -- [2916]
-			"20:04:26 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2917]
-			"20:04:26 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2918]
-			"20:04:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2919]
-			"20:04:26 - OnMLDBReceived", -- [2920]
-			"20:04:26 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2921]
-			"20:04:26 - OnMLDBReceived", -- [2922]
-			"20:04:26 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexanâ-Blackmoore^T^Srole^SDAMAGER^Sclass^SWARLOCK^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2923]
-			"20:04:26 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen) (distri:) (PARTY)", -- [2924]
-			"20:04:26 - false = (ConcilContains) (Nexanâ-Blackmoore)", -- [2925]
-			"20:04:26 - Hide VotingFrame", -- [2926]
-			"20:04:27 - Event: (GROUP_LEFT) (1) (Party-580-000025B29DD2)", -- [2927]
-			"20:04:27 - GetML()", -- [2928]
-			"20:04:40 - Timer MLdb_check passed", -- [2929]
-			"08/22/20", -- [2930]
-			"20:05:23 - Logged In", -- [2931]
-			"20:05:23 - ML initialized!", -- [2932]
-			"20:05:23 - TradeUI enabled", -- [2933]
-			"20:05:41 - Nexanâ-Ravencrest (2.19.3) (nil)", -- [2934]
-			"20:05:41 - ActivateSkin (bfa)", -- [2935]
-			"20:05:46 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2936]
-			"20:05:46 - GetML()", -- [2937]
-			"20:05:46 - UpdatePlayersData()", -- [2938]
-			"20:05:52 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [2939]
-			"20:05:52 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [2940]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2941]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2942]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2943]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2944]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2945]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2946]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2947]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2948]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2949]
-			"20:05:52 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [2950]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [2951]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [2952]
-			"20:05:52 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [2953]
-			"20:05:52 - Storage:New (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (temp) (restored) (table: 000001874B6B4C60)", -- [2954]
-			"20:05:52 - Storage: searching for item: (||cffa335ee||Hitem:50730::::::::120:267::::::||h[Glorenzelg, High-Blade of the Silver Hand]||h||r) (5)", -- [2955]
-			"20:05:52 - Found: (nil) (nil) (nil)", -- [2956]
-			"20:05:52 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r)", -- [2957]
-			"20:05:52 - Storage:RemoveItem (|cffa335ee|Hitem:50730::::::::120:267::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r)", -- [2958]
-			"20:06:10 - Event: (PARTY_LEADER_CHANGED)", -- [2959]
-			"20:06:10 - GetML()", -- [2960]
-			"20:06:10 - Resetting council as we have a new ML!", -- [2961]
-			"20:06:10 - MasterLooter =  (Tyleen-Blackmoore)", -- [2962]
-			"20:06:12 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [2963]
-			"20:06:12 - Event: (PARTY_LEADER_CHANGED)", -- [2964]
-			"20:06:12 - GetML()", -- [2965]
-			"20:06:12 - Resetting council as we have a new ML!", -- [2966]
-			"20:06:12 - MasterLooter =  (Nexanâ-Ravencrest)", -- [2967]
-			"20:06:12 - GetCouncilInGroup (Nexanâ-Ravencrest)", -- [2968]
-			"20:06:12 - ML:NewML (Nexanâ-Ravencrest)", -- [2969]
-			"20:06:12 - UpdateMLdb", -- [2970]
-			"20:06:12 - OnMLDBReceived", -- [2971]
-			"20:06:12 - UpdateGroup (true)", -- [2972]
-			"20:06:12 - ML:AddCandidate (Nexanâ-Ravencrest) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2973]
-			"20:06:12 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2974]
-			"20:06:12 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [2975]
-			"20:06:12 - RCLootCouncilML:SendCandidates()", -- [2976]
-			"20:06:12 - candidates_cooldown == false", -- [2977]
-			"20:06:12 - GetCouncilInGroup (Nexanâ-Ravencrest)", -- [2978]
-			"20:06:12 - ML:SendCouncil()", -- [2979]
-			"20:06:12 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2980]
-			"20:06:12 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2981]
-			"20:06:12 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2982]
-			"20:06:12 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexanâ-Ravencrest^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2983]
-			"20:06:12 - Comm received:^1^Scouncil^T^N1^T^N1^SNexanâ-Ravencrest^t^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [2984]
-			"20:06:12 - true = (ConcilContains) (Nexanâ-Ravencrest)", -- [2985]
-			"20:06:12 - GetLootDBStatistics()", -- [2986]
-			"20:06:12 - RCVotingFrame (enabled)", -- [2987]
-			"20:06:12 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [2988]
-			"20:06:12 - RCLootCouncilML:SendCandidates()", -- [2989]
-			"20:06:12 - candidates_cooldown == true", -- [2990]
-			"20:06:12 - candidate_send == false", -- [2991]
-			"20:06:12 - Comm received:^1^Sxrealm^T^N1^SNexanâ-Ravencrest^N2^SplayerInfo^N3^STyleen-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SCommunityMember^N8^N0^N9^N479.5^N10^N253^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [2992]
-			"20:06:12 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen-Blackmoore) (distri:) (WHISPER)", -- [2993]
-			"20:06:12 - ML:AddCandidate (Nexanâ-Ravencrest) (PRIEST) (DAMAGER) (Unguilded) (nil) (0) (426.0625) (258)", -- [2994]
-			"20:06:12 - RCLootCouncilML:SendCandidates()", -- [2995]
-			"20:06:12 - candidates_cooldown == true", -- [2996]
-			"20:06:12 - candidate_send == true", -- [2997]
-			"20:06:12 - Comm received:^1^SplayerInfo^T^N1^SNexanâ-Ravencrest^N2^SPRIEST^N3^SDAMAGER^N4^SUnguilded^N6^N0^N7^N426.0625^N8^N258^t^^ (from:) (Nexanâ) (distri:) (WHISPER)", -- [2998]
-			"20:06:25 - ML:OnCouncilCooldown()", -- [2999]
-			"20:06:25 - ML:SendCandidates()", -- [3000]
-			"20:06:25 - RCLootCouncilML:OnCandidatesCooldown()", -- [3001]
-			"20:06:25 - Timer MLdb_check passed", -- [3002]
-			"20:06:26 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3003]
-			"20:06:26 - GetML()", -- [3004]
-			"20:06:27 - Timer MLdb_check passed", -- [3005]
-			"20:06:28 - VotingFrame:Update() without lootTable!!", -- [3006]
-			"20:06:44 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3007]
-			"20:06:44 - GetML()", -- [3008]
-			"20:06:46 - VotingFrame:Update() without lootTable!!", -- [3009]
-			"20:06:57 - VotingFrame:Update() without lootTable!!", -- [3010]
-			"20:07:06 - UpdateGroup (table: 000001878AE54EF0)", -- [3011]
-			"20:07:06 - VotingFrame:Update() without lootTable!!", -- [3012]
-			"20:07:24 - VotingFrame:Update() without lootTable!!", -- [3013]
-			"20:08:00 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (305519) (0) (0)", -- [3014]
-			"20:08:01 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3015]
-			"20:08:01 - GetML()", -- [3016]
-			"20:08:03 - VotingFrame:Update() without lootTable!!", -- [3017]
-			"20:08:17 - UpdateGroup (table: 000001878AE54EF0)", -- [3018]
-			"20:09:45 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [3019]
-			"20:09:45 - UpdatePlayersData()", -- [3020]
-			"20:12:23 - Event: (LOOT_READY) (false)", -- [3021]
-			"20:12:23 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-631-31358-36597-0000415F08) (347250)", -- [3022]
-			"20:12:23 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3023]
-			"20:12:23 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3024]
-			"20:12:23 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3025]
-			"20:12:23 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3026]
-			"20:12:23 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:50732::::::::120:258::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3027]
-			"20:12:31 - OnLootSlotCleared() (1) (nil) (1)", -- [3028]
-			"20:12:31 - Event: (LOOT_CLOSED)", -- [3029]
-			"20:12:31 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [3030]
-			"20:12:32 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [3031]
-			"20:12:32 - ML event (PLAYER_REGEN_ENABLED)", -- [3032]
-			"20:12:33 - Event: (LOOT_READY) (false)", -- [3033]
-			"20:12:33 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3034]
-			"20:12:33 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3035]
-			"20:12:33 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg, High-Blade of the Silver Hand]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3036]
-			"20:12:33 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:52025::::::::120:258::::::|h[Vanquisher's Mark of Sanctification]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3037]
-			"20:12:33 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50732::::::::120:258::::::|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r) (4) (1) (Creature-0-3768-631-31358-36597-0000415F08) (1)", -- [3038]
-			"20:12:39 - Event: (LOOT_CLOSED)", -- [3039]
-			"20:12:39 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50730::::::::120:258::::::|h[Glorenzelg,~`High-Blade~`of~`the~`Silver~`Hand]|h|r^N2^S36597^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [3040]
-			"20:12:41 - Event: (PARTY_LEADER_CHANGED)", -- [3041]
-			"20:12:41 - GetML()", -- [3042]
-			"20:12:41 - Stop handling loot", -- [3043]
-			"20:12:41 - ML Disabled", -- [3044]
-			"20:12:41 - Resetting council as we have a new ML!", -- [3045]
-			"20:12:41 - MasterLooter =  (Tyleen-Blackmoore)", -- [3046]
-			"20:12:41 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [3047]
-			"20:12:41 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3048]
-			"20:12:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3049]
-			"20:12:41 - OnMLDBReceived", -- [3050]
-			"20:12:41 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3051]
-			"20:12:41 - OnMLDBReceived", -- [3052]
-			"20:12:41 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SNexanâ-Ravencrest^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3053]
-			"20:12:41 - Comm received:^1^Scouncil^T^N1^T^N1^STyleen-Blackmoore^t^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3054]
-			"20:12:41 - false = (ConcilContains) (Nexanâ-Ravencrest)", -- [3055]
-			"20:12:41 - Hide VotingFrame", -- [3056]
-			"20:12:41 - Comm received:^1^Sxrealm^T^N1^STyleen-Blackmoore^N2^SplayerInfo^N3^SNexanâ-Ravencrest^N4^SPRIEST^N5^SDAMAGER^N6^SUnguilded^N8^N0^N9^N426.0625^N10^N258^t^^ (from:) (Nexanâ) (distri:) (PARTY)", -- [3057]
-			"20:12:44 - Event: (GROUP_LEFT) (1) (Party-580-000025B29DD2)", -- [3058]
-			"20:12:44 - GetML()", -- [3059]
-			"20:12:58 - Timer MLdb_check passed", -- [3060]
-			"20:12:59 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3061]
-			"20:12:59 - GetML()", -- [3062]
-			"08/22/20", -- [3063]
-			"20:13:26 - Logged In", -- [3064]
-			"20:13:26 - ML initialized!", -- [3065]
-			"20:13:26 - TradeUI enabled", -- [3066]
-			"20:13:42 - Hôrst-Ravencrest (2.19.3) (nil)", -- [3067]
-			"20:13:42 - ActivateSkin (bfa)", -- [3068]
-			"20:13:47 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3069]
-			"20:13:47 - GetML()", -- [3070]
-			"20:13:47 - UpdatePlayersData()", -- [3071]
-			"20:13:53 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [3072]
-			"20:13:53 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [3073]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [3074]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [3075]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [3076]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [3077]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [3078]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [3079]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [3080]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [3081]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [3082]
-			"20:13:53 - LUA_WARNING (0) (Error loading Interface\\AddOns\\TradeSkillMaster_AppHelper\\AppData.lua)", -- [3083]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuButtonTemplate already exists)", -- [3084]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownListTemplate already exists)", -- [3085]
-			"20:13:53 - LUA_WARNING (0) (Deferred XML Node object named Lib_UIDropDownMenuTemplate already exists)", -- [3086]
-			"20:14:03 - Event: (PARTY_LEADER_CHANGED)", -- [3087]
-			"20:14:03 - GetML()", -- [3088]
-			"20:14:03 - Resetting council as we have a new ML!", -- [3089]
-			"20:14:03 - MasterLooter =  (Tyleen-Blackmoore)", -- [3090]
-			"20:14:06 - Event: (PARTY_LEADER_CHANGED)", -- [3091]
-			"20:14:06 - GetML()", -- [3092]
-			"20:14:06 - Resetting council as we have a new ML!", -- [3093]
-			"20:14:06 - MasterLooter =  (Hôrst-Ravencrest)", -- [3094]
-			"20:14:06 - GetCouncilInGroup (Hôrst-Ravencrest)", -- [3095]
-			"20:14:06 - ML:NewML (Hôrst-Ravencrest)", -- [3096]
-			"20:14:06 - UpdateMLdb", -- [3097]
-			"20:14:06 - OnMLDBReceived", -- [3098]
-			"20:14:06 - UpdateGroup (true)", -- [3099]
-			"20:14:06 - ML:AddCandidate (Hôrst-Ravencrest) (WARRIOR) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [3100]
-			"20:14:06 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [3101]
-			"20:14:06 - ML:AddCandidate (Grillpatrol-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [3102]
-			"20:14:06 - RCLootCouncilML:SendCandidates()", -- [3103]
-			"20:14:06 - candidates_cooldown == false", -- [3104]
-			"20:14:06 - GetCouncilInGroup (Hôrst-Ravencrest)", -- [3105]
-			"20:14:06 - ML:SendCouncil()", -- [3106]
-			"20:14:06 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3107]
-			"20:14:06 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3108]
-			"20:14:06 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3109]
-			"20:14:06 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3110]
-			"20:14:06 - Comm received:^1^Scandidates^T^N1^T^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^SHôrst-Ravencrest^T^Srole^SDAMAGER^Sclass^SWARRIOR^Srank^S^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3111]
-			"20:14:06 - Comm received:^1^Scouncil^T^N1^T^N1^SHôrst-Ravencrest^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3112]
-			"20:14:06 - true = (ConcilContains) (Hôrst-Ravencrest)", -- [3113]
-			"20:14:06 - GetLootDBStatistics()", -- [3114]
-			"20:14:06 - RCVotingFrame (enabled)", -- [3115]
-			"20:14:06 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [3116]
-			"20:14:06 - RCLootCouncilML:SendCandidates()", -- [3117]
-			"20:14:06 - candidates_cooldown == true", -- [3118]
-			"20:14:06 - candidate_send == false", -- [3119]
-			"20:14:06 - Comm received:^1^Sxrealm^T^N1^SHôrst-Ravencrest^N2^SplayerInfo^N3^STyleen-Blackmoore^N4^SHUNTER^N5^SDAMAGER^N6^SCommunityMember^N8^N0^N9^N479.5^N10^N253^t^^ (from:) (Tyleen-Blackmoore) (distri:) (PARTY)", -- [3120]
-			"20:14:06 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen-Blackmoore) (distri:) (WHISPER)", -- [3121]
-			"20:14:07 - ML:AddCandidate (Hôrst-Ravencrest) (WARRIOR) (DAMAGER) (Unguilded) (nil) (0) (442.625) (72)", -- [3122]
-			"20:14:07 - RCLootCouncilML:SendCandidates()", -- [3123]
-			"20:14:07 - candidates_cooldown == true", -- [3124]
-			"20:14:07 - candidate_send == true", -- [3125]
-			"20:14:07 - Comm received:^1^SplayerInfo^T^N1^SHôrst-Ravencrest^N2^SWARRIOR^N3^SDAMAGER^N4^SUnguilded^N6^N0^N7^N442.625^N8^N72^t^^ (from:) (Hôrst) (distri:) (WHISPER)", -- [3126]
-			"20:14:11 - ML:OnCouncilCooldown()", -- [3127]
-			"20:14:20 - ML:SendCandidates()", -- [3128]
-			"20:14:20 - RCLootCouncilML:OnCandidatesCooldown()", -- [3129]
-			"20:14:20 - Timer MLdb_check passed", -- [3130]
-			"20:14:21 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3131]
-			"20:14:21 - GetML()", -- [3132]
-			"20:14:22 - VotingFrame:Update() without lootTable!!", -- [3133]
-			"20:14:22 - Timer MLdb_check passed", -- [3134]
-			"20:14:32 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3135]
-			"20:14:32 - GetML()", -- [3136]
-			"20:14:33 - VotingFrame:Update() without lootTable!!", -- [3137]
-			"20:14:52 - VotingFrame:Update() without lootTable!!", -- [3138]
-			"20:14:57 - VotingFrame:Update() without lootTable!!", -- [3139]
-			"20:15:01 - UpdateGroup (table: 00000187E0295A40)", -- [3140]
-			"20:15:11 - UpdateGroup (table: 00000187E0295A40)", -- [3141]
-			"20:15:11 - ML:RemoveCandidate (Tyleen-Blackmoore)", -- [3142]
-			"20:15:11 - RCLootCouncilML:SendCandidates()", -- [3143]
-			"20:15:11 - candidates_cooldown == false", -- [3144]
-			"20:15:11 - GetCouncilInGroup (Hôrst-Ravencrest)", -- [3145]
-			"20:15:11 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3146]
-			"20:15:11 - Comm received:^1^Scandidates^T^N1^T^SHôrst-Ravencrest^T^Srole^SDAMAGER^SspecID^N72^Senchant_lvl^N0^Sclass^SWARRIOR^Srank^SUnguilded^t^SGrillpatrol-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3147]
-			"20:15:15 - VotingFrame:Update() without lootTable!!", -- [3148]
-			"20:15:21 - RCLootCouncilML:OnCandidatesCooldown()", -- [3149]
-			"20:15:52 - Event: (RAID_INSTANCE_WELCOME) (Icecrown Citadel (25 Player)) (305047) (0) (0)", -- [3150]
-			"20:15:53 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3151]
-			"20:15:53 - GetML()", -- [3152]
-			"20:15:55 - VotingFrame:Update() without lootTable!!", -- [3153]
-			"20:16:09 - UpdateGroup (table: 00000187E0295A40)", -- [3154]
-			"20:17:30 - Event: (ENCOUNTER_START) (1106) (The Lich King) (6) (25)", -- [3155]
-			"20:17:30 - UpdatePlayersData()", -- [3156]
-			"20:20:05 - Event: (LOOT_READY) (false)", -- [3157]
-			"20:20:05 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-1461-631-15696-36597-00004160DF) (323689)", -- [3158]
-			"20:20:05 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:50733::::::::120:72::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3159]
-			"20:20:05 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50731::::::::120:72::::::|h[Archus, Greatstaff of Antonidas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3160]
-			"20:20:05 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50731::::::::120:72::::::|h[Archus, Greatstaff of Antonidas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3161]
-			"20:20:05 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50737::::::::120:72::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3162]
-			"20:20:05 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3163]
-			"20:20:13 - OnLootSlotCleared() (1) (nil) (1)", -- [3164]
-			"20:20:14 - Event: (LOOT_CLOSED)", -- [3165]
-			"20:20:14 - Event: (ENCOUNTER_END) (1106) (The Lich King) (6) (25) (1)", -- [3166]
-			"20:20:14 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50733::::::::120:72::::::|h[Fal'inrush,~`Defender~`of~`Quel'thalas]|h|r^N2^S36597^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3167]
-			"20:20:16 - Event: (LOOT_READY) (false)", -- [3168]
-			"20:20:16 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:50731::::::::120:72::::::|h[Archus, Greatstaff of Antonidas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3169]
-			"20:20:16 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3170]
-			"20:20:16 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:50737::::::::120:72::::::|h[Havoc's Call, Blade of Lordaeron Kings]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3171]
-			"20:20:16 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:50733::::::::120:72::::::|h[Fal'inrush, Defender of Quel'thalas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3172]
-			"20:20:16 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:50731::::::::120:72::::::|h[Archus, Greatstaff of Antonidas]|h|r) (4) (1) (Creature-0-1461-631-15696-36597-00004160DF) (1)", -- [3173]
-			"20:20:19 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (4)", -- [3174]
-			"20:20:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (1106) (52029) (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (1) (Hôrst) (WARRIOR)", -- [3175]
-			"20:20:19 - Event: (LOOT_CLOSED)", -- [3176]
-			"20:20:19 - Comm received:^1^SfakeLoot^T^N1^S|cffa335ee|Hitem:50731::::::::120:72::::::|h[Archus,~`Greatstaff~`of~`Antonidas]|h|r^N2^S36597^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3177]
-			"20:20:21 - Storage:New (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (temp)", -- [3178]
-			"20:20:21 - Storage: searching for item: (||cffa335ee||Hitem:52029::::::::120:72::::::||h[Protector's Mark of Sanctification]||h||r) (5)", -- [3179]
-			"20:20:21 - Found item at (0) (11)", -- [3180]
-			"20:20:21 - Found: (0) (11) (0)", -- [3181]
-			"20:20:22 - Storage: searching for item: (||cffa335ee||Hitem:52029::::::::120:72::::::||h[Protector's Mark of Sanctification]||h||r) (5)", -- [3182]
-			"20:20:22 - Found item at (0) (11)", -- [3183]
-			"20:20:22 - Found: (0) (11) (0)", -- [3184]
-			"20:20:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's~`Mark~`of~`Sanctification]|h|r^N2^S36597^t^^ (from:) (Hôrst) (distri:) (PARTY)", -- [3185]
-			"20:20:32 - ML event (PLAYER_REGEN_ENABLED)", -- [3186]
-			"20:20:37 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3187]
-			"20:20:37 - GetML()", -- [3188]
-			"20:20:39 - ML event (PLAYER_REGEN_ENABLED)", -- [3189]
-			"20:20:40 - VotingFrame:Update() without lootTable!!", -- [3190]
-			"08/22/20", -- [3191]
-			"22:19:57 - Logged In", -- [3192]
-			"22:19:57 - ML initialized!", -- [3193]
-			"22:19:57 - TradeUI enabled", -- [3194]
-			"22:20:14 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3195]
-			"22:20:14 - ActivateSkin (bfa)", -- [3196]
-			"22:20:17 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3197]
-			"22:20:17 - GetML()", -- [3198]
-			"22:20:17 - UpdatePlayersData()", -- [3199]
-			"22:20:20 - GetPlayersGuildRank()", -- [3200]
-			"22:20:20 - GetPlayersGuildRank()", -- [3201]
-			"22:20:20 - Found Guild Rank: Raider", -- [3202]
-			"22:20:22 - Storage:New (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r) (temp) (restored) (table: 0000024448152D30)", -- [3203]
-			"22:20:22 - Storage: searching for item: (||cffa335ee||Hitem:52029::::::::120:72::::::||h[Protector's Mark of Sanctification]||h||r) (5)", -- [3204]
-			"22:20:22 - Found: (nil) (nil) (nil)", -- [3205]
-			"22:20:22 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r)", -- [3206]
-			"22:20:22 - Storage:RemoveItem (|cffa335ee|Hitem:52029::::::::120:72::::::|h[Protector's Mark of Sanctification]|h|r)", -- [3207]
-			"22:20:23 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3208]
-			"22:21:20 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3209]
-			"22:21:20 - GetML()", -- [3210]
-			"08/22/20", -- [3211]
-			"22:23:12 - Logged In", -- [3212]
-			"22:23:12 - ML initialized!", -- [3213]
-			"22:23:12 - TradeUI enabled", -- [3214]
-			"22:23:17 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3215]
-			"22:23:17 - ActivateSkin (bfa)", -- [3216]
-			"22:23:21 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3217]
-			"22:23:21 - GetML()", -- [3218]
-			"22:23:21 - UpdatePlayersData()", -- [3219]
-			"22:23:23 - GetPlayersGuildRank()", -- [3220]
-			"22:23:23 - Found Guild Rank: Raider", -- [3221]
-			"22:23:24 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3222]
-			"08/22/20", -- [3223]
-			"22:24:12 - Logged In", -- [3224]
-			"22:24:12 - ML initialized!", -- [3225]
-			"22:24:12 - TradeUI enabled", -- [3226]
-			"22:24:17 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3227]
-			"22:24:17 - ActivateSkin (bfa)", -- [3228]
-			"22:24:21 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3229]
-			"22:24:21 - GetML()", -- [3230]
-			"22:24:21 - UpdatePlayersData()", -- [3231]
-			"22:24:23 - GetPlayersGuildRank()", -- [3232]
-			"22:24:23 - Found Guild Rank: Raider", -- [3233]
-			"22:24:24 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3234]
-			"08/22/20", -- [3235]
-			"22:24:46 - Logged In", -- [3236]
-			"22:24:46 - ML initialized!", -- [3237]
-			"22:24:46 - TradeUI enabled", -- [3238]
-			"22:24:51 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3239]
-			"22:24:51 - ActivateSkin (bfa)", -- [3240]
-			"22:24:55 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3241]
-			"22:24:55 - GetML()", -- [3242]
-			"22:24:55 - UpdatePlayersData()", -- [3243]
-			"22:24:57 - GetPlayersGuildRank()", -- [3244]
-			"22:24:57 - Found Guild Rank: Raider", -- [3245]
-			"22:24:58 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3246]
-			"08/22/20", -- [3247]
-			"22:28:05 - Logged In", -- [3248]
-			"22:28:05 - ML initialized!", -- [3249]
-			"22:28:05 - TradeUI enabled", -- [3250]
-			"22:28:10 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3251]
-			"22:28:10 - ActivateSkin (bfa)", -- [3252]
-			"22:28:14 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3253]
-			"22:28:14 - GetML()", -- [3254]
-			"22:28:14 - UpdatePlayersData()", -- [3255]
-			"22:28:17 - GetPlayersGuildRank()", -- [3256]
-			"22:28:17 - Found Guild Rank: Raider", -- [3257]
-			"22:28:17 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3258]
-			"22:40:01 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Ædshearan) (distri:) (GUILD)", -- [3259]
-			"22:47:12 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Golwa) (distri:) (GUILD)", -- [3260]
-			"22:48:32 - Event: (LOOT_READY) (true)", -- [3261]
-			"22:48:33 - Event: (LOOT_READY) (true)", -- [3262]
-			"22:50:35 - Event: (LOOT_READY) (true)", -- [3263]
-			"22:55:02 - Event: (LOOT_READY) (true)", -- [3264]
-			"08/22/20", -- [3265]
-			"23:04:17 - Logged In", -- [3266]
-			"23:04:17 - ML initialized!", -- [3267]
-			"23:04:17 - TradeUI enabled", -- [3268]
-			"23:04:27 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3269]
-			"23:04:27 - ActivateSkin (bfa)", -- [3270]
-			"23:04:31 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3271]
-			"23:04:31 - GetML()", -- [3272]
-			"23:04:31 - UpdatePlayersData()", -- [3273]
-			"23:04:32 - GetPlayersGuildRank()", -- [3274]
-			"23:04:32 - GetPlayersGuildRank()", -- [3275]
-			"23:04:32 - Found Guild Rank: Alt", -- [3276]
-			"23:04:34 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3277]
-			"08/22/20", -- [3278]
-			"23:05:16 - Logged In", -- [3279]
-			"23:05:16 - ML initialized!", -- [3280]
-			"23:05:16 - TradeUI enabled", -- [3281]
-			"23:05:21 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3282]
-			"23:05:21 - ActivateSkin (bfa)", -- [3283]
-			"23:05:25 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3284]
-			"23:05:25 - GetML()", -- [3285]
-			"23:05:25 - UpdatePlayersData()", -- [3286]
-			"23:05:26 - GetPlayersGuildRank()", -- [3287]
-			"23:05:26 - Found Guild Rank: Alt", -- [3288]
-			"23:05:26 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3289]
-			"23:06:24 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Fatoran) (distri:) (GUILD)", -- [3290]
-			"08/24/20", -- [3291]
-			"00:16:01 - Logged In", -- [3292]
-			"00:16:01 - ML initialized!", -- [3293]
-			"00:16:01 - TradeUI enabled", -- [3294]
-			"00:16:20 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3295]
-			"00:16:20 - ActivateSkin (bfa)", -- [3296]
-			"00:16:26 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3297]
-			"00:16:26 - GetML()", -- [3298]
-			"00:16:26 - UpdatePlayersData()", -- [3299]
-			"00:16:28 - GetPlayersGuildRank()", -- [3300]
-			"00:16:28 - GetPlayersGuildRank()", -- [3301]
-			"00:16:28 - Found Guild Rank: Alt", -- [3302]
-			"00:16:30 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3303]
-			"08/26/20", -- [3304]
-			"11:15:10 - Logged In", -- [3305]
-			"11:15:10 - ML initialized!", -- [3306]
-			"11:15:10 - TradeUI enabled", -- [3307]
-			"11:15:26 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3308]
-			"11:15:26 - ActivateSkin (bfa)", -- [3309]
-			"11:15:29 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3310]
-			"11:15:29 - GetML()", -- [3311]
-			"11:15:29 - UpdatePlayersData()", -- [3312]
-			"11:15:32 - GetPlayersGuildRank()", -- [3313]
-			"11:15:32 - GetPlayersGuildRank()", -- [3314]
-			"11:15:32 - Found Guild Rank: Raider", -- [3315]
-			"11:15:35 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3316]
-			"11:23:49 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Kalisyra) (distri:) (GUILD)", -- [3317]
-			"11:25:16 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [3318]
-			"11:41:59 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Naylah) (distri:) (GUILD)", -- [3319]
-			"11:42:02 - Event: (LOOT_READY) (true)", -- [3320]
-			"11:42:02 - Event: (LOOT_READY) (true)", -- [3321]
-			"11:42:02 - Event: (ENCOUNTER_LOOT_RECEIVED) (0) (158923) (|cffa335ee|Hitem:158923::::::::120:253:8257536:::251:20:9:11:2:120:::|h[Mythic Keystone]|h|r) (1) (Grillpatrol) (HUNTER)", -- [3322]
-			"11:42:02 - Event: (ENCOUNTER_LOOT_RECEIVED) (0) (159372) (|cffa335ee|Hitem:159372::::::::120:253::35:7:6536:6578:6579:6573:6515:1647:4786:::|h[Dread Captain's Irons]|h|r) (1) (Grillpatrol) (HUNTER)", -- [3323]
-			"11:47:43 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Dalirya) (distri:) (GUILD)", -- [3324]
-			"08/26/20", -- [3325]
-			"12:00:11 - Logged In", -- [3326]
-			"12:00:11 - ML initialized!", -- [3327]
-			"12:00:11 - TradeUI enabled", -- [3328]
-			"12:00:18 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3329]
-			"12:00:18 - ActivateSkin (bfa)", -- [3330]
-			"12:00:21 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3331]
-			"12:00:21 - GetML()", -- [3332]
-			"12:00:21 - UpdatePlayersData()", -- [3333]
-			"12:00:24 - GetPlayersGuildRank()", -- [3334]
-			"12:00:25 - GetPlayersGuildRank()", -- [3335]
-			"12:00:25 - Found Guild Rank: Raider", -- [3336]
-			"12:00:27 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3337]
-			"08/27/20", -- [3338]
-			"11:52:32 - Logged In", -- [3339]
-			"11:52:32 - ML initialized!", -- [3340]
-			"11:52:32 - TradeUI enabled", -- [3341]
-			"11:52:49 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3342]
-			"11:52:49 - ActivateSkin (bfa)", -- [3343]
-			"11:52:53 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3344]
-			"11:52:53 - GetML()", -- [3345]
-			"11:52:53 - UpdatePlayersData()", -- [3346]
-			"11:52:56 - GetPlayersGuildRank()", -- [3347]
-			"11:52:56 - Found Guild Rank: Raider", -- [3348]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3349]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3350]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3351]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3352]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3353]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3354]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3355]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3356]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3357]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3358]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3359]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3360]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3361]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3362]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3363]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3364]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3365]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3366]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3367]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3368]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3369]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3370]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3371]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3372]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3373]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3374]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3375]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3376]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3377]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3378]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3379]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3380]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3381]
-			"11:53:00 - LUA_WARNING (0) ((null))", -- [3382]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3383]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3384]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3385]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3386]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3387]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3388]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3389]
-			"11:53:00 - LUA_WARNING (0) (Couldn't find inherited node: BackdropTemplate)", -- [3390]
-			"11:53:00 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3391]
-			"08/27/20", -- [3392]
-			"12:09:13 - Logged In", -- [3393]
-			"12:09:13 - ML initialized!", -- [3394]
-			"12:09:13 - TradeUI enabled", -- [3395]
-			"12:09:24 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3396]
-			"12:09:24 - ActivateSkin (bfa)", -- [3397]
-			"12:09:28 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3398]
-			"12:09:28 - GetML()", -- [3399]
-			"12:09:28 - UpdatePlayersData()", -- [3400]
-			"12:09:31 - GetPlayersGuildRank()", -- [3401]
-			"12:09:31 - Found Guild Rank: Raider", -- [3402]
-			"12:09:33 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3403]
-			"12:12:14 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Murmansk) (distri:) (GUILD)", -- [3404]
-			"08/27/20", -- [3405]
-			"12:12:55 - Logged In", -- [3406]
-			"12:12:55 - ML initialized!", -- [3407]
-			"12:12:55 - TradeUI enabled", -- [3408]
-			"12:12:59 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3409]
-			"12:12:59 - ActivateSkin (bfa)", -- [3410]
-			"12:13:02 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3411]
-			"12:13:02 - GetML()", -- [3412]
-			"12:13:02 - UpdatePlayersData()", -- [3413]
-			"12:13:04 - GetPlayersGuildRank()", -- [3414]
-			"12:13:04 - Found Guild Rank: Raider", -- [3415]
-			"12:13:05 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3416]
-			"08/27/20", -- [3417]
-			"12:15:23 - Logged In", -- [3418]
-			"12:15:23 - ML initialized!", -- [3419]
-			"12:15:23 - TradeUI enabled", -- [3420]
-			"12:15:27 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3421]
-			"12:15:27 - ActivateSkin (bfa)", -- [3422]
-			"12:15:30 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3423]
-			"12:15:30 - GetML()", -- [3424]
-			"12:15:30 - UpdatePlayersData()", -- [3425]
-			"12:15:33 - GetPlayersGuildRank()", -- [3426]
-			"12:15:33 - Found Guild Rank: Raider", -- [3427]
-			"12:15:33 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3428]
-			"08/27/20", -- [3429]
-			"12:16:18 - Logged In", -- [3430]
-			"12:16:18 - ML initialized!", -- [3431]
-			"12:16:18 - TradeUI enabled", -- [3432]
-			"12:16:23 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3433]
-			"12:16:23 - ActivateSkin (bfa)", -- [3434]
-			"12:16:26 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3435]
-			"12:16:26 - GetML()", -- [3436]
-			"12:16:26 - UpdatePlayersData()", -- [3437]
-			"12:16:29 - GetPlayersGuildRank()", -- [3438]
-			"12:16:29 - Found Guild Rank: Raider", -- [3439]
-			"12:16:29 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3440]
-			"08/27/20", -- [3441]
-			"12:18:49 - Logged In", -- [3442]
-			"12:18:49 - ML initialized!", -- [3443]
-			"12:18:49 - TradeUI enabled", -- [3444]
-			"12:18:54 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3445]
-			"12:18:54 - ActivateSkin (bfa)", -- [3446]
-			"12:18:57 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3447]
-			"12:18:57 - GetML()", -- [3448]
-			"12:18:57 - UpdatePlayersData()", -- [3449]
-			"12:18:59 - GetPlayersGuildRank()", -- [3450]
-			"12:18:59 - Found Guild Rank: Raider", -- [3451]
-			"12:19:00 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3452]
-			"08/27/20", -- [3453]
-			"13:26:00 - Logged In", -- [3454]
-			"13:26:00 - ML initialized!", -- [3455]
-			"13:26:00 - TradeUI enabled", -- [3456]
-			"13:26:09 - Grillpatrol-Blackmoore (2.19.3) (nil)", -- [3457]
-			"13:26:09 - ActivateSkin (bfa)", -- [3458]
-			"13:26:12 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3459]
-			"13:26:12 - GetML()", -- [3460]
-			"13:26:12 - UpdatePlayersData()", -- [3461]
-			"13:26:15 - GetPlayersGuildRank()", -- [3462]
-			"13:26:15 - GetPlayersGuildRank()", -- [3463]
-			"13:26:15 - Found Guild Rank: Raider", -- [3464]
-			"13:26:17 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Grillpatrol) (distri:) (GUILD)", -- [3465]
-			"13:30:59 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonlock) (distri:) (GUILD)", -- [3466]
+			"19:10:59 - Event: (ENCOUNTER_END) (596) (Theka the Martyr) (1) (5) (1)", -- [1]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [2]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [3]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [4]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [5]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [6]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [7]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [8]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [9]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [10]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [11]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [12]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [13]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [14]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [15]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [16]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [17]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [18]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [19]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [20]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [21]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [22]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [23]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [24]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [25]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [26]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [27]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [28]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [29]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [30]
+			"19:11:00 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [31]
+			"19:11:01 - Comm received:^1^Slooted^T^N1^S7269^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [32]
+			"19:11:01 - Comm received:^1^Slooted^T^N1^S7269^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [33]
+			"19:11:02 - Event: (ENCOUNTER_LOOT_RECEIVED) (596) (151456) (|cff0070dd|Hitem:151456::::::::55:65:512:1:1:4071:51:::|h[Theka's Seal of Vigilance]|h|r) (1) (Hyperion-Alleria) (WARRIOR)", -- [34]
+			"19:11:03 - Comm received:^1^Slooted^T^N1^S7269^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [35]
+			"19:11:03 - Comm received:^1^Slooted^T^N1^S7269^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [36]
+			"19:11:04 - Event: (LOOT_READY) (true)", -- [37]
+			"19:11:04 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7272-00004BDBBD) (1255)", -- [38]
+			"19:11:04 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:1520::::::::55:65::::::|h[Troll Sweat]|h|r) (0) (1) (Creature-0-3767-209-425-7272-00004BDBBD) (1)", -- [39]
+			"19:11:04 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:1520::::::::55:65::::::|h[Troll Sweat]|h|r) (0)", -- [40]
+			"19:11:04 - OnLootSlotCleared() (1) (nil) (1)", -- [41]
+			"19:11:04 - Event: (LOOT_CLOSED)", -- [42]
+			"19:11:04 - Event: (LOOT_CLOSED)", -- [43]
+			"19:11:04 - Comm received:^1^Slooted^T^N1^S7272^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [44]
+			"19:11:04 - Comm received:^1^Slooted^T^N1^S7272^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [45]
+			"19:11:31 - Comm received:^1^Slooted^T^N1^S5650^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [46]
+			"19:11:31 - Comm received:^1^Slooted^T^N1^S5650^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [47]
+			"19:11:39 - Event: (ENCOUNTER_START) (595) (Antu'sul) (1) (5)", -- [48]
+			"19:11:39 - UpdatePlayersData()", -- [49]
+			"19:12:32 - Event: (ENCOUNTER_END) (595) (Antu'sul) (1) (5) (1)", -- [50]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [51]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [52]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [53]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [54]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [55]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [56]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [57]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [58]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [59]
+			"19:12:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [60]
+			"19:12:35 - Event: (ENCOUNTER_LOOT_RECEIVED) (595) (9640) (|cff0070dd|Hitem:9640::::::::55:65:512:1:1:4071:56:::|h[Vice Grips]|h|r) (1) (Dyranta) (PALADIN)", -- [61]
+			"19:12:36 - Event: (ENCOUNTER_LOOT_RECEIVED) (595) (9641) (|cff0070dd|Hitem:9641::::::::55:65:512:1:1:4071:54:::|h[Lifeblood Amulet]|h|r) (1) (Mâd-Antonidas) (MAGE)", -- [62]
+			"19:12:36 - Comm received:^1^Slooted^T^N1^S8127^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [63]
+			"19:12:36 - Comm received:^1^Slooted^T^N1^S8127^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [64]
+			"19:12:37 - Comm received:^1^Slooted^T^N1^S5650^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [65]
+			"19:12:38 - Comm received:^1^Slooted^T^N1^S8127^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [66]
+			"19:12:38 - Comm received:^1^Slooted^T^N1^S8127^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [67]
+			"19:13:12 - Comm received:^1^Slooted^T^N1^S7247^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [68]
+			"19:13:12 - Comm received:^1^Slooted^T^N1^S7247^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [69]
+			"19:13:22 - Comm received:^1^Slooted^T^N1^S128403^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [70]
+			"19:13:22 - Comm received:^1^Slooted^T^N1^S128403^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [71]
+			"19:13:24 - Event: (LOOT_READY) (true)", -- [72]
+			"19:13:24 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-8127-00004BDBBD) (1100) (Creature-0-3767-209-425-5650-00074BDBBE) (2142)", -- [73]
+			"19:13:24 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:11385::::::::55:65::::::|h[Basilisk Scale]|h|r) (0) (2) (Creature-0-3767-209-425-8138-0000CBDDC9) (1)", -- [74]
+			"19:13:25 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:11385::::::::55:65::::::|h[Basilisk Scale]|h|r) (0)", -- [75]
+			"19:13:25 - OnLootSlotCleared() (1) (nil) (1)", -- [76]
+			"19:13:25 - Event: (LOOT_CLOSED)", -- [77]
+			"19:13:25 - Event: (LOOT_CLOSED)", -- [78]
+			"19:13:25 - Comm received:^1^Slooted^T^N1^S8138^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [79]
+			"19:13:25 - Comm received:^1^Slooted^T^N1^S8138^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [80]
+			"19:13:44 - Comm received:^1^Slooted^T^N1^S128403^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [81]
+			"19:13:44 - Comm received:^1^Slooted^T^N1^S128403^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [82]
+			"19:13:57 - Comm received:^1^Slooted^T^N1^S7286^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [83]
+			"19:13:57 - Comm received:^1^Slooted^T^N1^S7286^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [84]
+			"19:14:16 - Comm received:^1^Slooted^T^N1^S7286^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [85]
+			"19:14:24 - Event: (ENCOUNTER_START) (597) (Witch Doctor Zum'rah) (1) (5)", -- [86]
+			"19:14:24 - UpdatePlayersData()", -- [87]
+			"19:15:03 - Event: (ENCOUNTER_END) (597) (Witch Doctor Zum'rah) (1) (5) (1)", -- [88]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [89]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [90]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [91]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [92]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [93]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [94]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [95]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [96]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [97]
+			"19:15:03 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [98]
+			"19:15:13 - Comm received:^1^Slooted^T^N1^S7271^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [99]
+			"19:15:13 - Event: (ENCOUNTER_LOOT_RECEIVED) (597) (151457) (|cff0070dd|Hitem:151457::::::::55:65:512:1:1:4071:51:::|h[Witch Doctor's Ritual Collar]|h|r) (1) (Hyperion-Alleria) (WARRIOR)", -- [100]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [101]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [102]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [103]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [104]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [105]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [106]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [107]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [108]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [109]
+			"19:15:17 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [110]
+			"19:15:19 - Event: (LOOT_READY) (true)", -- [111]
+			"19:15:19 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7271-00004BDBBD) (2301)", -- [112]
+			"19:15:19 - OnLootSlotCleared() (1) (nil) (1)", -- [113]
+			"19:15:19 - Event: (LOOT_CLOSED)", -- [114]
+			"19:15:19 - Event: (LOOT_CLOSED)", -- [115]
+			"19:15:19 - Comm received:^1^Slooted^T^N1^S7271^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [116]
+			"19:15:19 - Comm received:^1^Slooted^T^N1^S7271^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [117]
+			"19:15:20 - Comm received:^1^Slooted^T^N1^S7271^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [118]
+			"19:15:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (597) (18082) (|cff0070dd|Hitem:18082::::::::55:65:512:1:1:4071:47:::|h[Zum'rah's Vexing Cane]|h|r) (1) (Xevius-Nazjatar) (DRUID)", -- [119]
+			"19:15:23 - Comm received:^1^Slooted^T^N1^S141596^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [120]
+			"19:15:23 - Comm received:^1^Slooted^T^N1^S141596^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [121]
+			"19:16:09 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [122]
+			"19:16:09 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [123]
+			"19:16:12 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [124]
+			"19:16:52 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [125]
+			"19:16:52 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [126]
+			"19:16:53 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [127]
+			"19:16:53 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [128]
+			"19:17:05 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [129]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [130]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [131]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [132]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [133]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [134]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [135]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [136]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [137]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [138]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [139]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [140]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [141]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [142]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [143]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [144]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [145]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [146]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [147]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [148]
+			"19:18:01 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [149]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [150]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [151]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [152]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [153]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [154]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [155]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [156]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [157]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [158]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [159]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [160]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [161]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [162]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [163]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [164]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [165]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [166]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [167]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [168]
+			"19:18:08 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [169]
+			"19:18:18 - Comm received:^1^Slooted^T^N1^S7246^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [170]
+			"19:18:24 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [171]
+			"19:18:24 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [172]
+			"19:18:25 - Event: (LOOT_READY) (true)", -- [173]
+			"19:18:25 - Event: (LOOT_CLOSED)", -- [174]
+			"19:18:25 - Event: (LOOT_CLOSED)", -- [175]
+			"19:18:43 - Event: (ENCOUNTER_START) (599) (Shadowpriest Sezz'ziz) (1) (5)", -- [176]
+			"19:18:43 - UpdatePlayersData()", -- [177]
+			"19:18:43 - Event: (ENCOUNTER_START) (598) (Nekrum Gutchewer) (1) (5)", -- [178]
+			"19:18:43 - UpdatePlayersData()", -- [179]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [180]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [181]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [182]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [183]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [184]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [185]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [186]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [187]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [188]
+			"19:19:24 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [189]
+			"19:19:24 - Event: (ENCOUNTER_END) (598) (Nekrum Gutchewer) (1) (5) (1)", -- [190]
+			"19:19:30 - Event: (ENCOUNTER_END) (599) (Shadowpriest Sezz'ziz) (1) (5) (1)", -- [191]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [192]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [193]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [194]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [195]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [196]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [197]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [198]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [199]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [200]
+			"19:19:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [201]
+			"19:19:32 - Event: (LOOT_READY) (true)", -- [202]
+			"19:19:32 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7275-00004BDF73) (2306) (Creature-0-3767-209-425-5649-0004CBDBBE) (1284)", -- [203]
+			"19:19:32 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:8151::::::::55:65::::::|h[Flask of Mojo]|h|r) (0) (1) (Creature-0-3767-209-425-5649-0004CBDBBE) (1)", -- [204]
+			"19:19:32 - Adding to self.lootSlotInfo (4) (|cff0070dd|Hitem:151459::::::::55:65::1:1:4071:::|h[Nekrum's Witherguard]|h|r) (3) (1) (Creature-0-3767-209-425-7275-00004BDF73) (1)", -- [205]
+			"19:19:32 - OnLootSlotCleared() (4) (|cff0070dd|Hitem:151459::::::::55:65::1:1:4071:::|h[Nekrum's Witherguard]|h|r) (3)", -- [206]
+			"19:19:32 - OnLootSlotCleared() (3) (|cff9d9d9d|Hitem:8151::::::::55:65::::::|h[Flask of Mojo]|h|r) (0)", -- [207]
+			"19:19:32 - Event: (ENCOUNTER_LOOT_RECEIVED) (599) (151459) (|cff0070dd|Hitem:151459::::::::55:65:512:1:1:4071:55:::|h[Nekrum's Witherguard]|h|r) (1) (Hrst) (PALADIN)", -- [208]
+			"19:19:32 - Event: (LOOT_READY) (true)", -- [209]
+			"19:19:32 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7275-00004BDF73) (2306) (Creature-0-3767-209-425-5649-0004CBDBBE) (1284)", -- [210]
+			"19:19:32 - OnLootSlotCleared() (1) (nil) (1)", -- [211]
+			"19:19:32 - Event: (LOOT_CLOSED)", -- [212]
+			"19:19:32 - Event: (LOOT_CLOSED)", -- [213]
+			"19:19:32 - Comm received:^1^Slooted^T^N1^S7275^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [214]
+			"19:19:32 - Comm received:^1^Slooted^T^N1^S7275^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [215]
+			"19:19:34 - Storage:New (|cff0070dd|Hitem:151459::::::::55:65::1:1:4071:::|h[Nekrum's Witherguard]|h|r) (temp)", -- [216]
+			"19:19:34 - Storage: searching for item: (||cff0070dd||Hitem:151459::::::::55:65::1:1:4071:::||h[Nekrum's Witherguard]||h||r) (5)", -- [217]
+			"19:19:34 - Found: (nil) (nil) (nil)", -- [218]
+			"19:19:34 - Event: (ENCOUNTER_LOOT_RECEIVED) (599) (9474) (|cff0070dd|Hitem:9474::::::::55:65:512:1:1:4071:48:::|h[Jinxed Hoodoo Kilt]|h|r) (1) (Xevius-Nazjatar) (DRUID)", -- [219]
+			"19:19:35 - Storage: searching for item: (||cff0070dd||Hitem:151459::::::::55:65::1:1:4071:::||h[Nekrum's Witherguard]||h||r) (5)", -- [220]
+			"19:19:35 - Found: (nil) (nil) (nil)", -- [221]
+			"19:19:36 - Storage: searching for item: (||cff0070dd||Hitem:151459::::::::55:65::1:1:4071:::||h[Nekrum's Witherguard]||h||r) (5)", -- [222]
+			"19:19:36 - Found: (nil) (nil) (nil)", -- [223]
+			"19:19:37 - Storage: searching for item: (||cff0070dd||Hitem:151459::::::::55:65::1:1:4071:::||h[Nekrum's Witherguard]||h||r) (5)", -- [224]
+			"19:19:37 - Found: (nil) (nil) (nil)", -- [225]
+			"19:19:37 - <ERROR> UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:151459::::::::55:65::1:1:4071:::|h[Nekrum's Witherguard]|h|r not found in bags", -- [226]
+			"19:19:39 - Comm received:^1^Slooted^T^N1^S7275^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [227]
+			"19:20:08 - Comm received:^1^Slooted^T^N1^S7275^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [228]
+			"19:20:29 - Comm received:^1^Slooted^T^N1^S7606^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [229]
+			"19:20:29 - Comm received:^1^Slooted^T^N1^S7606^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [230]
+			"19:20:29 - Comm received:^1^Slooted^T^N1^S7608^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [231]
+			"19:20:29 - Comm received:^1^Slooted^T^N1^S7608^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [232]
+			"19:21:59 - Event: (LOOT_READY) (true)", -- [233]
+			"19:21:59 - Adding to self.lootSlotInfo (1) (|cff9d9d9d|Hitem:1702::::::::55:65::::::|h[Intact Basilisk Spine]|h|r) (0) (3) (Creature-0-3767-209-425-8120-0000CBDBBD) (1) (Creature-0-3767-209-425-8120-00004BDBBD) (1)", -- [234]
+			"19:21:59 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:11387::::::::55:65::::::|h[Basilisk Heart]|h|r) (0) (1) (Creature-0-3767-209-425-8120-00004BDBBD) (1)", -- [235]
+			"19:21:59 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:11387::::::::55:65::::::|h[Basilisk Heart]|h|r) (0)", -- [236]
+			"19:21:59 - OnLootSlotCleared() (1) (|cff9d9d9d|Hitem:1702::::::::55:65::::::|h[Intact Basilisk Spine]|h|r) (0)", -- [237]
+			"19:21:59 - Event: (LOOT_CLOSED)", -- [238]
+			"19:21:59 - Event: (LOOT_CLOSED)", -- [239]
+			"19:21:59 - Comm received:^1^Slooted^T^N1^S8120^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [240]
+			"19:21:59 - Comm received:^1^Slooted^T^N1^S8120^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [241]
+			"19:22:02 - Event: (ENCOUNTER_START) (600) (Chief Ukorz Sandscalp) (1) (5)", -- [242]
+			"19:22:02 - UpdatePlayersData()", -- [243]
+			"19:22:54 - Event: (ENCOUNTER_END) (600) (Chief Ukorz Sandscalp) (1) (5) (1)", -- [244]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [245]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [246]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [247]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [248]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [249]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [250]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [251]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [252]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [253]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [254]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [255]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [256]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [257]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [258]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [259]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [260]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [261]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [262]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [263]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [264]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [265]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [266]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [267]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [268]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [269]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [270]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [271]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [272]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [273]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [274]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [275]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [276]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [277]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [278]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [279]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [280]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [281]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [282]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [283]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [284]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [285]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [286]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [287]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [288]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [289]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [290]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [291]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [292]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [293]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [294]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [295]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [296]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [297]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [298]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [299]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [300]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [301]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [302]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [303]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [304]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [305]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [306]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [307]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [308]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [309]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [310]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [311]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [312]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [313]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [314]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [315]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [316]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [317]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [318]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [319]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [320]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [321]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [322]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [323]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [324]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [325]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [326]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [327]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [328]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [329]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [330]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [331]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [332]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [333]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [334]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [335]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [336]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [337]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [338]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [339]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [340]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [341]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [342]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [343]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [344]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [345]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [346]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [347]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [348]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [349]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [350]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [351]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [352]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [353]
+			"19:22:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [354]
+			"19:22:56 - Comm received:^1^Slooted^T^N1^S7267^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [355]
+			"19:22:56 - Comm received:^1^Slooted^T^N1^S7267^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [356]
+			"19:22:57 - Event: (LOOT_READY) (true)", -- [357]
+			"19:22:57 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7267-00004BDBBD) (850)", -- [358]
+			"19:22:57 - OnLootSlotCleared() (1) (nil) (1)", -- [359]
+			"19:22:57 - Event: (LOOT_CLOSED)", -- [360]
+			"19:22:57 - Event: (LOOT_CLOSED)", -- [361]
+			"19:22:58 - Comm received:^1^Slooted^T^N1^S7267^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [362]
+			"19:22:58 - Comm received:^1^Slooted^T^N1^S7267^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [363]
+			"19:22:58 - Event: (ENCOUNTER_LOOT_RECEIVED) (600) (151460) (|cff0070dd|Hitem:151460::::::::56:65:512:1:1:4071:56:::|h[Farraki Ceremonial Robes]|h|r) (1) (Mâd-Antonidas) (MAGE)", -- [364]
+			"19:22:58 - Comm received:^1^Slooted^T^N1^S7267^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [365]
+			"19:23:00 - Event: (ENCOUNTER_LOOT_RECEIVED) (600) (9479) (|cff0070dd|Hitem:9479::::::::56:65:512:1:1:4071:49:::|h[Embrace of the Lycan]|h|r) (1) (Xevius-Nazjatar) (DRUID)", -- [366]
+			"19:23:37 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [367]
+			"19:23:37 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [368]
+			"19:23:41 - Event: (ENCOUNTER_START) (593) (Hydromancer Velratha) (1) (5)", -- [369]
+			"19:23:41 - UpdatePlayersData()", -- [370]
+			"19:23:48 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [371]
+			"19:24:46 - Comm received:^1^Slooted^T^N1^S7246^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [372]
+			"19:24:46 - Comm received:^1^Slooted^T^N1^S7246^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [373]
+			"19:25:14 - Event: (ENCOUNTER_END) (593) (Hydromancer Velratha) (1) (5) (1)", -- [374]
+			"19:25:16 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [375]
+			"19:25:16 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [376]
+			"19:25:16 - Event: (LOOT_READY) (true)", -- [377]
+			"19:25:16 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-5649-0006CBDBBD) (1628) (Creature-0-3767-209-425-5649-0005CBDBBD) (673) (Creature-0-3767-209-425-7246-0001CBDBBE) (2295)", -- [378]
+			"19:25:16 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:1520::::::::56:65::::::|h[Troll Sweat]|h|r) (0) (1) (Creature-0-3767-209-425-5649-0006CBDBBD) (1)", -- [379]
+			"19:25:16 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:1520::::::::56:65::::::|h[Troll Sweat]|h|r) (0)", -- [380]
+			"19:25:16 - OnLootSlotCleared() (1) (nil) (1)", -- [381]
+			"19:25:16 - Event: (LOOT_CLOSED)", -- [382]
+			"19:25:16 - Event: (LOOT_CLOSED)", -- [383]
+			"19:25:16 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [384]
+			"19:25:16 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [385]
+			"19:25:43 - Comm received:^1^Slooted^T^N1^S5649^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [386]
+			"19:26:06 - Comm received:^1^Slooted^T^N1^S5650^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [387]
+			"19:26:09 - Comm received:^1^Slooted^T^N1^S5650^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [388]
+			"19:26:17 - Event: (ENCOUNTER_START) (594) (Ghaz'rilla) (1) (5)", -- [389]
+			"19:26:17 - UpdatePlayersData()", -- [390]
+			"19:27:05 - Event: (ENCOUNTER_END) (594) (Ghaz'rilla) (1) (5) (1)", -- [391]
+			"19:27:07 - Event: (LOOT_READY) (true)", -- [392]
+			"19:27:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3767-209-425-7273-00004BE130) (1892)", -- [393]
+			"19:27:07 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:5516::::::::56:65::1::::|h[Threshadon Fang]|h|r) (0) (1) (Creature-0-3767-209-425-7273-00004BE130) (1)", -- [394]
+			"19:27:07 - OnLootSlotCleared() (3) (|cff9d9d9d|Hitem:5516::::::::56:65::1::::|h[Threshadon Fang]|h|r) (0)", -- [395]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [396]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Hyperion-Alleria) (distri:) (INSTANCE_CHAT)", -- [397]
+			"19:27:07 - OnLootSlotCleared() (1) (nil) (1)", -- [398]
+			"19:27:07 - Event: (LOOT_CLOSED)", -- [399]
+			"19:27:07 - Event: (LOOT_CLOSED)", -- [400]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [401]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [402]
+			"19:27:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (594) (151455) (|cff0070dd|Hitem:151455::::::::56:65:512:1:1:4071:58:::|h[Gahz'rilla Scale Cloak]|h|r) (1) (Dyranta) (PALADIN)", -- [403]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [404]
+			"19:27:07 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [405]
+			"19:27:25 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [406]
+			"19:27:25 - GetML()", -- [407]
+			"19:27:32 - Comm received:^1^Slooted^T^N1^S7273^t^^ (from:) (Mâd-Antonidas) (distri:) (INSTANCE_CHAT)", -- [408]
+			"19:27:35 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [409]
+			"19:27:35 - GetML()", -- [410]
+			"19:27:36 - Event: (PARTY_LEADER_CHANGED)", -- [411]
+			"19:27:36 - GetML()", -- [412]
+			"19:27:37 - Event: (PARTY_LEADER_CHANGED)", -- [413]
+			"19:27:37 - GetML()", -- [414]
+			"19:28:03 - Event: (GROUP_LEFT) (2) (Party-1461-00004CC9E490)", -- [415]
+			"19:28:03 - GetML()", -- [416]
+			"19:28:10 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [417]
+			"19:28:10 - GetML()", -- [418]
+			"08/30/20", -- [419]
+			"20:07:02 - Logged In", -- [420]
+			"20:07:02 - ML initialized!", -- [421]
+			"20:07:02 - TradeUI enabled", -- [422]
+			"20:07:14 - Hrst-Blackmoore (2.19.3) (nil)", -- [423]
+			"20:07:14 - ActivateSkin (bfa)", -- [424]
+			"20:07:17 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [425]
+			"20:07:17 - GetML()", -- [426]
+			"20:07:17 - UpdatePlayersData()", -- [427]
+			"08/30/20", -- [428]
+			"20:14:06 - Logged In", -- [429]
+			"20:14:06 - ML initialized!", -- [430]
+			"20:14:06 - TradeUI enabled", -- [431]
+			"20:14:10 - Hrst-Blackmoore (2.19.3) (nil)", -- [432]
+			"20:14:10 - ActivateSkin (bfa)", -- [433]
+			"20:14:14 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [434]
+			"20:14:14 - GetML()", -- [435]
+			"20:14:14 - UpdatePlayersData()", -- [436]
+			"20:16:44 - Event: (PARTY_LEADER_CHANGED)", -- [437]
+			"20:16:44 - GetML()", -- [438]
+			"20:16:45 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [439]
+			"20:16:45 - GetML()", -- [440]
+			"20:17:23 - Event: (LOOT_READY) (true)", -- [441]
+			"20:17:23 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-8319-000A4BECF7) (642)", -- [442]
+			"20:17:23 - OnLootSlotCleared() (1) (nil) (1)", -- [443]
+			"20:17:23 - Event: (LOOT_CLOSED)", -- [444]
+			"20:17:23 - Event: (LOOT_CLOSED)", -- [445]
+			"20:17:24 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [446]
+			"20:17:24 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [447]
+			"20:17:24 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [448]
+			"20:17:24 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [449]
+			"20:18:33 - Event: (LOOT_READY) (true)", -- [450]
+			"20:18:33 - Adding to self.lootSlotInfo (1) (|cff9d9d9d|Hitem:6444::::::::57:65::::::|h[Forked Tongue]|h|r) (0) (1) (Creature-0-3109-109-23707-5291-0000CBECF7) (1)", -- [451]
+			"20:18:33 - Adding to self.lootSlotInfo (2) (|cff1eff00|Hitem:10093::::::::57:65::53:2:1680:4281:::|h[Revenant Deflector of the Quickblade]|h|r) (2) (1) (Creature-0-3109-109-23707-5291-0000CBECF7) (1)", -- [452]
+			"20:18:33 - OnLootSlotCleared() (2) (|cff1eff00|Hitem:10093::::::::57:65::53:2:1680:4281:::|h[Revenant Deflector of the Quickblade]|h|r) (2)", -- [453]
+			"20:18:34 - OnLootSlotCleared() (1) (|cff9d9d9d|Hitem:6444::::::::57:65::::::|h[Forked Tongue]|h|r) (0)", -- [454]
+			"20:18:34 - Event: (LOOT_CLOSED)", -- [455]
+			"20:18:34 - Event: (LOOT_CLOSED)", -- [456]
+			"20:18:34 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [457]
+			"20:18:34 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [458]
+			"20:18:34 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [459]
+			"20:18:34 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [460]
+			"20:18:35 - Storage:New (|cff1eff00|Hitem:10093::::::::57:65::53:2:1680:4281:::|h[Revenant Deflector of the Quickblade]|h|r) (temp)", -- [461]
+			"20:18:35 - Storage: searching for item: (||cff1eff00||Hitem:10093::::::::57:65::53:2:1680:4281:::||h[Revenant Deflector of the Quickblade]||h||r) (5)", -- [462]
+			"20:18:35 - Found: (nil) (nil) (nil)", -- [463]
+			"20:18:36 - Storage: searching for item: (||cff1eff00||Hitem:10093::::::::57:65::53:2:1680:4281:::||h[Revenant Deflector of the Quickblade]||h||r) (5)", -- [464]
+			"20:18:36 - Found: (nil) (nil) (nil)", -- [465]
+			"20:18:37 - Storage: searching for item: (||cff1eff00||Hitem:10093::::::::57:65::53:2:1680:4281:::||h[Revenant Deflector of the Quickblade]||h||r) (5)", -- [466]
+			"20:18:37 - Found: (nil) (nil) (nil)", -- [467]
+			"20:18:38 - Storage: searching for item: (||cff1eff00||Hitem:10093::::::::57:65::53:2:1680:4281:::||h[Revenant Deflector of the Quickblade]||h||r) (5)", -- [468]
+			"20:18:38 - Found: (nil) (nil) (nil)", -- [469]
+			"20:18:38 - <ERROR> UpdateAndSendRecentTradableItem: |cff1eff00|Hitem:10093::::::::57:65::53:2:1680:4281:::|h[Revenant Deflector of the Quickblade]|h|r not found in bags", -- [470]
+			"20:19:35 - Comm received:^1^Slooted^T^N1^S8336^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [471]
+			"20:19:35 - Comm received:^1^Slooted^T^N1^S8336^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [472]
+			"20:19:43 - Event: (ENCOUNTER_START) (492) (Avatar of Hakkar) (1) (5)", -- [473]
+			"20:19:43 - UpdatePlayersData()", -- [474]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [475]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [476]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [477]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [478]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [479]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [480]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [481]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [482]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [483]
+			"20:20:37 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [484]
+			"20:20:38 - Event: (ENCOUNTER_END) (492) (Avatar of Hakkar) (1) (5) (1)", -- [485]
+			"20:20:40 - Event: (ENCOUNTER_LOOT_RECEIVED) (492) (10838) (|cff0070dd|Hitem:10838::::::::57:65:512:1:1:4062:57:::|h[Might of Hakkar]|h|r) (1) (Beamhammer-Garrosh) (PALADIN)", -- [486]
+			"20:21:05 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [487]
+			"20:21:05 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [488]
+			"20:21:26 - Event: (LOOT_READY) (true)", -- [489]
+			"20:21:26 - Adding to self.lootSlotInfo (1) (|cff9d9d9d|Hitem:6826::::::::57:65::::::|h[Brilliant Scale]|h|r) (0) (1) (Creature-0-3109-109-23707-5291-00014BECF7) (1)", -- [490]
+			"20:21:26 - OnLootSlotCleared() (1) (|cff9d9d9d|Hitem:6826::::::::57:65::::::|h[Brilliant Scale]|h|r) (0)", -- [491]
+			"20:21:26 - Event: (LOOT_CLOSED)", -- [492]
+			"20:21:26 - Event: (LOOT_CLOSED)", -- [493]
+			"20:21:26 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [494]
+			"20:21:26 - Comm received:^1^Slooted^T^N1^S5291^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [495]
+			"20:22:07 - Comm received:^1^Slooted^T^N1^S5277^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [496]
+			"20:22:07 - Event: (LOOT_READY) (true)", -- [497]
+			"20:22:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-5283-00014BECF7) (973) (Creature-0-3109-109-23707-5277-0001CBECF7) (766) (Creature-0-3109-109-23707-5280-0000CBECF7) (1976)", -- [498]
+			"20:22:07 - OnLootSlotCleared() (1) (nil) (1)", -- [499]
+			"20:22:07 - Event: (LOOT_CLOSED)", -- [500]
+			"20:22:07 - Event: (LOOT_CLOSED)", -- [501]
+			"20:22:07 - Comm received:^1^Slooted^T^N1^S5283^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [502]
+			"20:22:07 - Comm received:^1^Slooted^T^N1^S5283^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [503]
+			"20:22:48 - Comm received:^1^Slooted^T^N1^S5280^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [504]
+			"20:22:48 - Comm received:^1^Slooted^T^N1^S5280^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [505]
+			"20:22:51 - Comm received:^1^Stradable^T^N1^S|cff1eff00|Hitem:5758::::::::56:70::1::::|h[Mithrilschließkassette]|h|r^N2^S5280^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [506]
+			"20:23:31 - Comm received:^1^Slooted^T^N1^S5283^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [507]
+			"20:23:31 - Comm received:^1^Slooted^T^N1^S5283^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [508]
+			"20:24:26 - Comm received:^1^Slooted^T^N1^S5273^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [509]
+			"20:25:54 - Comm received:^1^Slooted^T^N1^S5273^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [510]
+			"20:26:18 - Comm received:^1^Slooted^T^N1^S5271^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [511]
+			"20:26:30 - Event: (ENCOUNTER_START) (488) (Jammal'an the Prophet) (1) (5)", -- [512]
+			"20:26:30 - UpdatePlayersData()", -- [513]
+			"20:28:08 - Event: (ENCOUNTER_END) (488) (Jammal'an the Prophet) (1) (5) (1)", -- [514]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [515]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [516]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [517]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [518]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [519]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [520]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [521]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [522]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [523]
+			"20:28:09 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [524]
+			"20:28:11 - Comm received:^1^Slooted^T^N1^S5710^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [525]
+			"20:28:11 - Comm received:^1^Slooted^T^N1^S5710^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [526]
+			"20:28:12 - Event: (ENCOUNTER_LOOT_RECEIVED) (488) (10808) (|cff0070dd|Hitem:10808::::::::57:65:512:1:1:4062:54:::|h[Gloves of the Atal'ai Prophet]|h|r) (1) (Regulator-Tichondrius) (WARLOCK)", -- [527]
+			"20:28:20 - Event: (LOOT_READY) (true)", -- [528]
+			"20:28:20 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-5710-00004BECF7) (4056) (Creature-0-3109-109-23707-5271-0001CBECF7) (1370) (Creature-0-3109-109-23707-5711-00004BECF7) (1016)", -- [529]
+			"20:28:20 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:1520::::::::57:65::::::|h[Troll Sweat]|h|r) (0) (1) (Creature-0-3109-109-23707-5271-0001CBECF7) (1)", -- [530]
+			"20:28:20 - OnLootSlotCleared() (3) (|cff9d9d9d|Hitem:1520::::::::57:65::::::|h[Troll Sweat]|h|r) (0)", -- [531]
+			"20:28:20 - OnLootSlotCleared() (1) (nil) (1)", -- [532]
+			"20:28:20 - Event: (LOOT_CLOSED)", -- [533]
+			"20:28:20 - Event: (LOOT_CLOSED)", -- [534]
+			"20:28:20 - Comm received:^1^Slooted^T^N1^S5271^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [535]
+			"20:28:20 - Comm received:^1^Slooted^T^N1^S5271^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [536]
+			"20:28:24 - Event: (ENCOUNTER_LOOT_RECEIVED) (488) (10804) (|cff0070dd|Hitem:10804::::::::57:65:512:1:1:4062:57:::|h[Fist of the Damned]|h|r) (1) (Beamhammer-Garrosh) (PALADIN)", -- [537]
+			"20:28:56 - Event: (ENCOUNTER_START) (486) (Dreamscythe) (1) (5)", -- [538]
+			"20:28:56 - UpdatePlayersData()", -- [539]
+			"20:29:02 - Event: (ENCOUNTER_START) (487) (Weaver) (1) (5)", -- [540]
+			"20:29:02 - UpdatePlayersData()", -- [541]
+			"20:29:53 - Event: (ENCOUNTER_END) (486) (Dreamscythe) (1) (5) (1)", -- [542]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [543]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [544]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [545]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [546]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [547]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [548]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [549]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [550]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [551]
+			"20:29:53 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [552]
+			"20:30:12 - Event: (ENCOUNTER_END) (487) (Weaver) (1) (5) (1)", -- [553]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [554]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [555]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [556]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [557]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [558]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [559]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [560]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [561]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [562]
+			"20:30:12 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [563]
+			"20:30:16 - Event: (LOOT_READY) (true)", -- [564]
+			"20:30:16 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-8319-0006CBECF7) (238) (Creature-0-3109-109-23707-8319-0007CBECF7) (756)", -- [565]
+			"20:30:17 - OnLootSlotCleared() (1) (nil) (1)", -- [566]
+			"20:30:17 - Event: (LOOT_CLOSED)", -- [567]
+			"20:30:17 - Event: (LOOT_CLOSED)", -- [568]
+			"20:30:17 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [569]
+			"20:30:17 - Comm received:^1^Slooted^T^N1^S8319^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [570]
+			"20:30:28 - Event: (ENCOUNTER_START) (491) (Hazzas) (1) (5)", -- [571]
+			"20:30:28 - UpdatePlayersData()", -- [572]
+			"20:30:28 - Event: (ENCOUNTER_START) (490) (Morphaz) (1) (5)", -- [573]
+			"20:30:28 - UpdatePlayersData()", -- [574]
+			"20:30:56 - Event: (ENCOUNTER_END) (491) (Hazzas) (1) (5) (1)", -- [575]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [576]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [577]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [578]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [579]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [580]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [581]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [582]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [583]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [584]
+			"20:30:56 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [585]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [586]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [587]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [588]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [589]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [590]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [591]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [592]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [593]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [594]
+			"20:31:19 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [595]
+			"20:31:19 - Event: (ENCOUNTER_END) (490) (Morphaz) (1) (5) (1)", -- [596]
+			"20:31:21 - Event: (LOOT_READY) (true)", -- [597]
+			"20:31:21 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-5719-00004BECF7) (1848) (Creature-0-3109-109-23707-5722-00004BECF7) (4086)", -- [598]
+			"20:31:21 - Adding to self.lootSlotInfo (2) (|cff0070dd|Hitem:10795::::::::57:65::1:1:4062:::|h[Drakeclaw Band]|h|r) (3) (1) (Creature-0-3109-109-23707-5722-00004BECF7) (1)", -- [599]
+			"20:31:21 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:4557::::::::57:65::::::|h[Fiery Gland]|h|r) (0) (1) (Creature-0-3109-109-23707-5722-00004BECF7) (1)", -- [600]
+			"20:31:21 - Event: (LOOT_READY) (true)", -- [601]
+			"20:31:21 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-5719-00004BECF7) (1848) (Creature-0-3109-109-23707-5722-00004BECF7) (4086)", -- [602]
+			"20:31:21 - Adding to self.lootSlotInfo (2) (|cff0070dd|Hitem:10795::::::::57:65::1:1:4062:::|h[Drakeclaw Band]|h|r) (3) (1) (Creature-0-3109-109-23707-5722-00004BECF7) (1)", -- [603]
+			"20:31:21 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:4557::::::::57:65::::::|h[Fiery Gland]|h|r) (0) (2) (Creature-0-3109-109-23707-5719-00004BECF7) (1) (Creature-0-3109-109-23707-5722-00004BECF7) (1)", -- [604]
+			"20:31:21 - Comm received:^1^Slooted^T^N1^S5722^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [605]
+			"20:31:21 - Comm received:^1^Slooted^T^N1^S5722^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [606]
+			"20:31:21 - OnLootSlotCleared() (2) (|cff0070dd|Hitem:10795::::::::57:65::1:1:4062:::|h[Drakeclaw Band]|h|r) (3)", -- [607]
+			"20:31:21 - Event: (ENCOUNTER_LOOT_RECEIVED) (491) (10795) (|cff0070dd|Hitem:10795::::::::57:65:512:1:1:4062:57:::|h[Drakeclaw Band]|h|r) (1) (Hrst) (PALADIN)", -- [608]
+			"20:31:21 - OnLootSlotCleared() (1) (nil) (1)", -- [609]
+			"20:31:21 - Event: (LOOT_READY) (true)", -- [610]
+			"20:31:21 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:4557::::::::57:65::::::|h[Fiery Gland]|h|r) (0) (1) (Creature-0-3109-109-23707-5719-00004BECF7) (1)", -- [611]
+			"20:31:21 - Event: (LOOT_CLOSED)", -- [612]
+			"20:31:21 - OnLootSlotCleared() (3) (|cff9d9d9d|Hitem:4557::::::::57:65::::::|h[Fiery Gland]|h|r) (0)", -- [613]
+			"20:31:21 - Event: (LOOT_CLOSED)", -- [614]
+			"20:31:21 - Comm received:^1^Slooted^T^N1^S5719^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [615]
+			"20:31:23 - Storage:New (|cff0070dd|Hitem:10795::::::::57:65::1:1:4062:::|h[Drakeclaw Band]|h|r) (temp)", -- [616]
+			"20:31:23 - Storage: searching for item: (||cff0070dd||Hitem:10795::::::::57:65::1:1:4062:::||h[Drakeclaw Band]||h||r) (5)", -- [617]
+			"20:31:23 - Found: (nil) (nil) (nil)", -- [618]
+			"20:31:24 - Storage: searching for item: (||cff0070dd||Hitem:10795::::::::57:65::1:1:4062:::||h[Drakeclaw Band]||h||r) (5)", -- [619]
+			"20:31:24 - Found: (nil) (nil) (nil)", -- [620]
+			"20:31:24 - Event: (ENCOUNTER_LOOT_RECEIVED) (491) (12466) (|cff0070dd|Hitem:12466::::::::57:65:512:1:1:4062:56:::|h[Dawnspire Cord]|h|r) (1) (Neny-Malygos) (MAGE)", -- [621]
+			"20:31:25 - Storage: searching for item: (||cff0070dd||Hitem:10795::::::::57:65::1:1:4062:::||h[Drakeclaw Band]||h||r) (5)", -- [622]
+			"20:31:25 - Found: (nil) (nil) (nil)", -- [623]
+			"20:31:26 - Storage: searching for item: (||cff0070dd||Hitem:10795::::::::57:65::1:1:4062:::||h[Drakeclaw Band]||h||r) (5)", -- [624]
+			"20:31:26 - Found: (nil) (nil) (nil)", -- [625]
+			"20:31:26 - <ERROR> UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:10795::::::::57:65::1:1:4062:::|h[Drakeclaw Band]|h|r not found in bags", -- [626]
+			"20:31:35 - Event: (ENCOUNTER_START) (493) (Shade of Eranikus) (1) (5)", -- [627]
+			"20:31:35 - UpdatePlayersData()", -- [628]
+			"20:32:46 - Event: (ENCOUNTER_END) (493) (Shade of Eranikus) (1) (5) (1)", -- [629]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [630]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [631]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [632]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [633]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [634]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [635]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [636]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [637]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [638]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [639]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [640]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [641]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [642]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [643]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [644]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [645]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [646]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [647]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [648]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [649]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [650]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [651]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [652]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [653]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [654]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [655]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [656]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [657]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [658]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [659]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [660]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [661]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [662]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [663]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [664]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [665]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [666]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [667]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [668]
+			"20:32:46 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [669]
+			"20:32:47 - Event: (ENCOUNTER_LOOT_RECEIVED) (493) (10829) (|cff0070dd|Hitem:10829::::::::58:65:512:1:1:4062:57:::|h[The Dragon's Eye]|h|r) (1) (Xalldîn) (PALADIN)", -- [670]
+			"20:32:47 - Comm received:^1^Slooted^T^N1^S5709^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [671]
+			"20:32:47 - Comm received:^1^Slooted^T^N1^S5709^t^^ (from:) (Xalldîn) (distri:) (INSTANCE_CHAT)", -- [672]
+			"20:32:49 - Event: (LOOT_READY) (true)", -- [673]
+			"20:32:49 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3109-109-23707-5709-00004BECF7) (2730)", -- [674]
+			"20:32:49 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:8146::::::::58:65::::::|h[Wicked Claw]|h|r) (0) (1) (Creature-0-3109-109-23707-5709-00004BECF7) (1)", -- [675]
+			"20:32:49 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:8146::::::::58:65::::::|h[Wicked Claw]|h|r) (0)", -- [676]
+			"20:32:49 - OnLootSlotCleared() (1) (nil) (1)", -- [677]
+			"20:32:49 - Event: (LOOT_CLOSED)", -- [678]
+			"20:32:49 - Event: (LOOT_CLOSED)", -- [679]
+			"20:32:49 - Comm received:^1^Slooted^T^N1^S5709^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [680]
+			"20:32:49 - Comm received:^1^Slooted^T^N1^S5709^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [681]
+			"20:32:53 - Event: (ENCOUNTER_LOOT_RECEIVED) (493) (10829) (|cff0070dd|Hitem:10829::::::::58:65:512:1:1:4062:55:::|h[The Dragon's Eye]|h|r) (1) (Regulator-Tichondrius) (WARLOCK)", -- [682]
+			"20:32:59 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [683]
+			"20:32:59 - GetML()", -- [684]
+			"20:33:02 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [685]
+			"20:33:02 - GetML()", -- [686]
+			"20:33:12 - Event: (GROUP_LEFT) (2) (Party-1461-00004CCA9440)", -- [687]
+			"20:33:12 - GetML()", -- [688]
+			"20:33:18 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [689]
+			"20:33:18 - GetML()", -- [690]
+			"08/30/20", -- [691]
+			"20:37:02 - Logged In", -- [692]
+			"20:37:02 - ML initialized!", -- [693]
+			"20:37:02 - TradeUI enabled", -- [694]
+			"20:37:08 - Hrst-Blackmoore (2.19.3) (nil)", -- [695]
+			"20:37:08 - ActivateSkin (bfa)", -- [696]
+			"20:37:11 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [697]
+			"20:37:11 - GetML()", -- [698]
+			"20:37:11 - UpdatePlayersData()", -- [699]
+			"20:47:46 - Event: (PARTY_LEADER_CHANGED)", -- [700]
+			"20:47:46 - GetML()", -- [701]
+			"20:47:49 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [702]
+			"20:47:49 - GetML()", -- [703]
+			"08/30/20", -- [704]
+			"20:48:29 - Logged In", -- [705]
+			"20:48:29 - ML initialized!", -- [706]
+			"20:48:29 - TradeUI enabled", -- [707]
+			"20:48:35 - Hrst-Blackmoore (2.19.3) (nil)", -- [708]
+			"20:48:35 - ActivateSkin (bfa)", -- [709]
+			"20:48:39 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [710]
+			"20:48:39 - GetML()", -- [711]
+			"20:48:39 - UpdatePlayersData()", -- [712]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [713]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [714]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [715]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [716]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [717]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [718]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [719]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [720]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [721]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [722]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [723]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [724]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [725]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [726]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [727]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [728]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [729]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [730]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [731]
+			"20:49:20 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [732]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [733]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [734]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [735]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [736]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [737]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [738]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [739]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [740]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [741]
+			"20:49:21 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [742]
+			"08/30/20", -- [743]
+			"20:49:37 - Logged In", -- [744]
+			"20:49:37 - ML initialized!", -- [745]
+			"20:49:37 - TradeUI enabled", -- [746]
+			"20:49:43 - Hrst-Blackmoore (2.19.3) (nil)", -- [747]
+			"20:49:43 - ActivateSkin (bfa)", -- [748]
+			"20:49:46 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [749]
+			"20:49:46 - GetML()", -- [750]
+			"20:49:46 - UpdatePlayersData()", -- [751]
+			"20:49:52 - Event: (LOOT_READY) (true)", -- [752]
+			"20:49:52 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-24078-0001CBF422) (1181)", -- [753]
+			"20:49:52 - OnLootSlotCleared() (1) (nil) (1)", -- [754]
+			"20:49:52 - Event: (LOOT_CLOSED)", -- [755]
+			"20:49:52 - Event: (LOOT_CLOSED)", -- [756]
+			"20:49:52 - Comm received:^1^Slooted^T^N1^S24078^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [757]
+			"20:49:52 - Comm received:^1^Slooted^T^N1^S24078^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [758]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [759]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [760]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [761]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [762]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [763]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [764]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [765]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [766]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [767]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [768]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [769]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [770]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [771]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [772]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [773]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [774]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [775]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [776]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [777]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [778]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [779]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [780]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [781]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [782]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [783]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [784]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [785]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [786]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [787]
+			"20:50:07 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [788]
+			"20:53:47 - Event: (LOOT_READY) (true)", -- [789]
+			"20:53:47 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-23956-00004BF422) (2148) (Creature-0-3768-574-11485-23960-0001CBF422) (1356)", -- [790]
+			"20:53:47 - OnLootSlotCleared() (1) (nil) (1)", -- [791]
+			"20:53:47 - Event: (LOOT_CLOSED)", -- [792]
+			"20:53:47 - Event: (LOOT_CLOSED)", -- [793]
+			"20:53:47 - Comm received:^1^Slooted^T^N1^S23956^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [794]
+			"20:53:47 - Comm received:^1^Slooted^T^N1^S23956^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [795]
+			"20:53:50 - Event: (ENCOUNTER_START) (2026) (Prince Keleseth) (1) (5)", -- [796]
+			"20:53:50 - UpdatePlayersData()", -- [797]
+			"20:54:32 - Event: (ENCOUNTER_END) (2026) (Prince Keleseth) (1) (5) (1)", -- [798]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [799]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [800]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [801]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [802]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [803]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [804]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [805]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [806]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [807]
+			"20:54:32 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [808]
+			"20:54:35 - Event: (ENCOUNTER_LOOT_RECEIVED) (2026) (37178) (|cff0070dd|Hitem:37178::::::::59:65:512:1:1:4139:65:::|h[Strategist's Belt]|h|r) (1) (Verîtas-Alleria) (PALADIN)", -- [809]
+			"20:54:37 - Event: (LOOT_READY) (true)", -- [810]
+			"20:54:37 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-23953-00004BF422) (2350)", -- [811]
+			"20:54:37 - Adding to self.lootSlotInfo (2) (|cff0070dd|Hitem:37178::::::::59:65::1:1:4139:::|h[Strategist's Belt]|h|r) (3) (1) (Creature-0-3768-574-11485-23953-00004BF422) (1)", -- [812]
+			"20:54:37 - OnLootSlotCleared() (2) (|cff0070dd|Hitem:37178::::::::59:65::1:1:4139:::|h[Strategist's Belt]|h|r) (3)", -- [813]
+			"20:54:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (2026) (37178) (|cff0070dd|Hitem:37178::::::::59:65:512:1:1:4139:59:::|h[Strategist's Belt]|h|r) (1) (Hrst) (PALADIN)", -- [814]
+			"20:54:37 - OnLootSlotCleared() (1) (nil) (1)", -- [815]
+			"20:54:37 - Event: (LOOT_CLOSED)", -- [816]
+			"20:54:37 - Event: (LOOT_CLOSED)", -- [817]
+			"20:54:38 - Comm received:^1^Slooted^T^N1^S23953^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [818]
+			"20:54:38 - Comm received:^1^Slooted^T^N1^S23953^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [819]
+			"20:54:39 - Storage:New (|cff0070dd|Hitem:37178::::::::59:65::1:1:4139:::|h[Strategist's Belt]|h|r) (temp)", -- [820]
+			"20:54:39 - Storage: searching for item: (||cff0070dd||Hitem:37178::::::::59:65::1:1:4139:::||h[Strategist's Belt]||h||r) (5)", -- [821]
+			"20:54:39 - Found: (nil) (nil) (nil)", -- [822]
+			"20:54:40 - Storage: searching for item: (||cff0070dd||Hitem:37178::::::::59:65::1:1:4139:::||h[Strategist's Belt]||h||r) (5)", -- [823]
+			"20:54:40 - Found: (nil) (nil) (nil)", -- [824]
+			"20:54:41 - Storage: searching for item: (||cff0070dd||Hitem:37178::::::::59:65::1:1:4139:::||h[Strategist's Belt]||h||r) (5)", -- [825]
+			"20:54:41 - Found: (nil) (nil) (nil)", -- [826]
+			"20:54:42 - Storage: searching for item: (||cff0070dd||Hitem:37178::::::::59:65::1:1:4139:::||h[Strategist's Belt]||h||r) (5)", -- [827]
+			"20:54:42 - Found: (nil) (nil) (nil)", -- [828]
+			"20:54:42 - <ERROR> UpdateAndSendRecentTradableItem: |cff0070dd|Hitem:37178::::::::59:65::1:1:4139:::|h[Strategist's Belt]|h|r not found in bags", -- [829]
+			"20:55:00 - Event: (LOOT_READY) (true)", -- [830]
+			"20:55:00 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-24084-0000CBF422) (329) (Creature-0-3768-574-11485-24084-00014BF422) (955)", -- [831]
+			"20:55:00 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:43851::::::::59:65::::::|h[Fur Clothing Scraps]|h|r) (0) (1) (Creature-0-3768-574-11485-24084-00014BF422) (1)", -- [832]
+			"20:55:00 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:43851::::::::59:65::::::|h[Fur Clothing Scraps]|h|r) (0)", -- [833]
+			"20:55:00 - OnLootSlotCleared() (1) (nil) (1)", -- [834]
+			"20:55:00 - Event: (LOOT_CLOSED)", -- [835]
+			"20:55:00 - Event: (LOOT_CLOSED)", -- [836]
+			"20:55:00 - Comm received:^1^Slooted^T^N1^S24084^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [837]
+			"20:55:00 - Comm received:^1^Slooted^T^N1^S24084^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [838]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [839]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [840]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [841]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [842]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [843]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [844]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [845]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [846]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [847]
+			"20:55:13 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [848]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [849]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [850]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [851]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [852]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [853]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [854]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [855]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [856]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [857]
+			"20:55:14 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [858]
+			"20:55:51 - Event: (LOOT_READY) (true)", -- [859]
+			"20:55:51 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-24085-00004BF423) (1272) (Creature-0-3768-574-11485-24084-00004BF423) (952) (Creature-0-3768-574-11485-28419-0000CBF423) (914)", -- [860]
+			"20:55:51 - OnLootSlotCleared() (1) (nil) (1)", -- [861]
+			"20:55:51 - Event: (LOOT_CLOSED)", -- [862]
+			"20:55:51 - Event: (LOOT_CLOSED)", -- [863]
+			"20:55:51 - Comm received:^1^Slooted^T^N1^S24085^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [864]
+			"20:55:51 - Comm received:^1^Slooted^T^N1^S24085^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [865]
+			"20:56:17 - Event: (LOOT_READY) (true)", -- [866]
+			"20:56:17 - Event: (LOOT_CLOSED)", -- [867]
+			"20:56:17 - Event: (LOOT_CLOSED)", -- [868]
+			"20:56:24 - Event: (LOOT_READY) (true)", -- [869]
+			"20:56:24 - Event: (LOOT_CLOSED)", -- [870]
+			"20:56:24 - Event: (LOOT_CLOSED)", -- [871]
+			"20:56:37 - Event: (LOOT_READY) (true)", -- [872]
+			"20:56:37 - Event: (LOOT_CLOSED)", -- [873]
+			"20:56:37 - Event: (LOOT_CLOSED)", -- [874]
+			"20:57:20 - Event: (LOOT_READY) (true)", -- [875]
+			"20:57:20 - Event: (LOOT_CLOSED)", -- [876]
+			"20:57:20 - Event: (LOOT_CLOSED)", -- [877]
+			"20:57:27 - Event: (LOOT_READY) (true)", -- [878]
+			"20:57:27 - Event: (LOOT_CLOSED)", -- [879]
+			"20:57:27 - Event: (LOOT_CLOSED)", -- [880]
+			"20:58:27 - Event: (LOOT_READY) (true)", -- [881]
+			"20:58:27 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-28419-00024BF422) (507) (Creature-0-3768-574-11485-28419-0002CBF422) (644)", -- [882]
+			"20:58:27 - Adding to self.lootSlotInfo (2) (|cff9d9d9d|Hitem:43851::::::::59:65::::::|h[Fur Clothing Scraps]|h|r) (0) (1) (Creature-0-3768-574-11485-28419-00024BF422) (1)", -- [883]
+			"20:58:27 - Adding to self.lootSlotInfo (3) (|cff9d9d9d|Hitem:33372::::::::59:65::26:1:3817:::|h[Fur-Lined Armor]|h|r) (0) (1) (Creature-0-3768-574-11485-28419-00024BF422) (1)", -- [884]
+			"20:58:27 - OnLootSlotCleared() (3) (|cff9d9d9d|Hitem:33372::::::::59:65::26:1:3817:::|h[Fur-Lined Armor]|h|r) (0)", -- [885]
+			"20:58:27 - OnLootSlotCleared() (2) (|cff9d9d9d|Hitem:43851::::::::59:65::::::|h[Fur Clothing Scraps]|h|r) (0)", -- [886]
+			"20:58:27 - OnLootSlotCleared() (1) (nil) (1)", -- [887]
+			"20:58:27 - Event: (LOOT_CLOSED)", -- [888]
+			"20:58:27 - Event: (LOOT_CLOSED)", -- [889]
+			"20:58:27 - Comm received:^1^Slooted^T^N1^S28419^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [890]
+			"20:58:27 - Comm received:^1^Slooted^T^N1^S28419^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [891]
+			"20:58:40 - Event: (ENCOUNTER_START) (2024) (Skarvold & Dalronn) (1) (5)", -- [892]
+			"20:58:40 - UpdatePlayersData()", -- [893]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [894]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [895]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [896]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [897]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [898]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [899]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [900]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [901]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [902]
+			"20:59:10 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [903]
+			"20:59:10 - Event: (ENCOUNTER_END) (2024) (Skarvold & Dalronn) (1) (5) (1)", -- [904]
+			"20:59:12 - Event: (ENCOUNTER_LOOT_RECEIVED) (2024) (37182) (|cff0070dd|Hitem:37182::::::::59:65:512:1:1:4139:66:::|h[Helmet of the Constructor]|h|r) (1) (Verîtas-Alleria) (PALADIN)", -- [905]
+			"20:59:13 - Event: (LOOT_READY) (true)", -- [906]
+			"20:59:13 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-24201-00004BF422) (2187) (Creature-0-3768-574-11485-24200-00004BF422) (2915)", -- [907]
+			"20:59:13 - OnLootSlotCleared() (1) (nil) (1)", -- [908]
+			"20:59:13 - Event: (LOOT_CLOSED)", -- [909]
+			"20:59:13 - Event: (LOOT_CLOSED)", -- [910]
+			"20:59:13 - Comm received:^1^Slooted^T^N1^S24201^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [911]
+			"20:59:13 - Comm received:^1^Slooted^T^N1^S24201^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [912]
+			"20:59:17 - Event: (ENCOUNTER_LOOT_RECEIVED) (2024) (157555) (|cff0070dd|Hitem:157555::::::::59:65:512:1:1:4117:67:::|h[Constructor's Worklight]|h|r) (1) (Misstex-DunMorogh) (WARLOCK)", -- [913]
+			"21:01:07 - Event: (LOOT_READY) (true)", -- [914]
+			"21:01:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-23960-00004BF422) (1395) (Creature-0-3768-574-11485-24071-00004BF422) (1995)", -- [915]
+			"21:01:07 - OnLootSlotCleared() (1) (nil) (1)", -- [916]
+			"21:01:07 - Event: (LOOT_CLOSED)", -- [917]
+			"21:01:07 - Event: (LOOT_CLOSED)", -- [918]
+			"21:01:08 - Comm received:^1^Slooted^T^N1^S23960^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [919]
+			"21:01:08 - Comm received:^1^Slooted^T^N1^S23960^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [920]
+			"21:02:14 - Event: (ENCOUNTER_START) (2025) (Ingvar the Plunderer) (1) (5)", -- [921]
+			"21:02:14 - UpdatePlayersData()", -- [922]
+			"21:03:30 - Event: (ENCOUNTER_END) (2025) (Ingvar the Plunderer) (1) (5) (1)", -- [923]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [924]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [925]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [926]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [927]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [928]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [929]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [930]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [931]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [932]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [933]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [934]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [935]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [936]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [937]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [938]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [939]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [940]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [941]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [942]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [943]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [944]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [945]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [946]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [947]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [948]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [949]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [950]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [951]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [952]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [953]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [954]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [955]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [956]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [957]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [958]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [959]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [960]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [961]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [962]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [963]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [964]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [965]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [966]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [967]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [968]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [969]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [970]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [971]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [972]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [973]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [974]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [975]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [976]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [977]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [978]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [979]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [980]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [981]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [982]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [983]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [984]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [985]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [986]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [987]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [988]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [989]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [990]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [991]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [992]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [993]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [994]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [995]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [996]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [997]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [998]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [999]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [1000]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [1001]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [1002]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [1003]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [1004]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [1005]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [1006]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [1007]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [1008]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [1009]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [1010]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [1011]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [1012]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [1013]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [1014]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [1015]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [1016]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [1017]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [1018]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [1019]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [1020]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [1021]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [1022]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [1023]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:ClearAllPoints())", -- [1024]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame1:SetPoint())", -- [1025]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:ClearAllPoints())", -- [1026]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame2:SetPoint())", -- [1027]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:ClearAllPoints())", -- [1028]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame3:SetPoint())", -- [1029]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:ClearAllPoints())", -- [1030]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame4:SetPoint())", -- [1031]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:ClearAllPoints())", -- [1032]
+			"21:03:31 - ADDON_ACTION_BLOCKED (TradeLog) (CompactRaidFrame5:SetPoint())", -- [1033]
+			"21:03:32 - Event: (LOOT_READY) (true)", -- [1034]
+			"21:03:32 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3768-574-11485-23954-00004BF422) (1529)", -- [1035]
+			"21:03:32 - OnLootSlotCleared() (1) (nil) (1)", -- [1036]
+			"21:03:32 - Event: (LOOT_CLOSED)", -- [1037]
+			"21:03:32 - Event: (LOOT_CLOSED)", -- [1038]
+			"21:03:33 - Comm received:^1^Slooted^T^N1^S23954^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [1039]
+			"21:03:33 - Comm received:^1^Slooted^T^N1^S23954^t^^ (from:) (Hrst) (distri:) (INSTANCE_CHAT)", -- [1040]
+			"21:03:33 - Event: (ENCOUNTER_LOOT_RECEIVED) (2025) (37189) (|cff0070dd|Hitem:37189::::::::60:65:512:1:1:4139:67:::|h[Breeches of the Caller]|h|r) (1) (Merir-Tichondrius) (MAGE)", -- [1041]
+			"21:03:34 - Event: (ENCOUNTER_LOOT_RECEIVED) (2025) (37191) (|cff0070dd|Hitem:37191::::::::60:65:512:1:1:4139:65:::|h[Drake-Mounted Crossbow]|h|r) (1) (Galathia-Alleria) (HUNTER)", -- [1042]
+			"21:04:48 - Event: (GROUP_LEFT) (2) (Party-1461-00004CCAE123)", -- [1043]
+			"21:04:48 - GetML()", -- [1044]
+			"21:04:54 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1045]
+			"21:04:54 - GetML()", -- [1046]
+			"08/30/20", -- [1047]
+			"22:31:33 - Logged In", -- [1048]
+			"22:31:33 - ML initialized!", -- [1049]
+			"22:31:33 - TradeUI enabled", -- [1050]
+			"22:31:47 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1051]
+			"22:31:47 - ActivateSkin (bfa)", -- [1052]
+			"22:31:51 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1053]
+			"22:31:51 - GetML()", -- [1054]
+			"22:31:51 - UpdatePlayersData()", -- [1055]
+			"22:31:52 - GetPlayersGuildRank()", -- [1056]
+			"22:31:52 - GetPlayersGuildRank()", -- [1057]
+			"22:31:52 - Found Guild Rank: Alt", -- [1058]
+			"22:31:54 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1059]
+			"22:42:46 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [1060]
+			"22:46:48 - Comm received:^1^SverTest^T^N1^S2.12.1^t^^ (from:) (Shudinsky) (distri:) (GUILD)", -- [1061]
+			"22:47:22 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1062]
+			"22:47:22 - GetML()", -- [1063]
+			"08/30/20", -- [1064]
+			"22:47:53 - Logged In", -- [1065]
+			"22:47:53 - ML initialized!", -- [1066]
+			"22:47:53 - TradeUI enabled", -- [1067]
+			"22:47:59 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1068]
+			"22:47:59 - ActivateSkin (bfa)", -- [1069]
+			"22:48:03 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1070]
+			"22:48:03 - GetML()", -- [1071]
+			"22:48:03 - UpdatePlayersData()", -- [1072]
+			"22:48:04 - GetPlayersGuildRank()", -- [1073]
+			"22:48:04 - Found Guild Rank: Alt", -- [1074]
+			"22:48:04 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1075]
+			"22:48:35 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1076]
+			"22:48:35 - GetML()", -- [1077]
+			"08/30/20", -- [1078]
+			"22:53:27 - Logged In", -- [1079]
+			"22:53:27 - ML initialized!", -- [1080]
+			"22:53:27 - TradeUI enabled", -- [1081]
+			"22:53:32 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1082]
+			"22:53:32 - ActivateSkin (bfa)", -- [1083]
+			"22:53:35 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1084]
+			"22:53:35 - GetML()", -- [1085]
+			"22:53:35 - UpdatePlayersData()", -- [1086]
+			"22:53:36 - GetPlayersGuildRank()", -- [1087]
+			"22:53:36 - Found Guild Rank: Alt", -- [1088]
+			"22:53:37 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1089]
+			"08/30/20", -- [1090]
+			"22:54:39 - Logged In", -- [1091]
+			"22:54:39 - ML initialized!", -- [1092]
+			"22:54:39 - TradeUI enabled", -- [1093]
+			"22:54:50 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1094]
+			"22:54:50 - ActivateSkin (bfa)", -- [1095]
+			"22:54:52 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1096]
+			"22:54:52 - GetML()", -- [1097]
+			"22:54:52 - UpdatePlayersData()", -- [1098]
+			"22:54:54 - GetPlayersGuildRank()", -- [1099]
+			"22:54:54 - Found Guild Rank: Alt", -- [1100]
+			"22:54:55 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1101]
+			"08/30/20", -- [1102]
+			"23:00:25 - Logged In", -- [1103]
+			"23:00:25 - ML initialized!", -- [1104]
+			"23:00:25 - TradeUI enabled", -- [1105]
+			"23:00:30 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1106]
+			"23:00:30 - ActivateSkin (bfa)", -- [1107]
+			"23:00:33 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1108]
+			"23:00:33 - GetML()", -- [1109]
+			"23:00:33 - UpdatePlayersData()", -- [1110]
+			"23:00:34 - GetPlayersGuildRank()", -- [1111]
+			"23:00:34 - Found Guild Rank: Alt", -- [1112]
+			"23:00:34 - LUA_WARNING (0) (Couldn't open Interface\\AddOns\\mOnArs_WardrobeHelper\\mOnArs_WardrobeHelper.toc)", -- [1113]
+			"23:00:34 - LUA_WARNING (0) (Couldn't open Interface\\AddOns\\mOnArs_WardrobeHelper\\mOnArs_WardrobeHelper.toc)", -- [1114]
+			"23:00:34 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1115]
+			"08/30/20", -- [1116]
+			"23:01:19 - Logged In", -- [1117]
+			"23:01:19 - ML initialized!", -- [1118]
+			"23:01:19 - TradeUI enabled", -- [1119]
+			"23:01:32 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1120]
+			"23:01:32 - ActivateSkin (bfa)", -- [1121]
+			"23:01:36 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1122]
+			"23:01:36 - GetML()", -- [1123]
+			"23:01:36 - UpdatePlayersData()", -- [1124]
+			"23:01:39 - GetPlayersGuildRank()", -- [1125]
+			"23:01:39 - GetPlayersGuildRank()", -- [1126]
+			"23:01:39 - Found Guild Rank: Alt", -- [1127]
+			"23:01:41 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1128]
+			"08/30/20", -- [1129]
+			"23:02:00 - Logged In", -- [1130]
+			"23:02:00 - ML initialized!", -- [1131]
+			"23:02:00 - TradeUI enabled", -- [1132]
+			"23:02:07 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1133]
+			"23:02:07 - ActivateSkin (bfa)", -- [1134]
+			"23:02:10 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1135]
+			"23:02:10 - GetML()", -- [1136]
+			"23:02:10 - UpdatePlayersData()", -- [1137]
+			"23:02:12 - GetPlayersGuildRank()", -- [1138]
+			"23:02:12 - Found Guild Rank: Alt", -- [1139]
+			"23:02:14 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1140]
+			"23:03:04 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Jubly) (distri:) (GUILD)", -- [1141]
+			"23:04:42 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Jubly) (distri:) (GUILD)", -- [1142]
+			"08/30/20", -- [1143]
+			"23:11:50 - Logged In", -- [1144]
+			"23:11:50 - ML initialized!", -- [1145]
+			"23:11:50 - TradeUI enabled", -- [1146]
+			"23:12:03 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1147]
+			"23:12:03 - ActivateSkin (bfa)", -- [1148]
+			"23:12:06 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1149]
+			"23:12:06 - GetML()", -- [1150]
+			"23:12:06 - UpdatePlayersData()", -- [1151]
+			"23:12:07 - GetPlayersGuildRank()", -- [1152]
+			"23:12:07 - Found Guild Rank: Alt", -- [1153]
+			"23:12:10 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1154]
+			"08/30/20", -- [1155]
+			"23:21:33 - Logged In", -- [1156]
+			"23:21:33 - ML initialized!", -- [1157]
+			"23:21:33 - TradeUI enabled", -- [1158]
+			"23:21:43 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1159]
+			"23:21:43 - ActivateSkin (bfa)", -- [1160]
+			"23:21:47 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1161]
+			"23:21:47 - GetML()", -- [1162]
+			"23:21:47 - UpdatePlayersData()", -- [1163]
+			"23:21:48 - GetPlayersGuildRank()", -- [1164]
+			"23:21:48 - GetPlayersGuildRank()", -- [1165]
+			"23:21:48 - Found Guild Rank: Alt", -- [1166]
+			"23:21:50 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1167]
+			"23:23:57 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Naylah) (distri:) (GUILD)", -- [1168]
+			"23:26:59 - Event: (RAID_INSTANCE_WELCOME) (Tomb of Sargeras (Heroic)) (207180) (0) (0)", -- [1169]
+			"23:27:00 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1170]
+			"23:27:00 - GetML()", -- [1171]
+			"23:27:54 - Event: (ENCOUNTER_START) (2032) (Goroth) (15) (10)", -- [1172]
+			"23:27:54 - UpdatePlayersData()", -- [1173]
+			"23:29:09 - Event: (ENCOUNTER_END) (2032) (Goroth) (15) (10) (1)", -- [1174]
+			"23:29:11 - Event: (LOOT_READY) (true)", -- [1175]
+			"23:29:11 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (253754)", -- [1176]
+			"23:29:11 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1177]
+			"23:29:11 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1178]
+			"23:29:11 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1179]
+			"23:29:11 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1180]
+			"23:29:11 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1181]
+			"23:29:11 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (4)", -- [1182]
+			"23:29:11 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (4)", -- [1183]
+			"23:29:11 - Event: (LOOT_READY) (true)", -- [1184]
+			"23:29:11 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (253754)", -- [1185]
+			"23:29:11 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1186]
+			"23:29:11 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1187]
+			"23:29:11 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (4) (1) (Vehicle-0-3103-1676-23031-115844-00004C19D0) (1)", -- [1188]
+			"23:29:11 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (4)", -- [1189]
+			"23:29:11 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (4)", -- [1190]
+			"23:29:11 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (4)", -- [1191]
+			"23:29:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2032) (147069) (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (1) (Nexâna) (PRIEST)", -- [1192]
+			"23:29:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2032) (147057) (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (1) (Nexâna) (PRIEST)", -- [1193]
+			"23:29:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2032) (147104) (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (1) (Nexâna) (PRIEST)", -- [1194]
+			"23:29:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2032) (146986) (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (1) (Nexâna) (PRIEST)", -- [1195]
+			"23:29:11 - Event: (ENCOUNTER_LOOT_RECEIVED) (2032) (146984) (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (1) (Nexâna) (PRIEST)", -- [1196]
+			"23:29:11 - OnLootSlotCleared() (1) (nil) (1)", -- [1197]
+			"23:29:11 - Event: (LOOT_CLOSED)", -- [1198]
+			"23:29:11 - Event: (LOOT_CLOSED)", -- [1199]
+			"23:29:11 - Comm received:^1^Slooted^T^N1^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1200]
+			"23:29:11 - Comm received:^1^Slooted^T^N1^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1201]
+			"23:29:13 - Storage:New (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (temp)", -- [1202]
+			"23:29:13 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [1203]
+			"23:29:13 - Found item at (1) (13)", -- [1204]
+			"23:29:13 - Found: (1) (13) (0)", -- [1205]
+			"23:29:13 - Storage:New (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (temp)", -- [1206]
+			"23:29:13 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [1207]
+			"23:29:13 - Found item at (1) (19)", -- [1208]
+			"23:29:13 - Found: (1) (19) (0)", -- [1209]
+			"23:29:13 - Storage:New (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (temp)", -- [1210]
+			"23:29:13 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [1211]
+			"23:29:13 - Found item at (1) (21)", -- [1212]
+			"23:29:13 - Found: (1) (21) (0)", -- [1213]
+			"23:29:13 - Storage:New (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (temp)", -- [1214]
+			"23:29:13 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [1215]
+			"23:29:13 - Found item at (1) (22)", -- [1216]
+			"23:29:13 - Found: (1) (22) (0)", -- [1217]
+			"23:29:13 - Storage:New (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (temp)", -- [1218]
+			"23:29:13 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [1219]
+			"23:29:13 - Found item at (1) (26)", -- [1220]
+			"23:29:13 - Found: (1) (26) (0)", -- [1221]
+			"23:29:14 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [1222]
+			"23:29:14 - Found item at (1) (13)", -- [1223]
+			"23:29:14 - Found: (1) (13) (0)", -- [1224]
+			"23:29:14 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [1225]
+			"23:29:14 - Found item at (1) (19)", -- [1226]
+			"23:29:14 - Found: (1) (19) (0)", -- [1227]
+			"23:29:14 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [1228]
+			"23:29:14 - Found item at (1) (21)", -- [1229]
+			"23:29:14 - Found: (1) (21) (0)", -- [1230]
+			"23:29:14 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates~`of~`Crackling~`Flame]|h|r^N2^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1231]
+			"23:29:14 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed~`Armguards]|h|r^N2^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1232]
+			"23:29:14 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [1233]
+			"23:29:14 - Found item at (1) (22)", -- [1234]
+			"23:29:14 - Found: (1) (22) (0)", -- [1235]
+			"23:29:14 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [1236]
+			"23:29:14 - Found item at (1) (26)", -- [1237]
+			"23:29:14 - Found: (1) (26) (0)", -- [1238]
+			"23:29:14 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon~`of~`Perverse~`Animation]|h|r^N2^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1239]
+			"23:29:14 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter~`Treads]|h|r^N2^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1240]
+			"23:29:14 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak~`of~`Stifling~`Brimstone]|h|r^N2^S115844^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1241]
+			"23:29:48 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Avaturius) (distri:) (GUILD)", -- [1242]
+			"23:31:56 - Event: (ENCOUNTER_START) (2036) (Harjatan) (15) (10)", -- [1243]
+			"23:31:56 - UpdatePlayersData()", -- [1244]
+			"23:33:04 - Event: (ENCOUNTER_END) (2036) (Harjatan) (15) (10) (1)", -- [1245]
+			"23:33:05 - Event: (LOOT_READY) (true)", -- [1246]
+			"23:33:05 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-116407-00004C19A3) (252339)", -- [1247]
+			"23:33:05 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1248]
+			"23:33:05 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1249]
+			"23:33:05 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1250]
+			"23:33:05 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1251]
+			"23:33:05 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1252]
+			"23:33:06 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (4)", -- [1253]
+			"23:33:06 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (4)", -- [1254]
+			"23:33:06 - Event: (LOOT_READY) (true)", -- [1255]
+			"23:33:06 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-116407-00004C19A3) (252339)", -- [1256]
+			"23:33:06 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1257]
+			"23:33:06 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1258]
+			"23:33:06 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (4) (1) (Creature-0-3103-1676-23031-116407-00004C19A3) (1)", -- [1259]
+			"23:33:06 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (4)", -- [1260]
+			"23:33:06 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (4)", -- [1261]
+			"23:33:06 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (4)", -- [1262]
+			"23:33:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2036) (147045) (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (1) (Nexâna) (PRIEST)", -- [1263]
+			"23:33:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2036) (147129) (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (1) (Nexâna) (PRIEST)", -- [1264]
+			"23:33:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2036) (147071) (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (1) (Nexâna) (PRIEST)", -- [1265]
+			"23:33:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2036) (147171) (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (1) (Nexâna) (PRIEST)", -- [1266]
+			"23:33:06 - Event: (ENCOUNTER_LOOT_RECEIVED) (2036) (146994) (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (1) (Nexâna) (PRIEST)", -- [1267]
+			"23:33:06 - OnLootSlotCleared() (1) (nil) (1)", -- [1268]
+			"23:33:06 - Event: (LOOT_CLOSED)", -- [1269]
+			"23:33:06 - Event: (LOOT_CLOSED)", -- [1270]
+			"23:33:06 - Comm received:^1^Slooted^T^N1^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1271]
+			"23:33:06 - Comm received:^1^Slooted^T^N1^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1272]
+			"23:33:08 - Storage:New (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (temp)", -- [1273]
+			"23:33:08 - Storage: searching for item: (||cffa335ee||Hitem:147045::::::::120:258::5:3:3562:1483:3528:::||h[Insulated Finpads]||h||r) (5)", -- [1274]
+			"23:33:08 - Found item at (2) (5)", -- [1275]
+			"23:33:08 - Found: (2) (5) (0)", -- [1276]
+			"23:33:08 - Storage:New (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (temp)", -- [1277]
+			"23:33:08 - Storage: searching for item: (||cffa335ee||Hitem:147129::::::::120:258::5:3:3562:1483:3528:::||h[Demonbane Gauntlets]||h||r) (5)", -- [1278]
+			"23:33:08 - Found item at (2) (6)", -- [1279]
+			"23:33:08 - Found: (2) (6) (0)", -- [1280]
+			"23:33:08 - Storage:New (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (temp)", -- [1281]
+			"23:33:08 - Storage: searching for item: (||cffa335ee||Hitem:147071::::::::120:258::5:3:3562:1483:3528:::||h[Shiversleet Waistguard]||h||r) (5)", -- [1282]
+			"23:33:08 - Found item at (2) (9)", -- [1283]
+			"23:33:08 - Found: (2) (9) (0)", -- [1284]
+			"23:33:08 - Storage:New (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (temp)", -- [1285]
+			"23:33:08 - Storage: searching for item: (||cffa335ee||Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::||h[Fanged Slayer's Handguards]||h||r) (5)", -- [1286]
+			"23:33:08 - Found item at (2) (12)", -- [1287]
+			"23:33:08 - Found: (2) (12) (0)", -- [1288]
+			"23:33:08 - Storage:New (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (temp)", -- [1289]
+			"23:33:08 - Storage: searching for item: (||cffa335ee||Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::||h[Robe of Aqueous Command]||h||r) (5)", -- [1290]
+			"23:33:08 - Found item at (2) (13)", -- [1291]
+			"23:33:08 - Found: (2) (13) (0)", -- [1292]
+			"23:33:09 - Storage: searching for item: (||cffa335ee||Hitem:147045::::::::120:258::5:3:3562:1483:3528:::||h[Insulated Finpads]||h||r) (5)", -- [1293]
+			"23:33:09 - Found item at (2) (5)", -- [1294]
+			"23:33:09 - Found: (2) (5) (0)", -- [1295]
+			"23:33:09 - Storage: searching for item: (||cffa335ee||Hitem:147129::::::::120:258::5:3:3562:1483:3528:::||h[Demonbane Gauntlets]||h||r) (5)", -- [1296]
+			"23:33:09 - Found item at (2) (6)", -- [1297]
+			"23:33:09 - Found: (2) (6) (0)", -- [1298]
+			"23:33:09 - Storage: searching for item: (||cffa335ee||Hitem:147071::::::::120:258::5:3:3562:1483:3528:::||h[Shiversleet Waistguard]||h||r) (5)", -- [1299]
+			"23:33:09 - Found item at (2) (9)", -- [1300]
+			"23:33:09 - Found: (2) (9) (0)", -- [1301]
+			"23:33:09 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated~`Finpads]|h|r^N2^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1302]
+			"23:33:09 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane~`Gauntlets]|h|r^N2^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1303]
+			"23:33:09 - Storage: searching for item: (||cffa335ee||Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::||h[Fanged Slayer's Handguards]||h||r) (5)", -- [1304]
+			"23:33:09 - Found item at (2) (12)", -- [1305]
+			"23:33:09 - Found: (2) (12) (0)", -- [1306]
+			"23:33:09 - Storage: searching for item: (||cffa335ee||Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::||h[Robe of Aqueous Command]||h||r) (5)", -- [1307]
+			"23:33:09 - Found item at (2) (13)", -- [1308]
+			"23:33:09 - Found: (2) (13) (0)", -- [1309]
+			"23:33:09 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet~`Waistguard]|h|r^N2^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1310]
+			"23:33:09 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged~`Slayer's~`Handguards]|h|r^N2^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1311]
+			"23:33:09 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe~`of~`Aqueous~`Command]|h|r^N2^S116407^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1312]
+			"23:34:05 - Event: (LOOT_READY) (true)", -- [1313]
+			"23:34:05 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-120516-00054C1B11) (33682)", -- [1314]
+			"23:34:05 - OnLootSlotCleared() (1) (nil) (1)", -- [1315]
+			"23:34:05 - Event: (LOOT_CLOSED)", -- [1316]
+			"23:34:05 - Event: (LOOT_CLOSED)", -- [1317]
+			"23:34:06 - Comm received:^1^Slooted^T^N1^S120516^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1318]
+			"23:34:06 - Comm received:^1^Slooted^T^N1^S120516^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1319]
+			"23:35:53 - Event: (ENCOUNTER_START) (2050) (Sisters of the Moon) (15) (10)", -- [1320]
+			"23:35:53 - UpdatePlayersData()", -- [1321]
+			"23:37:17 - Event: (ENCOUNTER_END) (2050) (Sisters of the Moon) (15) (10) (1)", -- [1322]
+			"23:37:19 - Event: (LOOT_READY) (true)", -- [1323]
+			"23:37:19 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-118518-00004C19A3) (250054)", -- [1324]
+			"23:37:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1325]
+			"23:37:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1326]
+			"23:37:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1327]
+			"23:37:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1328]
+			"23:37:19 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1329]
+			"23:37:19 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (4)", -- [1330]
+			"23:37:19 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (4)", -- [1331]
+			"23:37:19 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (4)", -- [1332]
+			"23:37:19 - Event: (LOOT_READY) (true)", -- [1333]
+			"23:37:19 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-118518-00004C19A3) (250054)", -- [1334]
+			"23:37:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1335]
+			"23:37:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (4) (1) (Creature-0-3103-1676-23031-118518-00004C19A3) (1)", -- [1336]
+			"23:37:19 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (4)", -- [1337]
+			"23:37:19 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (4)", -- [1338]
+			"23:37:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2050) (146997) (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (1) (Nexâna) (PRIEST)", -- [1339]
+			"23:37:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2050) (147068) (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (1) (Nexâna) (PRIEST)", -- [1340]
+			"23:37:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2050) (147105) (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (1) (Nexâna) (PRIEST)", -- [1341]
+			"23:37:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2050) (147056) (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (1) (Nexâna) (PRIEST)", -- [1342]
+			"23:37:19 - Event: (ENCOUNTER_LOOT_RECEIVED) (2050) (147089) (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (1) (Nexâna) (PRIEST)", -- [1343]
+			"23:37:19 - OnLootSlotCleared() (1) (nil) (1)", -- [1344]
+			"23:37:19 - Event: (LOOT_CLOSED)", -- [1345]
+			"23:37:19 - Event: (LOOT_CLOSED)", -- [1346]
+			"23:37:19 - Comm received:^1^Slooted^T^N1^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1347]
+			"23:37:19 - Comm received:^1^Slooted^T^N1^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1348]
+			"23:37:21 - Storage:New (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (temp)", -- [1349]
+			"23:37:21 - Storage: searching for item: (||cffa335ee||Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::||h[Shoulderpads of Whispering Twilight]||h||r) (5)", -- [1350]
+			"23:37:21 - Found item at (2) (14)", -- [1351]
+			"23:37:21 - Found: (2) (14) (0)", -- [1352]
+			"23:37:21 - Storage:New (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (temp)", -- [1353]
+			"23:37:21 - Storage: searching for item: (||cffa335ee||Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::||h[Cuirass of Blinding Dawn]||h||r) (5)", -- [1354]
+			"23:37:21 - Found item at (2) (15)", -- [1355]
+			"23:37:21 - Found: (2) (15) (0)", -- [1356]
+			"23:37:21 - Storage:New (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (temp)", -- [1357]
+			"23:37:21 - Storage: searching for item: (||cffa335ee||Hitem:147105::::::::120:258::5:3:3562:1483:3528:::||h[Moontalon's Feather]||h||r) (5)", -- [1358]
+			"23:37:21 - Found item at (2) (17)", -- [1359]
+			"23:37:21 - Found: (2) (17) (0)", -- [1360]
+			"23:37:21 - Storage:New (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (temp)", -- [1361]
+			"23:37:21 - Storage: searching for item: (||cffa335ee||Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::||h[Waistguard of Interminable Unity]||h||r) (5)", -- [1362]
+			"23:37:21 - Found item at (2) (25)", -- [1363]
+			"23:37:21 - Found: (2) (25) (0)", -- [1364]
+			"23:37:21 - Storage:New (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (temp)", -- [1365]
+			"23:37:21 - Storage: searching for item: (||cffa335ee||Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::||h[Ferocity of the Devout]||h||r) (5)", -- [1366]
+			"23:37:21 - Found item at (2) (26)", -- [1367]
+			"23:37:21 - Found: (2) (26) (0)", -- [1368]
+			"23:37:22 - Storage: searching for item: (||cffa335ee||Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::||h[Shoulderpads of Whispering Twilight]||h||r) (5)", -- [1369]
+			"23:37:22 - Found item at (2) (14)", -- [1370]
+			"23:37:22 - Found: (2) (14) (0)", -- [1371]
+			"23:37:22 - Storage: searching for item: (||cffa335ee||Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::||h[Cuirass of Blinding Dawn]||h||r) (5)", -- [1372]
+			"23:37:22 - Found item at (2) (15)", -- [1373]
+			"23:37:22 - Found: (2) (15) (0)", -- [1374]
+			"23:37:22 - Storage: searching for item: (||cffa335ee||Hitem:147105::::::::120:258::5:3:3562:1483:3528:::||h[Moontalon's Feather]||h||r) (5)", -- [1375]
+			"23:37:22 - Found item at (2) (17)", -- [1376]
+			"23:37:22 - Found: (2) (17) (0)", -- [1377]
+			"23:37:22 - Storage: searching for item: (||cffa335ee||Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::||h[Waistguard of Interminable Unity]||h||r) (5)", -- [1378]
+			"23:37:22 - Found item at (2) (25)", -- [1379]
+			"23:37:22 - Found: (2) (25) (0)", -- [1380]
+			"23:37:22 - Storage: searching for item: (||cffa335ee||Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::||h[Ferocity of the Devout]||h||r) (5)", -- [1381]
+			"23:37:22 - Found item at (2) (26)", -- [1382]
+			"23:37:22 - Found: (2) (26) (0)", -- [1383]
+			"23:37:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads~`of~`Whispering~`Twilight]|h|r^N2^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1384]
+			"23:37:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass~`of~`Blinding~`Dawn]|h|r^N2^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1385]
+			"23:37:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's~`Feather]|h|r^N2^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1386]
+			"23:37:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard~`of~`Interminable~`Unity]|h|r^N2^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1387]
+			"23:37:22 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity~`of~`the~`Devout]|h|r^N2^S118518^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1388]
+			"23:41:54 - Event: (ENCOUNTER_START) (2054) (The Desolate Host) (15) (10)", -- [1389]
+			"23:41:54 - UpdatePlayersData()", -- [1390]
+			"23:43:37 - Event: (ENCOUNTER_END) (2054) (The Desolate Host) (15) (10) (1)", -- [1391]
+			"23:43:40 - Event: (LOOT_READY) (true)", -- [1392]
+			"23:43:40 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-119072-00004C1D68) (274344)", -- [1393]
+			"23:43:40 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1394]
+			"23:43:40 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1395]
+			"23:43:40 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1396]
+			"23:43:40 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1397]
+			"23:43:40 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1398]
+			"23:43:40 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (4)", -- [1399]
+			"23:43:40 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (4)", -- [1400]
+			"23:43:40 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (4)", -- [1401]
+			"23:43:40 - Event: (LOOT_READY) (true)", -- [1402]
+			"23:43:40 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-119072-00004C1D68) (274344)", -- [1403]
+			"23:43:40 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1404]
+			"23:43:40 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (4) (1) (Creature-0-3103-1676-23031-119072-00004C1D68) (1)", -- [1405]
+			"23:43:40 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (4)", -- [1406]
+			"23:43:41 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (4)", -- [1407]
+			"23:43:41 - Event: (ENCOUNTER_LOOT_RECEIVED) (2054) (147152) (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (1) (Nexâna) (PRIEST)", -- [1408]
+			"23:43:41 - Event: (ENCOUNTER_LOOT_RECEIVED) (2054) (147086) (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (1) (Nexâna) (PRIEST)", -- [1409]
+			"23:43:41 - Event: (ENCOUNTER_LOOT_RECEIVED) (2054) (147063) (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (1) (Nexâna) (PRIEST)", -- [1410]
+			"23:43:41 - Event: (ENCOUNTER_LOOT_RECEIVED) (2054) (147040) (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (1) (Nexâna) (PRIEST)", -- [1411]
+			"23:43:41 - Event: (ENCOUNTER_LOOT_RECEIVED) (2054) (147128) (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (1) (Nexâna) (PRIEST)", -- [1412]
+			"23:43:41 - OnLootSlotCleared() (1) (nil) (1)", -- [1413]
+			"23:43:41 - Event: (LOOT_CLOSED)", -- [1414]
+			"23:43:41 - Event: (LOOT_CLOSED)", -- [1415]
+			"23:43:41 - Comm received:^1^Slooted^T^N1^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1416]
+			"23:43:41 - Comm received:^1^Slooted^T^N1^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1417]
+			"23:43:42 - Storage:New (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (temp)", -- [1418]
+			"23:43:42 - Storage: searching for item: (||cffa335ee||Hitem:147152::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Cloak]||h||r) (5)", -- [1419]
+			"23:43:42 - Found item at (3) (2)", -- [1420]
+			"23:43:42 - Found: (3) (2) (0)", -- [1421]
+			"23:43:42 - Storage:New (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (temp)", -- [1422]
+			"23:43:42 - Storage: searching for item: (||cffa335ee||Hitem:147086::::::::120:258::5:3:3562:1483:3528:::||h[Befouled Effigy of Elune]||h||r) (5)", -- [1423]
+			"23:43:42 - Found item at (3) (3)", -- [1424]
+			"23:43:42 - Found: (3) (3) (0)", -- [1425]
+			"23:43:42 - Storage:New (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (temp)", -- [1426]
+			"23:43:42 - Storage: searching for item: (||cffa335ee||Hitem:147063::::::::120:258::5:3:3562:1483:3528:::||h[Armet of the Rotten Mind]||h||r) (5)", -- [1427]
+			"23:43:42 - Found item at (3) (10)", -- [1428]
+			"23:43:42 - Found: (3) (10) (0)", -- [1429]
+			"23:43:42 - Storage:New (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (temp)", -- [1430]
+			"23:43:42 - Storage: searching for item: (||cffa335ee||Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::||h[Etched Bone Waistband]||h||r) (5)", -- [1431]
+			"23:43:42 - Found item at (3) (11)", -- [1432]
+			"23:43:42 - Found: (3) (11) (0)", -- [1433]
+			"23:43:43 - Storage:New (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (temp)", -- [1434]
+			"23:43:43 - Storage: searching for item: (||cffa335ee||Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::||h[Demonbane Shroud]||h||r) (5)", -- [1435]
+			"23:43:43 - Found item at (3) (12)", -- [1436]
+			"23:43:43 - Found: (3) (12) (0)", -- [1437]
+			"23:43:43 - Storage: searching for item: (||cffa335ee||Hitem:147152::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Cloak]||h||r) (5)", -- [1438]
+			"23:43:43 - Found item at (3) (2)", -- [1439]
+			"23:43:43 - Found: (3) (2) (0)", -- [1440]
+			"23:43:43 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's~`Cloak]|h|r^N2^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1441]
+			"23:43:43 - Storage: searching for item: (||cffa335ee||Hitem:147086::::::::120:258::5:3:3562:1483:3528:::||h[Befouled Effigy of Elune]||h||r) (5)", -- [1442]
+			"23:43:43 - Found item at (3) (3)", -- [1443]
+			"23:43:43 - Found: (3) (3) (0)", -- [1444]
+			"23:43:43 - Storage: searching for item: (||cffa335ee||Hitem:147063::::::::120:258::5:3:3562:1483:3528:::||h[Armet of the Rotten Mind]||h||r) (5)", -- [1445]
+			"23:43:43 - Found item at (3) (10)", -- [1446]
+			"23:43:43 - Found: (3) (10) (0)", -- [1447]
+			"23:43:43 - Storage: searching for item: (||cffa335ee||Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::||h[Etched Bone Waistband]||h||r) (5)", -- [1448]
+			"23:43:43 - Found item at (3) (11)", -- [1449]
+			"23:43:43 - Found: (3) (11) (0)", -- [1450]
+			"23:43:44 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled~`Effigy~`of~`Elune]|h|r^N2^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1451]
+			"23:43:44 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet~`of~`the~`Rotten~`Mind]|h|r^N2^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1452]
+			"23:43:44 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched~`Bone~`Waistband]|h|r^N2^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1453]
+			"23:43:44 - Storage: searching for item: (||cffa335ee||Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::||h[Demonbane Shroud]||h||r) (5)", -- [1454]
+			"23:43:44 - Found item at (3) (12)", -- [1455]
+			"23:43:44 - Found: (3) (12) (0)", -- [1456]
+			"23:43:44 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane~`Shroud]|h|r^N2^S119072^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1457]
+			"08/30/20", -- [1458]
+			"23:45:26 - Logged In", -- [1459]
+			"23:45:26 - ML initialized!", -- [1460]
+			"23:45:26 - TradeUI enabled", -- [1461]
+			"23:45:31 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1462]
+			"23:45:31 - ActivateSkin (bfa)", -- [1463]
+			"23:45:34 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [1464]
+			"23:45:34 - GetML()", -- [1465]
+			"23:45:34 - UpdatePlayersData()", -- [1466]
+			"23:45:37 - GetPlayersGuildRank()", -- [1467]
+			"23:45:37 - GetPlayersGuildRank()", -- [1468]
+			"23:45:37 - Found Guild Rank: Alt", -- [1469]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (temp) (restored) (table: 000002062EC0FAE0)", -- [1470]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [1471]
+			"23:45:37 - Found item at (1) (13)", -- [1472]
+			"23:45:37 - Found: (1) (13) (0)", -- [1473]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (temp) (restored) (table: 000002062EC0FB80)", -- [1474]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [1475]
+			"23:45:37 - Found item at (1) (19)", -- [1476]
+			"23:45:37 - Found: (1) (19) (0)", -- [1477]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (temp) (restored) (table: 000002062EC0FC20)", -- [1478]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [1479]
+			"23:45:37 - Found item at (1) (21)", -- [1480]
+			"23:45:37 - Found: (1) (21) (0)", -- [1481]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (temp) (restored) (table: 000002062EC0FCC0)", -- [1482]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [1483]
+			"23:45:37 - Found item at (1) (22)", -- [1484]
+			"23:45:37 - Found: (1) (22) (0)", -- [1485]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (temp) (restored) (table: 000002062EC0FD60)", -- [1486]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [1487]
+			"23:45:37 - Found item at (1) (26)", -- [1488]
+			"23:45:37 - Found: (1) (26) (0)", -- [1489]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (temp) (restored) (table: 000002062EC0FE00)", -- [1490]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147045::::::::120:258::5:3:3562:1483:3528:::||h[Insulated Finpads]||h||r) (5)", -- [1491]
+			"23:45:37 - Found item at (2) (5)", -- [1492]
+			"23:45:37 - Found: (2) (5) (0)", -- [1493]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (temp) (restored) (table: 000002062EC0FEA0)", -- [1494]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147129::::::::120:258::5:3:3562:1483:3528:::||h[Demonbane Gauntlets]||h||r) (5)", -- [1495]
+			"23:45:37 - Found item at (2) (6)", -- [1496]
+			"23:45:37 - Found: (2) (6) (0)", -- [1497]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (temp) (restored) (table: 000002062EC0FF40)", -- [1498]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147071::::::::120:258::5:3:3562:1483:3528:::||h[Shiversleet Waistguard]||h||r) (5)", -- [1499]
+			"23:45:37 - Found item at (2) (9)", -- [1500]
+			"23:45:37 - Found: (2) (9) (0)", -- [1501]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (temp) (restored) (table: 000002062EC0FFE0)", -- [1502]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::||h[Fanged Slayer's Handguards]||h||r) (5)", -- [1503]
+			"23:45:37 - Found item at (2) (12)", -- [1504]
+			"23:45:37 - Found: (2) (12) (0)", -- [1505]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (temp) (restored) (table: 000002062EC10080)", -- [1506]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::||h[Robe of Aqueous Command]||h||r) (5)", -- [1507]
+			"23:45:37 - Found item at (2) (13)", -- [1508]
+			"23:45:37 - Found: (2) (13) (0)", -- [1509]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (temp) (restored) (table: 000002062EC10120)", -- [1510]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::||h[Shoulderpads of Whispering Twilight]||h||r) (5)", -- [1511]
+			"23:45:37 - Found item at (2) (14)", -- [1512]
+			"23:45:37 - Found: (2) (14) (0)", -- [1513]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (temp) (restored) (table: 000002062EC101C0)", -- [1514]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::||h[Cuirass of Blinding Dawn]||h||r) (5)", -- [1515]
+			"23:45:37 - Found item at (2) (15)", -- [1516]
+			"23:45:37 - Found: (2) (15) (0)", -- [1517]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (temp) (restored) (table: 000002062EC10260)", -- [1518]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147105::::::::120:258::5:3:3562:1483:3528:::||h[Moontalon's Feather]||h||r) (5)", -- [1519]
+			"23:45:37 - Found item at (2) (17)", -- [1520]
+			"23:45:37 - Found: (2) (17) (0)", -- [1521]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (temp) (restored) (table: 000002062EC10300)", -- [1522]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::||h[Waistguard of Interminable Unity]||h||r) (5)", -- [1523]
+			"23:45:37 - Found item at (2) (25)", -- [1524]
+			"23:45:37 - Found: (2) (25) (0)", -- [1525]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (temp) (restored) (table: 000002062EC103A0)", -- [1526]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::||h[Ferocity of the Devout]||h||r) (5)", -- [1527]
+			"23:45:37 - Found item at (2) (26)", -- [1528]
+			"23:45:37 - Found: (2) (26) (0)", -- [1529]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (temp) (restored) (table: 000002062EC10440)", -- [1530]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147152::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Cloak]||h||r) (5)", -- [1531]
+			"23:45:37 - Found item at (3) (2)", -- [1532]
+			"23:45:37 - Found: (3) (2) (0)", -- [1533]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (temp) (restored) (table: 000002062EC104E0)", -- [1534]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147086::::::::120:258::5:3:3562:1483:3528:::||h[Befouled Effigy of Elune]||h||r) (5)", -- [1535]
+			"23:45:37 - Found item at (3) (3)", -- [1536]
+			"23:45:37 - Found: (3) (3) (0)", -- [1537]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (temp) (restored) (table: 000002062EC10580)", -- [1538]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147063::::::::120:258::5:3:3562:1483:3528:::||h[Armet of the Rotten Mind]||h||r) (5)", -- [1539]
+			"23:45:37 - Found item at (3) (10)", -- [1540]
+			"23:45:37 - Found: (3) (10) (0)", -- [1541]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (temp) (restored) (table: 000002062EC10620)", -- [1542]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::||h[Etched Bone Waistband]||h||r) (5)", -- [1543]
+			"23:45:37 - Found item at (3) (11)", -- [1544]
+			"23:45:37 - Found: (3) (11) (0)", -- [1545]
+			"23:45:37 - Storage:New (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (temp) (restored) (table: 000002062EC106C0)", -- [1546]
+			"23:45:37 - Storage: searching for item: (||cffa335ee||Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::||h[Demonbane Shroud]||h||r) (5)", -- [1547]
+			"23:45:37 - Found item at (3) (12)", -- [1548]
+			"23:45:37 - Found: (3) (12) (0)", -- [1549]
+			"23:45:37 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1550]
+			"23:54:19 - Event: (ENCOUNTER_START) (2048) (Demonic Inquisition) (15) (10)", -- [1551]
+			"23:54:19 - UpdatePlayersData()", -- [1552]
+			"23:55:48 - Event: (ENCOUNTER_END) (2048) (Demonic Inquisition) (15) (10) (0)", -- [1553]
+			"23:56:16 - Event: (LOOT_READY) (true)", -- [1554]
+			"23:56:16 - Event: (LOOT_CLOSED)", -- [1555]
+			"23:56:16 - Event: (LOOT_CLOSED)", -- [1556]
+			"23:56:26 - Event: (ENCOUNTER_START) (2048) (Demonic Inquisition) (15) (10)", -- [1557]
+			"23:56:26 - UpdatePlayersData()", -- [1558]
+			"23:58:05 - Event: (ENCOUNTER_END) (2048) (Demonic Inquisition) (15) (10) (1)", -- [1559]
+			"23:58:06 - Event: (LOOT_READY) (true)", -- [1560]
+			"23:58:06 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-116689-00004C2074) (262560)", -- [1561]
+			"23:58:06 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1562]
+			"23:58:06 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1563]
+			"23:58:06 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1564]
+			"23:58:06 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1565]
+			"23:58:06 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1566]
+			"23:58:07 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r) (4)", -- [1567]
+			"23:58:07 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r) (4)", -- [1568]
+			"23:58:07 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r) (4)", -- [1569]
+			"23:58:07 - Event: (LOOT_READY) (true)", -- [1570]
+			"23:58:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-116689-00004C2074) (262560)", -- [1571]
+			"23:58:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1572]
+			"23:58:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (4) (1) (Creature-0-3103-1676-23031-116689-00004C2074) (1)", -- [1573]
+			"23:58:07 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (4)", -- [1574]
+			"23:58:07 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (4)", -- [1575]
+			"23:58:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (2048) (147124) (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r) (1) (Nexâna) (PRIEST)", -- [1576]
+			"23:58:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (2048) (147160) (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r) (1) (Nexâna) (PRIEST)", -- [1577]
+			"23:58:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (2048) (147051) (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r) (1) (Nexâna) (PRIEST)", -- [1578]
+			"23:58:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (2048) (147041) (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (1) (Nexâna) (PRIEST)", -- [1579]
+			"23:58:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (2048) (147041) (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (1) (Nexâna) (PRIEST)", -- [1580]
+			"23:58:07 - OnLootSlotCleared() (1) (nil) (1)", -- [1581]
+			"23:58:07 - Event: (LOOT_CLOSED)", -- [1582]
+			"23:58:07 - Event: (LOOT_CLOSED)", -- [1583]
+			"23:58:07 - Comm received:^1^Slooted^T^N1^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1584]
+			"23:58:07 - Comm received:^1^Slooted^T^N1^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1585]
+			"23:58:09 - Storage:New (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r) (temp)", -- [1586]
+			"23:58:09 - Storage: searching for item: (||cffa335ee||Hitem:147124::::::::120:258::5:3:3562:1483:3528:::||h[Gravewarden Visage]||h||r) (5)", -- [1587]
+			"23:58:09 - Found item at (3) (14)", -- [1588]
+			"23:58:09 - Found: (3) (14) (0)", -- [1589]
+			"23:58:09 - Storage:New (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r) (temp)", -- [1590]
+			"23:58:09 - Storage: searching for item: (||cffa335ee||Hitem:147160::::::::120:258::5:3:3562:1483:3528:::||h[Radiant Lightbringer Crown]||h||r) (5)", -- [1591]
+			"23:58:09 - Found item at (3) (15)", -- [1592]
+			"23:58:09 - Found: (3) (15) (0)", -- [1593]
+			"23:58:09 - Storage:New (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r) (temp)", -- [1594]
+			"23:58:09 - Storage: searching for item: (||cffa335ee||Hitem:147051::::::::120:258::5:3:3562:1483:3528:::||h[Flesh-Raking Leggings]||h||r) (5)", -- [1595]
+			"23:58:09 - Found item at (3) (16)", -- [1596]
+			"23:58:09 - Found: (3) (16) (0)", -- [1597]
+			"23:58:09 - Storage:New (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (temp)", -- [1598]
+			"23:58:09 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [1599]
+			"23:58:09 - Found item at (3) (17)", -- [1600]
+			"23:58:09 - Found: (3) (17) (0)", -- [1601]
+			"23:58:09 - Storage:New (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (temp)", -- [1602]
+			"23:58:09 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [1603]
+			"23:58:09 - Found item at (3) (18)", -- [1604]
+			"23:58:09 - Found: (3) (18) (0)", -- [1605]
+			"23:58:10 - Storage: searching for item: (||cffa335ee||Hitem:147124::::::::120:258::5:3:3562:1483:3528:::||h[Gravewarden Visage]||h||r) (5)", -- [1606]
+			"23:58:10 - Found item at (3) (14)", -- [1607]
+			"23:58:10 - Found: (3) (14) (0)", -- [1608]
+			"23:58:10 - Storage: searching for item: (||cffa335ee||Hitem:147160::::::::120:258::5:3:3562:1483:3528:::||h[Radiant Lightbringer Crown]||h||r) (5)", -- [1609]
+			"23:58:10 - Found item at (3) (15)", -- [1610]
+			"23:58:10 - Found: (3) (15) (0)", -- [1611]
+			"23:58:10 - Storage: searching for item: (||cffa335ee||Hitem:147051::::::::120:258::5:3:3562:1483:3528:::||h[Flesh-Raking Leggings]||h||r) (5)", -- [1612]
+			"23:58:10 - Found item at (3) (16)", -- [1613]
+			"23:58:10 - Found: (3) (16) (0)", -- [1614]
+			"23:58:10 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [1615]
+			"23:58:10 - Found item at (3) (17)", -- [1616]
+			"23:58:10 - Found: (3) (17) (0)", -- [1617]
+			"23:58:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden~`Visage]|h|r^N2^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1618]
+			"23:58:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant~`Lightbringer~`Crown]|h|r^N2^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1619]
+			"23:58:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking~`Leggings]|h|r^N2^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1620]
+			"23:58:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched~`Wristguards]|h|r^N2^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1621]
+			"23:58:10 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [1622]
+			"23:58:10 - Found item at (3) (18)", -- [1623]
+			"23:58:10 - Found: (3) (18) (0)", -- [1624]
+			"23:58:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched~`Wristguards]|h|r^N2^S116689^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1625]
+			"00:01:18 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonshaman) (distri:) (GUILD)", -- [1626]
+			"00:02:12 - Event: (ENCOUNTER_START) (2037) (Mistress Sassz'ine) (15) (10)", -- [1627]
+			"00:02:12 - UpdatePlayersData()", -- [1628]
+			"00:04:11 - Event: (ENCOUNTER_END) (2037) (Mistress Sassz'ine) (15) (10) (1)", -- [1629]
+			"00:04:13 - Event: (LOOT_READY) (true)", -- [1630]
+			"00:04:13 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-115767-00004C19A3) (270405)", -- [1631]
+			"00:04:13 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1632]
+			"00:04:13 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1633]
+			"00:04:13 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1634]
+			"00:04:13 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1635]
+			"00:04:13 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1636]
+			"00:04:13 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r) (4)", -- [1637]
+			"00:04:13 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r) (4)", -- [1638]
+			"00:04:14 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r) (4)", -- [1639]
+			"00:04:14 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r) (4)", -- [1640]
+			"00:04:14 - Event: (LOOT_READY) (true)", -- [1641]
+			"00:04:14 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-115767-00004C19A3) (270405)", -- [1642]
+			"00:04:14 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (4) (1) (Creature-0-3103-1676-23031-115767-00004C19A3) (1)", -- [1643]
+			"00:04:14 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (4)", -- [1644]
+			"00:04:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2037) (146990) (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r) (1) (Nexâna) (PRIEST)", -- [1645]
+			"00:04:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2037) (147081) (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r) (1) (Nexâna) (PRIEST)", -- [1646]
+			"00:04:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2037) (147004) (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r) (1) (Nexâna) (PRIEST)", -- [1647]
+			"00:04:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2037) (147148) (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r) (1) (Nexâna) (PRIEST)", -- [1648]
+			"00:04:14 - Event: (ENCOUNTER_LOOT_RECEIVED) (2037) (147166) (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (1) (Nexâna) (PRIEST)", -- [1649]
+			"00:04:14 - OnLootSlotCleared() (1) (nil) (1)", -- [1650]
+			"00:04:14 - Event: (LOOT_CLOSED)", -- [1651]
+			"00:04:14 - Event: (LOOT_CLOSED)", -- [1652]
+			"00:04:14 - Comm received:^1^Slooted^T^N1^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1653]
+			"00:04:14 - Comm received:^1^Slooted^T^N1^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1654]
+			"00:04:15 - Storage:New (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r) (temp)", -- [1655]
+			"00:04:15 - Storage: searching for item: (||cffa335ee||Hitem:146990::::::::120:258::5:3:3562:1483:3528:::||h[Hundred-Fathom Veil]||h||r) (5)", -- [1656]
+			"00:04:15 - Found item at (3) (19)", -- [1657]
+			"00:04:15 - Found: (3) (19) (0)", -- [1658]
+			"00:04:15 - Storage:New (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r) (temp)", -- [1659]
+			"00:04:15 - Storage: searching for item: (||cffa335ee||Hitem:147081::::::::120:258::5:3:3562:1483:3528:::||h[Pungent Chum]||h||r) (5)", -- [1660]
+			"00:04:15 - Found item at (3) (20)", -- [1661]
+			"00:04:15 - Found: (3) (20) (0)", -- [1662]
+			"00:04:16 - Storage:New (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r) (temp)", -- [1663]
+			"00:04:16 - Storage: searching for item: (||cffa335ee||Hitem:147004::::::::120:258::5:3:3562:1483:3528:::||h[Sea Star of the Depthmother]||h||r) (5)", -- [1664]
+			"00:04:16 - Found item at (3) (21)", -- [1665]
+			"00:04:16 - Found: (3) (21) (0)", -- [1666]
+			"00:04:16 - Storage:New (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r) (temp)", -- [1667]
+			"00:04:16 - Storage: searching for item: (||cffa335ee||Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::||h[Leggings of the Arcane Tempest]||h||r) (5)", -- [1668]
+			"00:04:16 - Found item at (3) (22)", -- [1669]
+			"00:04:16 - Found: (3) (22) (0)", -- [1670]
+			"00:04:16 - Storage:New (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (temp)", -- [1671]
+			"00:04:16 - Storage: searching for item: (||cffa335ee||Hitem:147166::::::::120:258::5:3:3562:1483:3528:::||h[Leggings of Blind Absolution]||h||r) (5)", -- [1672]
+			"00:04:16 - Found item at (3) (23)", -- [1673]
+			"00:04:16 - Found: (3) (23) (0)", -- [1674]
+			"00:04:16 - Storage: searching for item: (||cffa335ee||Hitem:146990::::::::120:258::5:3:3562:1483:3528:::||h[Hundred-Fathom Veil]||h||r) (5)", -- [1675]
+			"00:04:16 - Found item at (3) (19)", -- [1676]
+			"00:04:16 - Found: (3) (19) (0)", -- [1677]
+			"00:04:16 - Storage: searching for item: (||cffa335ee||Hitem:147081::::::::120:258::5:3:3562:1483:3528:::||h[Pungent Chum]||h||r) (5)", -- [1678]
+			"00:04:16 - Found item at (3) (20)", -- [1679]
+			"00:04:16 - Found: (3) (20) (0)", -- [1680]
+			"00:04:17 - Storage: searching for item: (||cffa335ee||Hitem:147004::::::::120:258::5:3:3562:1483:3528:::||h[Sea Star of the Depthmother]||h||r) (5)", -- [1681]
+			"00:04:17 - Found item at (3) (21)", -- [1682]
+			"00:04:17 - Found: (3) (21) (0)", -- [1683]
+			"00:04:17 - Storage: searching for item: (||cffa335ee||Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::||h[Leggings of the Arcane Tempest]||h||r) (5)", -- [1684]
+			"00:04:17 - Found item at (3) (22)", -- [1685]
+			"00:04:17 - Found: (3) (22) (0)", -- [1686]
+			"00:04:17 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom~`Veil]|h|r^N2^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1687]
+			"00:04:17 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent~`Chum]|h|r^N2^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1688]
+			"00:04:17 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea~`Star~`of~`the~`Depthmother]|h|r^N2^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1689]
+			"00:04:17 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings~`of~`the~`Arcane~`Tempest]|h|r^N2^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1690]
+			"00:04:17 - Storage: searching for item: (||cffa335ee||Hitem:147166::::::::120:258::5:3:3562:1483:3528:::||h[Leggings of Blind Absolution]||h||r) (5)", -- [1691]
+			"00:04:17 - Found item at (3) (23)", -- [1692]
+			"00:04:17 - Found: (3) (23) (0)", -- [1693]
+			"00:04:17 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings~`of~`Blind~`Absolution]|h|r^N2^S115767^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1694]
+			"00:08:42 - Event: (ENCOUNTER_START) (2052) (Maiden of Vigilance) (15) (10)", -- [1695]
+			"00:08:42 - UpdatePlayersData()", -- [1696]
+			"00:09:46 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Isary) (distri:) (GUILD)", -- [1697]
+			"00:10:14 - Event: (ENCOUNTER_END) (2052) (Maiden of Vigilance) (15) (10) (0)", -- [1698]
+			"00:10:56 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Kalisyra) (distri:) (GUILD)", -- [1699]
+			"00:11:38 - Event: (ENCOUNTER_START) (2052) (Maiden of Vigilance) (15) (10)", -- [1700]
+			"00:11:38 - UpdatePlayersData()", -- [1701]
+			"00:13:08 - Event: (ENCOUNTER_END) (2052) (Maiden of Vigilance) (15) (10) (1)", -- [1702]
+			"00:13:10 - Event: (LOOT_READY) (true)", -- [1703]
+			"00:13:10 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-118289-00004C23E6) (266790)", -- [1704]
+			"00:13:10 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1705]
+			"00:13:10 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1706]
+			"00:13:10 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1707]
+			"00:13:10 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1708]
+			"00:13:10 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1709]
+			"00:13:10 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r) (4)", -- [1710]
+			"00:13:10 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r) (4)", -- [1711]
+			"00:13:10 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r) (4)", -- [1712]
+			"00:13:10 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r) (4)", -- [1713]
+			"00:13:10 - Event: (LOOT_READY) (true)", -- [1714]
+			"00:13:10 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3103-1676-23031-118289-00004C23E6) (266790)", -- [1715]
+			"00:13:10 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (4) (1) (Creature-0-3103-1676-23031-118289-00004C23E6) (1)", -- [1716]
+			"00:13:10 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (4)", -- [1717]
+			"00:13:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (2052) (146999) (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r) (1) (Nexâna) (PRIEST)", -- [1718]
+			"00:13:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (2052) (147090) (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r) (1) (Nexâna) (PRIEST)", -- [1719]
+			"00:13:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (2052) (151189) (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r) (1) (Nexâna) (PRIEST)", -- [1720]
+			"00:13:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (2052) (147187) (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r) (1) (Nexâna) (PRIEST)", -- [1721]
+			"00:13:10 - Event: (ENCOUNTER_LOOT_RECEIVED) (2052) (147151) (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (1) (Nexâna) (PRIEST)", -- [1722]
+			"00:13:10 - OnLootSlotCleared() (1) (nil) (1)", -- [1723]
+			"00:13:10 - Event: (LOOT_CLOSED)", -- [1724]
+			"00:13:10 - Event: (LOOT_CLOSED)", -- [1725]
+			"00:13:10 - Comm received:^1^Slooted^T^N1^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1726]
+			"00:13:10 - Comm received:^1^Slooted^T^N1^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1727]
+			"00:13:12 - Storage:New (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r) (temp)", -- [1728]
+			"00:13:12 - Storage: searching for item: (||cffa335ee||Hitem:146999::::::::120:258::5:3:3562:1483:3528:::||h[Strife-Riddled Cinch]||h||r) (5)", -- [1729]
+			"00:13:12 - Found item at (3) (24)", -- [1730]
+			"00:13:12 - Found: (3) (24) (0)", -- [1731]
+			"00:13:12 - Storage:New (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r) (temp)", -- [1732]
+			"00:13:12 - Storage: searching for item: (||cffa335ee||Hitem:147090::::::::120:258::5:3:3562:1483:3528:::||h[Stabilized Extinction Protocol]||h||r) (5)", -- [1733]
+			"00:13:12 - Found item at (3) (25)", -- [1734]
+			"00:13:12 - Found: (3) (25) (0)", -- [1735]
+			"00:13:12 - Storage:New (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r) (temp)", -- [1736]
+			"00:13:12 - Storage: searching for item: (||cffa335ee||Hitem:151189::::::::120:258::5:3:3562:1483:3528:::||h[Tears of the Maiden]||h||r) (5)", -- [1737]
+			"00:13:12 - Found item at (3) (26)", -- [1738]
+			"00:13:12 - Found: (3) (26) (0)", -- [1739]
+			"00:13:12 - Storage:New (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r) (temp)", -- [1740]
+			"00:13:12 - Storage: searching for item: (||cffa335ee||Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::||h[Titanic Onslaught Breastplate]||h||r) (5)", -- [1741]
+			"00:13:12 - Found item at (3) (27)", -- [1742]
+			"00:13:12 - Found: (3) (27) (0)", -- [1743]
+			"00:13:12 - Storage:New (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (temp)", -- [1744]
+			"00:13:12 - Storage: searching for item: (||cffa335ee||Hitem:147151::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Tunic]||h||r) (5)", -- [1745]
+			"00:13:12 - Found item at (3) (28)", -- [1746]
+			"00:13:12 - Found: (3) (28) (0)", -- [1747]
+			"00:13:13 - Storage: searching for item: (||cffa335ee||Hitem:146999::::::::120:258::5:3:3562:1483:3528:::||h[Strife-Riddled Cinch]||h||r) (5)", -- [1748]
+			"00:13:13 - Found item at (3) (24)", -- [1749]
+			"00:13:13 - Found: (3) (24) (0)", -- [1750]
+			"00:13:13 - Storage: searching for item: (||cffa335ee||Hitem:147090::::::::120:258::5:3:3562:1483:3528:::||h[Stabilized Extinction Protocol]||h||r) (5)", -- [1751]
+			"00:13:13 - Found item at (3) (25)", -- [1752]
+			"00:13:13 - Found: (3) (25) (0)", -- [1753]
+			"00:13:13 - Storage: searching for item: (||cffa335ee||Hitem:151189::::::::120:258::5:3:3562:1483:3528:::||h[Tears of the Maiden]||h||r) (5)", -- [1754]
+			"00:13:13 - Found item at (3) (26)", -- [1755]
+			"00:13:13 - Found: (3) (26) (0)", -- [1756]
+			"00:13:13 - Storage: searching for item: (||cffa335ee||Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::||h[Titanic Onslaught Breastplate]||h||r) (5)", -- [1757]
+			"00:13:13 - Found item at (3) (27)", -- [1758]
+			"00:13:13 - Found: (3) (27) (0)", -- [1759]
+			"00:13:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled~`Cinch]|h|r^N2^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1760]
+			"00:13:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized~`Extinction~`Protocol]|h|r^N2^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1761]
+			"00:13:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears~`of~`the~`Maiden]|h|r^N2^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1762]
+			"00:13:13 - Storage: searching for item: (||cffa335ee||Hitem:147151::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Tunic]||h||r) (5)", -- [1763]
+			"00:13:13 - Found item at (3) (28)", -- [1764]
+			"00:13:13 - Found: (3) (28) (0)", -- [1765]
+			"00:13:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic~`Onslaught~`Breastplate]|h|r^N2^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1766]
+			"00:13:13 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's~`Tunic]|h|r^N2^S118289^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1767]
+			"00:13:57 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1768]
+			"00:13:57 - GetML()", -- [1769]
+			"08/31/20", -- [1770]
+			"00:14:53 - Logged In", -- [1771]
+			"00:14:53 - ML initialized!", -- [1772]
+			"00:14:53 - TradeUI enabled", -- [1773]
+			"00:14:58 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1774]
+			"00:14:58 - ActivateSkin (bfa)", -- [1775]
+			"00:15:01 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1776]
+			"00:15:01 - GetML()", -- [1777]
+			"00:15:01 - UpdatePlayersData()", -- [1778]
+			"00:15:03 - GetPlayersGuildRank()", -- [1779]
+			"00:15:03 - Found Guild Rank: Alt", -- [1780]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (temp) (restored) (table: 000002068489DE40)", -- [1781]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [1782]
+			"00:15:03 - Found item at (1) (13)", -- [1783]
+			"00:15:03 - Found: (1) (13) (0)", -- [1784]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (temp) (restored) (table: 000002068489DEE0)", -- [1785]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [1786]
+			"00:15:03 - Found item at (1) (19)", -- [1787]
+			"00:15:03 - Found: (1) (19) (0)", -- [1788]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (temp) (restored) (table: 000002068489DF80)", -- [1789]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [1790]
+			"00:15:03 - Found item at (1) (21)", -- [1791]
+			"00:15:03 - Found: (1) (21) (0)", -- [1792]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (temp) (restored) (table: 000002068489E020)", -- [1793]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [1794]
+			"00:15:03 - Found item at (1) (22)", -- [1795]
+			"00:15:03 - Found: (1) (22) (0)", -- [1796]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (temp) (restored) (table: 000002068489E0C0)", -- [1797]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [1798]
+			"00:15:03 - Found item at (1) (26)", -- [1799]
+			"00:15:03 - Found: (1) (26) (0)", -- [1800]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r) (temp) (restored) (table: 000002068489E160)", -- [1801]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147045::::::::120:258::5:3:3562:1483:3528:::||h[Insulated Finpads]||h||r) (5)", -- [1802]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1803]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r)", -- [1804]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147045::::::::120:258::5:3:3562:1483:3528:::|h[Insulated Finpads]|h|r)", -- [1805]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r) (temp) (restored) (table: 000002068489E2A0)", -- [1806]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147071::::::::120:258::5:3:3562:1483:3528:::||h[Shiversleet Waistguard]||h||r) (5)", -- [1807]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1808]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r)", -- [1809]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147071::::::::120:258::5:3:3562:1483:3528:::|h[Shiversleet Waistguard]|h|r)", -- [1810]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r) (temp) (restored) (table: 000002068489E3E0)", -- [1811]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::||h[Robe of Aqueous Command]||h||r) (5)", -- [1812]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1813]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r)", -- [1814]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:146994::::::::120:258::5:5:3562:40:1483:5855:3336:::|h[Robe of Aqueous Command]|h|r)", -- [1815]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r) (temp) (restored) (table: 000002068489E520)", -- [1816]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::||h[Cuirass of Blinding Dawn]||h||r) (5)", -- [1817]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1818]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r)", -- [1819]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147068::::::::120:258::5:4:3562:41:1483:3528:::|h[Cuirass of Blinding Dawn]|h|r)", -- [1820]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r) (temp) (restored) (table: 000002068489E660)", -- [1821]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::||h[Waistguard of Interminable Unity]||h||r) (5)", -- [1822]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1823]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r)", -- [1824]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147056::::::::120:258::5:4:3562:1483:5850:3336:::|h[Waistguard of Interminable Unity]|h|r)", -- [1825]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r) (temp) (restored) (table: 000002068489E7A0)", -- [1826]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147152::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Cloak]||h||r) (5)", -- [1827]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1828]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r)", -- [1829]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147152::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Cloak]|h|r)", -- [1830]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r) (temp) (restored) (table: 000002068489E8E0)", -- [1831]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147063::::::::120:258::5:3:3562:1483:3528:::||h[Armet of the Rotten Mind]||h||r) (5)", -- [1832]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1833]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r)", -- [1834]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147063::::::::120:258::5:3:3562:1483:3528:::|h[Armet of the Rotten Mind]|h|r)", -- [1835]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r) (temp) (restored) (table: 000002068489EA20)", -- [1836]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::||h[Demonbane Shroud]||h||r) (5)", -- [1837]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1838]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r)", -- [1839]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147128::::::::120:258::5:4:3562:1483:5855:3336:::|h[Demonbane Shroud]|h|r)", -- [1840]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r) (temp) (restored) (table: 000002068489EB60)", -- [1841]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147160::::::::120:258::5:3:3562:1483:3528:::||h[Radiant Lightbringer Crown]||h||r) (5)", -- [1842]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1843]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r)", -- [1844]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147160::::::::120:258::5:3:3562:1483:3528:::|h[Radiant Lightbringer Crown]|h|r)", -- [1845]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r) (temp) (restored) (table: 000002068489ECA0)", -- [1846]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [1847]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1848]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r)", -- [1849]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147041::::::::120:258::5:5:3562:1808:1483:5860:3337:::|h[Sinew-Stitched Wristguards]|h|r)", -- [1850]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r) (temp) (restored) (table: 000002068489EDE0)", -- [1851]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:146990::::::::120:258::5:3:3562:1483:3528:::||h[Hundred-Fathom Veil]||h||r) (5)", -- [1852]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1853]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r)", -- [1854]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:146990::::::::120:258::5:3:3562:1483:3528:::|h[Hundred-Fathom Veil]|h|r)", -- [1855]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r) (temp) (restored) (table: 000002068489EF20)", -- [1856]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147004::::::::120:258::5:3:3562:1483:3528:::||h[Sea Star of the Depthmother]||h||r) (5)", -- [1857]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1858]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r)", -- [1859]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147004::::::::120:258::5:3:3562:1483:3528:::|h[Sea Star of the Depthmother]|h|r)", -- [1860]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r) (temp) (restored) (table: 000002068489F060)", -- [1861]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147166::::::::120:258::5:3:3562:1483:3528:::||h[Leggings of Blind Absolution]||h||r) (5)", -- [1862]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1863]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r)", -- [1864]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147166::::::::120:258::5:3:3562:1483:3528:::|h[Leggings of Blind Absolution]|h|r)", -- [1865]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r) (temp) (restored) (table: 000002068489F1A0)", -- [1866]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147090::::::::120:258::5:3:3562:1483:3528:::||h[Stabilized Extinction Protocol]||h||r) (5)", -- [1867]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1868]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r)", -- [1869]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147090::::::::120:258::5:3:3562:1483:3528:::|h[Stabilized Extinction Protocol]|h|r)", -- [1870]
+			"00:15:03 - Storage:New (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r) (temp) (restored) (table: 000002068489F2E0)", -- [1871]
+			"00:15:03 - Storage: searching for item: (||cffa335ee||Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::||h[Titanic Onslaught Breastplate]||h||r) (5)", -- [1872]
+			"00:15:03 - Found: (nil) (nil) (nil)", -- [1873]
+			"00:15:03 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r)", -- [1874]
+			"00:15:03 - Storage:RemoveItem (|cffa335ee|Hitem:147187::::::::120:258::5:4:3562:1483:5850:3336:::|h[Titanic Onslaught Breastplate]|h|r)", -- [1875]
+			"00:15:03 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1876]
+			"00:15:21 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1877]
+			"00:15:21 - GetML()", -- [1878]
+			"00:15:40 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1879]
+			"00:15:40 - GetML()", -- [1880]
+			"08/31/20", -- [1881]
+			"00:18:13 - Logged In", -- [1882]
+			"00:18:13 - ML initialized!", -- [1883]
+			"00:18:13 - TradeUI enabled", -- [1884]
+			"00:18:18 - Nexâna-Blackmoore (2.19.3) (nil)", -- [1885]
+			"00:18:18 - ActivateSkin (bfa)", -- [1886]
+			"00:18:22 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [1887]
+			"00:18:22 - GetML()", -- [1888]
+			"00:18:22 - UpdatePlayersData()", -- [1889]
+			"00:18:23 - GetPlayersGuildRank()", -- [1890]
+			"00:18:23 - Found Guild Rank: Alt", -- [1891]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (temp) (restored) (table: 00000207307E9E80)", -- [1892]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [1893]
+			"00:18:23 - Found item at (1) (13)", -- [1894]
+			"00:18:23 - Found: (1) (13) (0)", -- [1895]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (temp) (restored) (table: 00000207307E9F20)", -- [1896]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [1897]
+			"00:18:23 - Found item at (1) (19)", -- [1898]
+			"00:18:23 - Found: (1) (19) (0)", -- [1899]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (temp) (restored) (table: 00000207307E9FC0)", -- [1900]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [1901]
+			"00:18:23 - Found item at (1) (21)", -- [1902]
+			"00:18:23 - Found: (1) (21) (0)", -- [1903]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (temp) (restored) (table: 00000207307EA060)", -- [1904]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [1905]
+			"00:18:23 - Found item at (1) (22)", -- [1906]
+			"00:18:23 - Found: (1) (22) (0)", -- [1907]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (temp) (restored) (table: 00000207307EA100)", -- [1908]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [1909]
+			"00:18:23 - Found item at (1) (26)", -- [1910]
+			"00:18:23 - Found: (1) (26) (0)", -- [1911]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r) (temp) (restored) (table: 00000207307EA1A0)", -- [1912]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147129::::::::120:258::5:3:3562:1483:3528:::||h[Demonbane Gauntlets]||h||r) (5)", -- [1913]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1914]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r)", -- [1915]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147129::::::::120:258::5:3:3562:1483:3528:::|h[Demonbane Gauntlets]|h|r)", -- [1916]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r) (temp) (restored) (table: 00000207307EA2E0)", -- [1917]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::||h[Shoulderpads of Whispering Twilight]||h||r) (5)", -- [1918]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1919]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r)", -- [1920]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:146997::::::::120:258::5:4:3562:43:1483:3528:::|h[Shoulderpads of Whispering Twilight]|h|r)", -- [1921]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r) (temp) (restored) (table: 00000207307EA420)", -- [1922]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::||h[Ferocity of the Devout]||h||r) (5)", -- [1923]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1924]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r)", -- [1925]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147089::::::::120:258::5:4:3562:1483:5855:3336:::|h[Ferocity of the Devout]|h|r)", -- [1926]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r) (temp) (restored) (table: 00000207307EA560)", -- [1927]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::||h[Etched Bone Waistband]||h||r) (5)", -- [1928]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1929]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r)", -- [1930]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147040::::::::120:258::5:4:3562:1483:5855:3336:::|h[Etched Bone Waistband]|h|r)", -- [1931]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r) (temp) (restored) (table: 00000207307EA6A0)", -- [1932]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147051::::::::120:258::5:3:3562:1483:3528:::||h[Flesh-Raking Leggings]||h||r) (5)", -- [1933]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1934]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r)", -- [1935]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147051::::::::120:258::5:3:3562:1483:3528:::|h[Flesh-Raking Leggings]|h|r)", -- [1936]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r) (temp) (restored) (table: 00000207307EA7E0)", -- [1937]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147081::::::::120:258::5:3:3562:1483:3528:::||h[Pungent Chum]||h||r) (5)", -- [1938]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1939]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r)", -- [1940]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147081::::::::120:258::5:3:3562:1483:3528:::|h[Pungent Chum]|h|r)", -- [1941]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r) (temp) (restored) (table: 00000207307EA920)", -- [1942]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:146999::::::::120:258::5:3:3562:1483:3528:::||h[Strife-Riddled Cinch]||h||r) (5)", -- [1943]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1944]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r)", -- [1945]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:146999::::::::120:258::5:3:3562:1483:3528:::|h[Strife-Riddled Cinch]|h|r)", -- [1946]
+			"00:18:23 - Storage:New (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r) (temp) (restored) (table: 00000207307EAA60)", -- [1947]
+			"00:18:23 - Storage: searching for item: (||cffa335ee||Hitem:147151::::::::120:258::5:3:3562:1483:3528:::||h[Xuen's Tunic]||h||r) (5)", -- [1948]
+			"00:18:23 - Found: (nil) (nil) (nil)", -- [1949]
+			"00:18:23 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r)", -- [1950]
+			"00:18:23 - Storage:RemoveItem (|cffa335ee|Hitem:147151::::::::120:258::5:3:3562:1483:3528:::|h[Xuen's Tunic]|h|r)", -- [1951]
+			"00:18:24 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [1952]
+			"00:20:05 - Event: (RAID_INSTANCE_WELCOME) (Blackrock Foundry (Heroic)) (203994) (0) (0)", -- [1953]
+			"00:20:06 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [1954]
+			"00:20:06 - GetML()", -- [1955]
+			"00:25:16 - Event: (ENCOUNTER_START) (1694) (Beastlord Darmac) (15) (10)", -- [1956]
+			"00:25:16 - UpdatePlayersData()", -- [1957]
+			"00:25:22 - Event: (ENCOUNTER_END) (1694) (Beastlord Darmac) (15) (10) (1)", -- [1958]
+			"00:25:28 - Event: (LOOT_READY) (true)", -- [1959]
+			"00:25:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-76865-00004C2616) (265146)", -- [1960]
+			"00:25:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1961]
+			"00:25:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1962]
+			"00:25:28 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1963]
+			"00:25:28 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1964]
+			"00:25:28 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1965]
+			"00:25:28 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r) (4)", -- [1966]
+			"00:25:28 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r) (4)", -- [1967]
+			"00:25:28 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r) (4)", -- [1968]
+			"00:25:28 - Event: (LOOT_READY) (true)", -- [1969]
+			"00:25:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-76865-00004C2616) (265146)", -- [1970]
+			"00:25:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1971]
+			"00:25:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (4) (1) (Creature-0-3890-1205-29667-76865-00004C2616) (1)", -- [1972]
+			"00:25:28 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (4)", -- [1973]
+			"00:25:28 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (4)", -- [1974]
+			"00:25:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113939) (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r) (1) (Nexâna) (PRIEST)", -- [1975]
+			"00:25:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (119192) (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r) (1) (Nexâna) (PRIEST)", -- [1976]
+			"00:25:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113942) (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r) (1) (Nexâna) (PRIEST)", -- [1977]
+			"00:25:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113942) (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (1) (Nexâna) (PRIEST)", -- [1978]
+			"00:25:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113949) (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (1) (Nexâna) (PRIEST)", -- [1979]
+			"00:25:28 - OnLootSlotCleared() (1) (nil) (1)", -- [1980]
+			"00:25:28 - Event: (LOOT_CLOSED)", -- [1981]
+			"00:25:28 - Event: (LOOT_CLOSED)", -- [1982]
+			"00:25:28 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1983]
+			"00:25:28 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [1984]
+			"00:25:30 - Storage:New (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r) (temp)", -- [1985]
+			"00:25:30 - Storage: searching for item: (||cffa335ee||Hitem:113939::::::::120:258::5:1:566:::||h[Tal'rak, Bloody Skull of the Thunderlords]||h||r) (5)", -- [1986]
+			"00:25:30 - Found item at (1) (15)", -- [1987]
+			"00:25:30 - Found: (1) (15) (0)", -- [1988]
+			"00:25:30 - Storage:New (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r) (temp)", -- [1989]
+			"00:25:30 - Storage: searching for item: (||cffa335ee||Hitem:119192::::::::120:258::5:2:561:566:::||h[Ironspike Chew Toy]||h||r) (5)", -- [1990]
+			"00:25:30 - Found item at (1) (16)", -- [1991]
+			"00:25:30 - Found: (1) (16) (0)", -- [1992]
+			"00:25:30 - Storage:New (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r) (temp)", -- [1993]
+			"00:25:30 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:1:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [1994]
+			"00:25:30 - Found item at (2) (5)", -- [1995]
+			"00:25:30 - Found: (2) (5) (0)", -- [1996]
+			"00:25:30 - Storage:New (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (temp)", -- [1997]
+			"00:25:30 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:2:40:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [1998]
+			"00:25:30 - Found item at (2) (6)", -- [1999]
+			"00:25:30 - Found: (2) (6) (0)", -- [2000]
+			"00:25:30 - Storage:New (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (temp)", -- [2001]
+			"00:25:30 - Storage: searching for item: (||cffa335ee||Hitem:113949::::::::120:258::5:1:566:::||h[Cannonball Loader's Grips]||h||r) (5)", -- [2002]
+			"00:25:30 - Found item at (2) (9)", -- [2003]
+			"00:25:30 - Found: (2) (9) (0)", -- [2004]
+			"00:25:31 - Storage: searching for item: (||cffa335ee||Hitem:113939::::::::120:258::5:1:566:::||h[Tal'rak, Bloody Skull of the Thunderlords]||h||r) (5)", -- [2005]
+			"00:25:31 - Found item at (1) (15)", -- [2006]
+			"00:25:31 - Found: (1) (15) (0)", -- [2007]
+			"00:25:31 - Storage: searching for item: (||cffa335ee||Hitem:119192::::::::120:258::5:2:561:566:::||h[Ironspike Chew Toy]||h||r) (5)", -- [2008]
+			"00:25:31 - Found item at (1) (16)", -- [2009]
+			"00:25:31 - Found: (1) (16) (0)", -- [2010]
+			"00:25:31 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:1:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [2011]
+			"00:25:31 - Found item at (2) (5)", -- [2012]
+			"00:25:31 - Found: (2) (5) (0)", -- [2013]
+			"00:25:31 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:2:40:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [2014]
+			"00:25:31 - Found item at (2) (6)", -- [2015]
+			"00:25:31 - Found: (2) (6) (0)", -- [2016]
+			"00:25:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak,~`Bloody~`Skull~`of~`the~`Thunderlords]|h|r^N2^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2017]
+			"00:25:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike~`Chew~`Toy]|h|r^N2^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2018]
+			"00:25:31 - Storage: searching for item: (||cffa335ee||Hitem:113949::::::::120:258::5:1:566:::||h[Cannonball Loader's Grips]||h||r) (5)", -- [2019]
+			"00:25:31 - Found item at (2) (9)", -- [2020]
+			"00:25:31 - Found: (2) (9) (0)", -- [2021]
+			"00:25:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno~`Breath~`Sandals]|h|r^N2^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2022]
+			"00:25:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno~`Breath~`Sandals]|h|r^N2^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2023]
+			"00:25:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball~`Loader's~`Grips]|h|r^N2^S76865^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2024]
+			"00:27:23 - Event: (ENCOUNTER_START) (1692) (Operator Thogar) (15) (10)", -- [2025]
+			"00:27:23 - UpdatePlayersData()", -- [2026]
+			"00:27:27 - Event: (ENCOUNTER_END) (1692) (Operator Thogar) (15) (10) (1)", -- [2027]
+			"00:27:28 - Event: (LOOT_READY) (true)", -- [2028]
+			"00:27:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-76906-00004C2615) (253336)", -- [2029]
+			"00:27:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2030]
+			"00:27:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2031]
+			"00:27:28 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2032]
+			"00:27:28 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2033]
+			"00:27:28 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2034]
+			"00:27:28 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2035]
+			"00:27:28 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r) (4)", -- [2036]
+			"00:27:28 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r) (4)", -- [2037]
+			"00:27:28 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r) (4)", -- [2038]
+			"00:27:28 - Event: (LOOT_READY) (true)", -- [2039]
+			"00:27:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-76906-00004C2615) (253336)", -- [2040]
+			"00:27:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2041]
+			"00:27:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2042]
+			"00:27:28 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (4) (1) (Creature-0-3890-1205-29667-76906-00004C2615) (1)", -- [2043]
+			"00:27:28 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (4)", -- [2044]
+			"00:27:28 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (4)", -- [2045]
+			"00:27:28 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (4)", -- [2046]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (113956) (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r) (1) (Nexâna) (PRIEST)", -- [2047]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (113958) (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r) (1) (Nexâna) (PRIEST)", -- [2048]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (113957) (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r) (1) (Nexâna) (PRIEST)", -- [2049]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (115581) (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (1) (Nexâna) (PRIEST)", -- [2050]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (115576) (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (1) (Nexâna) (PRIEST)", -- [2051]
+			"00:27:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1692) (115561) (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (1) (Nexâna) (PRIEST)", -- [2052]
+			"00:27:28 - OnLootSlotCleared() (1) (nil) (1)", -- [2053]
+			"00:27:28 - Event: (LOOT_CLOSED)", -- [2054]
+			"00:27:28 - Event: (LOOT_CLOSED)", -- [2055]
+			"00:27:28 - Comm received:^1^Slooted^T^N1^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2056]
+			"00:27:28 - Comm received:^1^Slooted^T^N1^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2057]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r) (temp)", -- [2058]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:113956::::::::120:258::5:1:566:::||h[Bracers of Enkindled Power]||h||r) (5)", -- [2059]
+			"00:27:30 - Found item at (2) (13)", -- [2060]
+			"00:27:30 - Found: (2) (13) (0)", -- [2061]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r) (temp)", -- [2062]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:113958::::::::120:258::5:1:566:::||h[Woundsear Robes]||h||r) (5)", -- [2063]
+			"00:27:30 - Found item at (2) (14)", -- [2064]
+			"00:27:30 - Found: (2) (14) (0)", -- [2065]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r) (temp)", -- [2066]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:113957::::::::120:258::5:1:566:::||h[Firemender's Smoldering Signet]||h||r) (5)", -- [2067]
+			"00:27:30 - Found item at (2) (15)", -- [2068]
+			"00:27:30 - Found: (2) (15) (0)", -- [2069]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (temp)", -- [2070]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:115581::::::::120:258::5:1:566:::||h[Blackhand's Shoulderguards]||h||r) (5)", -- [2071]
+			"00:27:30 - Found item at (2) (17)", -- [2072]
+			"00:27:30 - Found: (2) (17) (0)", -- [2073]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (temp)", -- [2074]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:115576::::::::120:258::5:1:566:::||h[Windspeaker's Mantle]||h||r) (5)", -- [2075]
+			"00:27:30 - Found item at (2) (25)", -- [2076]
+			"00:27:30 - Found: (2) (25) (0)", -- [2077]
+			"00:27:30 - Storage:New (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (temp)", -- [2078]
+			"00:27:30 - Storage: searching for item: (||cffa335ee||Hitem:115561::::::::120:258::5:2:564:566:::||h[Soul Priest's Shoulderguards]||h||r) (5)", -- [2079]
+			"00:27:30 - Found item at (2) (26)", -- [2080]
+			"00:27:30 - Found: (2) (26) (0)", -- [2081]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:113956::::::::120:258::5:1:566:::||h[Bracers of Enkindled Power]||h||r) (5)", -- [2082]
+			"00:27:31 - Found item at (2) (13)", -- [2083]
+			"00:27:31 - Found: (2) (13) (0)", -- [2084]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:113958::::::::120:258::5:1:566:::||h[Woundsear Robes]||h||r) (5)", -- [2085]
+			"00:27:31 - Found item at (2) (14)", -- [2086]
+			"00:27:31 - Found: (2) (14) (0)", -- [2087]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:113957::::::::120:258::5:1:566:::||h[Firemender's Smoldering Signet]||h||r) (5)", -- [2088]
+			"00:27:31 - Found item at (2) (15)", -- [2089]
+			"00:27:31 - Found: (2) (15) (0)", -- [2090]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:115581::::::::120:258::5:1:566:::||h[Blackhand's Shoulderguards]||h||r) (5)", -- [2091]
+			"00:27:31 - Found item at (2) (17)", -- [2092]
+			"00:27:31 - Found: (2) (17) (0)", -- [2093]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers~`of~`Enkindled~`Power]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2094]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear~`Robes]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2095]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's~`Smoldering~`Signet]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2096]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:115576::::::::120:258::5:1:566:::||h[Windspeaker's Mantle]||h||r) (5)", -- [2097]
+			"00:27:31 - Found item at (2) (25)", -- [2098]
+			"00:27:31 - Found: (2) (25) (0)", -- [2099]
+			"00:27:31 - Storage: searching for item: (||cffa335ee||Hitem:115561::::::::120:258::5:2:564:566:::||h[Soul Priest's Shoulderguards]||h||r) (5)", -- [2100]
+			"00:27:31 - Found item at (2) (26)", -- [2101]
+			"00:27:31 - Found: (2) (26) (0)", -- [2102]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's~`Shoulderguards]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2103]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's~`Mantle]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2104]
+			"00:27:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul~`Priest's~`Shoulderguards]|h|r^N2^S76906^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2105]
+			"00:27:55 - Event: (LOOT_READY) (true)", -- [2106]
+			"00:27:55 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-87841-00004C2763) (42306)", -- [2107]
+			"00:27:55 - OnLootSlotCleared() (1) (nil) (1)", -- [2108]
+			"00:27:55 - Event: (LOOT_CLOSED)", -- [2109]
+			"00:27:55 - Event: (LOOT_CLOSED)", -- [2110]
+			"00:27:56 - Comm received:^1^Slooted^T^N1^S87841^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2111]
+			"00:27:56 - Comm received:^1^Slooted^T^N1^S87841^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2112]
+			"00:29:57 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonmage) (distri:) (GUILD)", -- [2113]
+			"00:30:46 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Naylah) (distri:) (GUILD)", -- [2114]
+			"00:31:01 - Event: (ENCOUNTER_START) (1693) (Hans'gar & Franzok) (15) (10)", -- [2115]
+			"00:31:01 - UpdatePlayersData()", -- [2116]
+			"00:31:02 - Event: (ENCOUNTER_END) (1693) (Hans'gar & Franzok) (15) (10) (1)", -- [2117]
+			"00:31:07 - Event: (LOOT_READY) (true)", -- [2118]
+			"00:31:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76973-00004C2617) (255198)", -- [2119]
+			"00:31:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2120]
+			"00:31:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2121]
+			"00:31:07 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2122]
+			"00:31:07 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2123]
+			"00:31:07 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2124]
+			"00:31:07 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r) (4)", -- [2125]
+			"00:31:07 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r) (4)", -- [2126]
+			"00:31:07 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r) (4)", -- [2127]
+			"00:31:07 - Event: (LOOT_READY) (true)", -- [2128]
+			"00:31:07 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76973-00004C2617) (255198)", -- [2129]
+			"00:31:07 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2130]
+			"00:31:07 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76973-00004C2617) (1)", -- [2131]
+			"00:31:07 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (4)", -- [2132]
+			"00:31:07 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (4)", -- [2133]
+			"00:31:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (1693) (113906) (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r) (1) (Nexâna) (PRIEST)", -- [2134]
+			"00:31:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (1693) (113907) (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r) (1) (Nexâna) (PRIEST)", -- [2135]
+			"00:31:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (1693) (113908) (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r) (1) (Nexâna) (PRIEST)", -- [2136]
+			"00:31:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (1693) (113902) (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (1) (Nexâna) (PRIEST)", -- [2137]
+			"00:31:07 - Event: (ENCOUNTER_LOOT_RECEIVED) (1693) (113903) (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (1) (Nexâna) (PRIEST)", -- [2138]
+			"00:31:07 - OnLootSlotCleared() (1) (nil) (1)", -- [2139]
+			"00:31:07 - Event: (LOOT_CLOSED)", -- [2140]
+			"00:31:07 - Event: (LOOT_CLOSED)", -- [2141]
+			"00:31:07 - Comm received:^1^Slooted^T^N1^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2142]
+			"00:31:07 - Comm received:^1^Slooted^T^N1^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2143]
+			"00:31:09 - Storage:New (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r) (temp)", -- [2144]
+			"00:31:09 - Storage: searching for item: (||cffa335ee||Hitem:113906::::::::120:258::5:1:566:::||h[Gauntlets of Dramatic Blows]||h||r) (5)", -- [2145]
+			"00:31:09 - Found item at (3) (2)", -- [2146]
+			"00:31:09 - Found: (3) (2) (0)", -- [2147]
+			"00:31:09 - Storage:New (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r) (temp)", -- [2148]
+			"00:31:09 - Storage: searching for item: (||cffa335ee||Hitem:113907::::::::120:258::5:1:566:::||h[Girdle of Unconquered Glory]||h||r) (5)", -- [2149]
+			"00:31:09 - Found item at (3) (3)", -- [2150]
+			"00:31:09 - Found: (3) (3) (0)", -- [2151]
+			"00:31:09 - Storage:New (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r) (temp)", -- [2152]
+			"00:31:09 - Storage: searching for item: (||cffa335ee||Hitem:113908::::::::120:258::5:1:566:::||h[Razoredge Blade Ring]||h||r) (5)", -- [2153]
+			"00:31:09 - Found item at (3) (10)", -- [2154]
+			"00:31:09 - Found: (3) (10) (0)", -- [2155]
+			"00:31:09 - Storage:New (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (temp)", -- [2156]
+			"00:31:09 - Storage: searching for item: (||cffa335ee||Hitem:113902::::::::120:258::5:1:566:::||h[Chestguard of Unending Roars]||h||r) (5)", -- [2157]
+			"00:31:09 - Found item at (3) (11)", -- [2158]
+			"00:31:09 - Found: (3) (11) (0)", -- [2159]
+			"00:31:09 - Storage:New (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (temp)", -- [2160]
+			"00:31:09 - Storage: searching for item: (||cffa335ee||Hitem:113903::::::::120:258::5:1:566:::||h[Giant Pumpers]||h||r) (5)", -- [2161]
+			"00:31:09 - Found item at (3) (12)", -- [2162]
+			"00:31:09 - Found: (3) (12) (0)", -- [2163]
+			"00:31:10 - Storage: searching for item: (||cffa335ee||Hitem:113906::::::::120:258::5:1:566:::||h[Gauntlets of Dramatic Blows]||h||r) (5)", -- [2164]
+			"00:31:10 - Found item at (3) (2)", -- [2165]
+			"00:31:10 - Found: (3) (2) (0)", -- [2166]
+			"00:31:10 - Storage: searching for item: (||cffa335ee||Hitem:113907::::::::120:258::5:1:566:::||h[Girdle of Unconquered Glory]||h||r) (5)", -- [2167]
+			"00:31:10 - Found item at (3) (3)", -- [2168]
+			"00:31:10 - Found: (3) (3) (0)", -- [2169]
+			"00:31:10 - Storage: searching for item: (||cffa335ee||Hitem:113908::::::::120:258::5:1:566:::||h[Razoredge Blade Ring]||h||r) (5)", -- [2170]
+			"00:31:10 - Found item at (3) (10)", -- [2171]
+			"00:31:10 - Found: (3) (10) (0)", -- [2172]
+			"00:31:10 - Storage: searching for item: (||cffa335ee||Hitem:113902::::::::120:258::5:1:566:::||h[Chestguard of Unending Roars]||h||r) (5)", -- [2173]
+			"00:31:10 - Found item at (3) (11)", -- [2174]
+			"00:31:10 - Found: (3) (11) (0)", -- [2175]
+			"00:31:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets~`of~`Dramatic~`Blows]|h|r^N2^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2176]
+			"00:31:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle~`of~`Unconquered~`Glory]|h|r^N2^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2177]
+			"00:31:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge~`Blade~`Ring]|h|r^N2^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2178]
+			"00:31:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard~`of~`Unending~`Roars]|h|r^N2^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2179]
+			"00:31:10 - Storage: searching for item: (||cffa335ee||Hitem:113903::::::::120:258::5:1:566:::||h[Giant Pumpers]||h||r) (5)", -- [2180]
+			"00:31:10 - Found item at (3) (12)", -- [2181]
+			"00:31:10 - Found: (3) (12) (0)", -- [2182]
+			"00:31:10 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant~`Pumpers]|h|r^N2^S76973^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2183]
+			"00:32:32 - Event: (ENCOUNTER_START) (1689) (Flamebender Ka'graz) (15) (10)", -- [2184]
+			"00:32:32 - UpdatePlayersData()", -- [2185]
+			"00:32:36 - Event: (ENCOUNTER_END) (1689) (Flamebender Ka'graz) (15) (10) (1)", -- [2186]
+			"00:32:37 - Event: (LOOT_READY) (true)", -- [2187]
+			"00:32:37 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76814-00004C2615) (256424)", -- [2188]
+			"00:32:37 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2189]
+			"00:32:37 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2190]
+			"00:32:37 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2191]
+			"00:32:37 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2192]
+			"00:32:37 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2193]
+			"00:32:37 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2194]
+			"00:32:37 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r) (4)", -- [2195]
+			"00:32:37 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (4)", -- [2196]
+			"00:32:37 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (4)", -- [2197]
+			"00:32:37 - Event: (LOOT_READY) (true)", -- [2198]
+			"00:32:37 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76814-00004C2615) (256424)", -- [2199]
+			"00:32:37 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2200]
+			"00:32:37 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2201]
+			"00:32:37 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76814-00004C2615) (1)", -- [2202]
+			"00:32:37 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (4)", -- [2203]
+			"00:32:37 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (4)", -- [2204]
+			"00:32:37 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (4)", -- [2205]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (113921) (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r) (1) (Nexâna) (PRIEST)", -- [2206]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (113918) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (1) (Nexâna) (PRIEST)", -- [2207]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (113918) (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (1) (Nexâna) (PRIEST)", -- [2208]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (115570) (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (1) (Nexâna) (PRIEST)", -- [2209]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (115577) (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (1) (Nexâna) (PRIEST)", -- [2210]
+			"00:32:37 - Event: (ENCOUNTER_LOOT_RECEIVED) (1689) (115537) (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (1) (Nexâna) (PRIEST)", -- [2211]
+			"00:32:37 - OnLootSlotCleared() (1) (nil) (1)", -- [2212]
+			"00:32:37 - Event: (LOOT_CLOSED)", -- [2213]
+			"00:32:37 - Event: (LOOT_CLOSED)", -- [2214]
+			"00:32:37 - Comm received:^1^Slooted^T^N1^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2215]
+			"00:32:37 - Comm received:^1^Slooted^T^N1^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2216]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r) (temp)", -- [2217]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:113921::::::::120:258::5:2:41:566:::||h[Firestorm Legplates]||h||r) (5)", -- [2218]
+			"00:32:39 - Found item at (3) (13)", -- [2219]
+			"00:32:39 - Found: (3) (13) (0)", -- [2220]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (temp)", -- [2221]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2222]
+			"00:32:39 - Found item at (3) (14)", -- [2223]
+			"00:32:39 - Found item at (3) (15)", -- [2224]
+			"00:32:39 - Found: (3) (15) (0)", -- [2225]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (temp)", -- [2226]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2227]
+			"00:32:39 - Found item at (3) (14)", -- [2228]
+			"00:32:39 - Found item at (3) (15)", -- [2229]
+			"00:32:39 - Found: (3) (15) (0)", -- [2230]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (temp)", -- [2231]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:115570::::::::120:258::5:1:566:::||h[Poisoner's Tunic]||h||r) (5)", -- [2232]
+			"00:32:39 - Found item at (3) (16)", -- [2233]
+			"00:32:39 - Found: (3) (16) (0)", -- [2234]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (temp)", -- [2235]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:115577::::::::120:258::5:1:566:::||h[Windspeaker's Tunic]||h||r) (5)", -- [2236]
+			"00:32:39 - Found item at (3) (17)", -- [2237]
+			"00:32:39 - Found: (3) (17) (0)", -- [2238]
+			"00:32:39 - Storage:New (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (temp)", -- [2239]
+			"00:32:39 - Storage: searching for item: (||cffa335ee||Hitem:115537::::::::120:258::5:1:566:::||h[Ogreskull Boneplate Breastplate]||h||r) (5)", -- [2240]
+			"00:32:39 - Found item at (3) (18)", -- [2241]
+			"00:32:39 - Found: (3) (18) (0)", -- [2242]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:113921::::::::120:258::5:2:41:566:::||h[Firestorm Legplates]||h||r) (5)", -- [2243]
+			"00:32:40 - Found item at (3) (13)", -- [2244]
+			"00:32:40 - Found: (3) (13) (0)", -- [2245]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2246]
+			"00:32:40 - Found item at (3) (14)", -- [2247]
+			"00:32:40 - Found item at (3) (15)", -- [2248]
+			"00:32:40 - Found: (3) (15) (0)", -- [2249]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2250]
+			"00:32:40 - Found item at (3) (14)", -- [2251]
+			"00:32:40 - Found item at (3) (15)", -- [2252]
+			"00:32:40 - Found: (3) (15) (0)", -- [2253]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:115570::::::::120:258::5:1:566:::||h[Poisoner's Tunic]||h||r) (5)", -- [2254]
+			"00:32:40 - Found item at (3) (16)", -- [2255]
+			"00:32:40 - Found: (3) (16) (0)", -- [2256]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm~`Legplates]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2257]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten~`Edge~`Eviscerator]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2258]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten~`Edge~`Eviscerator]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2259]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:115577::::::::120:258::5:1:566:::||h[Windspeaker's Tunic]||h||r) (5)", -- [2260]
+			"00:32:40 - Found item at (3) (17)", -- [2261]
+			"00:32:40 - Found: (3) (17) (0)", -- [2262]
+			"00:32:40 - Storage: searching for item: (||cffa335ee||Hitem:115537::::::::120:258::5:1:566:::||h[Ogreskull Boneplate Breastplate]||h||r) (5)", -- [2263]
+			"00:32:40 - Found item at (3) (18)", -- [2264]
+			"00:32:40 - Found: (3) (18) (0)", -- [2265]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's~`Tunic]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2266]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's~`Tunic]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2267]
+			"00:32:40 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull~`Boneplate~`Breastplate]|h|r^N2^S76814^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2268]
+			"00:32:43 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonmage) (distri:) (GUILD)", -- [2269]
+			"00:33:16 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonmage) (distri:) (GUILD)", -- [2270]
+			"00:33:25 - Event: (ENCOUNTER_START) (1713) (Kromog, Legend of the Mountain) (15) (10)", -- [2271]
+			"00:33:25 - UpdatePlayersData()", -- [2272]
+			"00:33:26 - Event: (ENCOUNTER_END) (1713) (Kromog, Legend of the Mountain) (15) (10) (1)", -- [2273]
+			"00:33:28 - Event: (LOOT_READY) (true)", -- [2274]
+			"00:33:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-77692-00004C2616) (265475)", -- [2275]
+			"00:33:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2276]
+			"00:33:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2277]
+			"00:33:28 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2278]
+			"00:33:28 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2279]
+			"00:33:28 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2280]
+			"00:33:28 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2281]
+			"00:33:28 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r) (4)", -- [2282]
+			"00:33:28 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r) (4)", -- [2283]
+			"00:33:28 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r) (4)", -- [2284]
+			"00:33:28 - Event: (LOOT_READY) (true)", -- [2285]
+			"00:33:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3890-1205-29667-77692-00004C2616) (265475)", -- [2286]
+			"00:33:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2287]
+			"00:33:28 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2288]
+			"00:33:28 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (4) (1) (Creature-0-3890-1205-29667-77692-00004C2616) (1)", -- [2289]
+			"00:33:28 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (4)", -- [2290]
+			"00:33:28 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (4)", -- [2291]
+			"00:33:29 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (4)", -- [2292]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (113932) (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r) (1) (Nexâna) (PRIEST)", -- [2293]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (113938) (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r) (1) (Nexâna) (PRIEST)", -- [2294]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (113934) (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r) (1) (Nexâna) (PRIEST)", -- [2295]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (115563) (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (1) (Nexâna) (PRIEST)", -- [2296]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (115563) (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (1) (Nexâna) (PRIEST)", -- [2297]
+			"00:33:29 - Event: (ENCOUNTER_LOOT_RECEIVED) (1713) (115556) (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (1) (Nexâna) (PRIEST)", -- [2298]
+			"00:33:29 - OnLootSlotCleared() (1) (nil) (1)", -- [2299]
+			"00:33:29 - Event: (LOOT_CLOSED)", -- [2300]
+			"00:33:29 - Event: (LOOT_CLOSED)", -- [2301]
+			"00:33:29 - Comm received:^1^Slooted^T^N1^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2302]
+			"00:33:29 - Comm received:^1^Slooted^T^N1^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2303]
+			"00:33:30 - Storage:New (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r) (temp)", -- [2304]
+			"00:33:30 - Storage: searching for item: (||cffa335ee||Hitem:113932::::::::120:258::5:1:566:::||h[Talisman of the Fomor]||h||r) (5)", -- [2305]
+			"00:33:30 - Found item at (3) (19)", -- [2306]
+			"00:33:30 - Storage:New (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r) (temp)", -- [2307]
+			"00:33:30 - Storage: searching for item: (||cffa335ee||Hitem:113938::::::::120:258::5:2:42:566:::||h[Stonefist Band]||h||r) (5)", -- [2308]
+			"00:33:30 - Found item at (3) (20)", -- [2309]
+			"00:33:30 - Found: (3) (20) (0)", -- [2310]
+			"00:33:30 - Storage:New (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r) (temp)", -- [2311]
+			"00:33:30 - Storage: searching for item: (||cffa335ee||Hitem:113934::::::::120:258::5:2:43:566:::||h[Fang of the Earth]||h||r) (5)", -- [2312]
+			"00:33:30 - Found item at (3) (21)", -- [2313]
+			"00:33:30 - Found: (3) (21) (0)", -- [2314]
+			"00:33:30 - Storage:New (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (temp)", -- [2315]
+			"00:33:30 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:2:561:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2316]
+			"00:33:30 - Found item at (3) (22)", -- [2317]
+			"00:33:30 - Found: (3) (22) (0)", -- [2318]
+			"00:33:30 - Storage:New (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (temp)", -- [2319]
+			"00:33:30 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:1:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2320]
+			"00:33:31 - Found item at (3) (23)", -- [2321]
+			"00:33:31 - Found: (3) (23) (0)", -- [2322]
+			"00:33:31 - Storage:New (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (temp)", -- [2323]
+			"00:33:31 - Storage: searching for item: (||cffa335ee||Hitem:115556::::::::120:258::5:1:566:::||h[Helm of the Somber Gaze]||h||r) (5)", -- [2324]
+			"00:33:31 - Found item at (3) (24)", -- [2325]
+			"00:33:31 - Found: (3) (24) (0)", -- [2326]
+			"00:33:31 - Storage: searching for item: (||cffa335ee||Hitem:113932::::::::120:258::5:1:566:::||h[Talisman of the Fomor]||h||r) (5)", -- [2327]
+			"00:33:31 - Found item at (3) (19)", -- [2328]
+			"00:33:31 - Storage: searching for item: (||cffa335ee||Hitem:113938::::::::120:258::5:2:42:566:::||h[Stonefist Band]||h||r) (5)", -- [2329]
+			"00:33:31 - Found item at (3) (20)", -- [2330]
+			"00:33:31 - Found: (3) (20) (0)", -- [2331]
+			"00:33:31 - Storage: searching for item: (||cffa335ee||Hitem:113934::::::::120:258::5:2:43:566:::||h[Fang of the Earth]||h||r) (5)", -- [2332]
+			"00:33:31 - Found item at (3) (21)", -- [2333]
+			"00:33:31 - Found: (3) (21) (0)", -- [2334]
+			"00:33:31 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:2:561:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2335]
+			"00:33:31 - Found item at (3) (22)", -- [2336]
+			"00:33:31 - Found: (3) (22) (0)", -- [2337]
+			"00:33:31 - Comm received:^1^Stradable^T^N1^S|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman~`of~`the~`Fomor]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2338]
+			"00:33:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist~`Band]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2339]
+			"00:33:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang~`of~`the~`Earth]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2340]
+			"00:33:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul~`Priest's~`Hood]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2341]
+			"00:33:32 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:1:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2342]
+			"00:33:32 - Found item at (3) (23)", -- [2343]
+			"00:33:32 - Found: (3) (23) (0)", -- [2344]
+			"00:33:32 - Storage: searching for item: (||cffa335ee||Hitem:115556::::::::120:258::5:1:566:::||h[Helm of the Somber Gaze]||h||r) (5)", -- [2345]
+			"00:33:32 - Found item at (3) (24)", -- [2346]
+			"00:33:32 - Found: (3) (24) (0)", -- [2347]
+			"00:33:32 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul~`Priest's~`Hood]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2348]
+			"00:33:32 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm~`of~`the~`Somber~`Gaze]|h|r^N2^S77692^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2349]
+			"00:39:02 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Kalisyra) (distri:) (GUILD)", -- [2350]
+			"00:39:22 - Event: (ENCOUNTER_START) (1691) (Gruul) (15) (10)", -- [2351]
+			"00:39:22 - UpdatePlayersData()", -- [2352]
+			"00:39:26 - Event: (ENCOUNTER_END) (1691) (Gruul) (15) (10) (1)", -- [2353]
+			"00:39:27 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Ædshearan) (distri:) (GUILD)", -- [2354]
+			"00:39:27 - Event: (LOOT_READY) (true)", -- [2355]
+			"00:39:27 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76877-00004C2617) (267354)", -- [2356]
+			"00:39:27 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2357]
+			"00:39:27 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2358]
+			"00:39:27 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2359]
+			"00:39:27 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2360]
+			"00:39:27 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2361]
+			"00:39:28 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r) (4)", -- [2362]
+			"00:39:28 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r) (4)", -- [2363]
+			"00:39:28 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r) (4)", -- [2364]
+			"00:39:28 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r) (4)", -- [2365]
+			"00:39:28 - Event: (LOOT_READY) (true)", -- [2366]
+			"00:39:28 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76877-00004C2617) (267354)", -- [2367]
+			"00:39:28 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76877-00004C2617) (1)", -- [2368]
+			"00:39:28 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (4)", -- [2369]
+			"00:39:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1691) (113869) (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r) (1) (Nexâna) (PRIEST)", -- [2370]
+			"00:39:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1691) (113868) (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r) (1) (Nexâna) (PRIEST)", -- [2371]
+			"00:39:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1691) (120078) (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r) (1) (Nexâna) (PRIEST)", -- [2372]
+			"00:39:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1691) (120078) (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r) (1) (Nexâna) (PRIEST)", -- [2373]
+			"00:39:28 - Event: (ENCOUNTER_LOOT_RECEIVED) (1691) (113867) (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (1) (Nexâna) (PRIEST)", -- [2374]
+			"00:39:28 - OnLootSlotCleared() (1) (nil) (1)", -- [2375]
+			"00:39:28 - Event: (LOOT_CLOSED)", -- [2376]
+			"00:39:28 - Event: (LOOT_CLOSED)", -- [2377]
+			"00:39:28 - Comm received:^1^Slooted^T^N1^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2378]
+			"00:39:28 - Comm received:^1^Slooted^T^N1^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2379]
+			"00:39:30 - Storage:New (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r) (temp)", -- [2380]
+			"00:39:30 - Storage: searching for item: (||cffa335ee||Hitem:113869::::::::120:258::5:1:566:::||h[Inferno-Flame Staff]||h||r) (5)", -- [2381]
+			"00:39:30 - Found item at (3) (25)", -- [2382]
+			"00:39:30 - Found: (3) (25) (0)", -- [2383]
+			"00:39:30 - Storage:New (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r) (temp)", -- [2384]
+			"00:39:30 - Storage: searching for item: (||cffa335ee||Hitem:113868::::::::120:258::5:1:566:::||h[Flare-Eyed Hood]||h||r) (5)", -- [2385]
+			"00:39:30 - Found item at (3) (26)", -- [2386]
+			"00:39:30 - Found: (3) (26) (0)", -- [2387]
+			"00:39:30 - Storage:New (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r) (temp)", -- [2388]
+			"00:39:30 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:1:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2389]
+			"00:39:30 - Found item at (3) (27)", -- [2390]
+			"00:39:30 - Found: (3) (27) (0)", -- [2391]
+			"00:39:30 - Storage:New (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r) (temp)", -- [2392]
+			"00:39:30 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:2:561:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2393]
+			"00:39:30 - Found item at (3) (28)", -- [2394]
+			"00:39:30 - Found: (3) (28) (0)", -- [2395]
+			"00:39:30 - Storage:New (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (temp)", -- [2396]
+			"00:39:30 - Storage: searching for item: (||cffa335ee||Hitem:113867::::::::120:258::5:1:566:::||h[Spaulders of Reflected Stone]||h||r) (5)", -- [2397]
+			"00:39:30 - Found item at (3) (29)", -- [2398]
+			"00:39:30 - Found: (3) (29) (0)", -- [2399]
+			"00:39:31 - Storage: searching for item: (||cffa335ee||Hitem:113869::::::::120:258::5:1:566:::||h[Inferno-Flame Staff]||h||r) (5)", -- [2400]
+			"00:39:31 - Found item at (3) (25)", -- [2401]
+			"00:39:31 - Found: (3) (25) (0)", -- [2402]
+			"00:39:31 - Storage: searching for item: (||cffa335ee||Hitem:113868::::::::120:258::5:1:566:::||h[Flare-Eyed Hood]||h||r) (5)", -- [2403]
+			"00:39:31 - Found item at (3) (26)", -- [2404]
+			"00:39:31 - Found: (3) (26) (0)", -- [2405]
+			"00:39:31 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:1:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2406]
+			"00:39:31 - Found item at (3) (27)", -- [2407]
+			"00:39:31 - Found: (3) (27) (0)", -- [2408]
+			"00:39:31 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:2:561:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2409]
+			"00:39:31 - Found item at (3) (28)", -- [2410]
+			"00:39:31 - Found: (3) (28) (0)", -- [2411]
+			"00:39:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame~`Staff]|h|r^N2^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2412]
+			"00:39:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed~`Hood]|h|r^N2^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2413]
+			"00:39:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed~`Gronncloak]|h|r^N2^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2414]
+			"00:39:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed~`Gronncloak]|h|r^N2^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2415]
+			"00:39:31 - Storage: searching for item: (||cffa335ee||Hitem:113867::::::::120:258::5:1:566:::||h[Spaulders of Reflected Stone]||h||r) (5)", -- [2416]
+			"00:39:31 - Found item at (3) (29)", -- [2417]
+			"00:39:31 - Found: (3) (29) (0)", -- [2418]
+			"00:39:31 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders~`of~`Reflected~`Stone]|h|r^N2^S76877^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2419]
+			"00:41:16 - Event: (ENCOUNTER_START) (1696) (Oregorger the Devourer) (15) (10)", -- [2420]
+			"00:41:16 - UpdatePlayersData()", -- [2421]
+			"00:41:18 - Event: (ENCOUNTER_END) (1696) (Oregorger the Devourer) (15) (10) (1)", -- [2422]
+			"00:41:20 - Event: (LOOT_READY) (true)", -- [2423]
+			"00:41:20 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (261970)", -- [2424]
+			"00:41:20 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2425]
+			"00:41:20 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2426]
+			"00:41:20 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2427]
+			"00:41:20 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2428]
+			"00:41:20 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2429]
+			"00:41:20 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r) (4)", -- [2430]
+			"00:41:20 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r) (4)", -- [2431]
+			"00:41:20 - Event: (LOOT_READY) (true)", -- [2432]
+			"00:41:20 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (261970)", -- [2433]
+			"00:41:20 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2434]
+			"00:41:20 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2435]
+			"00:41:20 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-77182-00004C2B04) (1)", -- [2436]
+			"00:41:20 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (4)", -- [2437]
+			"00:41:20 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (4)", -- [2438]
+			"00:41:20 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (4)", -- [2439]
+			"00:41:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (1696) (119194) (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r) (1) (Nexâna) (PRIEST)", -- [2440]
+			"00:41:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (1696) (113875) (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r) (1) (Nexâna) (PRIEST)", -- [2441]
+			"00:41:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (1696) (113877) (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (1) (Nexâna) (PRIEST)", -- [2442]
+			"00:41:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (1696) (113881) (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (1) (Nexâna) (PRIEST)", -- [2443]
+			"00:41:20 - Event: (ENCOUNTER_LOOT_RECEIVED) (1696) (119448) (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (1) (Nexâna) (PRIEST)", -- [2444]
+			"00:41:20 - OnLootSlotCleared() (1) (nil) (1)", -- [2445]
+			"00:41:20 - Event: (LOOT_CLOSED)", -- [2446]
+			"00:41:20 - Event: (LOOT_CLOSED)", -- [2447]
+			"00:41:20 - Comm received:^1^Slooted^T^N1^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2448]
+			"00:41:20 - Comm received:^1^Slooted^T^N1^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2449]
+			"00:41:22 - Storage:New (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r) (temp)", -- [2450]
+			"00:41:22 - Storage: searching for item: (||cffa335ee||Hitem:119194::::::::120:258::5:1:566:::||h[Goren Soul Repository]||h||r) (5)", -- [2451]
+			"00:41:22 - Found item at (3) (30)", -- [2452]
+			"00:41:22 - Found: (3) (30) (0)", -- [2453]
+			"00:41:22 - Storage:New (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r) (temp)", -- [2454]
+			"00:41:22 - Storage: searching for item: (||cffa335ee||Hitem:113875::::::::120:258::5:1:566:::||h[Corrosion-Proof Legguards]||h||r) (5)", -- [2455]
+			"00:41:22 - Found item at (4) (1)", -- [2456]
+			"00:41:22 - Found: (4) (1) (0)", -- [2457]
+			"00:41:22 - Storage:New (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (temp)", -- [2458]
+			"00:41:22 - Storage: searching for item: (||cffa335ee||Hitem:113877::::::::120:258::5:1:566:::||h[Unexploded Explosive Shard]||h||r) (5)", -- [2459]
+			"00:41:22 - Found item at (4) (2)", -- [2460]
+			"00:41:22 - Found: (4) (2) (0)", -- [2461]
+			"00:41:22 - Storage:New (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (temp)", -- [2462]
+			"00:41:22 - Storage: searching for item: (||cffa335ee||Hitem:113881::::::::120:258::5:1:566:::||h[Chestplate of Rolling Fury]||h||r) (5)", -- [2463]
+			"00:41:22 - Found item at (4) (3)", -- [2464]
+			"00:41:22 - Found: (4) (3) (0)", -- [2465]
+			"00:41:22 - Storage:New (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (temp)", -- [2466]
+			"00:41:22 - Storage: searching for item: (||cffa335ee||Hitem:119448::::::::120:258::5:1:566:::||h[Head-Lopper Skullscythe]||h||r) (5)", -- [2467]
+			"00:41:22 - Found item at (4) (4)", -- [2468]
+			"00:41:22 - Found: (4) (4) (0)", -- [2469]
+			"00:41:23 - Storage: searching for item: (||cffa335ee||Hitem:119194::::::::120:258::5:1:566:::||h[Goren Soul Repository]||h||r) (5)", -- [2470]
+			"00:41:23 - Found item at (3) (30)", -- [2471]
+			"00:41:23 - Found: (3) (30) (0)", -- [2472]
+			"00:41:23 - Storage: searching for item: (||cffa335ee||Hitem:113875::::::::120:258::5:1:566:::||h[Corrosion-Proof Legguards]||h||r) (5)", -- [2473]
+			"00:41:23 - Found item at (4) (1)", -- [2474]
+			"00:41:23 - Found: (4) (1) (0)", -- [2475]
+			"00:41:23 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren~`Soul~`Repository]|h|r^N2^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2476]
+			"00:41:23 - Storage: searching for item: (||cffa335ee||Hitem:113877::::::::120:258::5:1:566:::||h[Unexploded Explosive Shard]||h||r) (5)", -- [2477]
+			"00:41:23 - Found item at (4) (2)", -- [2478]
+			"00:41:23 - Found: (4) (2) (0)", -- [2479]
+			"00:41:23 - Storage: searching for item: (||cffa335ee||Hitem:113881::::::::120:258::5:1:566:::||h[Chestplate of Rolling Fury]||h||r) (5)", -- [2480]
+			"00:41:23 - Found item at (4) (3)", -- [2481]
+			"00:41:23 - Found: (4) (3) (0)", -- [2482]
+			"00:41:23 - Storage: searching for item: (||cffa335ee||Hitem:119448::::::::120:258::5:1:566:::||h[Head-Lopper Skullscythe]||h||r) (5)", -- [2483]
+			"00:41:23 - Found item at (4) (4)", -- [2484]
+			"00:41:23 - Found: (4) (4) (0)", -- [2485]
+			"00:41:23 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof~`Legguards]|h|r^N2^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2486]
+			"00:41:23 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded~`Explosive~`Shard]|h|r^N2^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2487]
+			"00:41:23 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate~`of~`Rolling~`Fury]|h|r^N2^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2488]
+			"00:41:23 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper~`Skullscythe]|h|r^N2^S77182^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2489]
+			"00:42:45 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Lissayah) (distri:) (GUILD)", -- [2490]
+			"00:45:10 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Aryenah) (distri:) (GUILD)", -- [2491]
+			"00:45:26 - Event: (ENCOUNTER_START) (1690) (Blast Furnace) (15) (10)", -- [2492]
+			"00:45:26 - UpdatePlayersData()", -- [2493]
+			"00:49:48 - Event: (ENCOUNTER_END) (1690) (Blast Furnace) (15) (10) (1)", -- [2494]
+			"00:49:49 - Event: (LOOT_READY) (true)", -- [2495]
+			"00:49:49 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76806-00004C2616) (271415)", -- [2496]
+			"00:49:49 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2497]
+			"00:49:49 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2498]
+			"00:49:49 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2499]
+			"00:49:49 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2500]
+			"00:49:49 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2501]
+			"00:49:49 - Adding to self.lootSlotInfo (7) (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2502]
+			"00:49:49 - OnLootSlotCleared() (7) (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r) (4)", -- [2503]
+			"00:49:49 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r) (4)", -- [2504]
+			"00:49:49 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r) (4)", -- [2505]
+			"00:49:49 - Event: (LOOT_READY) (true)", -- [2506]
+			"00:49:49 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Vehicle-0-3890-1205-29667-76806-00004C2616) (271415)", -- [2507]
+			"00:49:49 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2508]
+			"00:49:49 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2509]
+			"00:49:49 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (4) (1) (Vehicle-0-3890-1205-29667-76806-00004C2616) (1)", -- [2510]
+			"00:49:49 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (4)", -- [2511]
+			"00:49:49 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (4)", -- [2512]
+			"00:49:49 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (4)", -- [2513]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (113885) (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r) (1) (Nexâna) (PRIEST)", -- [2514]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (113890) (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r) (1) (Nexâna) (PRIEST)", -- [2515]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (113894) (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r) (1) (Nexâna) (PRIEST)", -- [2516]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (115557) (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (1) (Nexâna) (PRIEST)", -- [2517]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (115580) (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (1) (Nexâna) (PRIEST)", -- [2518]
+			"00:49:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (1690) (115543) (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (1) (Nexâna) (PRIEST)", -- [2519]
+			"00:49:49 - OnLootSlotCleared() (1) (nil) (1)", -- [2520]
+			"00:49:49 - Event: (LOOT_CLOSED)", -- [2521]
+			"00:49:49 - Event: (LOOT_CLOSED)", -- [2522]
+			"00:49:50 - Comm received:^1^Slooted^T^N1^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2523]
+			"00:49:50 - Comm received:^1^Slooted^T^N1^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2524]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r) (temp)", -- [2525]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:113885::::::::120:258::5:1:566:::||h[Mouth of The Fury]||h||r) (5)", -- [2526]
+			"00:49:51 - Found item at (4) (5)", -- [2527]
+			"00:49:51 - Found: (4) (5) (0)", -- [2528]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r) (temp)", -- [2529]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:113890::::::::120:258::5:1:566:::||h[Feldspar's Control Choker]||h||r) (5)", -- [2530]
+			"00:49:51 - Found item at (4) (6)", -- [2531]
+			"00:49:51 - Found: (4) (6) (0)", -- [2532]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r) (temp)", -- [2533]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:113894::::::::120:258::5:1:566:::||h[Lava-Dipped Greathelm]||h||r) (5)", -- [2534]
+			"00:49:51 - Found item at (4) (7)", -- [2535]
+			"00:49:51 - Found: (4) (7) (0)", -- [2536]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (temp)", -- [2537]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:115557::::::::120:258::5:1:566:::||h[Legwraps of the Somber Gaze]||h||r) (5)", -- [2538]
+			"00:49:51 - Found item at (4) (8)", -- [2539]
+			"00:49:51 - Found: (4) (8) (0)", -- [2540]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (temp)", -- [2541]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:115580::::::::120:258::5:1:566:::||h[Blackhand's Legguards]||h||r) (5)", -- [2542]
+			"00:49:51 - Found item at (4) (9)", -- [2543]
+			"00:49:51 - Found: (4) (9) (0)", -- [2544]
+			"00:49:51 - Storage:New (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (temp)", -- [2545]
+			"00:49:51 - Storage: searching for item: (||cffa335ee||Hitem:115543::::::::120:258::5:1:566:::||h[Living Wood Legguards]||h||r) (5)", -- [2546]
+			"00:49:51 - Found item at (4) (10)", -- [2547]
+			"00:49:51 - Found: (4) (10) (0)", -- [2548]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:113885::::::::120:258::5:1:566:::||h[Mouth of The Fury]||h||r) (5)", -- [2549]
+			"00:49:52 - Found item at (4) (5)", -- [2550]
+			"00:49:52 - Found: (4) (5) (0)", -- [2551]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:113890::::::::120:258::5:1:566:::||h[Feldspar's Control Choker]||h||r) (5)", -- [2552]
+			"00:49:52 - Found item at (4) (6)", -- [2553]
+			"00:49:52 - Found: (4) (6) (0)", -- [2554]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:113894::::::::120:258::5:1:566:::||h[Lava-Dipped Greathelm]||h||r) (5)", -- [2555]
+			"00:49:52 - Found item at (4) (7)", -- [2556]
+			"00:49:52 - Found: (4) (7) (0)", -- [2557]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:115557::::::::120:258::5:1:566:::||h[Legwraps of the Somber Gaze]||h||r) (5)", -- [2558]
+			"00:49:52 - Found item at (4) (8)", -- [2559]
+			"00:49:52 - Found: (4) (8) (0)", -- [2560]
+			"00:49:52 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth~`of~`The~`Fury]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2561]
+			"00:49:52 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's~`Control~`Choker]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2562]
+			"00:49:52 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped~`Greathelm]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2563]
+			"00:49:52 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps~`of~`the~`Somber~`Gaze]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2564]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:115580::::::::120:258::5:1:566:::||h[Blackhand's Legguards]||h||r) (5)", -- [2565]
+			"00:49:52 - Found item at (4) (9)", -- [2566]
+			"00:49:52 - Found: (4) (9) (0)", -- [2567]
+			"00:49:52 - Storage: searching for item: (||cffa335ee||Hitem:115543::::::::120:258::5:1:566:::||h[Living Wood Legguards]||h||r) (5)", -- [2568]
+			"00:49:52 - Found item at (4) (10)", -- [2569]
+			"00:49:52 - Found: (4) (10) (0)", -- [2570]
+			"00:49:53 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's~`Legguards]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2571]
+			"00:49:53 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living~`Wood~`Legguards]|h|r^N2^S76806^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [2572]
+			"00:51:33 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2573]
+			"00:51:33 - GetML()", -- [2574]
+			"08/31/20", -- [2575]
+			"00:51:49 - Logged In", -- [2576]
+			"00:51:49 - ML initialized!", -- [2577]
+			"00:51:49 - TradeUI enabled", -- [2578]
+			"00:51:58 - Neaxa-Blackmoore (2.19.3) (nil)", -- [2579]
+			"00:51:58 - ActivateSkin (bfa)", -- [2580]
+			"00:52:01 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [2581]
+			"00:52:01 - GetML()", -- [2582]
+			"00:52:01 - UpdatePlayersData()", -- [2583]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r) (temp) (restored) (table: 00000206A01B4430)", -- [2584]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:147069::::::::120:258::5:3:3562:1483:3528:::||h[Shoulderplates of Crackling Flame]||h||r) (5)", -- [2585]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2586]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r)", -- [2587]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:147069::::::::120:258::5:3:3562:1483:3528:::|h[Shoulderplates of Crackling Flame]|h|r)", -- [2588]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r) (temp) (restored) (table: 00000206A01B4570)", -- [2589]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::||h[Icon of Perverse Animation]||h||r) (5)", -- [2590]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2591]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r)", -- [2592]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:147104::::::::120:258::5:4:3562:1483:5860:3337:::|h[Icon of Perverse Animation]|h|r)", -- [2593]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r) (temp) (restored) (table: 00000206A01B46B0)", -- [2594]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::||h[Cloak of Stifling Brimstone]||h||r) (5)", -- [2595]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2596]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r)", -- [2597]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:146984::::::::120:258::5:4:3562:40:1483:3528:::|h[Cloak of Stifling Brimstone]|h|r)", -- [2598]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r) (temp) (restored) (table: 00000206A01B47F0)", -- [2599]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:147105::::::::120:258::5:3:3562:1483:3528:::||h[Moontalon's Feather]||h||r) (5)", -- [2600]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2601]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r)", -- [2602]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:147105::::::::120:258::5:3:3562:1483:3528:::|h[Moontalon's Feather]|h|r)", -- [2603]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r) (temp) (restored) (table: 00000206A01B4930)", -- [2604]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:147124::::::::120:258::5:3:3562:1483:3528:::||h[Gravewarden Visage]||h||r) (5)", -- [2605]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2606]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r)", -- [2607]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:147124::::::::120:258::5:3:3562:1483:3528:::|h[Gravewarden Visage]|h|r)", -- [2608]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r) (temp) (restored) (table: 00000206A01B4A70)", -- [2609]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::||h[Leggings of the Arcane Tempest]||h||r) (5)", -- [2610]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2611]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r)", -- [2612]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:147148::::::::120:258::5:4:3562:1808:1483:3528:::|h[Leggings of the Arcane Tempest]|h|r)", -- [2613]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r) (temp) (restored) (table: 00000206A01B4BB0)", -- [2614]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113939::::::::120:258::5:1:566:::||h[Tal'rak, Bloody Skull of the Thunderlords]||h||r) (5)", -- [2615]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2616]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r)", -- [2617]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113939::::::::120:258::5:1:566:::|h[Tal'rak, Bloody Skull of the Thunderlords]|h|r)", -- [2618]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r) (temp) (restored) (table: 00000206A01B4CF0)", -- [2619]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:1:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [2620]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2621]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r)", -- [2622]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113942::::::::120:258::5:1:566:::|h[Inferno Breath Sandals]|h|r)", -- [2623]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r) (temp) (restored) (table: 00000206A01B4E30)", -- [2624]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113949::::::::120:258::5:1:566:::||h[Cannonball Loader's Grips]||h||r) (5)", -- [2625]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2626]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r)", -- [2627]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113949::::::::120:258::5:1:566:::|h[Cannonball Loader's Grips]|h|r)", -- [2628]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r) (temp) (restored) (table: 00000206A01B4F70)", -- [2629]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113958::::::::120:258::5:1:566:::||h[Woundsear Robes]||h||r) (5)", -- [2630]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2631]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r)", -- [2632]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113958::::::::120:258::5:1:566:::|h[Woundsear Robes]|h|r)", -- [2633]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r) (temp) (restored) (table: 00000206A01B50B0)", -- [2634]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:115581::::::::120:258::5:1:566:::||h[Blackhand's Shoulderguards]||h||r) (5)", -- [2635]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2636]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r)", -- [2637]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:115581::::::::120:258::5:1:566:::|h[Blackhand's Shoulderguards]|h|r)", -- [2638]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r) (temp) (restored) (table: 00000206A01B51F0)", -- [2639]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:115561::::::::120:258::5:2:564:566:::||h[Soul Priest's Shoulderguards]||h||r) (5)", -- [2640]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2641]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r)", -- [2642]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:115561::::::::120:258::5:2:564:566:::|h[Soul Priest's Shoulderguards]|h|r)", -- [2643]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r) (temp) (restored) (table: 00000206A01B5330)", -- [2644]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113907::::::::120:258::5:1:566:::||h[Girdle of Unconquered Glory]||h||r) (5)", -- [2645]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2646]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r)", -- [2647]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113907::::::::120:258::5:1:566:::|h[Girdle of Unconquered Glory]|h|r)", -- [2648]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r) (temp) (restored) (table: 00000206A01B5470)", -- [2649]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113902::::::::120:258::5:1:566:::||h[Chestguard of Unending Roars]||h||r) (5)", -- [2650]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2651]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r)", -- [2652]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113902::::::::120:258::5:1:566:::|h[Chestguard of Unending Roars]|h|r)", -- [2653]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r) (temp) (restored) (table: 00000206A01B55B0)", -- [2654]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113921::::::::120:258::5:2:41:566:::||h[Firestorm Legplates]||h||r) (5)", -- [2655]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2656]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r)", -- [2657]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113921::::::::120:258::5:2:41:566:::|h[Firestorm Legplates]|h|r)", -- [2658]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (temp) (restored) (table: 00000206A01B56F0)", -- [2659]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2660]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2661]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r)", -- [2662]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r)", -- [2663]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r) (temp) (restored) (table: 00000206A01B5830)", -- [2664]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:115577::::::::120:258::5:1:566:::||h[Windspeaker's Tunic]||h||r) (5)", -- [2665]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2666]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r)", -- [2667]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:115577::::::::120:258::5:1:566:::|h[Windspeaker's Tunic]|h|r)", -- [2668]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r) (temp) (restored) (table: 00000206A01B5970)", -- [2669]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113932::::::::120:258::5:1:566:::||h[Talisman of the Fomor]||h||r) (5)", -- [2670]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2671]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r)", -- [2672]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113932::::::::120:258::5:1:566:::|h[Talisman of the Fomor]|h|r)", -- [2673]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r) (temp) (restored) (table: 00000206A01B5AB0)", -- [2674]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113934::::::::120:258::5:2:43:566:::||h[Fang of the Earth]||h||r) (5)", -- [2675]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2676]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r)", -- [2677]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113934::::::::120:258::5:2:43:566:::|h[Fang of the Earth]|h|r)", -- [2678]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r) (temp) (restored) (table: 00000206A01B5BF0)", -- [2679]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:1:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2680]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2681]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r)", -- [2682]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:115563::::::::120:258::5:1:566:::|h[Soul Priest's Hood]|h|r)", -- [2683]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r) (temp) (restored) (table: 00000206A01B5D30)", -- [2684]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113869::::::::120:258::5:1:566:::||h[Inferno-Flame Staff]||h||r) (5)", -- [2685]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2686]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r)", -- [2687]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113869::::::::120:258::5:1:566:::|h[Inferno-Flame Staff]|h|r)", -- [2688]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r) (temp) (restored) (table: 00000206A01B5E70)", -- [2689]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:1:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2690]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2691]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r)", -- [2692]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:120078::::::::120:258::5:1:566:::|h[Runescribed Gronncloak]|h|r)", -- [2693]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r) (temp) (restored) (table: 00000206A01B5FB0)", -- [2694]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113867::::::::120:258::5:1:566:::||h[Spaulders of Reflected Stone]||h||r) (5)", -- [2695]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2696]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r)", -- [2697]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113867::::::::120:258::5:1:566:::|h[Spaulders of Reflected Stone]|h|r)", -- [2698]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r) (temp) (restored) (table: 00000206A01B60F0)", -- [2699]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113875::::::::120:258::5:1:566:::||h[Corrosion-Proof Legguards]||h||r) (5)", -- [2700]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2701]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r)", -- [2702]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113875::::::::120:258::5:1:566:::|h[Corrosion-Proof Legguards]|h|r)", -- [2703]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r) (temp) (restored) (table: 00000206A01B6230)", -- [2704]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113881::::::::120:258::5:1:566:::||h[Chestplate of Rolling Fury]||h||r) (5)", -- [2705]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2706]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r)", -- [2707]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113881::::::::120:258::5:1:566:::|h[Chestplate of Rolling Fury]|h|r)", -- [2708]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r) (temp) (restored) (table: 00000206A01B6370)", -- [2709]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113885::::::::120:258::5:1:566:::||h[Mouth of The Fury]||h||r) (5)", -- [2710]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2711]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r)", -- [2712]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113885::::::::120:258::5:1:566:::|h[Mouth of The Fury]|h|r)", -- [2713]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r) (temp) (restored) (table: 00000206A01B64B0)", -- [2714]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:113894::::::::120:258::5:1:566:::||h[Lava-Dipped Greathelm]||h||r) (5)", -- [2715]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2716]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r)", -- [2717]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:113894::::::::120:258::5:1:566:::|h[Lava-Dipped Greathelm]|h|r)", -- [2718]
+			"00:52:06 - Storage:New (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r) (temp) (restored) (table: 00000206A01B65F0)", -- [2719]
+			"00:52:06 - Storage: searching for item: (||cffa335ee||Hitem:115580::::::::120:258::5:1:566:::||h[Blackhand's Legguards]||h||r) (5)", -- [2720]
+			"00:52:06 - Found: (nil) (nil) (nil)", -- [2721]
+			"00:52:06 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r)", -- [2722]
+			"00:52:06 - Storage:RemoveItem (|cffa335ee|Hitem:115580::::::::120:258::5:1:566:::|h[Blackhand's Legguards]|h|r)", -- [2723]
+			"08/31/20", -- [2724]
+			"00:52:29 - Logged In", -- [2725]
+			"00:52:29 - ML initialized!", -- [2726]
+			"00:52:29 - TradeUI enabled", -- [2727]
+			"00:52:34 - Neaxa-Blackmoore (2.19.3) (nil)", -- [2728]
+			"00:52:34 - ActivateSkin (bfa)", -- [2729]
+			"00:52:38 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [2730]
+			"00:52:38 - GetML()", -- [2731]
+			"00:52:38 - UpdatePlayersData()", -- [2732]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r) (temp) (restored) (table: 000002070169E4F0)", -- [2733]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::||h[Pain-Singed Armguards]||h||r) (5)", -- [2734]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2735]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r)", -- [2736]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:147057::::::::120:258::5:4:3562:42:1483:3528:::|h[Pain-Singed Armguards]|h|r)", -- [2737]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r) (temp) (restored) (table: 000002070169E630)", -- [2738]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::||h[Fanged Slayer's Handguards]||h||r) (5)", -- [2739]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2740]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r)", -- [2741]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:147171::::::::120:258::5:5:3562:43:1483:5850:3336:::|h[Fanged Slayer's Handguards]|h|r)", -- [2742]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r) (temp) (restored) (table: 000002070169E770)", -- [2743]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::||h[Sinew-Stitched Wristguards]||h||r) (5)", -- [2744]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2745]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r)", -- [2746]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:147041::::::::120:258::5:4:3562:41:1483:3528:::|h[Sinew-Stitched Wristguards]|h|r)", -- [2747]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r) (temp) (restored) (table: 000002070169E8B0)", -- [2748]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:119192::::::::120:258::5:2:561:566:::||h[Ironspike Chew Toy]||h||r) (5)", -- [2749]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2750]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r)", -- [2751]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:119192::::::::120:258::5:2:561:566:::|h[Ironspike Chew Toy]|h|r)", -- [2752]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r) (temp) (restored) (table: 000002070169E9F0)", -- [2753]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:113956::::::::120:258::5:1:566:::||h[Bracers of Enkindled Power]||h||r) (5)", -- [2754]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2755]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r)", -- [2756]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:113956::::::::120:258::5:1:566:::|h[Bracers of Enkindled Power]|h|r)", -- [2757]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r) (temp) (restored) (table: 000002070169EB30)", -- [2758]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:115576::::::::120:258::5:1:566:::||h[Windspeaker's Mantle]||h||r) (5)", -- [2759]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2760]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r)", -- [2761]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:115576::::::::120:258::5:1:566:::|h[Windspeaker's Mantle]|h|r)", -- [2762]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r) (temp) (restored) (table: 000002070169EC70)", -- [2763]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:113908::::::::120:258::5:1:566:::||h[Razoredge Blade Ring]||h||r) (5)", -- [2764]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2765]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r)", -- [2766]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:113908::::::::120:258::5:1:566:::|h[Razoredge Blade Ring]|h|r)", -- [2767]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r) (temp) (restored) (table: 000002070169EDB0)", -- [2768]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:113918::::::::120:258::5:1:566:::||h[Molten Edge Eviscerator]||h||r) (5)", -- [2769]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2770]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r)", -- [2771]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:113918::::::::120:258::5:1:566:::|h[Molten Edge Eviscerator]|h|r)", -- [2772]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r) (temp) (restored) (table: 000002070169EEF0)", -- [2773]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:115537::::::::120:258::5:1:566:::||h[Ogreskull Boneplate Breastplate]||h||r) (5)", -- [2774]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2775]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r)", -- [2776]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:115537::::::::120:258::5:1:566:::|h[Ogreskull Boneplate Breastplate]|h|r)", -- [2777]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r) (temp) (restored) (table: 000002070169F030)", -- [2778]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:115563::::::::120:258::5:2:561:566:::||h[Soul Priest's Hood]||h||r) (5)", -- [2779]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2780]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r)", -- [2781]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:115563::::::::120:258::5:2:561:566:::|h[Soul Priest's Hood]|h|r)", -- [2782]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r) (temp) (restored) (table: 000002070169F170)", -- [2783]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:113868::::::::120:258::5:1:566:::||h[Flare-Eyed Hood]||h||r) (5)", -- [2784]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2785]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r)", -- [2786]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:113868::::::::120:258::5:1:566:::|h[Flare-Eyed Hood]|h|r)", -- [2787]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r) (temp) (restored) (table: 000002070169F2B0)", -- [2788]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:119194::::::::120:258::5:1:566:::||h[Goren Soul Repository]||h||r) (5)", -- [2789]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2790]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r)", -- [2791]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:119194::::::::120:258::5:1:566:::|h[Goren Soul Repository]|h|r)", -- [2792]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r) (temp) (restored) (table: 000002070169F3F0)", -- [2793]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:119448::::::::120:258::5:1:566:::||h[Head-Lopper Skullscythe]||h||r) (5)", -- [2794]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2795]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r)", -- [2796]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:119448::::::::120:258::5:1:566:::|h[Head-Lopper Skullscythe]|h|r)", -- [2797]
+			"00:52:41 - Storage:New (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r) (temp) (restored) (table: 000002070169F530)", -- [2798]
+			"00:52:41 - Storage: searching for item: (||cffa335ee||Hitem:115557::::::::120:258::5:1:566:::||h[Legwraps of the Somber Gaze]||h||r) (5)", -- [2799]
+			"00:52:41 - Found: (nil) (nil) (nil)", -- [2800]
+			"00:52:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r)", -- [2801]
+			"00:52:41 - Storage:RemoveItem (|cffa335ee|Hitem:115557::::::::120:258::5:1:566:::|h[Legwraps of the Somber Gaze]|h|r)", -- [2802]
+			"00:53:27 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2803]
+			"00:53:27 - GetML()", -- [2804]
+			"08/31/20", -- [2805]
+			"00:53:45 - Logged In", -- [2806]
+			"00:53:45 - ML initialized!", -- [2807]
+			"00:53:45 - TradeUI enabled", -- [2808]
+			"00:53:50 - Neaxa-Blackmoore (2.19.3) (nil)", -- [2809]
+			"00:53:50 - ActivateSkin (bfa)", -- [2810]
+			"00:53:54 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [2811]
+			"00:53:54 - GetML()", -- [2812]
+			"00:53:54 - UpdatePlayersData()", -- [2813]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r) (temp) (restored) (table: 00000206C3465520)", -- [2814]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:146986::::::::120:258::5:3:3562:1483:3528:::||h[Emberscatter Treads]||h||r) (5)", -- [2815]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2816]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r)", -- [2817]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:146986::::::::120:258::5:3:3562:1483:3528:::|h[Emberscatter Treads]|h|r)", -- [2818]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r) (temp) (restored) (table: 00000206C3465660)", -- [2819]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:151189::::::::120:258::5:3:3562:1483:3528:::||h[Tears of the Maiden]||h||r) (5)", -- [2820]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2821]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r)", -- [2822]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:151189::::::::120:258::5:3:3562:1483:3528:::|h[Tears of the Maiden]|h|r)", -- [2823]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r) (temp) (restored) (table: 00000206C34657A0)", -- [2824]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:113957::::::::120:258::5:1:566:::||h[Firemender's Smoldering Signet]||h||r) (5)", -- [2825]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2826]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r)", -- [2827]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:113957::::::::120:258::5:1:566:::|h[Firemender's Smoldering Signet]|h|r)", -- [2828]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r) (temp) (restored) (table: 00000206C34658E0)", -- [2829]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:113903::::::::120:258::5:1:566:::||h[Giant Pumpers]||h||r) (5)", -- [2830]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2831]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r)", -- [2832]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:113903::::::::120:258::5:1:566:::|h[Giant Pumpers]|h|r)", -- [2833]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r) (temp) (restored) (table: 00000206C3465A20)", -- [2834]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:113938::::::::120:258::5:2:42:566:::||h[Stonefist Band]||h||r) (5)", -- [2835]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2836]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r)", -- [2837]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:113938::::::::120:258::5:2:42:566:::|h[Stonefist Band]|h|r)", -- [2838]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r) (temp) (restored) (table: 00000206C3465B60)", -- [2839]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:120078::::::::120:258::5:2:561:566:::||h[Runescribed Gronncloak]||h||r) (5)", -- [2840]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2841]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r)", -- [2842]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:120078::::::::120:258::5:2:561:566:::|h[Runescribed Gronncloak]|h|r)", -- [2843]
+			"00:53:57 - Storage:New (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r) (temp) (restored) (table: 00000206C3465CA0)", -- [2844]
+			"00:53:57 - Storage: searching for item: (||cffa335ee||Hitem:113890::::::::120:258::5:1:566:::||h[Feldspar's Control Choker]||h||r) (5)", -- [2845]
+			"00:53:57 - Found: (nil) (nil) (nil)", -- [2846]
+			"00:53:57 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r)", -- [2847]
+			"00:53:57 - Storage:RemoveItem (|cffa335ee|Hitem:113890::::::::120:258::5:1:566:::|h[Feldspar's Control Choker]|h|r)", -- [2848]
+			"00:58:43 - Event: (RAID_INSTANCE_WELCOME) (Blackrock Foundry (Heroic)) (201676) (0) (0)", -- [2849]
+			"00:58:44 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [2850]
+			"00:58:44 - GetML()", -- [2851]
+			"00:59:54 - Event: (ENCOUNTER_START) (1694) (Beastlord Darmac) (15) (10)", -- [2852]
+			"00:59:54 - UpdatePlayersData()", -- [2853]
+			"01:00:07 - Event: (ENCOUNTER_END) (1694) (Beastlord Darmac) (15) (10) (1)", -- [2854]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2855]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2856]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2857]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2858]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2859]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2860]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2861]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2862]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2863]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2864]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2865]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2866]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2867]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2868]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2869]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2870]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2871]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2872]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2873]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2874]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2875]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2876]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2877]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2878]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2879]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2880]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2881]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2882]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2883]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2884]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2885]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2886]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2887]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2888]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2889]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2890]
+			"01:00:08 - Adding to self.lootSlotInfo (1) (nil) (1) (0) (Creature-0-3889-1205-10759-76865-00004C2F24) (266389)", -- [2891]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2892]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2893]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2894]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2895]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2896]
+			"01:00:08 - OnLootSlotCleared() (1) (nil) (1)", -- [2897]
+			"01:00:08 - Event: (LOOT_READY) (true)", -- [2898]
+			"01:00:08 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2899]
+			"01:00:08 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2900]
+			"01:00:08 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2901]
+			"01:00:08 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2902]
+			"01:00:08 - Adding to self.lootSlotInfo (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2903]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2904]
+			"01:00:18 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4)", -- [2905]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2906]
+			"01:00:18 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [2907]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2908]
+			"01:00:18 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4)", -- [2909]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2910]
+			"01:00:18 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4)", -- [2911]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2912]
+			"01:00:18 - OnLootSlotCleared() (6) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [2913]
+			"01:00:18 - Event: (LOOT_CLOSED)", -- [2914]
+			"01:00:18 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [2915]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2916]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2917]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2918]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2919]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2920]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2921]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2922]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2923]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2924]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2925]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2926]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2927]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2928]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2929]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2930]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2931]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2932]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2933]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2934]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2935]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2936]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2937]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2938]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2939]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2940]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2941]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2942]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2943]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2944]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2945]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2946]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2947]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2948]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2949]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2950]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2951]
+			"01:00:19 - Event: (LOOT_READY) (true)", -- [2952]
+			"01:00:19 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2953]
+			"01:00:19 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2954]
+			"01:00:19 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2955]
+			"01:00:19 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2956]
+			"01:00:19 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [2957]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2958]
+			"01:00:20 - OnLootSlotCleared() (1) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4)", -- [2959]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2960]
+			"01:00:20 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [2961]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2962]
+			"01:00:20 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4)", -- [2963]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2964]
+			"01:00:20 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4)", -- [2965]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2966]
+			"01:00:20 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [2967]
+			"01:00:20 - Event: (LOOT_CLOSED)", -- [2968]
+			"01:00:20 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [2969]
+			"01:00:20 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [2970]
+			"01:00:20 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [2971]
+			"01:00:20 - Found: (nil) (nil) (nil)", -- [2972]
+			"01:00:20 - Storage:New (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (temp)", -- [2973]
+			"01:00:20 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [2974]
+			"01:00:20 - Found: (nil) (nil) (nil)", -- [2975]
+			"01:00:20 - Storage:New (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (temp)", -- [2976]
+			"01:00:20 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [2977]
+			"01:00:20 - Found: (nil) (nil) (nil)", -- [2978]
+			"01:00:20 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [2979]
+			"01:00:20 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [2980]
+			"01:00:20 - Found: (nil) (nil) (nil)", -- [2981]
+			"01:00:20 - Storage:New (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (temp)", -- [2982]
+			"01:00:20 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [2983]
+			"01:00:20 - Found: (nil) (nil) (nil)", -- [2984]
+			"01:00:20 - ADDON_ACTION_BLOCKED (TheUndermineJournal) (UNKNOWN())", -- [2985]
+			"01:00:21 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [2986]
+			"01:00:21 - Found: (nil) (nil) (nil)", -- [2987]
+			"01:00:21 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [2988]
+			"01:00:21 - Found: (nil) (nil) (nil)", -- [2989]
+			"01:00:21 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [2990]
+			"01:00:21 - Found: (nil) (nil) (nil)", -- [2991]
+			"01:00:21 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [2992]
+			"01:00:21 - Found: (nil) (nil) (nil)", -- [2993]
+			"01:00:21 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [2994]
+			"01:00:21 - Found: (nil) (nil) (nil)", -- [2995]
+			"01:00:22 - Storage:New (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (temp)", -- [2996]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [2997]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [2998]
+			"01:00:22 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [2999]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3000]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3001]
+			"01:00:22 - Storage:New (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (temp)", -- [3002]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3003]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3004]
+			"01:00:22 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [3005]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3006]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3007]
+			"01:00:22 - Storage:New (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (temp)", -- [3008]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3009]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3010]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3011]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3012]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3013]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3014]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3015]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3016]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3017]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3018]
+			"01:00:22 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3019]
+			"01:00:22 - Found: (nil) (nil) (nil)", -- [3020]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3021]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3022]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3023]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3024]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3025]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3026]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3027]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3028]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3029]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3030]
+			"01:00:23 - ADDON_ACTION_BLOCKED (TheUndermineJournal) (UNKNOWN())", -- [3031]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3032]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3033]
+			"01:00:23 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r not found in bags", -- [3034]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3035]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3036]
+			"01:00:23 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r not found in bags", -- [3037]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3038]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3039]
+			"01:00:23 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r not found in bags", -- [3040]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3041]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3042]
+			"01:00:23 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r not found in bags", -- [3043]
+			"01:00:23 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3044]
+			"01:00:23 - Found: (nil) (nil) (nil)", -- [3045]
+			"01:00:23 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r not found in bags", -- [3046]
+			"01:00:24 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3047]
+			"01:00:24 - Found: (nil) (nil) (nil)", -- [3048]
+			"01:00:24 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3049]
+			"01:00:24 - Found: (nil) (nil) (nil)", -- [3050]
+			"01:00:24 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3051]
+			"01:00:24 - Found: (nil) (nil) (nil)", -- [3052]
+			"01:00:24 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3053]
+			"01:00:24 - Found: (nil) (nil) (nil)", -- [3054]
+			"01:00:24 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3055]
+			"01:00:24 - Found: (nil) (nil) (nil)", -- [3056]
+			"01:00:25 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3057]
+			"01:00:25 - Found: (nil) (nil) (nil)", -- [3058]
+			"01:00:25 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r not found in bags", -- [3059]
+			"01:00:25 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3060]
+			"01:00:25 - Found: (nil) (nil) (nil)", -- [3061]
+			"01:00:25 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r not found in bags", -- [3062]
+			"01:00:25 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3063]
+			"01:00:25 - Found: (nil) (nil) (nil)", -- [3064]
+			"01:00:25 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r not found in bags", -- [3065]
+			"01:00:25 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3066]
+			"01:00:25 - Found: (nil) (nil) (nil)", -- [3067]
+			"01:00:25 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r not found in bags", -- [3068]
+			"01:00:25 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3069]
+			"01:00:25 - Found: (nil) (nil) (nil)", -- [3070]
+			"01:00:25 - <ERROR> UpdateAndSendRecentTradableItem: |cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r not found in bags", -- [3071]
+			"01:00:39 - ADDON_ACTION_BLOCKED (TheUndermineJournal) (UNKNOWN())", -- [3072]
+			"01:00:42 - ADDON_ACTION_BLOCKED (TheUndermineJournal) (UNKNOWN())", -- [3073]
+			"08/31/20", -- [3074]
+			"01:00:53 - Logged In", -- [3075]
+			"01:00:53 - ML initialized!", -- [3076]
+			"01:00:53 - TradeUI enabled", -- [3077]
+			"01:00:58 - Neaxa-Blackmoore (2.19.3) (nil)", -- [3078]
+			"01:00:58 - ActivateSkin (bfa)", -- [3079]
+			"01:01:02 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3080]
+			"01:01:02 - GetML()", -- [3081]
+			"01:01:02 - UpdatePlayersData()", -- [3082]
+			"01:01:05 - Storage:New (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r) (temp) (restored) (table: 0000020683786190)", -- [3083]
+			"01:01:05 - Storage: searching for item: (||cffa335ee||Hitem:147086::::::::120:258::5:3:3562:1483:3528:::||h[Befouled Effigy of Elune]||h||r) (5)", -- [3084]
+			"01:01:05 - Found: (nil) (nil) (nil)", -- [3085]
+			"01:01:05 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r)", -- [3086]
+			"01:01:05 - Storage:RemoveItem (|cffa335ee|Hitem:147086::::::::120:258::5:3:3562:1483:3528:::|h[Befouled Effigy of Elune]|h|r)", -- [3087]
+			"01:01:05 - Storage:New (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r) (temp) (restored) (table: 00000206837862D0)", -- [3088]
+			"01:01:05 - Storage: searching for item: (||cffa335ee||Hitem:113906::::::::120:258::5:1:566:::||h[Gauntlets of Dramatic Blows]||h||r) (5)", -- [3089]
+			"01:01:05 - Found: (nil) (nil) (nil)", -- [3090]
+			"01:01:05 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r)", -- [3091]
+			"01:01:05 - Storage:RemoveItem (|cffa335ee|Hitem:113906::::::::120:258::5:1:566:::|h[Gauntlets of Dramatic Blows]|h|r)", -- [3092]
+			"01:01:05 - Storage:New (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r) (temp) (restored) (table: 0000020683786410)", -- [3093]
+			"01:01:05 - Storage: searching for item: (||cffa335ee||Hitem:115556::::::::120:258::5:1:566:::||h[Helm of the Somber Gaze]||h||r) (5)", -- [3094]
+			"01:01:05 - Found: (nil) (nil) (nil)", -- [3095]
+			"01:01:05 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r)", -- [3096]
+			"01:01:05 - Storage:RemoveItem (|cffa335ee|Hitem:115556::::::::120:258::5:1:566:::|h[Helm of the Somber Gaze]|h|r)", -- [3097]
+			"01:01:05 - Storage:New (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r) (temp) (restored) (table: 0000020683786550)", -- [3098]
+			"01:01:05 - Storage: searching for item: (||cffa335ee||Hitem:115543::::::::120:258::5:1:566:::||h[Living Wood Legguards]||h||r) (5)", -- [3099]
+			"01:01:05 - Found: (nil) (nil) (nil)", -- [3100]
+			"01:01:05 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r)", -- [3101]
+			"01:01:05 - Storage:RemoveItem (|cffa335ee|Hitem:115543::::::::120:258::5:1:566:::|h[Living Wood Legguards]|h|r)", -- [3102]
+			"01:01:16 - Event: (LOOT_READY) (true)", -- [3103]
+			"01:01:16 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3104]
+			"01:01:16 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3105]
+			"01:01:16 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3106]
+			"01:01:16 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3107]
+			"01:01:16 - Event: (LOOT_READY) (true)", -- [3108]
+			"01:01:16 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3109]
+			"01:01:16 - Adding to self.lootSlotInfo (2) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3110]
+			"01:01:16 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3111]
+			"01:01:16 - Adding to self.lootSlotInfo (4) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3112]
+			"01:01:16 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3113]
+			"01:01:16 - OnLootSlotCleared() (4) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [3114]
+			"01:01:16 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (4)", -- [3115]
+			"01:01:16 - OnLootSlotCleared() (2) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (4)", -- [3116]
+			"01:01:16 - Event: (LOOT_READY) (true)", -- [3117]
+			"01:01:16 - Adding to self.lootSlotInfo (1) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3118]
+			"01:01:16 - Adding to self.lootSlotInfo (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4) (1) (Creature-0-3889-1205-10759-76865-00004C2F24) (1)", -- [3119]
+			"01:01:16 - OnLootSlotCleared() (1) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (4)", -- [3120]
+			"01:01:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113943) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (1) (Neaxa) (MAGE)", -- [3121]
+			"01:01:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113952) (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (1) (Neaxa) (MAGE)", -- [3122]
+			"01:01:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113944) (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (1) (Neaxa) (MAGE)", -- [3123]
+			"01:01:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113940) (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (1) (Neaxa) (MAGE)", -- [3124]
+			"01:01:16 - OnLootSlotCleared() (5) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (4)", -- [3125]
+			"01:01:16 - Event: (LOOT_CLOSED)", -- [3126]
+			"01:01:16 - Event: (LOOT_CLOSED)", -- [3127]
+			"01:01:16 - Event: (ENCOUNTER_LOOT_RECEIVED) (1694) (113943) (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (1) (Neaxa) (MAGE)", -- [3128]
+			"01:01:17 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3129]
+			"01:01:17 - Comm received:^1^Slooted^T^N1^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3130]
+			"01:01:18 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [3131]
+			"01:01:18 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3132]
+			"01:01:18 - Found item at (0) (4)", -- [3133]
+			"01:01:18 - Found item at (0) (9)", -- [3134]
+			"01:01:18 - Found: (0) (9) (0)", -- [3135]
+			"01:01:18 - Storage:New (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (temp)", -- [3136]
+			"01:01:18 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3137]
+			"01:01:18 - Found item at (0) (5)", -- [3138]
+			"01:01:18 - Found: (0) (5) (0)", -- [3139]
+			"01:01:18 - Storage:New (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (temp)", -- [3140]
+			"01:01:18 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3141]
+			"01:01:18 - Found item at (0) (6)", -- [3142]
+			"01:01:18 - Found: (0) (6) (0)", -- [3143]
+			"01:01:18 - Storage:New (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (temp)", -- [3144]
+			"01:01:18 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3145]
+			"01:01:18 - Found item at (0) (8)", -- [3146]
+			"01:01:18 - Found: (0) (8) (0)", -- [3147]
+			"01:01:18 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp)", -- [3148]
+			"01:01:18 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3149]
+			"01:01:18 - Found item at (0) (4)", -- [3150]
+			"01:01:18 - Found item at (0) (9)", -- [3151]
+			"01:01:18 - Found: (0) (9) (0)", -- [3152]
+			"01:01:19 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3153]
+			"01:01:19 - Found item at (0) (4)", -- [3154]
+			"01:01:19 - Found item at (0) (9)", -- [3155]
+			"01:01:19 - Found: (0) (9) (0)", -- [3156]
+			"01:01:19 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3157]
+			"01:01:19 - Found item at (0) (5)", -- [3158]
+			"01:01:19 - Found: (0) (5) (0)", -- [3159]
+			"01:01:19 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3160]
+			"01:01:19 - Found item at (0) (6)", -- [3161]
+			"01:01:19 - Found: (0) (6) (0)", -- [3162]
+			"01:01:19 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3163]
+			"01:01:19 - Found item at (0) (8)", -- [3164]
+			"01:01:19 - Found: (0) (8) (0)", -- [3165]
+			"01:01:19 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers~`of~`the~`Wolf's~`Cunning]|h|r^N2^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3166]
+			"01:01:19 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker~`of~`Bestial~`Force]|h|r^N2^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3167]
+			"01:01:19 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards~`of~`the~`Stampede]|h|r^N2^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3168]
+			"01:01:19 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal~`of~`the~`Savage~`Howl]|h|r^N2^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3169]
+			"01:01:19 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3170]
+			"01:01:19 - Found item at (0) (4)", -- [3171]
+			"01:01:19 - Found item at (0) (9)", -- [3172]
+			"01:01:19 - Found: (0) (9) (0)", -- [3173]
+			"01:01:20 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers~`of~`the~`Wolf's~`Cunning]|h|r^N2^S76865^t^^ (from:) (Neaxa) (distri:) (WHISPER)", -- [3174]
+			"01:04:35 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3175]
+			"01:04:35 - GetML()", -- [3176]
+			"01:06:31 - Event: (RAID_INSTANCE_WELCOME) (Tomb of Sargeras (Heroic)) (201208) (0) (0)", -- [3177]
+			"01:06:31 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3178]
+			"01:06:31 - GetML()", -- [3179]
+			"01:08:05 - Event: (ENCOUNTER_START) (2032) (Goroth) (15) (10)", -- [3180]
+			"01:08:05 - UpdatePlayersData()", -- [3181]
+			"01:08:51 - Event: (ENCOUNTER_END) (2032) (Goroth) (15) (10) (0)", -- [3182]
+			"01:09:12 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3183]
+			"01:09:12 - GetML()", -- [3184]
+			"08/31/20", -- [3185]
+			"01:09:32 - Logged In", -- [3186]
+			"01:09:32 - ML initialized!", -- [3187]
+			"01:09:32 - TradeUI enabled", -- [3188]
+			"01:09:42 - Nexanâ-Blackmoore (2.19.3) (nil)", -- [3189]
+			"01:09:42 - ActivateSkin (bfa)", -- [3190]
+			"01:09:47 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3191]
+			"01:09:47 - GetML()", -- [3192]
+			"01:09:47 - UpdatePlayersData()", -- [3193]
+			"01:09:51 - Storage:New (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r) (temp) (restored) (table: 0000020737B72940)", -- [3194]
+			"01:09:51 - Storage: searching for item: (||cffa335ee||Hitem:113942::::::::120:258::5:2:40:566:::||h[Inferno Breath Sandals]||h||r) (5)", -- [3195]
+			"01:09:51 - Found: (nil) (nil) (nil)", -- [3196]
+			"01:09:51 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r)", -- [3197]
+			"01:09:51 - Storage:RemoveItem (|cffa335ee|Hitem:113942::::::::120:258::5:2:40:566:::|h[Inferno Breath Sandals]|h|r)", -- [3198]
+			"01:09:51 - Storage:New (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r) (temp) (restored) (table: 0000020737B72B20)", -- [3199]
+			"01:09:51 - Storage: searching for item: (||cffa335ee||Hitem:113877::::::::120:258::5:1:566:::||h[Unexploded Explosive Shard]||h||r) (5)", -- [3200]
+			"01:09:51 - Found: (nil) (nil) (nil)", -- [3201]
+			"01:09:51 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r)", -- [3202]
+			"01:09:51 - Storage:RemoveItem (|cffa335ee|Hitem:113877::::::::120:258::5:1:566:::|h[Unexploded Explosive Shard]|h|r)", -- [3203]
+			"01:09:51 - Storage:New (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r) (temp) (restored) (table: 0000020737B72CB0)", -- [3204]
+			"01:09:51 - Storage: searching for item: (||cffa335ee||Hitem:113952::::::::120:62::5:1:566:::||h[Choker of Bestial Force]||h||r) (5)", -- [3205]
+			"01:09:51 - Found: (nil) (nil) (nil)", -- [3206]
+			"01:09:51 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r)", -- [3207]
+			"01:09:51 - Storage:RemoveItem (|cffa335ee|Hitem:113952::::::::120:62::5:1:566:::|h[Choker of Bestial Force]|h|r)", -- [3208]
+			"01:09:51 - Storage:New (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r) (temp) (restored) (table: 0000020737B72E90)", -- [3209]
+			"01:09:51 - Storage: searching for item: (||cffa335ee||Hitem:113940::::::::120:62::5:1:566:::||h[Seal of the Savage Howl]||h||r) (5)", -- [3210]
+			"01:09:51 - Found: (nil) (nil) (nil)", -- [3211]
+			"01:09:51 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r)", -- [3212]
+			"01:09:51 - Storage:RemoveItem (|cffa335ee|Hitem:113940::::::::120:62::5:1:566:::|h[Seal of the Savage Howl]|h|r)", -- [3213]
+			"08/31/20", -- [3214]
+			"01:10:08 - Logged In", -- [3215]
+			"01:10:08 - ML initialized!", -- [3216]
+			"01:10:08 - TradeUI enabled", -- [3217]
+			"01:10:17 - Nexana-Blackmoore (2.19.3) (nil)", -- [3218]
+			"01:10:17 - ActivateSkin (bfa)", -- [3219]
+			"01:10:21 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3220]
+			"01:10:21 - GetML()", -- [3221]
+			"01:10:21 - UpdatePlayersData()", -- [3222]
+			"01:10:27 - Storage:New (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r) (temp) (restored) (table: 00000206C90E62F0)", -- [3223]
+			"01:10:27 - Storage: searching for item: (||cffa335ee||Hitem:115570::::::::120:258::5:1:566:::||h[Poisoner's Tunic]||h||r) (5)", -- [3224]
+			"01:10:27 - Found: (nil) (nil) (nil)", -- [3225]
+			"01:10:27 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r)", -- [3226]
+			"01:10:27 - Storage:RemoveItem (|cffa335ee|Hitem:115570::::::::120:258::5:1:566:::|h[Poisoner's Tunic]|h|r)", -- [3227]
+			"01:10:27 - Storage:New (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r) (temp) (restored) (table: 00000206C90E6430)", -- [3228]
+			"01:10:27 - Storage: searching for item: (||cffa335ee||Hitem:113944::::::::120:62::5:1:566:::||h[Legguards of the Stampede]||h||r) (5)", -- [3229]
+			"01:10:27 - Found: (nil) (nil) (nil)", -- [3230]
+			"01:10:27 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r)", -- [3231]
+			"01:10:27 - Storage:RemoveItem (|cffa335ee|Hitem:113944::::::::120:62::5:1:566:::|h[Legguards of the Stampede]|h|r)", -- [3232]
+			"08/31/20", -- [3233]
+			"19:10:47 - Logged In", -- [3234]
+			"19:10:47 - ML initialized!", -- [3235]
+			"19:10:47 - TradeUI enabled", -- [3236]
+			"19:11:04 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3237]
+			"19:11:04 - ActivateSkin (bfa)", -- [3238]
+			"19:11:07 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3239]
+			"19:11:07 - GetML()", -- [3240]
+			"19:11:07 - UpdatePlayersData()", -- [3241]
+			"19:11:09 - GetPlayersGuildRank()", -- [3242]
+			"19:11:09 - Found Guild Rank: Alt", -- [3243]
+			"19:11:11 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp) (restored) (table: 0000018B9E683090)", -- [3244]
+			"19:11:11 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3245]
+			"19:11:11 - Found: (nil) (nil) (nil)", -- [3246]
+			"19:11:11 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r)", -- [3247]
+			"19:11:11 - Storage:RemoveItem (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r)", -- [3248]
+			"19:11:11 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3249]
+			"19:11:29 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Isary) (distri:) (GUILD)", -- [3250]
+			"08/31/20", -- [3251]
+			"19:16:32 - Logged In", -- [3252]
+			"19:16:32 - ML initialized!", -- [3253]
+			"19:16:32 - TradeUI enabled", -- [3254]
+			"19:16:41 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3255]
+			"19:16:41 - ActivateSkin (bfa)", -- [3256]
+			"19:16:44 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3257]
+			"19:16:44 - GetML()", -- [3258]
+			"19:16:44 - UpdatePlayersData()", -- [3259]
+			"19:16:46 - GetPlayersGuildRank()", -- [3260]
+			"19:16:46 - GetPlayersGuildRank()", -- [3261]
+			"19:16:46 - Found Guild Rank: Alt", -- [3262]
+			"19:16:48 - Storage:New (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r) (temp) (restored) (table: 0000020E1C4AE3B0)", -- [3263]
+			"19:16:48 - Storage: searching for item: (||cffa335ee||Hitem:113943::::::::120:62::5:1:566:::||h[Bracers of the Wolf's Cunning]||h||r) (5)", -- [3264]
+			"19:16:48 - Found: (nil) (nil) (nil)", -- [3265]
+			"19:16:48 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r)", -- [3266]
+			"19:16:48 - Storage:RemoveItem (|cffa335ee|Hitem:113943::::::::120:62::5:1:566:::|h[Bracers of the Wolf's Cunning]|h|r)", -- [3267]
+			"19:16:48 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3268]
+			"19:20:28 - Event: (PARTY_LEADER_CHANGED)", -- [3269]
+			"19:20:28 - GetML()", -- [3270]
+			"19:20:28 - Resetting council as we have a new ML!", -- [3271]
+			"19:20:28 - MasterLooter =  (Nexâna-Blackmoore)", -- [3272]
+			"19:20:28 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [3273]
+			"19:20:28 - ML:NewML (Nexâna-Blackmoore)", -- [3274]
+			"19:20:28 - UpdateMLdb", -- [3275]
+			"19:20:28 - OnMLDBReceived", -- [3276]
+			"19:20:28 - UpdateGroup (true)", -- [3277]
+			"19:20:28 - ML:AddCandidate (Nexâna-Blackmoore) (PRIEST) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [3278]
+			"19:20:28 - RCLootCouncilML:SendCandidates()", -- [3279]
+			"19:20:28 - candidates_cooldown == false", -- [3280]
+			"19:20:28 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [3281]
+			"19:20:28 - ML:SendCouncil()", -- [3282]
+			"19:20:28 - Comm received:^1^SplayerInfoRequest^T^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3283]
+			"19:20:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3284]
+			"19:20:28 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3285]
+			"19:20:28 - Comm received:^1^Scandidates^T^N1^T^SNexâna-Blackmoore^T^Srole^SDAMAGER^Sclass^SPRIEST^Srank^S^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3286]
+			"19:20:28 - Comm received:^1^Scouncil^T^N1^T^N1^SNexâna-Blackmoore^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3287]
+			"19:20:28 - true = (ConcilContains) (Nexâna-Blackmoore)", -- [3288]
+			"19:20:28 - GetLootDBStatistics()", -- [3289]
+			"19:20:28 - GetGuildRankNum()", -- [3290]
+			"19:20:28 - RCVotingFrame (enabled)", -- [3291]
+			"19:20:28 - Comm received:^1^SplayerInfo^T^N1^SNexâna-Blackmoore^N2^SPRIEST^N3^SDAMAGER^N4^SAlt^N6^N0^N7^N465.25^N8^N258^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [3292]
+			"19:20:28 - ML:AddCandidate (Nexâna-Blackmoore) (PRIEST) (DAMAGER) (Alt) (nil) (0) (465.25) (258)", -- [3293]
+			"19:20:28 - RCLootCouncilML:SendCandidates()", -- [3294]
+			"19:20:28 - candidates_cooldown == true", -- [3295]
+			"19:20:28 - candidate_send == false", -- [3296]
+			"19:20:29 - VotingFrame:Update() without lootTable!!", -- [3297]
+			"19:20:33 - ML:OnCouncilCooldown()", -- [3298]
+			"19:20:38 - RCLootCouncilML:OnCandidatesCooldown()", -- [3299]
+			"19:20:38 - ML:SendCandidates()", -- [3300]
+			"19:20:38 - Comm received:^1^Scandidates^T^N1^T^SNexâna-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N0^Sclass^SPRIEST^Srank^SAlt^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3301]
+			"19:20:38 - UpdateGroup (table: 0000020ECE7815A0)", -- [3302]
+			"19:20:38 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (nil) (nil) (nil) (nil) (nil)", -- [3303]
+			"19:20:38 - RCLootCouncilML:SendCandidates()", -- [3304]
+			"19:20:38 - candidates_cooldown == false", -- [3305]
+			"19:20:38 - GetCouncilInGroup (Nexâna-Blackmoore)", -- [3306]
+			"19:20:38 - Comm received:^1^SMLdb^T^N1^T^SallowNotes^B^Stimeout^N60^SselfVote^B^Sresponses^T^Sdefault^T^t^t^SmultiVote^B^Sbuttons^T^Sdefault^T^SnumButtons^N3^t^t^SnumButtons^N3^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3307]
+			"19:20:38 - Comm received:^1^Scandidates^T^N1^T^SNexâna-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N0^Sclass^SPRIEST^Srank^SAlt^t^STyleen-Blackmoore^T^Srole^SDAMAGER^Sclass^SHUNTER^Srank^S^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3308]
+			"19:20:38 - Comm received:^1^SplayerInfo^T^N1^STyleen-Blackmoore^N2^SHUNTER^N3^SDAMAGER^N4^SCommunityMember^N6^N0^N7^N479.5^N8^N253^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [3309]
+			"19:20:38 - ML:AddCandidate (Tyleen-Blackmoore) (HUNTER) (DAMAGER) (CommunityMember) (nil) (0) (479.5) (253)", -- [3310]
+			"19:20:38 - RCLootCouncilML:SendCandidates()", -- [3311]
+			"19:20:38 - candidates_cooldown == true", -- [3312]
+			"19:20:38 - candidate_send == false", -- [3313]
+			"19:20:43 - Timer MLdb_check passed", -- [3314]
+			"19:20:44 - Comm received:^1^Scouncil_request^T^t^^ (from:) (Tyleen) (distri:) (WHISPER)", -- [3315]
+			"19:20:44 - ML:SendCouncil()", -- [3316]
+			"19:20:44 - Comm received:^1^Scouncil^T^N1^T^N1^SNexâna-Blackmoore^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3317]
+			"19:20:44 - true = (ConcilContains) (Nexâna-Blackmoore)", -- [3318]
+			"19:20:48 - ML:SendCandidates()", -- [3319]
+			"19:20:48 - RCLootCouncilML:OnCandidatesCooldown()", -- [3320]
+			"19:20:48 - Comm received:^1^Scandidates^T^N1^T^SNexâna-Blackmoore^T^Srole^SDAMAGER^SspecID^N258^Senchant_lvl^N0^Sclass^SPRIEST^Srank^SAlt^t^STyleen-Blackmoore^T^Srole^SDAMAGER^SspecID^N253^Senchant_lvl^N0^Sclass^SHUNTER^Srank^SCommunityMember^t^t^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3321]
+			"19:20:49 - ML:OnCouncilCooldown()", -- [3322]
+			"19:24:35 - VotingFrame:Update() without lootTable!!", -- [3323]
+			"19:25:21 - VotingFrame:Update() without lootTable!!", -- [3324]
+			"19:25:47 - VotingFrame:Update() without lootTable!!", -- [3325]
+			"19:26:08 - Event: (GROUP_LEFT) (1) (Party-580-000025C8444F)", -- [3326]
+			"19:26:08 - GetML()", -- [3327]
+			"19:26:08 - Stop handling loot", -- [3328]
+			"19:26:08 - ML Disabled", -- [3329]
+			"19:26:08 - Comm received:^1^SStopHandleLoot^T^t^^ (from:) (Nexâna) (distri:) (WHISPER)", -- [3330]
+			"19:33:10 - Comm received:^1^SverTest^T^N1^S2.19.2^t^^ (from:) (Naylah) (distri:) (GUILD)", -- [3331]
+			"08/31/20", -- [3332]
+			"21:38:21 - Logged In", -- [3333]
+			"21:38:21 - ML initialized!", -- [3334]
+			"21:38:21 - TradeUI enabled", -- [3335]
+			"21:38:33 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3336]
+			"21:38:33 - ActivateSkin (bfa)", -- [3337]
+			"21:38:36 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3338]
+			"21:38:36 - GetML()", -- [3339]
+			"21:38:36 - UpdatePlayersData()", -- [3340]
+			"21:38:38 - GetPlayersGuildRank()", -- [3341]
+			"21:38:38 - GetPlayersGuildRank()", -- [3342]
+			"21:38:38 - Found Guild Rank: Alt", -- [3343]
+			"21:38:40 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3344]
+			"21:38:58 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Yeonlock) (distri:) (GUILD)", -- [3345]
+			"21:41:05 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Isary) (distri:) (GUILD)", -- [3346]
+			"21:42:46 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Saronara) (distri:) (GUILD)", -- [3347]
+			"21:52:52 - Event: (PARTY_LEADER_CHANGED)", -- [3348]
+			"21:52:52 - GetML()", -- [3349]
+			"21:52:52 - Unknown ML", -- [3350]
+			"21:52:53 - GetML()", -- [3351]
+			"21:52:53 - Resetting council as we have a new ML!", -- [3352]
+			"21:52:53 - MasterLooter =  (Nerubine-Lothar)", -- [3353]
+			"21:53:08 - Timer MLdb_check passed", -- [3354]
+			"21:53:08 - Comm received:^1^Sxrealm^T^N1^SNerubine-Lothar^N2^SMLdb_request^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3355]
+			"21:53:08 - Comm received:^1^Sxrealm^T^N1^SNerubine-Lothar^N2^Scouncil_request^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3356]
+			"21:55:39 - Event: (PARTY_LEADER_CHANGED)", -- [3357]
+			"21:55:39 - GetML()", -- [3358]
+			"21:55:43 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3359]
+			"21:55:43 - GetML()", -- [3360]
+			"21:55:56 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3361]
+			"21:55:56 - GetML()", -- [3362]
+			"21:56:02 - Event: (GROUP_LEFT) (2) (Party-1461-00004CD28642)", -- [3363]
+			"21:56:02 - GetML()", -- [3364]
+			"21:56:02 - Resetting council as we have a new ML!", -- [3365]
+			"21:56:02 - MasterLooter =  (Nerubine-Lothar)", -- [3366]
+			"21:56:07 - Event: (RAID_INSTANCE_WELCOME) (Operation: Mechagon (Mythic)) (126232) (0) (0)", -- [3367]
+			"21:56:07 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3368]
+			"21:56:07 - GetML()", -- [3369]
+			"21:56:17 - Timer MLdb_check passed", -- [3370]
+			"21:56:17 - Comm received:^1^Sxrealm^T^N1^SNerubine-Lothar^N2^SMLdb_request^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3371]
+			"21:56:17 - Comm received:^1^Sxrealm^T^N1^SNerubine-Lothar^N2^Scouncil_request^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3372]
+			"21:58:56 - Event: (ENCOUNTER_START) (2257) (Tussle Tonks) (8) (5)", -- [3373]
+			"21:58:56 - UpdatePlayersData()", -- [3374]
+			"22:00:41 - Event: (ENCOUNTER_END) (2257) (Tussle Tonks) (8) (5) (1)", -- [3375]
+			"22:02:57 - Event: (ENCOUNTER_START) (2258) (K.U.-J.0.) (8) (5)", -- [3376]
+			"22:02:57 - UpdatePlayersData()", -- [3377]
+			"22:04:06 - Event: (ENCOUNTER_END) (2258) (K.U.-J.0.) (8) (5) (0)", -- [3378]
+			"22:05:02 - Event: (ENCOUNTER_START) (2258) (K.U.-J.0.) (8) (5)", -- [3379]
+			"22:05:02 - UpdatePlayersData()", -- [3380]
+			"22:05:45 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Ralira) (distri:) (GUILD)", -- [3381]
+			"22:06:43 - Event: (ENCOUNTER_END) (2258) (K.U.-J.0.) (8) (5) (0)", -- [3382]
+			"22:07:34 - Event: (ENCOUNTER_START) (2258) (K.U.-J.0.) (8) (5)", -- [3383]
+			"22:07:34 - UpdatePlayersData()", -- [3384]
+			"22:09:49 - Event: (ENCOUNTER_END) (2258) (K.U.-J.0.) (8) (5) (1)", -- [3385]
+			"22:16:34 - Event: (ENCOUNTER_START) (2259) (Machinist's Garden) (8) (5)", -- [3386]
+			"22:16:34 - UpdatePlayersData()", -- [3387]
+			"22:18:46 - Event: (ENCOUNTER_END) (2259) (Machinist's Garden) (8) (5) (1)", -- [3388]
+			"22:25:12 - Event: (ENCOUNTER_START) (2260) (King Mechagon) (8) (5)", -- [3389]
+			"22:25:12 - UpdatePlayersData()", -- [3390]
+			"22:29:17 - Event: (ENCOUNTER_END) (2260) (King Mechagon) (8) (5) (1)", -- [3391]
+			"22:29:22 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (168978) (|cffa335ee|Hitem:168978::::::::120:258::16:8:6536:6578:6579:6483:6453:6515:1522:4786:::|h[Anodized Deflectors]|h|r) (1) (Ciriel-Ravencrest) (PALADIN)", -- [3392]
+			"22:29:22 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (158923) (|cffa335ee|Hitem:158923::::::::120:258:8257536:::249:15:9:11:2:120:::|h[Mythic Keystone]|h|r) (1) (Sethra-Lothar) (HUNTER)", -- [3393]
+			"22:29:31 - Event: (LOOT_READY) (true)", -- [3394]
+			"22:29:31 - Adding to self.lootSlotInfo (3) (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r) (4) (1) (GameObject-0-3109-2097-11151-338194-00004D5D9E) (1)", -- [3395]
+			"22:29:31 - Ignoring (|cff0070dd|Hcurrency:1553:460|h[Glowing Azerite Geode]|h|r) (as it's a currency)", -- [3396]
+			"22:29:31 - Ignoring (|cffe6cc80|Hcurrency:1803:240|h[Echoes of Ny'alotha]|h|r) (as it's a currency)", -- [3397]
+			"22:29:31 - OnLootSlotCleared() (3) (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r) (4)", -- [3398]
+			"22:29:31 - Event: (LOOT_READY) (true)", -- [3399]
+			"22:29:31 - Event: (LOOT_CLOSED)", -- [3400]
+			"22:29:31 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (169172) (|cff0070dd|Hitem:169172::::::::120:258::::::|h[Blueprint: Perfectly Timed Differential]|h|r) (1) (Nexâna) (PRIEST)", -- [3401]
+			"22:29:31 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (168955) (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r) (1) (Nexâna) (PRIEST)", -- [3402]
+			"22:29:31 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (158923) (|cffa335ee|Hitem:158923::::::::120:258:8257536:::252:15:9:11:2:120:::|h[Mythic Keystone]|h|r) (1) (Nexâna) (PRIEST)", -- [3403]
+			"22:29:33 - Storage:New (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r) (temp)", -- [3404]
+			"22:29:33 - Storage: searching for item: (||cffa335ee||Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::||h[Electrifying Cognitive Amplifier]||h||r) (5)", -- [3405]
+			"22:29:33 - Found item at (1) (13)", -- [3406]
+			"22:29:33 - Found: (1) (13) (0)", -- [3407]
+			"22:29:34 - Storage: searching for item: (||cffa335ee||Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::||h[Electrifying Cognitive Amplifier]||h||r) (5)", -- [3408]
+			"22:29:34 - Found item at (1) (13)", -- [3409]
+			"22:29:34 - Found: (1) (13) (0)", -- [3410]
+			"22:29:34 - Comm received:^1^Snot_tradeable^T^N1^S|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying~`Cognitive~`Amplifier]|h|r^N2^S338194^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3411]
+			"22:29:49 - Event: (ENCOUNTER_LOOT_RECEIVED) (2260) (168971) (|cffa335ee|Hitem:168971::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Swift Pneumatic Grips]|h|r) (1) (Nerubine-Lothar) (HUNTER)", -- [3412]
+			"22:30:39 - BONUS_ROLL (item) (|cffa335ee|Hitem:169159::::::::120:258::16:7:6536:6578:6579:6538:6513:1522:4786:::|h[Overclocking Bit Band]|h|r) (1) (0) (3) (false) (nil) (false) (true)", -- [3413]
+			"22:30:39 - Comm received:^1^Sbonus_roll^T^N1^SNexâna-Blackmoore^N2^Sitem^N3^S|cffa335ee|Hitem:169159::::::::120:258::16:7:6536:6578:6579:6538:6513:1522:4786:::|h[Overclocking~`Bit~`Band]|h|r^t^^ (from:) (Nexâna) (distri:) (PARTY)", -- [3414]
+			"22:31:42 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3415]
+			"22:31:42 - GetML()", -- [3416]
+			"22:31:43 - Event: (GROUP_LEFT) (1) (Party-570-00004CD2737A)", -- [3417]
+			"22:31:43 - GetML()", -- [3418]
+			"22:32:47 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3419]
+			"22:32:47 - GetML()", -- [3420]
+			"22:32:57 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3421]
+			"22:32:57 - GetML()", -- [3422]
+			"22:44:59 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3423]
+			"22:44:59 - GetML()", -- [3424]
+			"22:45:04 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3425]
+			"22:45:04 - GetML()", -- [3426]
+			"22:46:20 - Event: (PARTY_LEADER_CHANGED)", -- [3427]
+			"22:46:20 - GetML()", -- [3428]
+			"22:46:20 - Unknown ML", -- [3429]
+			"22:46:21 - GetML()", -- [3430]
+			"22:46:21 - Resetting council as we have a new ML!", -- [3431]
+			"22:46:21 - MasterLooter =  (Delois-Lordaeron)", -- [3432]
+			"22:46:36 - Timer MLdb_check passed", -- [3433]
+			"22:46:36 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^SMLdb_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3434]
+			"22:46:36 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^Scouncil_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3435]
+			"22:46:55 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3436]
+			"22:46:55 - GetML()", -- [3437]
+			"22:47:23 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3438]
+			"22:47:23 - GetML()", -- [3439]
+			"22:49:32 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Jubly) (distri:) (GUILD)", -- [3440]
+			"22:49:59 - Event: (RAID_INSTANCE_WELCOME) (Ny'alotha, the Waking City (Mythic)) (123001) (0) (0)", -- [3441]
+			"22:49:59 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3442]
+			"22:49:59 - GetML()", -- [3443]
+			"23:27:20 - Event: (PARTY_LEADER_CHANGED)", -- [3444]
+			"23:27:20 - GetML()", -- [3445]
+			"23:27:20 - Resetting council as we have a new ML!", -- [3446]
+			"23:27:20 - MasterLooter =  (Yrô-Antonidas)", -- [3447]
+			"23:27:35 - Timer MLdb_check passed", -- [3448]
+			"23:27:35 - Comm received:^1^Sxrealm^T^N1^SYrô-Antonidas^N2^SMLdb_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3449]
+			"23:27:35 - Comm received:^1^Sxrealm^T^N1^SYrô-Antonidas^N2^Scouncil_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3450]
+			"23:27:45 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Isary) (distri:) (GUILD)", -- [3451]
+			"23:34:43 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Jubly) (distri:) (GUILD)", -- [3452]
+			"23:48:27 - Event: (PARTY_LEADER_CHANGED)", -- [3453]
+			"23:48:27 - GetML()", -- [3454]
+			"23:48:27 - Resetting council as we have a new ML!", -- [3455]
+			"23:48:27 - MasterLooter =  (Delois-Lordaeron)", -- [3456]
+			"23:48:42 - Timer MLdb_check passed", -- [3457]
+			"23:48:42 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^SMLdb_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3458]
+			"23:48:42 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^Scouncil_request^t^^ (from:) (Nexâna) (distri:) (RAID)", -- [3459]
+			"23:48:42 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^SMLdb_request^t^^ (from:) (Nayrita-Antonidas) (distri:) (RAID)", -- [3460]
+			"23:48:42 - Comm received:^1^Sxrealm^T^N1^SDelois-Lordaeron^N2^Scouncil_request^t^^ (from:) (Nayrita-Antonidas) (distri:) (RAID)", -- [3461]
+			"23:49:21 - Event: (ENCOUNTER_START) (2329) (Wrathion) (16) (20)", -- [3462]
+			"23:49:21 - UpdatePlayersData()", -- [3463]
+			"23:50:37 - <ERROR> ([ADDON_ACTION_BLOCKED] AddOn 'RCLootCouncil' tried to call the protected function 'SetTargetClampingInsets()'.)", -- [3464]
+			"23:50:37 - ADDON_ACTION_BLOCKED (RCLootCouncil) (SetTargetClampingInsets())", -- [3465]
+			"23:51:48 - Event: (ENCOUNTER_END) (2329) (Wrathion) (16) (20) (0)", -- [3466]
+			"23:52:04 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3467]
+			"23:52:04 - GetML()", -- [3468]
+			"23:52:08 - Event: (GROUP_LEFT) (1) (Party-580-000025C8D178)", -- [3469]
+			"23:52:08 - GetML()", -- [3470]
+			"23:52:26 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3471]
+			"23:52:26 - GetML()", -- [3472]
+			"23:55:36 - Event: (PLAYER_ENTERING_WORLD) (false) (false)", -- [3473]
+			"23:55:36 - GetML()", -- [3474]
+			"09/01/20", -- [3475]
+			"16:03:25 - Logged In", -- [3476]
+			"16:03:25 - ML initialized!", -- [3477]
+			"16:03:25 - TradeUI enabled", -- [3478]
+			"16:03:35 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3479]
+			"16:03:35 - ActivateSkin (bfa)", -- [3480]
+			"16:03:38 - Event: (PLAYER_ENTERING_WORLD) (true) (false)", -- [3481]
+			"16:03:38 - GetML()", -- [3482]
+			"16:03:38 - UpdatePlayersData()", -- [3483]
+			"16:03:39 - GetPlayersGuildRank()", -- [3484]
+			"16:03:39 - Found Guild Rank: Alt", -- [3485]
+			"16:03:41 - Storage:New (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r) (temp) (restored) (table: 00000211A2C9D2F0)", -- [3486]
+			"16:03:41 - Storage: searching for item: (||cffa335ee||Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::||h[Electrifying Cognitive Amplifier]||h||r) (5)", -- [3487]
+			"16:03:41 - Found: (nil) (nil) (nil)", -- [3488]
+			"16:03:41 - Error - ItemStorage, db item no longer in bags (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r)", -- [3489]
+			"16:03:41 - Storage:RemoveItem (|cffa335ee|Hitem:168955::::::::120:258::16:5:6536:6516:6515:1522:4786:::|h[Electrifying Cognitive Amplifier]|h|r)", -- [3490]
+			"16:03:41 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3491]
+			"09/01/20", -- [3492]
+			"16:04:03 - Logged In", -- [3493]
+			"16:04:03 - ML initialized!", -- [3494]
+			"16:04:03 - TradeUI enabled", -- [3495]
+			"16:04:07 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3496]
+			"16:04:07 - ActivateSkin (bfa)", -- [3497]
+			"16:04:10 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3498]
+			"16:04:10 - GetML()", -- [3499]
+			"16:04:10 - UpdatePlayersData()", -- [3500]
+			"16:04:11 - GetPlayersGuildRank()", -- [3501]
+			"16:04:11 - Found Guild Rank: Alt", -- [3502]
+			"16:04:12 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3503]
+			"09/01/20", -- [3504]
+			"16:04:35 - Logged In", -- [3505]
+			"16:04:35 - ML initialized!", -- [3506]
+			"16:04:35 - TradeUI enabled", -- [3507]
+			"16:04:39 - Nexâna-Blackmoore (2.19.3) (nil)", -- [3508]
+			"16:04:39 - ActivateSkin (bfa)", -- [3509]
+			"16:04:43 - Event: (PLAYER_ENTERING_WORLD) (false) (true)", -- [3510]
+			"16:04:43 - GetML()", -- [3511]
+			"16:04:43 - UpdatePlayersData()", -- [3512]
+			"16:04:44 - GetPlayersGuildRank()", -- [3513]
+			"16:04:44 - Found Guild Rank: Alt", -- [3514]
+			"16:04:45 - Comm received:^1^SverTest^T^N1^S2.19.3^t^^ (from:) (Nexâna) (distri:) (GUILD)", -- [3515]
+			"16:07:00 - Comm received:^1^SverTest^T^N1^S2.19.1^t^^ (from:) (Isary) (distri:) (GUILD)", -- [3516]
+		},
+		["errors"] = {
+			{
+				["msg"] = "[ADDON_ACTION_BLOCKED] AddOn 'RCLootCouncil' tried to call the protected function 'SetTargetClampingInsets()'.",
+				["stack"] = {
+					"[string \"@Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:274: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:213>\n...\n", -- [1]
+					"[string \"@Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:96: in function `OnNamePlateAdded'\n[string \"@Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:51: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:42>\n", -- [2]
+					"[string \"@Blizzard_NamePlates\\Blizzard_NamePlates.lua\"]:51: in function <...e\\AddOns\\Blizzard_NamePlates\\Blizzard_NamePlates.lua:42>\n", -- [3]
+				},
+				["count"] = 1,
+				["time"] = 1598910636,
+			}, -- [1]
 		},
 		["oldVersion"] = "2.19.2",
 		["verTestCandidates"] = {
 			["Ralira-Blackmoore"] = {
 				"2.19.1", -- [1]
 				nil, -- [2]
-				1598433916, -- [3]
+				1598906973, -- [3]
+			},
+			["Yeonshaman-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598824878, -- [3]
+			},
+			["Yeonlock-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598902967, -- [3]
 			},
 			["Fundric-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1597953620, -- [3]
+				1598643513, -- [3]
+			},
+			["Barisora-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598644531, -- [3]
 			},
 			["Avaturius-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598110852, -- [3]
+				1598969220, -- [3]
 			},
-			["Dnblifestyle-Blackmoore"] = {
-				"2.19.2", -- [1]
-				nil, -- [2]
-				1597953620, -- [3]
-			},
-			["Cheese-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598043146, -- [3]
-			},
-			["Montaris-Blackmoore"] = {
+			["Xarilah-Blackmoore"] = {
 				"2.19.1", -- [1]
 				nil, -- [2]
-				1597946968, -- [3]
+				1598969085, -- [3]
+			},
+			["Dnblifestyle-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598969220, -- [3]
+			},
+			["Gueffel-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598638882, -- [3]
+			},
+			["Yeondruid-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598969220, -- [3]
+			},
+			["Saronara-Blackmoore"] = {
+				"2.19.3", -- [1]
+				nil, -- [2]
+				1598904345, -- [3]
 			},
 			["Jubly-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598523540, -- [3]
+				1598909683, -- [3]
 			},
-			["Yeonpriest-Blackmoore"] = {
+			["ædshearan-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598127623, -- [3]
-			},
-			["Lulluz-Blackmoore"] = {
-				"2.19.1", -- [1]
-				nil, -- [2]
-				1598129232, -- [3]
-			},
-			["Lihin-Blackmoore"] = {
-				"2.19.2", -- [1]
-				nil, -- [2]
-				1597953620, -- [3]
-			},
-			["Murmansk-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598523540, -- [3]
-			},
-			["Morlán-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598099530, -- [3]
-			},
-			["Dimeno-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1597953620, -- [3]
-			},
-			["Awptimus-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1597946814, -- [3]
-			},
-			["Shûdo-Blackmoore"] = {
-				"2.12.1", -- [1]
-				nil, -- [2]
-				1597952917, -- [3]
+				1598827167, -- [3]
 			},
 			["Yoshitsuya-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
 				1598522974, -- [3]
 			},
-			["Yeonlock-Blackmoore"] = {
+			["Anordil-Blackmoore"] = {
+				"2.19.2", -- [1]
+				nil, -- [2]
+				1598637962, -- [3]
+			},
+			["Saranara-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598527859, -- [3]
-			},
-			["Feewen-Blackmoore"] = {
-				"2.19.1", -- [1]
-				nil, -- [2]
-				1597953620, -- [3]
+				1598902865, -- [3]
 			},
 			["Lissayah-Blackmoore"] = {
 				"2.19.2", -- [1]
 				nil, -- [2]
-				1598038087, -- [3]
-			},
-			["Naylah-Blackmoore"] = {
-				"2.19.2", -- [1]
-				nil, -- [2]
-				1598434919, -- [3]
-			},
-			["Isary-Blackmoore"] = {
-				"2.19.1", -- [1]
-				nil, -- [2]
-				1598098507, -- [3]
-			},
-			["Saronara-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598110852, -- [3]
-			},
-			["Golwa-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598130327, -- [3]
-			},
-			["Dôvah-Blackmoore"] = {
-				"2.13.1", -- [1]
-				nil, -- [2]
-				1597949317, -- [3]
-			},
-			["Veilan-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1597953620, -- [3]
-			},
-			["Nexâna-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598130384, -- [3]
+				1598827365, -- [3]
 			},
 			["Shudinsky-Blackmoore"] = {
 				"2.12.1", -- [1]
 				nil, -- [2]
-				1598032860, -- [3]
-			},
-			["Xarilah-Blackmoore"] = {
-				"2.19.1", -- [1]
-				nil, -- [2]
-				1598099529, -- [3]
-			},
-			["Reckets-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598043146, -- [3]
-			},
-			["Fatoran-Blackmoore"] = {
-				"2.19.3", -- [1]
-				nil, -- [2]
-				1598130384, -- [3]
+				1598820484, -- [3]
 			},
 			["Dalirya-Blackmoore"] = {
 				"2.19.1", -- [1]
 				nil, -- [2]
 				1598435263, -- [3]
 			},
-			["Iselbert-Blackmoore"] = {
+			["Grillpatrol-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1597953620, -- [3]
+				1598644531, -- [3]
 			},
-			["ædshearan-Blackmoore"] = {
+			["Naylah-Blackmoore"] = {
+				"2.19.2", -- [1]
+				nil, -- [2]
+				1598969220, -- [3]
+			},
+			["Isary-Blackmoore"] = {
+				"2.19.1", -- [1]
+				nil, -- [2]
+				1598969220, -- [3]
+			},
+			["Murmansk-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598128801, -- [3]
+				1598523540, -- [3]
+			},
+			["Invisullus-Blackmoore"] = {
+				"2.19.1", -- [1]
+				nil, -- [2]
+				1598643627, -- [3]
 			},
 			["Kalisyra-Blackmoore"] = {
 				"2.19.1", -- [1]
 				nil, -- [2]
-				1598433829, -- [3]
+				1598827510, -- [3]
 			},
-			["Esbert-Blackmoore"] = {
+			["Reckets-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1597947920, -- [3]
+				1598636839, -- [3]
 			},
-			["Grillpatrol-Blackmoore"] = {
+			["Yeondh-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598527859, -- [3]
+				1598819514, -- [3]
 			},
-			["Blûtdy-Blackmoore"] = {
+			["Mizune-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1597953620, -- [3]
+				1598643811, -- [3]
 			},
-			["Gerler-Blackmoore"] = {
+			["Nexâna-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1597938540, -- [3]
+				1598969220, -- [3]
 			},
-			["Adeliya-Blackmoore"] = {
+			["Aryenah-Blackmoore"] = {
 				"2.19.2", -- [1]
 				nil, -- [2]
-				1597937189, -- [3]
+				1598827510, -- [3]
 			},
-			["Dovahwl-Blackmoore"] = {
-				"2.13.1", -- [1]
+			["Dwarfz-Blackmoore"] = {
+				"2.19.3", -- [1]
 				nil, -- [2]
-				1597953620, -- [3]
+				1598644475, -- [3]
 			},
 			["Yeonmage-Blackmoore"] = {
 				"2.19.3", -- [1]
 				nil, -- [2]
-				1598527577, -- [3]
+				1598895190, -- [3]
 			},
 		},
 		["regionID"] = 3,
@@ -3689,6 +3706,7 @@ RCLootCouncilDB = {
 		["Neaxa - Blackmoore"] = "Default",
 		["Nexanâ - Ravencrest"] = "Default",
 		["Azuhunterlol - Twisting Nether"] = "Default",
+		["Hrst - Blackmoore"] = "Default",
 		["Kaknooberpfi - Thrall"] = "Default",
 		["Grillboost - Alexstrasza"] = "Default",
 		["Grillboost - Zuluhed"] = "Default",
@@ -3697,11 +3715,11 @@ RCLootCouncilDB = {
 		["Hôrst - Ravencrest"] = "Default",
 		["Nexana - Blackmoore"] = "Default",
 		["Nexâna - Blackmoore"] = "Default",
-		["Grillpatrol - Blackmoore"] = "Default",
+		["Nethenâ - Blackmoore"] = "Default",
 		["Nexanâ - Blackmoore"] = "Default",
 		["Lullidan - Ravencrest"] = "Default",
 		["Grillboost - Antonidas"] = "Default",
-		["Nethenâ - Blackmoore"] = "Default",
+		["Grillpatrol - Blackmoore"] = "Default",
 		["Noxiâ - Blackmoore"] = "Default",
 		["Lullidan - Blackmoore"] = "Default",
 		["Grillock - Blackmoore"] = "Default",
@@ -3797,6 +3815,7 @@ RCLootCouncilLootDB = {
 		["Neaxa - Blackmoore"] = "Neaxa - Blackmoore",
 		["Nexanâ - Ravencrest"] = "Nexanâ - Ravencrest",
 		["Azuhunterlol - Twisting Nether"] = "Azuhunterlol - Twisting Nether",
+		["Hrst - Blackmoore"] = "Hrst - Blackmoore",
 		["Kaknooberpfi - Thrall"] = "Kaknooberpfi - Thrall",
 		["Grillboost - Alexstrasza"] = "Grillboost - Alexstrasza",
 		["Grillboost - Zuluhed"] = "Grillboost - Zuluhed",
@@ -3805,11 +3824,11 @@ RCLootCouncilLootDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -4530,8 +4549,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:07:16",
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172197:5965:168637::::::120:250::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Unguent Caress]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Afreeca-Blackmoore",
 					["id"] = "1586966836-2",
 					["response"] = "Minor Up",
@@ -4667,8 +4686,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:37:39",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158362:6111:168639::::::120:253::35:4:5010:4802:1612:4783:::|h[Lord Kronsteigs Siegelring]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Deathblubbi-Blackmoore",
 					["id"] = "1583354259-32",
 					["response"] = "BiS",
@@ -6279,7 +6298,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 2,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172201:6112:::::::120:577::5:7:4823:6578:6579:6554:6515:1502:4786:::|h[Blutbefleckte rituelle Athame]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
 					["owner"] = "Kàshima-Blackmoore",
 					["id"] = "1581531373-8",
 					["response"] = "2nd Spec",
@@ -6295,7 +6314,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:159666::::::::120:577::35:5:6536:6578:6513:1647:4786:::|h[Behelfsmäßiger taktischer Schild]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["typeCode"] = "default",
 				}, -- [11]
 				{
 					["mapID"] = 2217,
@@ -6728,7 +6747,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172669::::::::120:65::25:5:6515:6389:6366:1562:4786:::|h[Abzeichen des verderbten Gladiators]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 					["owner"] = "Dnblifestyle-Blackmoore",
 					["id"] = "1594920461-8",
 					["response"] = "Offspecc",
@@ -6744,7 +6763,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169314::168640::::::120:65::5:4:4799:1808:1502:4786:::|h[Azsharas Born der Macht]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 				}, -- [11]
 				{
 					["mapID"] = 2217,
@@ -6908,7 +6927,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172669::::::::120:267::39:6:6366:40:6389:6515:1562:4786:::|h[Corrupted Gladiator's Badge]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Fundric-Blackmoore",
 					["id"] = "1596134338-25",
 					["response"] = " Upgrade",
@@ -6924,7 +6943,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169314::168640::::::120:267::5:4:4799:1808:1502:4786:::|h[Azshara's Font of Power]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [18]
 				{
 					["mapID"] = 2217,
@@ -8482,7 +8501,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169158:6108:168639::::::120:65::16:6:6534:1522:4786:6482:6470:6514:::|h[Logikleitring der Rekursion]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Grillpatrol-Blackmoore",
 					["id"] = "1597602416-17",
 					["response"] = "Minor Upgrade",
@@ -8498,7 +8517,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169159:6108:168639::::::120:65::16:7:6536:42:1522:4786:6482:6470:6514:::|h[Übertaktendes Bitband]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [25]
 				{
 					["mapID"] = 2217,
@@ -9378,7 +9397,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159462:6110:::::::120:267::35:6:6536:6578:6515:1647:4786:6516:::|h[Footbomb Championship Ring]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 					["owner"] = "Feewen-Blackmoore",
 					["id"] = "1590693805-24",
 					["response"] = "Minor Upgrade",
@@ -9394,7 +9413,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:159459:6110:::::::120:267::35:7:6536:6578:6579:6554:6513:1647:4786:::|h[Ritual Binder's Ring]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 				}, -- [7]
 				{
 					["mapID"] = 2217,
@@ -9484,8 +9503,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:48:14",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159462:6109:::::::120:267::35:6:6536:6578:6515:1647:4786:6516:::|h[Footbomb Championship Ring]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Sencu-Blackmoore",
 					["id"] = "1591901294-28",
 					["response"] = "Minor Upgrade",
@@ -9596,7 +9615,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174044::168638::::::120:267::6:5:4824:1808:6513:1517:4786:::|h[Humming Black Dragonscale]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Adeliya-Blackmoore",
 					["id"] = "1591904020-43",
 					["response"] = "Minor Upgrade",
@@ -9612,7 +9631,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:173944::::::::120:267::6:4:4824:6513:1517:4786:::|h[Forbidden Obsidian Claw]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [15]
 				{
 					["mapID"] = 2217,
@@ -9866,7 +9885,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174060::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Psychenreißer]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Reckets-Blackmoore",
 					["id"] = "1589477227-4",
 					["response"] = "Offspecc",
@@ -9882,7 +9901,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174500::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [2]
 				{
 					["mapID"] = 2217,
@@ -11221,7 +11240,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174103::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Manifest des Wahnsinns]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Morlán-Blackmoore",
 					["id"] = "1596734405-1",
 					["response"] = "Minor Upgrade",
@@ -11237,7 +11256,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174060::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Psychenreißer]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [11]
 				{
 					["mapID"] = 2217,
@@ -11274,7 +11293,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Morlán-Blackmoore",
 					["id"] = "1596739564-21",
 					["response"] = "Minor Upgrade",
@@ -11290,7 +11309,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174060::168639::::::120:65::6:4:4824:1517:4786:6514:::|h[Psychenreißer]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [13]
 				{
 					["mapID"] = 2217,
@@ -12254,7 +12273,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174533:6109:168641::::::120:102::6:6:4824:41:1517:4786:6514:6547:::|h[Ring des kosmischen Potenzials]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 					["owner"] = "Dôvah-Blackmoore",
 					["id"] = "1594320907-28",
 					["response"] = "Minor",
@@ -12270,7 +12289,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:172663:6109:168641::::::120:102::44:7:41:6389:6379:1582:4786:6514:6547:::|h[Ring des verderbten Gladiators]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 				}, -- [4]
 				{
 					["mapID"] = 2217,
@@ -12433,7 +12452,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174060::168639::::::120:268::6:5:4824:1808:6513:1517:4786:::|h[Psyche Shredder]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Yàrex-Blackmoore",
 					["id"] = "1582737017-4",
 					["response"] = "Minor Up",
@@ -12449,7 +12468,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174103::::::::120:268::5:4:4823:6515:1502:4786:::|h[Manifesto of Madness]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [2]
 				{
 					["mapID"] = 2217,
@@ -12509,8 +12528,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:27:54",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174060::168639::::::120:250::6:5:4824:1808:6513:1517:4786:::|h[Psyche Shredder]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Béppo-Blackmoore",
 					["id"] = "1586968074-12",
 					["response"] = "Main",
@@ -14533,7 +14552,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:165666::::::::120:253::28:5:4803:41:6513:1637:4786:::|h[Mondstein von Zin-Azshari]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Klosterbro-Blackmoore",
 					["id"] = "1582739592-5",
 					["response"] = "BiS",
@@ -14549,7 +14568,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174044::::::::120:253::6:5:4824:40:6515:1517:4786:::|h[Summende schwarze Drachenschuppe]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [1]
 				{
 					["mapID"] = 2217,
@@ -14590,7 +14609,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174533:6109:::::::120:253::5:7:4823:6578:6579:6564:6513:1502:4786:::|h[Ring des kosmischen Potenzials]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Dragmore-Blackmoore",
 					["id"] = "1582744007-17",
 					["response"] = "2nd",
@@ -14606,7 +14625,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:168977:6109:::::::120:253::16:5:6534:6516:6513:1522:4786:::|h[Neustartendes Bitband]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [3]
 				{
 					["mapID"] = 2217,
@@ -14850,8 +14869,8 @@ RCLootCouncilLootDB = {
 					["time"] = "22:21:05",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169156:6111:::::::120:267::35:6:6536:6578:6515:1532:4786:6516:::|h[Logic Loop of Synergy]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Fundric-Blackmoore",
 					["id"] = "1591903265-39",
 					["response"] = "Minor Upgrade",
@@ -14906,8 +14925,8 @@ RCLootCouncilLootDB = {
 					["time"] = "20:08:22",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173944::168639::::::120:102::6:5:4824:1808:6515:1517:4786:::|h[Verbotene Obsidianklaue]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 					["owner"] = "Lulluz-Blackmoore",
 					["id"] = "1594314502-0",
 					["response"] = "Transmog",
@@ -16297,8 +16316,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:20:03",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:175008:6109:168641::::::120:267::6:5:4824:6516:6515:1517:4786:::|h[Lurking Schemer's Band]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Grillpatrol-Blackmoore",
 					["id"] = "1588875603-10",
 					["response"] = " Upgrade",
@@ -16327,7 +16346,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168641::::::120:65::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Yoshitsuya-Blackmoore",
 					["id"] = "1589475953-0",
 					["response"] = "Minor Upgrade",
@@ -16343,7 +16362,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:65::6:3:4800:1517:4786:::|h[Aschenwinds Klingenkoralle]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [2]
 				{
 					["mapID"] = 2217,
@@ -17562,479 +17581,31 @@ RCLootCouncilLootDB = {
 					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [2]
 			},
-			["Blûtdy-Blackmoore"] = {
+			["Squizy-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
-					["date"] = "07/05/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "The Hivemind",
-					["time"] = "21:17:52",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:1:1747:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
-					["typeCode"] = "default",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["owner"] = "Cheese-Blackmoore",
-					["id"] = "1588875472-7",
-					["response"] = "Minor Upgrade",
-					["note"] = false,
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:267::6:6:4824:1808:6516:6515:1517:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["date"] = "26/06/20",
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 21,
 					["isAwardReason"] = false,
+					["time"] = "21:17:45",
+					["iClass"] = 4,
+					["id"] = "1593195465-0",
+					["owner"] = "Squizy-Silvermoon",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174168::::::::120:65::5:4:4823:1502:4786:6507:::|h[Carapace of Pulsing Vita]|h|r",
+					["boss"] = "Ra-den the Despoiled",
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["color"] = {
-						0, -- [1]
-						1, -- [2]
+						1, -- [1]
+						0.8, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["responseID"] = 2,
-					["itemReplaced2"] = "|cffa335ee|Hitem:169158:6111:::::::120:267::35:8:6536:6578:6579:6478:6462:6515:1532:4786:::|h[Logic Loop of Recursion]|h|r",
-					["votes"] = 0,
 				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "07/05/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "N'Zoth the Corruptor",
-					["time"] = "22:54:52",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:1:1747:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
-					["typeCode"] = "default",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["owner"] = "Lihin-Blackmoore",
-					["id"] = "1588881292-29",
-					["response"] = "Minor Upgrade",
-					["note"] = "erst wenn ich nen sockel habe",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:267::6:5:4824:6516:6513:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 2,
-					["itemReplaced2"] = "|cffa335ee|Hitem:158362:6111:168642::::::120:267::16:5:6536:6516:1637:4786:6514:::|h[Lord Waycrest's Signet]|h|r",
-					["votes"] = 0,
-				}, -- [2]
-				{
-					["mapID"] = 2217,
-					["date"] = "14/05/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Ma'ut",
-					["time"] = "20:26:27",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:65::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "Avaturius-Blackmoore",
-					["votes"] = 0,
-					["response"] = "Automatisches Passen",
-					["id"] = "1589477187-3",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:173944::::::::120:65::6:5:4824:42:6515:1517:4786:::|h[Verbotene Obsidianklaue]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0.7, -- [1]
-						0.7, -- [2]
-						0.7, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "AUTOPASS",
-					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:65::6:3:4800:1517:4786:::|h[Aschenwinds Klingenkoralle]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-				}, -- [3]
-				{
-					["mapID"] = 2217,
-					["date"] = "14/05/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 13,
-					["groupSize"] = 20,
-					["boss"] = "Ra-den der Entweihte",
-					["time"] = "20:59:07",
-					["iClass"] = 2,
-					["itemReplaced1"] = "|cffa335ee|Hitem:172197:5962:168642::::::120:65::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Salbenliebkosung]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "Cheese-Blackmoore",
-					["votes"] = 0,
-					["response"] = "Upgrade",
-					["id"] = "1589479147-8",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:172197::::::::120:65::6:7:4824:6569:6578:6579:6515:1517:4786:::|h[Salbenliebkosung]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						0.99, -- [2]
-						0.07, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:172197:5965:168642::::::120:65::5:8:4823:1808:6569:6578:6579:6515:1502:4786:::|h[Salbenliebkosung]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-				}, -- [4]
-				{
-					["mapID"] = 2217,
-					["date"] = "28/05/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "22:21:58",
-					["iClass"] = 4,
-					["id"] = "1590693718-18",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:577::6:5:4824:6516:6513:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["boss"] = "N'Zoth the Corruptor",
-				}, -- [5]
-				{
-					["mapID"] = 2217,
-					["date"] = "11/06/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:14:59",
-					["iClass"] = 4,
-					["id"] = "1591899299-9",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174136::::::::120:577::6:4:4824:1517:4786:6510:::|h[Tortured Fleshbeast Cuirass]|h|r",
-					["boss"] = "Carapace of N'Zoth",
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [6]
-				{
-					["mapID"] = 2217,
-					["date"] = "11/06/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "N'Zoth the Corruptor",
-					["time"] = "21:54:26",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:2:1747:6516:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
-					["typeCode"] = "default",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["owner"] = "Kvnsprstr-Blackmoore",
-					["id"] = "1591901666-30",
-					["response"] = "Minor Upgrade",
-					["note"] = "pvp",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:175008::::::::120:267::6:6:4824:41:6516:6515:1517:4786:::|h[Lurking Schemer's Band]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 2,
-					["itemReplaced2"] = "|cffa335ee|Hitem:174533:6108:168639::::::120:267::6:5:4824:1517:4786:6554:6514:::|h[Ring of Cosmic Potential]|h|r",
-					["votes"] = 0,
-				}, -- [7]
-				{
-					["mapID"] = 2217,
-					["date"] = "11/06/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 9,
-					["groupSize"] = 20,
-					["boss"] = "The Hivemind",
-					["time"] = "22:19:36",
-					["iClass"] = 2,
-					["itemReplaced1"] = "|cffa335ee|Hitem:172197:5962:168642::::::120:267::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Unguent Caress]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "Blûtdy-Blackmoore",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["response"] = "Xmog",
-					["id"] = "1591903176-35",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:172192::::::::120:267::6:7:4824:6578:6579:6538:6513:1517:4786:::|h[The All-Seeing Eye]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0.7, -- [1]
-						0.52, -- [2]
-						0.24, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 5,
-					["itemReplaced2"] = "|cffa335ee|Hitem:172197:5965:168642::::::120:267::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Unguent Caress]|h|r",
-					["votes"] = 0,
-				}, -- [8]
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						0.28, -- [1]
-						0.49, -- [2]
-						0.7, -- [3]
-						1, -- [4]
-					},
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["boss"] = "The Hivemind",
-					["time"] = "22:19:56",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:159968::::::::120:267::35:7:6536:6578:6579:6539:6513:1647:4786:::|h[Gloves of the Iron Reavers]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["owner"] = "Cheese-Blackmoore",
-					["response"] = "Offspecc",
-					["typeCode"] = "default",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174137::::::::120:267::6:7:4824:6578:6579:6560:6515:1517:4786:::|h[Chitinspine Gloves]|h|r",
-					["id"] = "1591903196-36",
-					["date"] = "11/06/20",
-					["responseID"] = 4,
-					["votes"] = 0,
-					["isAwardReason"] = false,
-				}, -- [9]
-				{
-					["mapID"] = 2217,
-					["date"] = "25/06/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:25:51",
-					["iClass"] = 4,
-					["id"] = "1593109551-3",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:577::6:5:4824:6516:6515:1517:4786:::|h[Corpuscular Leather Greaves]|h|r",
-					["boss"] = "Carapace of N'Zoth",
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [10]
-				{
-					["mapID"] = 2217,
-					["date"] = "09/07/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "Furorion",
-					["time"] = "20:09:02",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-					["typeCode"] = "default",
-					["owner"] = "Iselbert-Blackmoore",
-					["id"] = "1594314542-3",
-					["response"] = "Minor",
-					["note"] = "sockel",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:102::6:5:4824:1808:6515:1517:4786:::|h[Summende schwarze Drachenschuppe]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						1, -- [1]
-						0.5, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 2,
-					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:102::6:3:4800:1517:4786:::|h[Aschenwinds Klingenkoralle]|h|r",
-					["votes"] = 0,
-				}, -- [11]
-				{
-					["mapID"] = 2217,
-					["date"] = "09/07/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:12:46",
-					["iClass"] = 4,
-					["id"] = "1594318366-10",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonusbeute",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:577::6:8:4824:6578:6579:6475:6462:6515:1517:4786:::|h[Corpuscular Leather Greaves]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-					["boss"] = "Panzer von N'Zoth",
-				}, -- [12]
-				{
-					["mapID"] = 2217,
-					["date"] = "09/07/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["boss"] = "N'Zoth der Verderber",
-					["time"] = "21:55:35",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
-					["votes"] = 1,
-					["typeCode"] = "default",
-					["owner"] = "Iselbert-Blackmoore",
-					["id"] = "1594320935-30",
-					["response"] = "Minor",
-					["note"] = "offspec",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174277::::::::120:102::6:4:4824:6513:1517:4786:::|h[Anhaltender psychischer Panzer]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.5, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["isAwardReason"] = false,
-					["responseID"] = 2,
-					["itemReplaced2"] = "|cffa335ee|Hitem:173943::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Qual im Glas]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-				}, -- [13]
-				{
-					["mapID"] = 2217,
-					["date"] = "30/07/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:11:29",
-					["iClass"] = 4,
-					["id"] = "1596132689-4",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonus Loot",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:577::6:8:4824:6578:6579:6493:6612:6515:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["boss"] = "N'Zoth the Corruptor",
-				}, -- [14]
-				{
-					["mapID"] = 2217,
-					["date"] = "30/07/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:11:30",
-					["iClass"] = 15,
-					["id"] = "1596132690-6",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
-					["boss"] = "N'Zoth the Corruptor",
-				}, -- [15]
-				{
-					["mapID"] = 2217,
-					["date"] = "06/08/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:45:14",
-					["iClass"] = 15,
-					["id"] = "1596739514-6",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-					["boss"] = "N'Zoth der Verderber",
-				}, -- [16]
-				{
-					["mapID"] = 2217,
-					["date"] = "20/08/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:58:56",
-					["iClass"] = 4,
-					["id"] = "1597949936-20",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Bonusbeute",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffa335ee|Hitem:174277::::::::120:577::6:4:4824:6515:1517:4786:::|h[Lingering Psychic Shell]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.8, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-					["boss"] = "N'Zoth der Verderber",
-				}, -- [17]
-				{
-					["mapID"] = 2217,
-					["date"] = "20/08/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 20,
-					["isAwardReason"] = false,
-					["time"] = "21:59:03",
-					["iClass"] = 15,
-					["id"] = "1597949943-24",
-					["owner"] = "Blûtdy-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 16,
-					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
-					["boss"] = "N'Zoth der Verderber",
-				}, -- [18]
 			},
 			["Summergale-Blackmoore"] = {
 				{
@@ -19122,8 +18693,8 @@ RCLootCouncilLootDB = {
 					["time"] = "21:26:07",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174500::::::::120:253::5:4:4823:6515:1502:4786:::|h[Vitageladener Titanensplitter]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Dragmore-Blackmoore",
 					["id"] = "1583349967-27",
 					["response"] = "Minor Upgrade",
@@ -19525,7 +19096,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:159461:6108:::::::120:253::35:7:6536:6578:6579:6550:6515:1647:4786:::|h[Band des uralten Baggerschiffs]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Shanks-Blackmoore",
 					["id"] = "1582748795-29",
 					["response"] = "BiS",
@@ -19541,7 +19112,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:175008:6108:168639::::::120:253::6:5:4824:6578:6515:1517:4786:::|h[Band des lauernden Intriganten]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [1]
 				{
 					["mapID"] = 2217,
@@ -19728,7 +19299,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173940::::::::120:577::5:4:4823:6513:1502:4786:::|h[Zeichen des Schutzes]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["typeCode"] = "default",
 					["owner"] = "Séeo-Blackmoore",
 					["id"] = "1580931822-56",
 					["response"] = "1st Spec",
@@ -19744,7 +19315,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174528::::::::120:577::5:5:4823:42:6515:1502:4786:::|h[Leerenentstellter Titanensplitter]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
 				}, -- [5]
 				{
 					["mapID"] = 2217,
@@ -19808,7 +19379,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174531:6111:::::::120:577::5:5:4823:6516:6515:1502:4786:::|h[Leerengeätztes Band]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
 					["owner"] = "Liqz-Blackmoore",
 					["id"] = "1581536267-39",
 					["response"] = "1st Spec",
@@ -19824,7 +19395,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174532:6108:::::::120:577::5:5:4823:6516:6515:1502:4786:::|h[Sekretstachelschleife]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["typeCode"] = "default",
 				}, -- [8]
 				{
 					["mapID"] = 2217,
@@ -20191,7 +19762,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:158314:6111:::::::120:253::35:5:6536:6578:6515:1647:4786:::|h[Siegel der fragwürdigen Loyalitäten]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Snerdtouch-Blackmoore",
 					["id"] = "1582747213-26",
 					["response"] = "Minor Upgrade",
@@ -20207,7 +19778,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:159458:6109:::::::120:253::16:5:6534:6516:6515:1637:4786:::|h[Siegel des majestätischen Loa]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [3]
 				{
 					["mapID"] = 2217,
@@ -21438,7 +21009,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:173944::::::::120:268::6:4:4824:6513:1517:4786:::|h[Forbidden Obsidian Claw]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Shanks-Blackmoore",
 					["id"] = "1582736998-3",
 					["response"] = "Main",
@@ -21454,7 +21025,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 1,
 					["itemReplaced2"] = "|cffa335ee|Hitem:171085::168639::::::120:268::13::::|h[Peerless Alchemist Stone]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
 				}, -- [2]
 				{
 					["mapID"] = 2217,
@@ -23571,7 +23142,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:169157:6108:168639::::::120:65::35:8:6536:4802:6578:6515:1532:4786:6482:6470:::|h[Logikleitring der Teilung]|h|r",
 					["votes"] = 0,
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 					["owner"] = "Yeonmage-Blackmoore",
 					["id"] = "1594924171-6",
 					["response"] = "Offspecc",
@@ -23587,7 +23158,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 3,
 					["itemReplaced2"] = "|cffa335ee|Hitem:174530:6108:168639::::::120:65::6:7:4824:42:1517:4786:6439:6470:6514:::|h[Ring des kollektiven Bewusstseins]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 				}, -- [4]
 				{
 					["mapID"] = 2217,
@@ -23948,31 +23519,479 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [1]
 			},
-			["Squizy-Silvermoon"] = {
+			["Blûtdy-Blackmoore"] = {
 				{
 					["mapID"] = 2217,
-					["date"] = "26/06/20",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
-					["groupSize"] = 21,
-					["isAwardReason"] = false,
-					["time"] = "21:17:45",
+					["date"] = "07/05/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "The Hivemind",
+					["time"] = "21:17:52",
 					["iClass"] = 4,
-					["id"] = "1593195465-0",
-					["owner"] = "Squizy-Silvermoon",
+					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:1:1747:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
+					["owner"] = "Cheese-Blackmoore",
+					["id"] = "1588875472-7",
+					["response"] = "Minor Upgrade",
+					["note"] = false,
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:267::6:6:4824:1808:6516:6515:1517:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 2,
+					["itemReplaced2"] = "|cffa335ee|Hitem:169158:6111:::::::120:267::35:8:6536:6578:6579:6478:6462:6515:1532:4786:::|h[Logic Loop of Recursion]|h|r",
+					["votes"] = 0,
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "07/05/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "N'Zoth the Corruptor",
+					["time"] = "22:54:52",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:1:1747:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
+					["owner"] = "Lihin-Blackmoore",
+					["id"] = "1588881292-29",
+					["response"] = "Minor Upgrade",
+					["note"] = "erst wenn ich nen sockel habe",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:267::6:5:4824:6516:6513:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 2,
+					["itemReplaced2"] = "|cffa335ee|Hitem:158362:6111:168642::::::120:267::16:5:6536:6516:1637:4786:6514:::|h[Lord Waycrest's Signet]|h|r",
+					["votes"] = 0,
+				}, -- [2]
+				{
+					["mapID"] = 2217,
+					["date"] = "14/05/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Ma'ut",
+					["time"] = "20:26:27",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:65::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "Avaturius-Blackmoore",
+					["votes"] = 0,
+					["response"] = "Automatisches Passen",
+					["id"] = "1589477187-3",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:173944::::::::120:65::6:5:4824:42:6515:1517:4786:::|h[Verbotene Obsidianklaue]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0.7, -- [1]
+						0.7, -- [2]
+						0.7, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "AUTOPASS",
+					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:65::6:3:4800:1517:4786:::|h[Aschenwinds Klingenkoralle]|h|r",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+				}, -- [3]
+				{
+					["mapID"] = 2217,
+					["date"] = "14/05/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 13,
+					["groupSize"] = 20,
+					["boss"] = "Ra-den der Entweihte",
+					["time"] = "20:59:07",
+					["iClass"] = 2,
+					["itemReplaced1"] = "|cffa335ee|Hitem:172197:5962:168642::::::120:65::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Salbenliebkosung]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "Cheese-Blackmoore",
+					["votes"] = 0,
+					["response"] = "Upgrade",
+					["id"] = "1589479147-8",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:172197::::::::120:65::6:7:4824:6569:6578:6579:6515:1517:4786:::|h[Salbenliebkosung]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						0.99, -- [2]
+						0.07, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:172197:5965:168642::::::120:65::5:8:4823:1808:6569:6578:6579:6515:1502:4786:::|h[Salbenliebkosung]|h|r",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+				}, -- [4]
+				{
+					["mapID"] = 2217,
+					["date"] = "28/05/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "22:21:58",
+					["iClass"] = 4,
+					["id"] = "1590693718-18",
+					["owner"] = "Blûtdy-Blackmoore",
 					["response"] = "Bonus Loot",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174168::::::::120:65::5:4:4823:1502:4786:6507:::|h[Carapace of Pulsing Vita]|h|r",
-					["boss"] = "Ra-den the Despoiled",
-					["responseID"] = "BONUSROLL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:577::6:5:4824:6516:6513:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
 					["color"] = {
 						1, -- [1]
 						0.8, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-				}, -- [1]
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["boss"] = "N'Zoth the Corruptor",
+				}, -- [5]
+				{
+					["mapID"] = 2217,
+					["date"] = "11/06/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:14:59",
+					["iClass"] = 4,
+					["id"] = "1591899299-9",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174136::::::::120:577::6:4:4824:1517:4786:6510:::|h[Tortured Fleshbeast Cuirass]|h|r",
+					["boss"] = "Carapace of N'Zoth",
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [6]
+				{
+					["mapID"] = 2217,
+					["date"] = "11/06/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "N'Zoth the Corruptor",
+					["time"] = "21:54:26",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:171075:6111:168642::::::120:267::13:2:1747:6516:::|h[Peerless Leviathan's Eye Loop of the Quickblade]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
+					["owner"] = "Kvnsprstr-Blackmoore",
+					["id"] = "1591901666-30",
+					["response"] = "Minor Upgrade",
+					["note"] = "pvp",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:175008::::::::120:267::6:6:4824:41:6516:6515:1517:4786:::|h[Lurking Schemer's Band]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 2,
+					["itemReplaced2"] = "|cffa335ee|Hitem:174533:6108:168639::::::120:267::6:5:4824:1517:4786:6554:6514:::|h[Ring of Cosmic Potential]|h|r",
+					["votes"] = 0,
+				}, -- [7]
+				{
+					["mapID"] = 2217,
+					["date"] = "11/06/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 9,
+					["groupSize"] = 20,
+					["boss"] = "The Hivemind",
+					["time"] = "22:19:36",
+					["iClass"] = 2,
+					["itemReplaced1"] = "|cffa335ee|Hitem:172197:5962:168642::::::120:267::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Unguent Caress]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "Blûtdy-Blackmoore",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["response"] = "Xmog",
+					["id"] = "1591903176-35",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:172192::::::::120:267::6:7:4824:6578:6579:6538:6513:1517:4786:::|h[The All-Seeing Eye]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0.7, -- [1]
+						0.52, -- [2]
+						0.24, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 5,
+					["itemReplaced2"] = "|cffa335ee|Hitem:172197:5965:168642::::::120:267::6:7:4824:6569:6578:6579:1517:4786:6514:::|h[Unguent Caress]|h|r",
+					["votes"] = 0,
+				}, -- [8]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						0.28, -- [1]
+						0.49, -- [2]
+						0.7, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["boss"] = "The Hivemind",
+					["time"] = "22:19:56",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:159968::::::::120:267::35:7:6536:6578:6579:6539:6513:1647:4786:::|h[Gloves of the Iron Reavers]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["owner"] = "Cheese-Blackmoore",
+					["response"] = "Offspecc",
+					["typeCode"] = "default",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174137::::::::120:267::6:7:4824:6578:6579:6560:6515:1517:4786:::|h[Chitinspine Gloves]|h|r",
+					["id"] = "1591903196-36",
+					["date"] = "11/06/20",
+					["responseID"] = 4,
+					["votes"] = 0,
+					["isAwardReason"] = false,
+				}, -- [9]
+				{
+					["mapID"] = 2217,
+					["date"] = "25/06/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:25:51",
+					["iClass"] = 4,
+					["id"] = "1593109551-3",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:577::6:5:4824:6516:6515:1517:4786:::|h[Corpuscular Leather Greaves]|h|r",
+					["boss"] = "Carapace of N'Zoth",
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [10]
+				{
+					["mapID"] = 2217,
+					["date"] = "09/07/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "Furorion",
+					["time"] = "20:09:02",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
+					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["owner"] = "Iselbert-Blackmoore",
+					["id"] = "1594314542-3",
+					["response"] = "Minor",
+					["note"] = "sockel",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:102::6:5:4824:1808:6515:1517:4786:::|h[Summende schwarze Drachenschuppe]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						1, -- [1]
+						0.5, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 2,
+					["itemReplaced2"] = "|cffa335ee|Hitem:169311::::::::120:102::6:3:4800:1517:4786:::|h[Aschenwinds Klingenkoralle]|h|r",
+					["votes"] = 0,
+				}, -- [11]
+				{
+					["mapID"] = 2217,
+					["date"] = "09/07/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:12:46",
+					["iClass"] = 4,
+					["id"] = "1594318366-10",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Bonusbeute",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174144::::::::120:577::6:8:4824:6578:6579:6475:6462:6515:1517:4786:::|h[Corpuscular Leather Greaves]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["boss"] = "Panzer von N'Zoth",
+				}, -- [12]
+				{
+					["mapID"] = 2217,
+					["date"] = "09/07/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["boss"] = "N'Zoth der Verderber",
+					["time"] = "21:55:35",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:174500::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Vitageladener Titanensplitter]|h|r",
+					["votes"] = 1,
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["owner"] = "Iselbert-Blackmoore",
+					["id"] = "1594320935-30",
+					["response"] = "Minor",
+					["note"] = "offspec",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174277::::::::120:102::6:4:4824:6513:1517:4786:::|h[Anhaltender psychischer Panzer]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.5, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["isAwardReason"] = false,
+					["responseID"] = 2,
+					["itemReplaced2"] = "|cffa335ee|Hitem:173943::168642::::::120:102::6:4:4824:1517:4786:6514:::|h[Qual im Glas]|h|r",
+					["typeCode"] = "default",
+				}, -- [13]
+				{
+					["mapID"] = 2217,
+					["date"] = "30/07/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:11:29",
+					["iClass"] = 4,
+					["id"] = "1596132689-4",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Bonus Loot",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:577::6:8:4824:6578:6579:6493:6612:6515:1517:4786:::|h[Ring of Cosmic Potential]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["boss"] = "N'Zoth the Corruptor",
+				}, -- [14]
+				{
+					["mapID"] = 2217,
+					["date"] = "30/07/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:11:30",
+					["iClass"] = 15,
+					["id"] = "1596132690-6",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["boss"] = "N'Zoth the Corruptor",
+				}, -- [15]
+				{
+					["mapID"] = 2217,
+					["date"] = "06/08/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:45:14",
+					["iClass"] = 15,
+					["id"] = "1596739514-6",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["boss"] = "N'Zoth der Verderber",
+				}, -- [16]
+				{
+					["mapID"] = 2217,
+					["date"] = "20/08/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:58:56",
+					["iClass"] = 4,
+					["id"] = "1597949936-20",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Bonusbeute",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffa335ee|Hitem:174277::::::::120:577::6:4:4824:6515:1517:4786:::|h[Lingering Psychic Shell]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.8, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "BONUSROLL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["boss"] = "N'Zoth der Verderber",
+				}, -- [17]
+				{
+					["mapID"] = 2217,
+					["date"] = "20/08/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 20,
+					["isAwardReason"] = false,
+					["time"] = "21:59:03",
+					["iClass"] = 15,
+					["id"] = "1597949943-24",
+					["owner"] = "Blûtdy-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 16,
+					["lootWon"] = "|cffff8000|Hitem:175062::::::::120:577::6::::|h[Malefic Core]|h|r",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["boss"] = "N'Zoth der Verderber",
+				}, -- [18]
 			},
 			["Teiick-Sylvanas"] = {
 				{
@@ -24425,8 +24444,8 @@ RCLootCouncilLootDB = {
 					["time"] = "19:06:53",
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:172669::168640::::::120:250::25:6:41:6388:6377:1577:4786:6514:::|h[Corrupted Gladiator's Badge]|h|r",
-					["typeCode"] = "default",
 					["instance"] = "Ny'alotha, the Waking City-Mythic",
+					["typeCode"] = "default",
 					["owner"] = "Laserblubbi-Blackmoore",
 					["id"] = "1586966813-1",
 					["response"] = "Minor Up",
@@ -24909,7 +24928,7 @@ RCLootCouncilLootDB = {
 					["iClass"] = 4,
 					["itemReplaced1"] = "|cffa335ee|Hitem:174530:6109:::::::120:253::6:5:4824:6516:6513:1517:4786:::|h[Ring des kollektiven Bewusstseins]|h|r",
 					["votes"] = 0,
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
+					["typeCode"] = "default",
 					["owner"] = "Insania-Blackmoore",
 					["id"] = "1583354300-34",
 					["response"] = "Minor Upgrade",
@@ -24925,7 +24944,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 					["responseID"] = 2,
 					["itemReplaced2"] = "|cffa335ee|Hitem:175008:6109:168641::::::120:253::5:5:4823:6516:6513:1502:4786:::|h[Band des lauernden Intriganten]|h|r",
-					["typeCode"] = "default",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Mythisch",
 				}, -- [2]
 				{
 					["mapID"] = 2217,
@@ -26631,7 +26650,7 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [7]
 			},
-			["Niceapfel-Silvermoon"] = {
+			["Rifaatd-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
@@ -26640,17 +26659,17 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
 					["groupSize"] = 30,
-					["boss"] = "The Hivemind",
-					["time"] = "20:12:00",
+					["boss"] = "Wrathion",
+					["time"] = "18:59:49",
 					["iClass"] = 4,
-					["id"] = "1579723920-30",
-					["owner"] = "Niceapfel-Silvermoon",
+					["id"] = "1579719589-4",
+					["owner"] = "Rifaatd-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174171::::::::120:251::5:7:4823:6578:6579:6553:6515:1502:4786:::|h[Dark Crystalline Girdle]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174139::::::::120:577::5:6:4823:1808:6516:6513:1502:4786:::|h[Onyx-Imbued Breeches]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
@@ -26664,17 +26683,17 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 4,
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
 					["groupSize"] = 30,
-					["boss"] = "Il'gynoth, Corruption Reborn",
-					["time"] = "21:47:41",
+					["boss"] = "The Hivemind",
+					["time"] = "20:11:05",
 					["iClass"] = 4,
-					["id"] = "1579729661-62",
-					["owner"] = "Niceapfel-Silvermoon",
+					["id"] = "1579723865-22",
+					["owner"] = "Rifaatd-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174163::::::::120:251::5:4:4823:1502:4786:6508:::|h[Second Sight Helm]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:577::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
@@ -26688,22 +26707,73 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEATHKNIGHT",
-					["iSubClass"] = 0,
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
 					["groupSize"] = 30,
-					["boss"] = "N'Zoth the Corruptor",
-					["time"] = "21:22:09",
+					["boss"] = "Drest'agath",
+					["time"] = "21:31:25",
 					["iClass"] = 4,
-					["id"] = "1579814529-11",
-					["owner"] = "Niceapfel-Silvermoon",
+					["id"] = "1579728685-54",
+					["owner"] = "Rifaatd-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:251::5:6:4823:41:6516:6513:1502:4786:::|h[Ring of Cosmic Potential]|h|r",
-					["date"] = "23/01/20",
+					["lootWon"] = "|cffa335ee|Hitem:174146::::::::120:577::5:5:4823:6516:6513:1502:4786:::|h[Gloves of Abyssal Authority]|h|r",
+					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["isAwardReason"] = false,
+					["date"] = "22/01/20",
 				}, -- [3]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 2,
+					["groupSize"] = 30,
+					["boss"] = "Vexiona",
+					["time"] = "22:11:30",
+					["iClass"] = 4,
+					["id"] = "1579731090-69",
+					["owner"] = "Rifaatd-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174131::::::::120:581::5:4:4823:1502:4786:6507:::|h[Darkheart Robe]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["date"] = "22/01/20",
+				}, -- [4]
+				{
+					["mapID"] = 2217,
+					["date"] = "23/01/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 30,
+					["boss"] = "Vexiona",
+					["time"] = "22:13:28",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:168703:6111:168642::::::120:63::13:1:1746:::|h[Ascended Leviathan's Eye Loop of the Quickblade]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["owner"] = "Jamesmarcus-Silvermoon",
+					["response"] = "Mainspec/Need",
+					["id"] = "1579817608-38",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cffa335ee|Hitem:175008::::::::120:63::3:7:4822:6578:6579:6537:6515:1487:4786:::|h[Lurking Schemer's Band]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:158362:6111:168642::::::120:63::35:4:5010:4802:1592:4784:::|h[Lord Waycrest's Signet]|h|r",
+					["votes"] = 4,
+				}, -- [5]
 			},
 			["Lathira-Silvermoon"] = {
 				{
@@ -26964,58 +27034,79 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [3]
 			},
-			["Orvulus-Blackmoore"] = {
+			["Paneu-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
 						1, -- [1]
-						0.984313725490196, -- [2]
-						0.0235294117647059, -- [3]
-						1, -- [4]
-					},
-					["class"] = "MONK",
-					["iSubClass"] = 2,
-					["groupSize"] = 26,
-					["boss"] = "Vexiona",
-					["time"] = "21:46:53",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:169073::::::::120:577::35:5:5445:1517:4786:6507:4775:::|h[Bomberjacke Typ II]|h|r",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["owner"] = "Emptii-Blackmoore",
-					["response"] = "Geringes Upgrade",
-					["typeCode"] = "default",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174131::::::::120:577::5:4:4823:1502:4786:6507:::|h[Düsterherzrobe]|h|r",
-					["id"] = "1580327213-33",
-					["date"] = "29/01/20",
-					["responseID"] = 2,
-					["votes"] = 0,
-					["isAwardReason"] = false,
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MONK",
-					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "22:35:40",
-					["iClass"] = 4,
-					["id"] = "1580330140-47",
-					["owner"] = "Orvulus-Blackmoore",
-					["response"] = "Persönliche Beute – Handel abgelehnt",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174528::::::::120:268::5:5:4823:42:6515:1502:4786:::|h[Leerenentstellter Titanensplitter]|h|r",
-					["boss"] = "Ra-den der Entweihte",
-					["responseID"] = "PL_REJECT",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						0.6, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 0,
+					["groupSize"] = 30,
+					["boss"] = "Wrathion",
+					["time"] = "18:59:43",
+					["iClass"] = 4,
+					["id"] = "1579719583-1",
+					["owner"] = "Paneu-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:258::5:4:4823:6515:1502:4786:::|h[Humming Black Dragonscale]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["date"] = "22/01/20",
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 0,
+					["groupSize"] = 30,
+					["boss"] = "The Hivemind",
+					["time"] = "20:11:08",
+					["iClass"] = 4,
+					["id"] = "1579723868-27",
+					["owner"] = "Paneu-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:258::5:7:4823:6578:6579:6540:6513:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["date"] = "22/01/20",
 				}, -- [2]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "PRIEST",
+					["iSubClass"] = 1,
+					["groupSize"] = 30,
+					["boss"] = "Carapace of N'Zoth",
+					["time"] = "19:45:27",
+					["iClass"] = 4,
+					["id"] = "1579808727-1",
+					["owner"] = "Paneu-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174117::::::::120:258::5:4:4823:1502:4786:6509:::|h[Spaulders of Miasmic Mycelia]|h|r",
+					["date"] = "23/01/20",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["isAwardReason"] = false,
+				}, -- [3]
 			},
 			["Jasme-Silvermoon"] = {
 				{
@@ -27168,7 +27259,7 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [3]
 			},
-			["Rifaatd-Silvermoon"] = {
+			["Niceapfel-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
@@ -27177,17 +27268,17 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
 					["groupSize"] = 30,
-					["boss"] = "Wrathion",
-					["time"] = "18:59:49",
+					["boss"] = "The Hivemind",
+					["time"] = "20:12:00",
 					["iClass"] = 4,
-					["id"] = "1579719589-4",
-					["owner"] = "Rifaatd-Silvermoon",
+					["id"] = "1579723920-30",
+					["owner"] = "Niceapfel-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174139::::::::120:577::5:6:4823:1808:6516:6513:1502:4786:::|h[Onyx-Imbued Breeches]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174171::::::::120:251::5:7:4823:6578:6579:6553:6515:1502:4786:::|h[Dark Crystalline Girdle]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
@@ -27201,17 +27292,17 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
+					["class"] = "DEATHKNIGHT",
+					["iSubClass"] = 4,
 					["groupSize"] = 30,
-					["boss"] = "The Hivemind",
-					["time"] = "20:11:05",
+					["boss"] = "Il'gynoth, Corruption Reborn",
+					["time"] = "21:47:41",
 					["iClass"] = 4,
-					["id"] = "1579723865-22",
-					["owner"] = "Rifaatd-Silvermoon",
+					["id"] = "1579729661-62",
+					["owner"] = "Niceapfel-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:577::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174163::::::::120:251::5:4:4823:1502:4786:6508:::|h[Second Sight Helm]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
@@ -27225,73 +27316,22 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
-					["boss"] = "Drest'agath",
-					["time"] = "21:31:25",
-					["iClass"] = 4,
-					["id"] = "1579728685-54",
-					["owner"] = "Rifaatd-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174146::::::::120:577::5:5:4823:6516:6513:1502:4786:::|h[Gloves of Abyssal Authority]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
-				}, -- [3]
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
-					["boss"] = "Vexiona",
-					["time"] = "22:11:30",
-					["iClass"] = 4,
-					["id"] = "1579731090-69",
-					["owner"] = "Rifaatd-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174131::::::::120:581::5:4:4823:1502:4786:6507:::|h[Darkheart Robe]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
-				}, -- [4]
-				{
-					["mapID"] = 2217,
-					["date"] = "23/01/20",
-					["class"] = "DEMONHUNTER",
+					["class"] = "DEATHKNIGHT",
 					["iSubClass"] = 0,
 					["groupSize"] = 30,
-					["boss"] = "Vexiona",
-					["time"] = "22:13:28",
+					["boss"] = "N'Zoth the Corruptor",
+					["time"] = "21:22:09",
 					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:168703:6111:168642::::::120:63::13:1:1746:::|h[Ascended Leviathan's Eye Loop of the Quickblade]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Normal",
-					["owner"] = "Jamesmarcus-Silvermoon",
-					["response"] = "Mainspec/Need",
-					["id"] = "1579817608-38",
-					["difficultyID"] = 14,
-					["lootWon"] = "|cffa335ee|Hitem:175008::::::::120:63::3:7:4822:6578:6579:6537:6515:1487:4786:::|h[Lurking Schemer's Band]|h|r",
+					["id"] = "1579814529-11",
+					["owner"] = "Niceapfel-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174533::::::::120:251::5:6:4823:41:6516:6513:1502:4786:::|h[Ring of Cosmic Potential]|h|r",
+					["date"] = "23/01/20",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:158362:6111:168642::::::120:63::35:4:5010:4802:1592:4784:::|h[Lord Waycrest's Signet]|h|r",
-					["votes"] = 4,
-				}, -- [5]
+				}, -- [3]
 			},
 			["Jwag-Silvermoon"] = {
 				{
@@ -27575,108 +27615,6 @@ RCLootCouncilLootDB = {
 					["isAwardReason"] = false,
 				}, -- [4]
 			},
-			["Bearu-Silvermoon"] = {
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
-					["boss"] = "Dark Inquisitor Xanesh",
-					["time"] = "20:37:08",
-					["iClass"] = 4,
-					["id"] = "1579725428-35",
-					["owner"] = "Bearu-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174140::::::::120:104::5:6:4823:42:6516:6515:1502:4786:::|h[Cord of Anguished Cries]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 30,
-					["boss"] = "Maut",
-					["time"] = "21:49:31",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:159318::::::::120:63::35:5:5448:1617:4786:6270:4775:::|h[Hood of the Slithering Loa]|h|r",
-					["instance"] = "Ny'alotha, the Waking City-Normal",
-					["owner"] = "Rifaatd-Silvermoon",
-					["response"] = "Mainspec/Need",
-					["difficultyID"] = 14,
-					["lootWon"] = "|cffa335ee|Hitem:174132::::::::120:63::3:4:4822:1487:4786:6505:::|h[Stygian Guise]|h|r",
-					["id"] = "1579816171-28",
-					["date"] = "23/01/20",
-					["responseID"] = 1,
-					["votes"] = 0,
-					["isAwardReason"] = false,
-				}, -- [2]
-			},
-			["Inánná-Ravencrest"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "20:48:48",
-					["iClass"] = 4,
-					["id"] = "1580323728-5",
-					["owner"] = "Inánná-Ravencrest",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174173::::::::120:70::5:5:4823:6516:6515:1502:4786:::|h[Boots of Hallucinatory Reality]|h|r",
-					["boss"] = "Prophet Skitra",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "PALADIN",
-					["iSubClass"] = 4,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "21:27:29",
-					["iClass"] = 4,
-					["id"] = "1580326049-22",
-					["owner"] = "Inánná-Ravencrest",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174169::::::::120:70::5:5:4823:6516:6513:1502:4786:::|h[Gauntlets of Foul Inquisition]|h|r",
-					["boss"] = "Dunkle Inquisitorin Xanesh",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-			},
 			["Lîlý-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
@@ -27774,6 +27712,106 @@ RCLootCouncilLootDB = {
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["date"] = "22/01/20",
 				}, -- [4]
+			},
+			["Inánná-Ravencrest"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "20:48:48",
+					["iClass"] = 4,
+					["id"] = "1580323728-5",
+					["owner"] = "Inánná-Ravencrest",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174173::::::::120:70::5:5:4823:6516:6515:1502:4786:::|h[Boots of Hallucinatory Reality]|h|r",
+					["boss"] = "Prophet Skitra",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "PALADIN",
+					["iSubClass"] = 4,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "21:27:29",
+					["iClass"] = 4,
+					["id"] = "1580326049-22",
+					["owner"] = "Inánná-Ravencrest",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174169::::::::120:70::5:5:4823:6516:6513:1502:4786:::|h[Gauntlets of Foul Inquisition]|h|r",
+					["boss"] = "Dunkle Inquisitorin Xanesh",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [2]
+			},
+			["Aquarello-Blackmoore"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "21:27:30",
+					["iClass"] = 4,
+					["id"] = "1580326050-23",
+					["owner"] = "Aquarello-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:172190::::::::120:63::5:5:4823:6516:6515:1502:4786:::|h[Uhnish Vwah]|h|r",
+					["boss"] = "Dunkle Inquisitorin Xanesh",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["isAwardReason"] = false,
+					["time"] = "22:35:23",
+					["iClass"] = 4,
+					["id"] = "1580330123-45",
+					["owner"] = "Aquarello-Blackmoore",
+					["response"] = "Persönliche Beute – Handel abgelehnt",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174500::::::::120:63::5:4:4823:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
+					["boss"] = "Ra-den der Entweihte",
+					["responseID"] = "PL_REJECT",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [2]
 			},
 			["Fyurii-Silvermoon"] = {
 				{
@@ -28441,7 +28479,7 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [2]
 			},
-			["Nalesegtwo-Silvermoon"] = {
+			["Knucklè-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
@@ -28450,22 +28488,94 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "PRIEST",
+					["class"] = "SHAMAN",
 					["iSubClass"] = 0,
-					["groupSize"] = 30,
-					["boss"] = "The Hivemind",
-					["time"] = "20:11:07",
+					["groupSize"] = 29,
+					["boss"] = "Wrathion",
+					["time"] = "19:00:06",
 					["iClass"] = 4,
-					["id"] = "1579723867-26",
-					["owner"] = "Nalesegtwo-Silvermoon",
+					["id"] = "1579719606-6",
+					["owner"] = "Knucklè-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:258::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:262::5:4:4823:6513:1502:4786:::|h[Humming Black Dragonscale]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["date"] = "22/01/20",
 				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 30,
+					["boss"] = "Dark Inquisitor Xanesh",
+					["time"] = "20:37:12",
+					["iClass"] = 4,
+					["id"] = "1579725432-37",
+					["owner"] = "Knucklè-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174156::::::::120:262::5:5:4823:6516:6515:1502:4786:::|h[Chainlink Belt of Ill Omens]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["date"] = "22/01/20",
+				}, -- [2]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 6,
+					["groupSize"] = 30,
+					["boss"] = "Il'gynoth, Corruption Reborn",
+					["time"] = "21:47:57",
+					["iClass"] = 4,
+					["id"] = "1579729677-66",
+					["owner"] = "Knucklè-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:172188::::::::120:262::5:5:4823:6516:6513:1502:4786:::|h[Precipice of Oblivion]|h|r",
+					["isAwardReason"] = false,
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["date"] = "22/01/20",
+				}, -- [3]
+				{
+					["mapID"] = 2217,
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["class"] = "SHAMAN",
+					["iSubClass"] = 3,
+					["groupSize"] = 30,
+					["boss"] = "Carapace of N'Zoth",
+					["time"] = "19:45:26",
+					["iClass"] = 4,
+					["id"] = "1579808726-0",
+					["owner"] = "Knucklè-Silvermoon",
+					["response"] = "Personal Loot - Non tradeable",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174151::::::::120:262::5:4:4823:1502:4786:6508:::|h[Helm of Actualized Visions]|h|r",
+					["date"] = "23/01/20",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, the Waking City-Heroic",
+					["isAwardReason"] = false,
+				}, -- [4]
 			},
 			["Delarí-Silvermoon"] = {
 				{
@@ -28776,80 +28886,6 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [3]
 			},
-			["Markleess-Blackmoore"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "20:48:50",
-					["iClass"] = 4,
-					["id"] = "1580323730-7",
-					["owner"] = "Markleess-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174060::::::::120:64::5:4:4823:6515:1502:4786:::|h[Psychenreißer]|h|r",
-					["boss"] = "Prophet Skitra",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MAGE",
-					["iSubClass"] = 1,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "22:05:57",
-					["iClass"] = 4,
-					["id"] = "1580328357-35",
-					["owner"] = "Markleess-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174122::::::::120:64::5:5:4823:6516:6513:1502:4786:::|h[Leerengetränkte Gelenkbänder]|h|r",
-					["boss"] = "Das Schwarmbewusstsein",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MAGE",
-					["iSubClass"] = 2,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "22:35:23",
-					["iClass"] = 15,
-					["id"] = "1580330123-44",
-					["owner"] = "Markleess-Blackmoore",
-					["response"] = "Persönliche Beute – Handel abgelehnt",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cff0070dd|Hitem:174447::::::::120:64::5::::|h[Leerenvernarbter Anubisath]|h|r",
-					["boss"] = "Ra-den der Entweihte",
-					["responseID"] = "PL_REJECT",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [3]
-			},
 			["Eniseew-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
@@ -28922,6 +28958,80 @@ RCLootCouncilLootDB = {
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["isAwardReason"] = false,
+				}, -- [3]
+			},
+			["Markleess-Blackmoore"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "MAGE",
+					["iSubClass"] = 0,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "20:48:50",
+					["iClass"] = 4,
+					["id"] = "1580323730-7",
+					["owner"] = "Markleess-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174060::::::::120:64::5:4:4823:6515:1502:4786:::|h[Psychenreißer]|h|r",
+					["boss"] = "Prophet Skitra",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "MAGE",
+					["iSubClass"] = 1,
+					["groupSize"] = 26,
+					["isAwardReason"] = false,
+					["time"] = "22:05:57",
+					["iClass"] = 4,
+					["id"] = "1580328357-35",
+					["owner"] = "Markleess-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174122::::::::120:64::5:5:4823:6516:6513:1502:4786:::|h[Leerengetränkte Gelenkbänder]|h|r",
+					["boss"] = "Das Schwarmbewusstsein",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [2]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "MAGE",
+					["iSubClass"] = 2,
+					["groupSize"] = 26,
+					["isAwardReason"] = false,
+					["time"] = "22:35:23",
+					["iClass"] = 15,
+					["id"] = "1580330123-44",
+					["owner"] = "Markleess-Blackmoore",
+					["response"] = "Persönliche Beute – Handel abgelehnt",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cff0070dd|Hitem:174447::::::::120:64::5::::|h[Leerenvernarbter Anubisath]|h|r",
+					["boss"] = "Ra-den der Entweihte",
+					["responseID"] = "PL_REJECT",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
 				}, -- [3]
 			},
 			["Pfeffersack-Blackmoore"] = {
@@ -29207,6 +29317,164 @@ RCLootCouncilLootDB = {
 					["votes"] = 5,
 				}, -- [4]
 			},
+			["Emptii-Blackmoore"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "20:49:10",
+					["iClass"] = 4,
+					["id"] = "1580323750-9",
+					["owner"] = "Emptii-Blackmoore",
+					["response"] = "Persönliche Beute – Handel abgelehnt",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174143::::::::120:102::5:5:4823:6516:6515:1502:4786:::|h[Hose des makabren Ritual]|h|r",
+					["boss"] = "Prophet Skitra",
+					["responseID"] = "PL_REJECT",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "DRUID",
+					["iSubClass"] = 15,
+					["groupSize"] = 25,
+					["boss"] = "Prophet Skitra",
+					["time"] = "20:50:42",
+					["iClass"] = 2,
+					["itemReplaced1"] = "|cffa335ee|Hitem:168904:6112:::::::120:577::6:4:4800:1517:5850:4783:::|h[Hammer des Strömungswebers]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "Yldra-Blackmoore",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["response"] = "1st Spec",
+					["id"] = "1580323842-10",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:172201::::::::120:577::5:5:4823:6516:6513:1502:4786:::|h[Blutbefleckte rituelle Athame]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:159669::::::::120:577::35:5:6536:6578:6513:1647:4786:::|h[Solenas wachsame Sammlung]|h|r",
+					["votes"] = 1,
+				}, -- [2]
+			},
+			["Mortár-Blackmoore"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "DEMONHUNTER",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["isAwardReason"] = false,
+					["time"] = "22:35:48",
+					["iClass"] = 4,
+					["id"] = "1580330148-49",
+					["owner"] = "Mortár-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174528::::::::120:577::5:4:4823:6513:1502:4786:::|h[Leerenentstellter Titanensplitter]|h|r",
+					["boss"] = "Ra-den der Entweihte",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+			},
+			["Bavragøn-Blackmoore"] = {
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "ROGUE",
+					["iSubClass"] = 15,
+					["groupSize"] = 26,
+					["isAwardReason"] = false,
+					["time"] = "20:38:37",
+					["iClass"] = 2,
+					["id"] = "1580323117-2",
+					["owner"] = "Bavragøn-Blackmoore",
+					["response"] = "Persönliche Beute – Handel abgelehnt",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:172185::::::::120:259::5:5:4823:6516:6515:1502:4786:::|h[Schattenklinge des Zerstörers]|h|r",
+					["boss"] = "Furorion",
+					["responseID"] = "PL_REJECT",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						0.2, -- [1]
+						0, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [1]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "ROGUE",
+					["iSubClass"] = 2,
+					["groupSize"] = 25,
+					["isAwardReason"] = false,
+					["time"] = "21:06:28",
+					["iClass"] = 4,
+					["id"] = "1580324788-12",
+					["owner"] = "Bavragøn-Blackmoore",
+					["response"] = "Persönliche Beute – Nicht handelbar",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174132::::::::120:259::5:4:4823:1502:4786:6508:::|h[Stygische Haube]|h|r",
+					["boss"] = "Ma'ut",
+					["responseID"] = "PL",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["color"] = {
+						1, -- [1]
+						0.6, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+				}, -- [2]
+				{
+					["mapID"] = 2217,
+					["date"] = "29/01/20",
+					["class"] = "ROGUE",
+					["iSubClass"] = 0,
+					["groupSize"] = 26,
+					["boss"] = "Ra-den der Entweihte",
+					["time"] = "22:42:21",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:577::6:4:4800:1517:5850:4783:::|h[Aschenwinds Klingenkoralle]|h|r",
+					["typeCode"] = "default",
+					["owner"] = "Bleydes-Blackmoore",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["response"] = "1st Spec",
+					["id"] = "1580330541-50",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174500::::::::120:577::5:4:4823:6513:1502:4786:::|h[Vitageladener Titanensplitter]|h|r",
+					["isAwardReason"] = false,
+					["color"] = {
+						0, -- [1]
+						1, -- [2]
+						0, -- [3]
+						1, -- [4]
+					},
+					["responseID"] = 1,
+					["itemReplaced2"] = "|cffa335ee|Hitem:169314::::::::120:577::5:3:4799:1502:4786:::|h[Azsharas Born der Macht]|h|r",
+					["votes"] = 0,
+				}, -- [3]
+			},
 			["Axì-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
@@ -29336,164 +29604,6 @@ RCLootCouncilLootDB = {
 					["itemReplaced2"] = "|cffa335ee|Hitem:169316::168638::::::120:63::6:4:4800:1808:1517:4786:::|h[Deferred Sentence]|h|r",
 					["votes"] = 0,
 				}, -- [5]
-			},
-			["Emptii-Blackmoore"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "DRUID",
-					["iSubClass"] = 2,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "20:49:10",
-					["iClass"] = 4,
-					["id"] = "1580323750-9",
-					["owner"] = "Emptii-Blackmoore",
-					["response"] = "Persönliche Beute – Handel abgelehnt",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174143::::::::120:102::5:5:4823:6516:6515:1502:4786:::|h[Hose des makabren Ritual]|h|r",
-					["boss"] = "Prophet Skitra",
-					["responseID"] = "PL_REJECT",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "DRUID",
-					["iSubClass"] = 15,
-					["groupSize"] = 25,
-					["boss"] = "Prophet Skitra",
-					["time"] = "20:50:42",
-					["iClass"] = 2,
-					["itemReplaced1"] = "|cffa335ee|Hitem:168904:6112:::::::120:577::6:4:4800:1517:5850:4783:::|h[Hammer des Strömungswebers]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "Yldra-Blackmoore",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["response"] = "1st Spec",
-					["id"] = "1580323842-10",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:172201::::::::120:577::5:5:4823:6516:6513:1502:4786:::|h[Blutbefleckte rituelle Athame]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:159669::::::::120:577::35:5:6536:6578:6513:1647:4786:::|h[Solenas wachsame Sammlung]|h|r",
-					["votes"] = 1,
-				}, -- [2]
-			},
-			["Bavragøn-Blackmoore"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "ROGUE",
-					["iSubClass"] = 15,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "20:38:37",
-					["iClass"] = 2,
-					["id"] = "1580323117-2",
-					["owner"] = "Bavragøn-Blackmoore",
-					["response"] = "Persönliche Beute – Handel abgelehnt",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:172185::::::::120:259::5:5:4823:6516:6515:1502:4786:::|h[Schattenklinge des Zerstörers]|h|r",
-					["boss"] = "Furorion",
-					["responseID"] = "PL_REJECT",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "ROGUE",
-					["iSubClass"] = 2,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "21:06:28",
-					["iClass"] = 4,
-					["id"] = "1580324788-12",
-					["owner"] = "Bavragøn-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174132::::::::120:259::5:4:4823:1502:4786:6508:::|h[Stygische Haube]|h|r",
-					["boss"] = "Ma'ut",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [2]
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "ROGUE",
-					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["boss"] = "Ra-den der Entweihte",
-					["time"] = "22:42:21",
-					["iClass"] = 4,
-					["itemReplaced1"] = "|cffa335ee|Hitem:169311::::::::120:577::6:4:4800:1517:5850:4783:::|h[Aschenwinds Klingenkoralle]|h|r",
-					["typeCode"] = "default",
-					["owner"] = "Bleydes-Blackmoore",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["response"] = "1st Spec",
-					["id"] = "1580330541-50",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174500::::::::120:577::5:4:4823:6513:1502:4786:::|h[Vitageladener Titanensplitter]|h|r",
-					["isAwardReason"] = false,
-					["color"] = {
-						0, -- [1]
-						1, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["responseID"] = 1,
-					["itemReplaced2"] = "|cffa335ee|Hitem:169314::::::::120:577::5:3:4799:1502:4786:::|h[Azsharas Born der Macht]|h|r",
-					["votes"] = 0,
-				}, -- [3]
-			},
-			["Mortár-Blackmoore"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "DEMONHUNTER",
-					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "22:35:48",
-					["iClass"] = 4,
-					["id"] = "1580330148-49",
-					["owner"] = "Mortár-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174528::::::::120:577::5:4:4823:6513:1502:4786:::|h[Leerenentstellter Titanensplitter]|h|r",
-					["boss"] = "Ra-den der Entweihte",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-				}, -- [1]
 			},
 			["ópo-Silvermoon"] = {
 				{
@@ -29805,7 +29915,7 @@ RCLootCouncilLootDB = {
 					["votes"] = 0,
 				}, -- [3]
 			},
-			["Knucklè-Silvermoon"] = {
+			["Nalesegtwo-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
@@ -29814,22 +29924,24 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "SHAMAN",
+					["class"] = "PRIEST",
 					["iSubClass"] = 0,
-					["groupSize"] = 29,
-					["boss"] = "Wrathion",
-					["time"] = "19:00:06",
+					["groupSize"] = 30,
+					["boss"] = "The Hivemind",
+					["time"] = "20:11:07",
 					["iClass"] = 4,
-					["id"] = "1579719606-6",
-					["owner"] = "Knucklè-Silvermoon",
+					["id"] = "1579723867-26",
+					["owner"] = "Nalesegtwo-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:262::5:4:4823:6513:1502:4786:::|h[Humming Black Dragonscale]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:258::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["date"] = "22/01/20",
 				}, -- [1]
+			},
+			["Bearu-Silvermoon"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
@@ -29838,119 +29950,47 @@ RCLootCouncilLootDB = {
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
 					["groupSize"] = 30,
 					["boss"] = "Dark Inquisitor Xanesh",
-					["time"] = "20:37:12",
+					["time"] = "20:37:08",
 					["iClass"] = 4,
-					["id"] = "1579725432-37",
-					["owner"] = "Knucklè-Silvermoon",
+					["id"] = "1579725428-35",
+					["owner"] = "Bearu-Silvermoon",
 					["response"] = "Personal Loot - Non tradeable",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174156::::::::120:262::5:5:4823:6516:6515:1502:4786:::|h[Chainlink Belt of Ill Omens]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174140::::::::120:104::5:6:4823:42:6516:6515:1502:4786:::|h[Cord of Anguished Cries]|h|r",
 					["isAwardReason"] = false,
 					["responseID"] = "PL",
 					["instance"] = "Ny'alotha, the Waking City-Heroic",
 					["date"] = "22/01/20",
-				}, -- [2]
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "SHAMAN",
-					["iSubClass"] = 6,
-					["groupSize"] = 30,
-					["boss"] = "Il'gynoth, Corruption Reborn",
-					["time"] = "21:47:57",
-					["iClass"] = 4,
-					["id"] = "1579729677-66",
-					["owner"] = "Knucklè-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:172188::::::::120:262::5:5:4823:6516:6513:1502:4786:::|h[Precipice of Oblivion]|h|r",
-					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
-				}, -- [3]
-				{
-					["mapID"] = 2217,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "SHAMAN",
-					["iSubClass"] = 3,
-					["groupSize"] = 30,
-					["boss"] = "Carapace of N'Zoth",
-					["time"] = "19:45:26",
-					["iClass"] = 4,
-					["id"] = "1579808726-0",
-					["owner"] = "Knucklè-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174151::::::::120:262::5:4:4823:1502:4786:6508:::|h[Helm of Actualized Visions]|h|r",
-					["date"] = "23/01/20",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["isAwardReason"] = false,
-				}, -- [4]
-			},
-			["Aquarello-Blackmoore"] = {
-				{
-					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 25,
-					["isAwardReason"] = false,
-					["time"] = "21:27:30",
-					["iClass"] = 4,
-					["id"] = "1580326050-23",
-					["owner"] = "Aquarello-Blackmoore",
-					["response"] = "Persönliche Beute – Nicht handelbar",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:172190::::::::120:63::5:5:4823:6516:6515:1502:4786:::|h[Uhnish Vwah]|h|r",
-					["boss"] = "Dunkle Inquisitorin Xanesh",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
 				}, -- [1]
 				{
 					["mapID"] = 2217,
-					["date"] = "29/01/20",
-					["class"] = "MAGE",
-					["iSubClass"] = 0,
-					["groupSize"] = 26,
-					["isAwardReason"] = false,
-					["time"] = "22:35:23",
-					["iClass"] = 4,
-					["id"] = "1580330123-45",
-					["owner"] = "Aquarello-Blackmoore",
-					["response"] = "Persönliche Beute – Handel abgelehnt",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174500::::::::120:63::5:4:4823:6513:1502:4786:::|h[Vita-Charged Titanshard]|h|r",
-					["boss"] = "Ra-den der Entweihte",
-					["responseID"] = "PL_REJECT",
-					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
 					["color"] = {
-						0.2, -- [1]
-						0, -- [2]
+						0, -- [1]
+						1, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
+					["class"] = "DRUID",
+					["iSubClass"] = 2,
+					["groupSize"] = 30,
+					["boss"] = "Maut",
+					["time"] = "21:49:31",
+					["iClass"] = 4,
+					["itemReplaced1"] = "|cffa335ee|Hitem:159318::::::::120:63::35:5:5448:1617:4786:6270:4775:::|h[Hood of the Slithering Loa]|h|r",
+					["instance"] = "Ny'alotha, the Waking City-Normal",
+					["owner"] = "Rifaatd-Silvermoon",
+					["response"] = "Mainspec/Need",
+					["difficultyID"] = 14,
+					["lootWon"] = "|cffa335ee|Hitem:174132::::::::120:63::3:4:4822:1487:4786:6505:::|h[Stygian Guise]|h|r",
+					["id"] = "1579816171-28",
+					["date"] = "23/01/20",
+					["responseID"] = 1,
+					["votes"] = 0,
+					["isAwardReason"] = false,
 				}, -- [2]
 			},
 			["Kûdi-Blackmoore"] = {
@@ -30105,79 +30145,58 @@ RCLootCouncilLootDB = {
 					},
 				}, -- [4]
 			},
-			["Paneu-Silvermoon"] = {
+			["Orvulus-Blackmoore"] = {
 				{
 					["mapID"] = 2217,
 					["color"] = {
 						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
+						0.984313725490196, -- [2]
+						0.0235294117647059, -- [3]
 						1, -- [4]
 					},
-					["class"] = "PRIEST",
-					["iSubClass"] = 0,
-					["groupSize"] = 30,
-					["boss"] = "Wrathion",
-					["time"] = "18:59:43",
+					["class"] = "MONK",
+					["iSubClass"] = 2,
+					["groupSize"] = 26,
+					["boss"] = "Vexiona",
+					["time"] = "21:46:53",
 					["iClass"] = 4,
-					["id"] = "1579719583-1",
-					["owner"] = "Paneu-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
+					["itemReplaced1"] = "|cffa335ee|Hitem:169073::::::::120:577::35:5:5445:1517:4786:6507:4775:::|h[Bomberjacke Typ II]|h|r",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
+					["owner"] = "Emptii-Blackmoore",
+					["response"] = "Geringes Upgrade",
+					["typeCode"] = "default",
 					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174044::::::::120:258::5:4:4823:6515:1502:4786:::|h[Humming Black Dragonscale]|h|r",
+					["lootWon"] = "|cffa335ee|Hitem:174131::::::::120:577::5:4:4823:1502:4786:6507:::|h[Düsterherzrobe]|h|r",
+					["id"] = "1580327213-33",
+					["date"] = "29/01/20",
+					["responseID"] = 2,
+					["votes"] = 0,
 					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
 				}, -- [1]
 				{
 					["mapID"] = 2217,
-					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
-						0, -- [3]
-						1, -- [4]
-					},
-					["class"] = "PRIEST",
+					["date"] = "29/01/20",
+					["class"] = "MONK",
 					["iSubClass"] = 0,
-					["groupSize"] = 30,
-					["boss"] = "The Hivemind",
-					["time"] = "20:11:08",
-					["iClass"] = 4,
-					["id"] = "1579723868-27",
-					["owner"] = "Paneu-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174530::::::::120:258::5:7:4823:6578:6579:6540:6513:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+					["groupSize"] = 26,
 					["isAwardReason"] = false,
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["date"] = "22/01/20",
-				}, -- [2]
-				{
-					["mapID"] = 2217,
+					["time"] = "22:35:40",
+					["iClass"] = 4,
+					["id"] = "1580330140-47",
+					["owner"] = "Orvulus-Blackmoore",
+					["response"] = "Persönliche Beute – Handel abgelehnt",
+					["difficultyID"] = 15,
+					["lootWon"] = "|cffa335ee|Hitem:174528::::::::120:268::5:5:4823:42:6515:1502:4786:::|h[Leerenentstellter Titanensplitter]|h|r",
+					["boss"] = "Ra-den der Entweihte",
+					["responseID"] = "PL_REJECT",
+					["instance"] = "Ny'alotha, die Erwachte Stadt-Heroisch",
 					["color"] = {
-						1, -- [1]
-						0.6, -- [2]
+						0.2, -- [1]
+						0, -- [2]
 						0, -- [3]
 						1, -- [4]
 					},
-					["class"] = "PRIEST",
-					["iSubClass"] = 1,
-					["groupSize"] = 30,
-					["boss"] = "Carapace of N'Zoth",
-					["time"] = "19:45:27",
-					["iClass"] = 4,
-					["id"] = "1579808727-1",
-					["owner"] = "Paneu-Silvermoon",
-					["response"] = "Personal Loot - Non tradeable",
-					["difficultyID"] = 15,
-					["lootWon"] = "|cffa335ee|Hitem:174117::::::::120:258::5:4:4823:1502:4786:6509:::|h[Spaulders of Miasmic Mycelia]|h|r",
-					["date"] = "23/01/20",
-					["responseID"] = "PL",
-					["instance"] = "Ny'alotha, the Waking City-Heroic",
-					["isAwardReason"] = false,
-				}, -- [3]
+				}, -- [2]
 			},
 			["Nastÿa-Blackmoore"] = {
 				{

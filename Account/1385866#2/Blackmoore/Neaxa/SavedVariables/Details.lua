@@ -7,363 +7,60 @@ _detalhes_database = {
 		["tabelas"] = {
 			{
 				{
-					["combatId"] = 1,
+					["combatId"] = 2,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 						{
-							["flag_original"] = 68168,
-							["totalabsorbed"] = 12374.008276,
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 5226.006639,
 							["damage_from"] = {
+								["Goroth"] = true,
 								["Neaxa"] = true,
+								["[*] Infernal Spike"] = true,
 							},
 							["targets"] = {
-								["Neaxa"] = 12574,
+								["Goroth"] = 398863,
 							},
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
 							["pets"] = {
 							},
-							["boss"] = true,
-							["classe"] = "UNKNOW",
-							["raid_targets"] = {
-							},
-							["total_without_pet"] = 12574.008276,
-							["monster"] = true,
-							["boss_fight_component"] = true,
-							["dps_started"] = false,
-							["total"] = 12574.008276,
-							["end_time"] = 1598118315,
-							["friendlyfire_total"] = 0,
-							["nome"] = "The Lich King",
-							["spells"] = {
-								["tipo"] = 2,
-								["_ActorTable"] = {
-									{
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 207,
-										["targets"] = {
-											["Neaxa"] = 792,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 792,
-										["n_min"] = 192,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 792,
-										["c_max"] = 0,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									}, -- [1]
-									[68981] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 68981,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 0,
+							["total"] = 398863.006639,
+							["friendlyfire"] = {
+								["Neaxa"] = {
+									["spells"] = {
+										[231395] = 11512,
 									},
-									[71769] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 71769,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[72350] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 3258,
-										["targets"] = {
-											["Neaxa"] = 3258,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 3258,
-										["n_min"] = 3258,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 3258,
-										["c_max"] = 0,
-										["id"] = 72350,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[68983] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 75,
-										["targets"] = {
-											["Neaxa"] = 8440,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 8440,
-										["n_min"] = 66,
-										["g_dmg"] = 0,
-										["counter"] = 120,
-										["total"] = 8440,
-										["c_max"] = 0,
-										["spellschool"] = 16,
-										["id"] = 68983,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 120,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[70541] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 47,
-										["targets"] = {
-											["Neaxa"] = 47,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 47,
-										["n_min"] = 47,
-										["g_dmg"] = 0,
-										["counter"] = 1,
-										["total"] = 47,
-										["c_max"] = 0,
-										["id"] = 70541,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 1,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[72259] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 0,
-										["targets"] = {
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 0,
-										["n_min"] = 0,
-										["g_dmg"] = 0,
-										["counter"] = 0,
-										["total"] = 0,
-										["c_max"] = 0,
-										["id"] = 72259,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 0,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
-									[72133] = {
-										["c_amt"] = 0,
-										["b_amt"] = 0,
-										["c_dmg"] = 0,
-										["g_amt"] = 0,
-										["n_max"] = 25,
-										["targets"] = {
-											["Neaxa"] = 37,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 37,
-										["n_min"] = 4,
-										["g_dmg"] = 0,
-										["counter"] = 4,
-										["total"] = 37,
-										["c_max"] = 0,
-										["id"] = 72133,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 1,
-										["b_dmg"] = 0,
-										["n_amt"] = 4,
-										["r_amt"] = 0,
-										["c_min"] = 0,
-									},
+									["total"] = 11512,
 								},
 							},
-							["on_hold"] = false,
-							["friendlyfire"] = {
-							},
-							["last_dps"] = 0,
-							["custom"] = 0,
-							["last_event"] = 1598118225,
-							["damage_taken"] = 42312006.008276,
-							["start_time"] = 1598118236,
-							["delay"] = 1598118225,
-							["tipo"] = 1,
-						}, -- [1]
-						{
-							["flag_original"] = 1297,
-							["totalabsorbed"] = 0.007045,
-							["spec"] = 62,
-							["damage_from"] = {
-								["The Lich King"] = true,
-							},
-							["targets"] = {
-								["The Lich King"] = 42312006,
-							},
-							["pets"] = {
-							},
-							["friendlyfire"] = {
-							},
-							["boss_fight_component"] = true,
-							["friendlyfire_total"] = 0,
+							["friendlyfire_total"] = 11512,
 							["raid_targets"] = {
 							},
-							["total_without_pet"] = 42312006.007045,
-							["end_time"] = 1598118315,
+							["total_without_pet"] = 398863.006639,
+							["boss_fight_component"] = true,
 							["colocacao"] = 1,
 							["dps_started"] = false,
-							["total"] = 42312006.007045,
+							["end_time"] = 1598828930,
 							["classe"] = "MAGE",
 							["on_hold"] = false,
 							["nome"] = "Neaxa",
 							["spells"] = {
 								["tipo"] = 2,
 								["_ActorTable"] = {
-									{
-										["c_amt"] = 3,
-										["b_amt"] = 0,
-										["c_dmg"] = 314608,
-										["g_amt"] = 0,
-										["n_max"] = 58996,
-										["targets"] = {
-											["The Lich King"] = 2266653,
-										},
-										["m_dmg"] = 0,
-										["n_dmg"] = 1952045,
-										["n_min"] = 44181,
-										["g_dmg"] = 0,
-										["counter"] = 41,
-										["total"] = 2266653,
-										["c_max"] = 109916,
-										["spellschool"] = 1,
-										["id"] = 1,
-										["r_dmg"] = 0,
-										["extra"] = {
-										},
-										["a_dmg"] = 0,
-										["m_crit"] = 0,
-										["a_amt"] = 0,
-										["m_amt"] = 0,
-										["successful_casted"] = 0,
-										["b_dmg"] = 0,
-										["n_amt"] = 38,
-										["r_amt"] = 0,
-										["c_min"] = 98387,
-									}, -- [1]
 									[153640] = {
 										["c_amt"] = 0,
 										["b_amt"] = 0,
 										["c_dmg"] = 0,
 										["g_amt"] = 0,
-										["n_max"] = 1438254,
+										["n_max"] = 11063,
 										["targets"] = {
-											["The Lich King"] = 2876508,
+											["Goroth"] = 11063,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 2876508,
-										["n_min"] = 1438254,
+										["n_dmg"] = 11063,
+										["n_min"] = 11063,
 										["g_dmg"] = 0,
-										["counter"] = 2,
-										["total"] = 2876508,
+										["counter"] = 1,
+										["total"] = 11063,
 										["c_max"] = 0,
 										["spellschool"] = 64,
 										["id"] = 153640,
@@ -376,28 +73,28 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 2,
+										["n_amt"] = 1,
 										["r_amt"] = 0,
 										["c_min"] = 0,
 									},
-									[7268] = {
-										["c_amt"] = 0,
+									[295367] = {
+										["c_amt"] = 1,
 										["b_amt"] = 0,
-										["c_dmg"] = 0,
+										["c_dmg"] = 3075,
 										["g_amt"] = 0,
-										["n_max"] = 579297,
+										["n_max"] = 1538,
 										["targets"] = {
-											["The Lich King"] = 2816580,
+											["Goroth"] = 13839,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 2816580,
-										["n_min"] = 539345,
+										["n_dmg"] = 10764,
+										["n_min"] = 1537,
 										["g_dmg"] = 0,
-										["counter"] = 5,
-										["total"] = 2816580,
-										["c_max"] = 0,
-										["spellschool"] = 64,
-										["id"] = 7268,
+										["counter"] = 8,
+										["total"] = 13839,
+										["c_max"] = 3075,
+										["spellschool"] = 4,
+										["id"] = 295367,
 										["r_dmg"] = 0,
 										["extra"] = {
 										},
@@ -407,26 +104,26 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 5,
+										["n_amt"] = 7,
 										["r_amt"] = 0,
-										["c_min"] = 0,
+										["c_min"] = 3075,
 									},
 									[30451] = {
-										["c_amt"] = 3,
+										["c_amt"] = 4,
 										["b_amt"] = 0,
-										["c_dmg"] = 13772396,
+										["c_dmg"] = 166787,
 										["g_amt"] = 0,
-										["n_max"] = 3336755,
+										["n_max"] = 24126,
 										["targets"] = {
-											["The Lich King"] = 34352265,
+											["Goroth"] = 365283,
 										},
 										["m_dmg"] = 0,
-										["n_dmg"] = 20579869,
-										["n_min"] = 928774,
+										["n_dmg"] = 198496,
+										["n_min"] = 11831,
 										["g_dmg"] = 0,
-										["counter"] = 12,
-										["total"] = 34352265,
-										["c_max"] = 4930858,
+										["counter"] = 15,
+										["total"] = 365283,
+										["c_max"] = 57258,
 										["spellschool"] = 64,
 										["id"] = 30451,
 										["r_dmg"] = 0,
@@ -438,26 +135,489 @@ _detalhes_database = {
 										["m_amt"] = 0,
 										["successful_casted"] = 0,
 										["b_dmg"] = 0,
-										["n_amt"] = 9,
+										["n_amt"] = 11,
 										["r_amt"] = 0,
-										["c_min"] = 4420769,
+										["c_min"] = 34006,
+									},
+									[295374] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 8678,
+										["targets"] = {
+											["Goroth"] = 8678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 8678,
+										["n_min"] = 8678,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 8678,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 295374,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
 									},
 								},
 							},
 							["grupo"] = true,
+							["spec"] = 62,
 							["serial"] = "Player-580-0555A2EE",
-							["last_dps"] = 267950.1361981194,
+							["last_dps"] = 8713.365227169052,
 							["custom"] = 0,
 							["tipo"] = 1,
-							["damage_taken"] = 12574.007045,
-							["start_time"] = 1598118156,
-							["delay"] = 1598118305,
-							["last_event"] = 1598118305,
+							["damage_taken"] = 302495.006639,
+							["start_time"] = 1598828902,
+							["delay"] = 1598828907,
+							["last_event"] = 1598828925,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 54767.0051,
+							["monster"] = true,
+							["damage_from"] = {
+								["Neaxa"] = true,
+							},
+							["targets"] = {
+								["Neaxa"] = 285018,
+							},
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 285018.0051,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 285018.0051,
+							["classe"] = "UNKNOW",
+							["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
+							["nome"] = "Goroth",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 66135,
+										["g_amt"] = 0,
+										["n_max"] = 18964,
+										["targets"] = {
+											["Neaxa"] = 260287,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 194152,
+										["n_min"] = 4796,
+										["g_dmg"] = 0,
+										["counter"] = 28,
+										["IMMUNE"] = 5,
+										["total"] = 260287,
+										["c_max"] = 35117,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 40114,
+										["m_crit"] = 0,
+										["a_amt"] = 2,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 21,
+										["r_amt"] = 0,
+										["c_min"] = 31018,
+									}, -- [1]
+									[232249] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 232249,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 3,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[233272] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 233272,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[231363] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 4456,
+										["targets"] = {
+											["Neaxa"] = 24731,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 24731,
+										["n_min"] = 3787,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 24731,
+										["c_max"] = 0,
+										["id"] = 231363,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 6,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[233283] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Neaxa"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["IMMUNE"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 233283,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+									[233279] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Neaxa"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["IMMUNE"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 233279,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828930,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 398863.0051,
+							["start_time"] = 1598828885,
+							["delay"] = 0,
+							["last_event"] = 1598828930,
 						}, -- [2]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.008298,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Neaxa"] = 5965,
+							},
+							["spellicon"] = 1118739,
+							["monster"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 5965.008298,
+							["boss_fight_component"] = true,
+							["pets"] = {
+							},
+							["dps_started"] = false,
+							["end_time"] = 1598828930,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "[*] Infernal Spike",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[233021] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 5965,
+										["targets"] = {
+											["Neaxa"] = 5965,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 5965,
+										["n_min"] = 5965,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 5965,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 233021,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["total"] = 5965.008298,
+							["serial"] = "",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1598828892,
+							["damage_taken"] = 0.008298,
+							["start_time"] = 1598828929,
+							["delay"] = 1598828892,
+							["tipo"] = 1,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.0066,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.0066,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.0066,
+							["classe"] = "UNKNOW",
+							["serial"] = "",
+							["nome"] = "[*] Crashing Comet",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[230345] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Neaxa"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["MISS"] = 2,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 230345,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828930,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.0066,
+							["start_time"] = 1598828930,
+							["delay"] = 0,
+							["last_event"] = 1598828917,
+						}, -- [4]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.004667,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004667,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.004667,
+							["classe"] = "UNKNOW",
+							["serial"] = "",
+							["nome"] = "[*] Star Burn",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[236329] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Neaxa"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["IMMUNE"] = 1,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 236329,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828930,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.004667,
+							["start_time"] = 1598828930,
+							["delay"] = 0,
+							["last_event"] = 1598828915,
+						}, -- [5]
 					},
 				}, -- [1]
 				{
-					["combatId"] = 1,
+					["combatId"] = 2,
 					["tipo"] = 3,
 					["_ActorTable"] = {
 						{
@@ -468,26 +628,26 @@ _detalhes_database = {
 							},
 							["iniciar_hps"] = false,
 							["classe"] = "MAGE",
-							["totalover"] = 0.007719,
-							["total_without_pet"] = 12574.007719,
-							["total"] = 12574.007719,
+							["totalover"] = 0.002107,
+							["total_without_pet"] = 123777.002107,
+							["total"] = 123777.002107,
 							["targets_absorbs"] = {
-								["Neaxa"] = 12574,
+								["Neaxa"] = 67248,
 							},
 							["heal_enemy"] = {
 							},
 							["colocacao"] = 1,
 							["on_hold"] = false,
 							["serial"] = "Player-580-0555A2EE",
-							["totalabsorb"] = 12574.007719,
-							["last_hps"] = 160.4011649168918,
+							["totalabsorb"] = 67248.00210700001,
+							["last_hps"] = 2982.07536335951,
 							["targets"] = {
-								["Neaxa"] = 12574,
+								["Neaxa"] = 123777,
 							},
-							["totalover_without_pet"] = 0.007719,
-							["healing_taken"] = 12574.007719,
+							["totalover_without_pet"] = 0.002107,
+							["healing_taken"] = 123777.002107,
 							["boss_fight_component"] = true,
-							["end_time"] = 1598118315,
+							["end_time"] = 1598828930,
 							["healing_from"] = {
 								["Neaxa"] = true,
 							},
@@ -495,154 +655,145 @@ _detalhes_database = {
 							["spells"] = {
 								["tipo"] = 3,
 								["_ActorTable"] = {
-									[269279] = {
+									[235450] = {
 										["c_amt"] = 0,
-										["totalabsorb"] = 12574,
+										["totalabsorb"] = 40382,
 										["targets_overheal"] = {
 										},
-										["n_max"] = 3258,
+										["n_max"] = 14609,
 										["targets"] = {
-											["Neaxa"] = 12574,
+											["Neaxa"] = 40382,
 										},
-										["n_min"] = 4,
-										["counter"] = 130,
+										["n_min"] = 1055,
+										["counter"] = 7,
 										["overheal"] = 0,
-										["total"] = 12574,
+										["total"] = 40382,
 										["c_max"] = 0,
-										["id"] = 269279,
+										["id"] = 235450,
 										["targets_absorbs"] = {
-											["Neaxa"] = 12574,
+											["Neaxa"] = 40382,
 										},
 										["m_healed"] = 0,
 										["c_curado"] = 0,
 										["m_crit"] = 0,
 										["c_min"] = 0,
 										["m_amt"] = 0,
-										["n_curado"] = 12574,
-										["n_amt"] = 130,
+										["n_curado"] = 40382,
+										["n_amt"] = 7,
 										["totaldenied"] = 0,
 										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 26866,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 6687,
+										["targets"] = {
+											["Neaxa"] = 26866,
+										},
+										["n_min"] = 249,
+										["counter"] = 6,
+										["overheal"] = 0,
+										["total"] = 26866,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["Neaxa"] = 26866,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 26866,
+										["n_amt"] = 6,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+									[280177] = {
+										["c_amt"] = 4,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 3009,
+										["targets"] = {
+											["Neaxa"] = 56529,
+										},
+										["n_min"] = 2373,
+										["counter"] = 15,
+										["overheal"] = 0,
+										["total"] = 56529,
+										["c_max"] = 6018,
+										["id"] = 280177,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 24069,
+										["m_crit"] = 0,
+										["c_min"] = 6017,
+										["m_amt"] = 0,
+										["n_curado"] = 32460,
+										["n_amt"] = 11,
+										["totaldenied"] = 0,
+										["m_healed"] = 0,
 										["absorbed"] = 0,
 									},
 								},
 							},
 							["grupo"] = true,
 							["heal_enemy_amt"] = 0,
-							["start_time"] = 1598118236,
+							["start_time"] = 1598828906,
 							["custom"] = 0,
 							["tipo"] = 2,
 							["spec"] = 62,
-							["totaldenied"] = 0.007719,
-							["delay"] = 1598118225,
-							["last_event"] = 1598118225,
+							["totaldenied"] = 0.002107,
+							["delay"] = 1598828888,
+							["last_event"] = 1598828926,
 						}, -- [1]
-						{
-							["flag_original"] = 68168,
-							["totalabsorb"] = 0.006656,
-							["last_hps"] = 0,
-							["targets_overheal"] = {
-							},
-							["targets"] = {
-							},
-							["healing_from"] = {
-							},
-							["pets"] = {
-							},
-							["iniciar_hps"] = false,
-							["spells"] = {
-								["tipo"] = 3,
-								["_ActorTable"] = {
-								},
-							},
-							["healing_taken"] = 0.006656,
-							["totalover"] = 0.006656,
-							["total_without_pet"] = 0.006656,
-							["totalover_without_pet"] = 0.006656,
-							["end_time"] = 1598118315,
-							["monster"] = true,
-							["total"] = 0.006656,
-							["classe"] = "UNKNOW",
-							["boss_fight_component"] = true,
-							["nome"] = "The Lich King",
-							["targets_absorbs"] = {
-							},
-							["heal_enemy_amt"] = 1622532,
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-							["heal_enemy"] = {
-								[72350] = 1622532,
-							},
-							["start_time"] = 1598118315,
-							["custom"] = 0,
-							["tipo"] = 2,
-							["on_hold"] = false,
-							["totaldenied"] = 0.006656,
-							["delay"] = 0,
-							["last_event"] = 1598118169,
-						}, -- [2]
 					},
 				}, -- [2]
 				{
-					["combatId"] = 1,
+					["combatId"] = 2,
 					["tipo"] = 7,
 					["_ActorTable"] = {
-						{
-							["received"] = 0.007692,
-							["resource"] = 4.007692000000001,
-							["targets"] = {
-							},
-							["pets"] = {
-							},
-							["powertype"] = 0,
-							["classe"] = "MAGE",
-							["passiveover"] = 0.007692,
-							["total"] = 0.007692,
-							["boss_fight_component"] = true,
-							["nome"] = "Neaxa",
-							["spells"] = {
-								["tipo"] = 7,
-								["_ActorTable"] = {
-								},
-							},
-							["grupo"] = true,
-							["resource_type"] = 16,
-							["flag_original"] = 1297,
-							["alternatepower"] = 0.007692,
-							["last_event"] = 1598118180,
-							["spec"] = 62,
-							["tipo"] = 3,
-							["serial"] = "Player-580-0555A2EE",
-							["totalover"] = 0.007692,
-						}, -- [1]
 					},
 				}, -- [3]
 				{
-					["combatId"] = 1,
+					["combatId"] = 2,
 					["tipo"] = 9,
 					["_ActorTable"] = {
 						{
 							["flag_original"] = 1047,
-							["buff_uptime_targets"] = {
-							},
-							["nome"] = "Neaxa",
-							["spec"] = 62,
-							["grupo"] = true,
-							["boss_fight_component"] = true,
-							["buff_uptime"] = 877,
-							["pets"] = {
-							},
-							["spell_cast"] = {
-								[5143] = 1,
-								[153626] = 2,
-								[30451] = 12,
-							},
-							["classe"] = "MAGE",
-							["tipo"] = 4,
-							["buff_uptime_spells"] = {
+							["debuff_uptime_spells"] = {
 								["tipo"] = 9,
 								["_ActorTable"] = {
-									[263725] = {
-										["activedamt"] = 1,
-										["id"] = 263725,
+									[234264] = {
+										["activedamt"] = 0,
+										["id"] = 234264,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 2,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[41425] = {
+										["activedamt"] = 0,
+										["id"] = 41425,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[295367] = {
+										["activedamt"] = 0,
+										["id"] = 295367,
 										["targets"] = {
 										},
 										["uptime"] = 16,
@@ -651,35 +802,62 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[73828] = {
+								},
+							},
+							["cooldowns_defensive"] = 1.003369,
+							["pets"] = {
+							},
+							["last_cooldown"] = {
+								1598828910.326, -- [1]
+								45438, -- [2]
+							},
+							["classe"] = "MAGE",
+							["cooldowns_defensive_targets"] = {
+								["Neaxa"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[263725] = {
 										["activedamt"] = 1,
-										["id"] = 73828,
+										["id"] = 263725,
 										["targets"] = {
 										},
-										["uptime"] = 168,
+										["uptime"] = 25,
+										["appliedamt"] = 1,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[80353] = {
+										["activedamt"] = 1,
+										["id"] = 80353,
+										["targets"] = {
+										},
+										["uptime"] = 40,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[186401] = {
+									[280177] = {
 										["activedamt"] = 1,
-										["id"] = 186401,
+										["id"] = 280177,
 										["targets"] = {
 										},
-										["uptime"] = 168,
+										["uptime"] = 7,
 										["appliedamt"] = 1,
-										["refreshamt"] = 0,
+										["refreshamt"] = 3,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[116267] = {
-										["activedamt"] = 1,
-										["id"] = 116267,
+									[269279] = {
+										["activedamt"] = 2,
+										["id"] = 269279,
 										["targets"] = {
 										},
-										["uptime"] = 168,
-										["appliedamt"] = 1,
+										["uptime"] = 13,
+										["appliedamt"] = 2,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
@@ -689,9 +867,20 @@ _detalhes_database = {
 										["id"] = 12042,
 										["targets"] = {
 										},
-										["uptime"] = 9,
+										["uptime"] = 7,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[212799] = {
+										["activedamt"] = 1,
+										["id"] = 212799,
+										["targets"] = {
+										},
+										["uptime"] = 13,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
 										["actived"] = false,
 										["counter"] = 0,
 									},
@@ -700,7 +889,29 @@ _detalhes_database = {
 										["id"] = 273942,
 										["targets"] = {
 										},
-										["uptime"] = 9,
+										["uptime"] = 7,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[235450] = {
+										["activedamt"] = 1,
+										["id"] = 235450,
+										["targets"] = {
+										},
+										["uptime"] = 18,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[45438] = {
+										["activedamt"] = 1,
+										["id"] = 45438,
+										["targets"] = {
+										},
+										["uptime"] = 6,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
@@ -717,62 +928,101 @@ _detalhes_database = {
 										["actived"] = false,
 										["counter"] = 0,
 									},
+									[295378] = {
+										["activedamt"] = 1,
+										["id"] = 295378,
+										["targets"] = {
+										},
+										["uptime"] = 33,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
 									[1459] = {
 										["activedamt"] = 1,
 										["id"] = 1459,
 										["targets"] = {
 										},
-										["uptime"] = 168,
+										["uptime"] = 46,
 										["appliedamt"] = 1,
 										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
-									[205025] = {
-										["activedamt"] = 1,
-										["id"] = 205025,
-										["targets"] = {
-										},
-										["uptime"] = 2,
-										["appliedamt"] = 1,
-										["refreshamt"] = 0,
-										["actived"] = false,
-										["counter"] = 0,
-									},
-									[269279] = {
+									[236645] = {
 										["activedamt"] = 2,
-										["id"] = 269279,
+										["id"] = 236645,
 										["targets"] = {
 										},
-										["uptime"] = 168,
+										["uptime"] = 0,
 										["appliedamt"] = 2,
-										["refreshamt"] = 5,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[225788] = {
+										["activedamt"] = 1,
+										["id"] = 225788,
+										["targets"] = {
+										},
+										["uptime"] = 46,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
 										["actived"] = false,
 										["counter"] = 0,
 									},
 								},
 							},
+							["debuff_uptime"] = 50,
+							["boss_fight_component"] = true,
+							["nome"] = "Neaxa",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[30451] = 14,
+								[153626] = 1,
+								[235450] = 1,
+								[212653] = 2,
+								[295373] = 1,
+								[45438] = 1,
+							},
+							["cooldowns_defensive_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[45438] = {
+										["id"] = 45438,
+										["targets"] = {
+											["Neaxa"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 262,
 							["serial"] = "Player-580-0555A2EE",
-							["last_event"] = 1598118315,
+							["last_event"] = 1598828930,
 						}, -- [1]
 						{
 							["flag_original"] = 68168,
-							["nome"] = "The Lich King",
+							["nome"] = "Goroth",
 							["tipo"] = 4,
 							["pets"] = {
 							},
 							["boss_fight_component"] = true,
 							["spell_cast"] = {
-								[68981] = 1,
-								[71769] = 1,
-								[72133] = 1,
-								[70541] = 1,
-								[72350] = 1,
-								[72259] = 1,
+								[232249] = 3,
+								[231363] = 2,
+								[233272] = 1,
 							},
 							["last_event"] = 0,
 							["monster"] = true,
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
+							["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
 							["classe"] = "UNKNOW",
 						}, -- [2]
 						{
@@ -787,11 +1037,11 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["boss_debuff"] = true,
 							["monster"] = true,
-							["debuff_uptime"] = 1,
-							["spellschool"] = 32,
+							["debuff_uptime"] = 11,
+							["spellschool"] = 4,
 							["debuff_uptime_targets"] = {
 								["Neaxa"] = {
-									["uptime"] = 1,
+									["uptime"] = 11,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -799,12 +1049,12 @@ _detalhes_database = {
 								},
 							},
 							["boss_fight_component"] = true,
-							["nome"] = "Infest",
+							["nome"] = "Crashing Comet",
 							["tipo"] = 4,
-							["damage_twin"] = "The Lich King",
-							["damage_spellid"] = 70541,
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-							["last_event"] = 1598118154,
+							["damage_twin"] = "Goroth",
+							["damage_spellid"] = 232249,
+							["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
+							["last_event"] = 1598828930,
 						}, -- [3]
 						{
 							["flag_original"] = 68168,
@@ -818,11 +1068,11 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["boss_debuff"] = true,
 							["monster"] = true,
-							["debuff_uptime"] = 3,
-							["spellschool"] = 32,
+							["debuff_uptime"] = 12,
+							["spellschool"] = 4,
 							["debuff_uptime_targets"] = {
 								["Neaxa"] = {
-									["uptime"] = 3,
+									["uptime"] = 12,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -830,12 +1080,12 @@ _detalhes_database = {
 								},
 							},
 							["boss_fight_component"] = true,
-							["nome"] = "Pain and Suffering",
+							["nome"] = "Burning Armor",
 							["tipo"] = 4,
-							["damage_twin"] = "The Lich King",
-							["damage_spellid"] = 72133,
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-							["last_event"] = 1598118165,
+							["damage_twin"] = "Goroth",
+							["damage_spellid"] = 231363,
+							["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
+							["last_event"] = 1598828925,
 						}, -- [4]
 						{
 							["flag_original"] = 68168,
@@ -849,11 +1099,11 @@ _detalhes_database = {
 							["classe"] = "UNKNOW",
 							["boss_debuff"] = true,
 							["monster"] = true,
-							["debuff_uptime"] = 2,
-							["spellschool"] = 32,
+							["debuff_uptime"] = 6,
+							["spellschool"] = 1,
 							["debuff_uptime_targets"] = {
 								["Neaxa"] = {
-									["uptime"] = 2,
+									["uptime"] = 6,
 									["appliedamt"] = 0,
 									["activedamt"] = 0,
 									["actived"] = false,
@@ -861,40 +1111,435 @@ _detalhes_database = {
 								},
 							},
 							["boss_fight_component"] = true,
-							["nome"] = "Fury of Frostmourne",
+							["nome"] = "Shattering Star",
 							["tipo"] = 4,
-							["damage_twin"] = "The Lich King",
-							["damage_spellid"] = 72350,
-							["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-							["last_event"] = 1598118171,
+							["damage_twin"] = "Goroth",
+							["damage_spellid"] = 233272,
+							["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
+							["last_event"] = 1598828914,
 						}, -- [5]
 					},
 				}, -- [4]
 				{
-					["combatId"] = 1,
+					["combatId"] = 2,
 					["tipo"] = 2,
 					["_ActorTable"] = {
 					},
 				}, -- [5]
 				["raid_roster"] = {
-					["Grillpatrol"] = true,
 					["Neaxa"] = true,
-					["Tyleen"] = true,
 				},
+				["tempo_start"] = 1598828884,
 				["last_events_tables"] = {
-				},
-				["tempo_start"] = 1598118147,
-				["cleu_timeline"] = {
+					{
+						{
+							{
+								4, -- [1]
+								231363, -- [2]
+								1, -- [3]
+								1598828920.031, -- [4]
+								39061, -- [5]
+								"Goroth", -- [6]
+								false, -- [7]
+								false, -- [8]
+								false, -- [9]
+								false, -- [10]
+							}, -- [1]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828920.265, -- [4]
+								42070, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [2]
+							{
+								false, -- [1]
+								280177, -- [2]
+								6017, -- [3]
+								1598828920.671, -- [4]
+								48087, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [3]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828920.671, -- [4]
+								51096, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [4]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828920.959, -- [4]
+								54105, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [5]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828921.65, -- [4]
+								57114, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [6]
+							{
+								true, -- [1]
+								1, -- [2]
+								5560, -- [3]
+								1598828921.763, -- [4]
+								57114, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [7]
+							{
+								false, -- [1]
+								269279, -- [2]
+								5560, -- [3]
+								1598828921.763, -- [4]
+								57114, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [8]
+							{
+								false, -- [1]
+								269279, -- [2]
+								3787, -- [3]
+								1598828922.042, -- [4]
+								57114, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [9]
+							{
+								true, -- [1]
+								231363, -- [2]
+								3787, -- [3]
+								1598828922.042, -- [4]
+								57114, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [10]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828922.348, -- [4]
+								60123, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [11]
+							{
+								false, -- [1]
+								280177, -- [2]
+								6018, -- [3]
+								1598828923.038, -- [4]
+								66141, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [12]
+							{
+								true, -- [1]
+								1, -- [2]
+								5141, -- [3]
+								1598828923.262, -- [4]
+								66141, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [13]
+							{
+								false, -- [1]
+								269279, -- [2]
+								4086, -- [3]
+								1598828923.262, -- [4]
+								66141, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [14]
+							{
+								false, -- [1]
+								235450, -- [2]
+								1055, -- [3]
+								1598828923.262, -- [4]
+								66141, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [15]
+							{
+								false, -- [1]
+								280177, -- [2]
+								6017, -- [3]
+								1598828923.736, -- [4]
+								72158, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [16]
+							{
+								false, -- [1]
+								235450, -- [2]
+								3788, -- [3]
+								1598828924.032, -- [4]
+								72158, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [17]
+							{
+								true, -- [1]
+								231363, -- [2]
+								3788, -- [3]
+								1598828924.032, -- [4]
+								72158, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [18]
+							{
+								false, -- [1]
+								280177, -- [2]
+								3009, -- [3]
+								1598828924.417, -- [4]
+								75167, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [19]
+							{
+								true, -- [1]
+								1, -- [2]
+								4910, -- [3]
+								1598828924.776, -- [4]
+								75167, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [20]
+							{
+								false, -- [1]
+								235450, -- [2]
+								4910, -- [3]
+								1598828924.776, -- [4]
+								75167, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [21]
+							{
+								false, -- [1]
+								280177, -- [2]
+								2373, -- [3]
+								1598828924.949, -- [4]
+								77540, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								0, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [22]
+							{
+								false, -- [1]
+								235450, -- [2]
+								3788, -- [3]
+								1598828926.028, -- [4]
+								77540, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+								false, -- [9]
+								false, -- [10]
+							}, -- [23]
+							{
+								true, -- [1]
+								231363, -- [2]
+								3788, -- [3]
+								1598828926.028, -- [4]
+								77540, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [24]
+							{
+								false, -- [1]
+								235450, -- [2]
+								5226, -- [3]
+								1598828926.048, -- [4]
+								77540, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [25]
+							{
+								true, -- [1]
+								231395, -- [2]
+								5226, -- [3]
+								1598828926.048, -- [4]
+								77540, -- [5]
+								"Neaxa", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								true, -- [9]
+								-1, -- [10]
+							}, -- [26]
+							{
+								true, -- [1]
+								1, -- [2]
+								35117, -- [3]
+								1598828926.28, -- [4]
+								77540, -- [5]
+								"Goroth", -- [6]
+								7006, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [27]
+							{
+								false, -- [1]
+								235450, -- [2]
+								7006, -- [3]
+								1598828926.28, -- [4]
+								77540, -- [5]
+								"Neaxa", -- [6]
+								true, -- [7]
+								0, -- [8]
+							}, -- [28]
+							{
+								true, -- [1]
+								1, -- [2]
+								14882, -- [3]
+								1598828927.787, -- [4]
+								49429, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [29]
+							{
+								true, -- [1]
+								1, -- [2]
+								18964, -- [3]
+								1598828929.29, -- [4]
+								34547, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+							}, -- [30]
+							{
+								4, -- [1]
+								232249, -- [2]
+								1, -- [3]
+								1598828929.744, -- [4]
+								15583, -- [5]
+								"Goroth", -- [6]
+								false, -- [7]
+								false, -- [8]
+								false, -- [9]
+								false, -- [10]
+							}, -- [31]
+							{
+								true, -- [1]
+								1, -- [2]
+								18541, -- [3]
+								1598828930.797, -- [4]
+								15583, -- [5]
+								"Goroth", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								2958, -- [10]
+							}, -- [32]
+							{
+								3, -- [1]
+								45438, -- [2]
+								1, -- [3]
+								1598828910.326, -- [4]
+								0, -- [5]
+								"Neaxa", -- [6]
+							}, -- [33]
+						}, -- [1]
+						1598828930.83, -- [2]
+						"Neaxa", -- [3]
+						"MAGE", -- [4]
+						175760, -- [5]
+						"0m 45s", -- [6]
+						["last_cooldown"] = {
+							1598828910.326, -- [1]
+							45438, -- [2]
+						},
+						["dead_at"] = 45.77600000001257,
+						["dead"] = true,
+					}, -- [1]
 				},
 				["alternate_power"] = {
 				},
-				["overall_added"] = true,
-				["enemy"] = "The Lich King",
-				["combat_counter"] = 724,
-				["TotalElapsedCombatTime"] = 26958.62,
+				["combat_counter"] = 747,
+				["playing_solo"] = true,
 				["totals"] = {
-					42324580, -- [1]
-					12574, -- [2]
+					689846, -- [1]
+					123777, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
@@ -906,32 +1551,18 @@ _detalhes_database = {
 						["buff_uptime"] = 0,
 						["ress"] = 0,
 						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cooldowns_defensive"] = 1,
 						["interrupt"] = 0,
 						["dispell"] = 0,
 						["cc_break"] = 0,
-						["dead"] = 0,
+						["dead"] = 1,
 					}, -- [4]
 					["frags_total"] = 0,
 					["voidzone_damage"] = 0,
 				},
-				["player_last_events"] = {
-				},
-				["cleu_events"] = {
-					["n"] = 1,
-				},
-				["frags_need_refresh"] = true,
-				["aura_timeline"] = {
-				},
-				["__call"] = {
-				},
-				["data_inicio"] = "19:42:28",
-				["end_time"] = 26958.224,
-				["CombatEndedAt"] = 26958.62,
-				["instance_type"] = "raid",
 				["totals_grupo"] = {
-					42312006, -- [1]
-					12574, -- [2]
+					410375, -- [1]
+					123777, -- [2]
 					{
 						0, -- [1]
 						[0] = 0,
@@ -943,12 +1574,24 @@ _detalhes_database = {
 						["buff_uptime"] = 0,
 						["ress"] = 0,
 						["debuff_uptime"] = 0,
-						["cooldowns_defensive"] = 0,
+						["cooldowns_defensive"] = 1,
 						["interrupt"] = 0,
 						["dispell"] = 0,
 						["cc_break"] = 0,
-						["dead"] = 0,
+						["dead"] = 1,
 					}, -- [4]
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "raid",
+				["data_fim"] = "01:08:51",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Goroth",
+				["TotalElapsedCombatTime"] = 252821.499,
+				["CombatEndedAt"] = 252821.499,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
 				},
 				["PhaseData"] = {
 					{
@@ -959,44 +1602,48 @@ _detalhes_database = {
 					},
 					["heal"] = {
 						{
-							["Neaxa"] = 12574.007719,
+							["Neaxa"] = 123777.002107,
 						}, -- [1]
 					},
 					["damage_section"] = {
 					},
 					["damage"] = {
 						{
-							["Neaxa"] = 42312006.007045,
+							["Neaxa"] = 398863.006639,
 						}, -- [1]
 					},
 				},
-				["combat_id"] = 1,
-				["frags"] = {
-					["The Lich King"] = 1,
+				["end_time"] = 252821.499,
+				["combat_id"] = 2,
+				["cleu_events"] = {
+					["n"] = 1,
 				},
-				["data_fim"] = "19:45:16",
-				["is_boss"] = {
-					["bossimage"] = 607688,
-					["diff_string"] = "25 Player (Heroic)",
-					["index"] = 1,
-					["zone"] = "Icecrown Citadel",
-					["encounter"] = "The Lich King",
-					["mapid"] = 631,
-					["try_number"] = 1,
-					["name"] = "The Lich King",
-					["diff"] = 6,
-					["id"] = 1106,
-					["ej_instance_id"] = 758,
-					["killed"] = true,
-				},
-				["CombatSkillCache"] = {
+				["overall_added"] = true,
+				["player_last_events"] = {
 				},
 				["spells_cast_timeline"] = {
 				},
-				["start_time"] = 26786.636,
-				["contra"] = "The Lich King",
+				["is_boss"] = {
+					["diff_string"] = "Heroic",
+					["index"] = 1,
+					["zone"] = "Tomb of Sargeras",
+					["encounter"] = "Goroth",
+					["mapid"] = 1676,
+					["try_number"] = 1,
+					["name"] = "Goroth",
+					["id"] = 2032,
+					["ej_instance_id"] = 875,
+					["diff"] = 15,
+				},
+				["data_inicio"] = "01:08:05",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+				},
+				["start_time"] = 252775.723,
 				["TimeData"] = {
 				},
+				["contra"] = "Goroth",
 			}, -- [1]
 		},
 	},
@@ -1011,7 +1658,7 @@ _detalhes_database = {
 		["nextreset"] = 1599413904,
 		["last_version"] = 12,
 	},
-	["last_instance_id"] = 631,
+	["last_instance_id"] = 1676,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -1019,7 +1666,7 @@ _detalhes_database = {
 		["next"] = "",
 		["custom"] = "",
 	},
-	["last_instance_time"] = 1598118047,
+	["last_instance_time"] = 1598828792,
 	["active_profile"] = "Artèmis-Antonidas",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
@@ -1085,7 +1732,7 @@ _detalhes_database = {
 			["enabled"] = true,
 			["timeline_cutoff_time"] = 3,
 			["last_segment"] = false,
-			["last_combat_id"] = 397,
+			["last_combat_id"] = 2,
 			["timeline_cutoff_delete_time"] = 3,
 			["showing_type"] = 4,
 			["InstalledAt"] = 1553074742,
@@ -1148,9 +1795,20 @@ _detalhes_database = {
 			["row_texture"] = "Details Serenity",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = false,
-			["author"] = "Details! Team",
+			["main_frame_strata"] = "LOW",
 			["enabled"] = false,
 			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["author"] = "Details! Team",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = -6.103515625e-05,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -1162,26 +1820,15 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["y"] = -6.103515625e-05,
-			["main_frame_strata"] = "LOW",
 			["point"] = "CENTER",
 			["row_height"] = 20,
 			["scale"] = 1,
@@ -1192,30 +1839,12 @@ _detalhes_database = {
 		["reverse"] = false,
 		["channel"] = "SELF",
 	},
-	["last_day"] = "22",
-	["last_encounter"] = "The Lich King",
+	["last_day"] = "31",
+	["last_encounter"] = "Goroth",
 	["cached_talents"] = {
-		["Player-580-0555A2EE"] = {
-			22461, -- [1]
-			22443, -- [2]
-			22444, -- [3]
-			22453, -- [4]
-			22907, -- [5]
-			22455, -- [6]
-			21145, -- [7]
-		},
-		["Player-580-08C1C257"] = {
-			22280, -- [1]
-			22266, -- [2]
-			19347, -- [3]
-			22347, -- [4]
-			22276, -- [5]
-			19357, -- [6]
-			21986, -- [7]
-		},
 	},
 	["character_data"] = {
-		["logons"] = 55,
+		["logons"] = 59,
 	},
 	["local_instances_config"] = {
 		{
@@ -1238,10 +1867,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -392.3492584228516,
-					["x"] = 621.7069091796875,
-					["w"] = 211.1905059814453,
-					["h"] = 241.2062072753906,
+					["y"] = -395.3492279052734,
+					["x"] = 622.20703125,
+					["w"] = 212.1906585693359,
+					["h"] = 247.2061157226563,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -1286,13 +1915,13 @@ _detalhes_database = {
 		}, -- [2]
 		{
 			["segment"] = 0,
-			["sub_attribute"] = 1,
+			["sub_attribute"] = 3,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["is_open"] = false,
 			["isLocked"] = true,
 			["sub_atributo_last"] = {
-				1, -- [1]
+				3, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
@@ -1318,11 +1947,11 @@ _detalhes_database = {
 			},
 		}, -- [3]
 	},
-	["combat_id"] = 1,
+	["combat_id"] = 2,
 	["savedStyles"] = {
 	},
 	["force_font_outline"] = "",
-	["combat_counter"] = 724,
+	["combat_counter"] = 748,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -1334,291 +1963,16 @@ _detalhes_database = {
 			["tipo"] = 2,
 			["_ActorTable"] = {
 				{
-					["flag_original"] = 68168,
-					["totalabsorbed"] = 12374.011982,
-					["on_hold"] = false,
-					["damage_from"] = {
-						["Neaxa"] = true,
-					},
-					["targets"] = {
-						["Neaxa"] = 12574,
-					},
-					["boss_fight_component"] = true,
-					["pets"] = {
-					},
-					["boss"] = true,
-					["classe"] = "UNKNOW",
-					["raid_targets"] = {
-					},
-					["total_without_pet"] = 12574.011982,
-					["last_event"] = 0,
-					["dps_started"] = false,
-					["end_time"] = 1598118316,
-					["friendlyfire"] = {
-					},
-					["friendlyfire_total"] = 0,
-					["nome"] = "The Lich King",
-					["spells"] = {
-						["tipo"] = 2,
-						["_ActorTable"] = {
-							{
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 207,
-								["targets"] = {
-									["Neaxa"] = 792,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 792,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 792,
-								["c_max"] = 0,
-								["id"] = 1,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							}, -- [1]
-							[68981] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 68981,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[72133] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 25,
-								["targets"] = {
-									["Neaxa"] = 37,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 37,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 4,
-								["total"] = 37,
-								["c_max"] = 0,
-								["id"] = 72133,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 4,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[72259] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 72259,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[72350] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 3258,
-								["targets"] = {
-									["Neaxa"] = 3258,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 3258,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 3258,
-								["c_max"] = 0,
-								["id"] = 72350,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 1,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[70541] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 47,
-								["targets"] = {
-									["Neaxa"] = 47,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 47,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 1,
-								["total"] = 47,
-								["c_max"] = 0,
-								["id"] = 70541,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 1,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[71769] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 0,
-								["targets"] = {
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 0,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 0,
-								["total"] = 0,
-								["c_max"] = 0,
-								["id"] = 71769,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 1,
-								["b_dmg"] = 0,
-								["n_amt"] = 0,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-							[68983] = {
-								["c_amt"] = 0,
-								["b_amt"] = 0,
-								["c_dmg"] = 0,
-								["g_amt"] = 0,
-								["n_max"] = 75,
-								["targets"] = {
-									["Neaxa"] = 8440,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 8440,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 120,
-								["total"] = 8440,
-								["c_max"] = 0,
-								["id"] = 68983,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 120,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							},
-						},
-					},
-					["monster"] = true,
-					["total"] = 12574.011982,
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-					["custom"] = 0,
-					["tipo"] = 1,
-					["damage_taken"] = 42312006.011982,
-					["start_time"] = 1598118234,
-					["delay"] = 0,
-					["last_dps"] = 0,
-				}, -- [1]
-				{
 					["flag_original"] = 1297,
-					["totalabsorbed"] = 0.008825,
+					["totalabsorbed"] = 5226.007851,
 					["spec"] = 62,
 					["damage_from"] = {
-						["The Lich King"] = true,
+						["Goroth"] = true,
+						["Neaxa"] = true,
+						["[*] Infernal Spike"] = true,
 					},
 					["targets"] = {
-						["The Lich King"] = 42312006,
+						["Goroth"] = 398863,
 					},
 					["last_event"] = 0,
 					["pets"] = {
@@ -1627,62 +1981,38 @@ _detalhes_database = {
 					["classe"] = "MAGE",
 					["raid_targets"] = {
 					},
-					["total_without_pet"] = 42312006.008825,
+					["total_without_pet"] = 398863.007851,
 					["friendlyfire"] = {
+						["Neaxa"] = {
+							["spells"] = {
+								[231395] = 11512,
+							},
+							["total"] = 11512,
+						},
 					},
 					["dps_started"] = false,
-					["end_time"] = 1598118316,
-					["friendlyfire_total"] = 0,
+					["end_time"] = 1598828931,
+					["friendlyfire_total"] = 11512,
 					["on_hold"] = false,
 					["nome"] = "Neaxa",
 					["spells"] = {
 						["tipo"] = 2,
 						["_ActorTable"] = {
-							{
-								["c_amt"] = 3,
-								["b_amt"] = 0,
-								["c_dmg"] = 314608,
-								["g_amt"] = 0,
-								["n_max"] = 58996,
-								["targets"] = {
-									["The Lich King"] = 2266653,
-								},
-								["m_dmg"] = 0,
-								["n_dmg"] = 1952045,
-								["n_min"] = 0,
-								["g_dmg"] = 0,
-								["counter"] = 41,
-								["total"] = 2266653,
-								["c_max"] = 109916,
-								["id"] = 1,
-								["r_dmg"] = 0,
-								["extra"] = {
-								},
-								["a_dmg"] = 0,
-								["m_crit"] = 0,
-								["a_amt"] = 0,
-								["m_amt"] = 0,
-								["successful_casted"] = 0,
-								["b_dmg"] = 0,
-								["n_amt"] = 38,
-								["r_amt"] = 0,
-								["c_min"] = 0,
-							}, -- [1]
 							[153640] = {
 								["c_amt"] = 0,
 								["b_amt"] = 0,
 								["c_dmg"] = 0,
 								["g_amt"] = 0,
-								["n_max"] = 1438254,
+								["n_max"] = 11063,
 								["targets"] = {
-									["The Lich King"] = 2876508,
+									["Goroth"] = 11063,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 2876508,
+								["n_dmg"] = 11063,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 2,
-								["total"] = 2876508,
+								["counter"] = 1,
+								["total"] = 11063,
 								["c_max"] = 0,
 								["id"] = 153640,
 								["r_dmg"] = 0,
@@ -1694,27 +2024,27 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 2,
+								["n_amt"] = 1,
 								["r_amt"] = 0,
 								["c_min"] = 0,
 							},
-							[7268] = {
-								["c_amt"] = 0,
+							[295367] = {
+								["c_amt"] = 1,
 								["b_amt"] = 0,
-								["c_dmg"] = 0,
+								["c_dmg"] = 3075,
 								["g_amt"] = 0,
-								["n_max"] = 579297,
+								["n_max"] = 1538,
 								["targets"] = {
-									["The Lich King"] = 2816580,
+									["Goroth"] = 13839,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 2816580,
+								["n_dmg"] = 10764,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 5,
-								["total"] = 2816580,
-								["c_max"] = 0,
-								["id"] = 7268,
+								["counter"] = 8,
+								["total"] = 13839,
+								["c_max"] = 3075,
+								["id"] = 295367,
 								["r_dmg"] = 0,
 								["extra"] = {
 								},
@@ -1724,26 +2054,26 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 5,
+								["n_amt"] = 7,
 								["r_amt"] = 0,
 								["c_min"] = 0,
 							},
 							[30451] = {
-								["c_amt"] = 3,
+								["c_amt"] = 4,
 								["b_amt"] = 0,
-								["c_dmg"] = 13772396,
+								["c_dmg"] = 166787,
 								["g_amt"] = 0,
-								["n_max"] = 3336755,
+								["n_max"] = 24126,
 								["targets"] = {
-									["The Lich King"] = 34352265,
+									["Goroth"] = 365283,
 								},
 								["m_dmg"] = 0,
-								["n_dmg"] = 20579869,
+								["n_dmg"] = 198496,
 								["n_min"] = 0,
 								["g_dmg"] = 0,
-								["counter"] = 12,
-								["total"] = 34352265,
-								["c_max"] = 4930858,
+								["counter"] = 15,
+								["total"] = 365283,
+								["c_max"] = 57258,
 								["id"] = 30451,
 								["r_dmg"] = 0,
 								["extra"] = {
@@ -1754,22 +2084,476 @@ _detalhes_database = {
 								["m_amt"] = 0,
 								["successful_casted"] = 0,
 								["b_dmg"] = 0,
-								["n_amt"] = 9,
+								["n_amt"] = 11,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[295374] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 8678,
+								["targets"] = {
+									["Goroth"] = 8678,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 8678,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 8678,
+								["c_max"] = 0,
+								["id"] = 295374,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
 								["r_amt"] = 0,
 								["c_min"] = 0,
 							},
 						},
 					},
 					["grupo"] = true,
-					["total"] = 42312006.008825,
+					["total"] = 398863.007851,
 					["serial"] = "Player-580-0555A2EE",
 					["custom"] = 0,
 					["tipo"] = 1,
-					["damage_taken"] = 12574.008825,
-					["start_time"] = 1598118154,
+					["damage_taken"] = 302495.007851,
+					["start_time"] = 1598828900,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 54767.011592,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Neaxa"] = true,
+					},
+					["targets"] = {
+						["Neaxa"] = 285018,
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 285018.011592,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828931,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Goroth",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 2,
+								["b_amt"] = 0,
+								["c_dmg"] = 66135,
+								["g_amt"] = 0,
+								["n_max"] = 18964,
+								["targets"] = {
+									["Neaxa"] = 260287,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 194152,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 28,
+								["total"] = 260287,
+								["c_max"] = 35117,
+								["IMMUNE"] = 5,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 40114,
+								["m_crit"] = 0,
+								["a_amt"] = 2,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 21,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[232249] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 232249,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 3,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[233272] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 233272,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[231363] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 4456,
+								["targets"] = {
+									["Neaxa"] = 24731,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 24731,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 24731,
+								["c_max"] = 0,
+								["id"] = 231363,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 6,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[233283] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Neaxa"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 233283,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[233279] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Neaxa"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 233279,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 285018.011592,
+					["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 398863.011592,
+					["start_time"] = 1598828883,
 					["delay"] = 0,
 					["last_dps"] = 0,
 				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.015672,
+					["on_hold"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Neaxa"] = 5965,
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 5965.015672,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828931,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "[*] Infernal Spike",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[233021] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 5965,
+								["targets"] = {
+									["Neaxa"] = 5965,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 5965,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 5965,
+								["c_max"] = 0,
+								["id"] = 233021,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 5965.015672,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.015672,
+					["start_time"] = 1598828927,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [3]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.009691,
+					["on_hold"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.009691,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828931,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "[*] Crashing Comet",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[230345] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Neaxa"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 0,
+								["c_max"] = 0,
+								["MISS"] = 2,
+								["id"] = 230345,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 0.009691,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.009691,
+					["start_time"] = 1598828928,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [4]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.013266,
+					["on_hold"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.013266,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828931,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "[*] Star Burn",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[236329] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Neaxa"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 0,
+								["c_max"] = 0,
+								["IMMUNE"] = 1,
+								["id"] = 236329,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 0.013266,
+					["serial"] = "",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.013266,
+					["start_time"] = 1598828928,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [5]
 			},
 		}, -- [1]
 		{
@@ -1784,55 +2568,110 @@ _detalhes_database = {
 					},
 					["iniciar_hps"] = false,
 					["classe"] = "MAGE",
-					["totalover"] = 0.0125,
-					["total_without_pet"] = 12574.0125,
-					["total"] = 12574.0125,
+					["totalover"] = 0.00792,
+					["total_without_pet"] = 123777.00792,
+					["total"] = 123777.00792,
 					["targets_absorbs"] = {
-						["Neaxa"] = 12574,
+						["Neaxa"] = 67248,
 					},
 					["heal_enemy"] = {
 					},
 					["on_hold"] = false,
 					["serial"] = "Player-580-0555A2EE",
-					["totalabsorb"] = 12574.0125,
+					["totalabsorb"] = 67248.00792,
 					["last_hps"] = 0,
 					["targets"] = {
-						["Neaxa"] = 12574,
+						["Neaxa"] = 123777,
 					},
-					["totalover_without_pet"] = 0.0125,
-					["healing_taken"] = 12574.0125,
-					["end_time"] = 1598118316,
+					["totalover_without_pet"] = 0.00792,
+					["healing_taken"] = 123777.00792,
+					["end_time"] = 1598828931,
 					["targets_overheal"] = {
 					},
-					["start_time"] = 1598118234,
+					["start_time"] = 1598828904,
 					["nome"] = "Neaxa",
 					["spells"] = {
 						["tipo"] = 3,
 						["_ActorTable"] = {
-							[269279] = {
+							[235450] = {
 								["c_amt"] = 0,
-								["totalabsorb"] = 12574,
+								["totalabsorb"] = 40382,
 								["targets_overheal"] = {
 								},
-								["n_max"] = 3258,
+								["n_max"] = 14609,
 								["targets"] = {
-									["Neaxa"] = 12574,
+									["Neaxa"] = 40382,
 								},
 								["n_min"] = 0,
-								["counter"] = 130,
+								["counter"] = 7,
 								["overheal"] = 0,
-								["total"] = 12574,
+								["total"] = 40382,
 								["c_max"] = 0,
-								["id"] = 269279,
+								["id"] = 235450,
 								["targets_absorbs"] = {
-									["Neaxa"] = 12574,
+									["Neaxa"] = 40382,
 								},
 								["c_curado"] = 0,
 								["m_crit"] = 0,
 								["c_min"] = 0,
 								["m_amt"] = 0,
-								["n_curado"] = 12574,
-								["n_amt"] = 130,
+								["n_curado"] = 40382,
+								["n_amt"] = 7,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[269279] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 26866,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 6687,
+								["targets"] = {
+									["Neaxa"] = 26866,
+								},
+								["n_min"] = 0,
+								["counter"] = 6,
+								["overheal"] = 0,
+								["total"] = 26866,
+								["c_max"] = 0,
+								["id"] = 269279,
+								["targets_absorbs"] = {
+									["Neaxa"] = 26866,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 26866,
+								["n_amt"] = 6,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+							[280177] = {
+								["c_amt"] = 4,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 3009,
+								["targets"] = {
+									["Neaxa"] = 56529,
+								},
+								["n_min"] = 0,
+								["counter"] = 15,
+								["overheal"] = 0,
+								["total"] = 56529,
+								["c_max"] = 6018,
+								["id"] = 280177,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 24069,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 32460,
+								["n_amt"] = 11,
 								["totaldenied"] = 0,
 								["m_healed"] = 0,
 								["absorbed"] = 0,
@@ -1845,86 +2684,15 @@ _detalhes_database = {
 					["custom"] = 0,
 					["last_event"] = 0,
 					["spec"] = 62,
-					["totaldenied"] = 0.0125,
+					["totaldenied"] = 0.00792,
 					["delay"] = 0,
 					["tipo"] = 2,
 				}, -- [1]
-				{
-					["flag_original"] = 68168,
-					["totalabsorb"] = 0.012352,
-					["last_hps"] = 0,
-					["healing_from"] = {
-					},
-					["targets"] = {
-					},
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
-					["pets"] = {
-					},
-					["iniciar_hps"] = false,
-					["targets_overheal"] = {
-					},
-					["heal_enemy_amt"] = 1622532,
-					["totalover"] = 0.012352,
-					["total_without_pet"] = 0.012352,
-					["end_time"] = 1598118316,
-					["totalover_without_pet"] = 0.012352,
-					["monster"] = true,
-					["total"] = 0.012352,
-					["healing_taken"] = 0.012352,
-					["targets_absorbs"] = {
-					},
-					["nome"] = "The Lich King",
-					["spells"] = {
-						["tipo"] = 3,
-						["_ActorTable"] = {
-						},
-					},
-					["classe"] = "UNKNOW",
-					["boss_fight_component"] = true,
-					["heal_enemy"] = {
-						[72350] = 1622532,
-					},
-					["start_time"] = 1598118313,
-					["custom"] = 0,
-					["last_event"] = 0,
-					["on_hold"] = false,
-					["totaldenied"] = 0.012352,
-					["delay"] = 0,
-					["tipo"] = 2,
-				}, -- [2]
 			},
 		}, -- [2]
 		{
 			["tipo"] = 7,
 			["_ActorTable"] = {
-				{
-					["received"] = 0.009977,
-					["resource"] = 4.009977,
-					["targets"] = {
-					},
-					["pets"] = {
-					},
-					["powertype"] = 0,
-					["classe"] = "MAGE",
-					["passiveover"] = 0.002285,
-					["resource_type"] = 16,
-					["total"] = 0.009977,
-					["boss_fight_component"] = true,
-					["tipo"] = 3,
-					["nome"] = "Neaxa",
-					["spells"] = {
-						["tipo"] = 7,
-						["_ActorTable"] = {
-						},
-					},
-					["grupo"] = true,
-					["totalover"] = 0.002285,
-					["flag_original"] = 1297,
-					["alternatepower"] = 0.009977,
-					["last_event"] = 0,
-					["spec"] = 62,
-					["serial"] = "Player-580-0555A2EE",
-				}, -- [1]
 			},
 		}, -- [3]
 		{
@@ -1932,61 +2700,87 @@ _detalhes_database = {
 			["_ActorTable"] = {
 				{
 					["flag_original"] = 1047,
-					["nome"] = "Neaxa",
-					["buff_uptime_targets"] = {
-					},
-					["spec"] = 62,
-					["grupo"] = true,
-					["classe"] = "MAGE",
-					["spell_cast"] = {
-						[5143] = 1,
-						[153626] = 2,
-						[30451] = 12,
-					},
-					["boss_fight_component"] = true,
-					["pets"] = {
-					},
-					["last_event"] = 0,
-					["buff_uptime"] = 877,
-					["buff_uptime_spells"] = {
+					["debuff_uptime_spells"] = {
 						["tipo"] = 9,
 						["_ActorTable"] = {
-							[263725] = {
-								["refreshamt"] = 1,
-								["activedamt"] = 1,
+							[41425] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
 								["appliedamt"] = 1,
-								["id"] = 263725,
+								["id"] = 41425,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[295367] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 295367,
 								["uptime"] = 16,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[73828] = {
+							[234264] = {
 								["refreshamt"] = 0,
-								["activedamt"] = 1,
-								["appliedamt"] = 1,
-								["id"] = 73828,
-								["uptime"] = 168,
+								["activedamt"] = 0,
+								["appliedamt"] = 2,
+								["id"] = 234264,
+								["uptime"] = 14,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[186401] = {
-								["refreshamt"] = 0,
+						},
+					},
+					["cooldowns_defensive"] = 1.010506,
+					["pets"] = {
+					},
+					["classe"] = "MAGE",
+					["cooldowns_defensive_targets"] = {
+						["Neaxa"] = 1,
+					},
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[263725] = {
+								["refreshamt"] = 3,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
-								["id"] = 186401,
-								["uptime"] = 168,
+								["id"] = 263725,
+								["uptime"] = 25,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[116267] = {
+							[212799] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 212799,
+								["uptime"] = 13,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[280177] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 280177,
+								["uptime"] = 7,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[225788] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
-								["id"] = 116267,
-								["uptime"] = 168,
+								["id"] = 225788,
+								["uptime"] = 46,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -1996,7 +2790,17 @@ _detalhes_database = {
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 12042,
-								["uptime"] = 9,
+								["uptime"] = 7,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269279] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 269279,
+								["uptime"] = 13,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -2006,7 +2810,27 @@ _detalhes_database = {
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 273942,
-								["uptime"] = 9,
+								["uptime"] = 7,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[235450] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 235450,
+								["uptime"] = 18,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[45438] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 45438,
+								["uptime"] = 6,
 								["targets"] = {
 								},
 								["counter"] = 0,
@@ -2021,59 +2845,97 @@ _detalhes_database = {
 								},
 								["counter"] = 0,
 							},
+							[295378] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 295378,
+								["uptime"] = 33,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
 							[1459] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
 								["id"] = 1459,
-								["uptime"] = 168,
+								["uptime"] = 46,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
-							[205025] = {
+							[236645] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 2,
+								["appliedamt"] = 2,
+								["id"] = 236645,
+								["uptime"] = 0,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[80353] = {
 								["refreshamt"] = 0,
 								["activedamt"] = 1,
 								["appliedamt"] = 1,
-								["id"] = 205025,
-								["uptime"] = 2,
-								["targets"] = {
-								},
-								["counter"] = 0,
-							},
-							[269279] = {
-								["refreshamt"] = 5,
-								["activedamt"] = 2,
-								["appliedamt"] = 2,
-								["id"] = 269279,
-								["uptime"] = 168,
+								["id"] = 80353,
+								["uptime"] = 40,
 								["targets"] = {
 								},
 								["counter"] = 0,
 							},
 						},
 					},
-					["serial"] = "Player-580-0555A2EE",
+					["debuff_uptime"] = 50,
+					["debuff_uptime_targets"] = {
+					},
+					["nome"] = "Neaxa",
+					["spec"] = 62,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[30451] = 14,
+						[153626] = 1,
+						[235450] = 1,
+						[212653] = 2,
+						[295373] = 1,
+						[45438] = 1,
+					},
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 262,
 					["tipo"] = 4,
+					["cooldowns_defensive_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[45438] = {
+								["id"] = 45438,
+								["targets"] = {
+									["Neaxa"] = 1,
+								},
+								["counter"] = 1,
+							},
+						},
+					},
+					["boss_fight_component"] = true,
+					["serial"] = "Player-580-0555A2EE",
+					["last_event"] = 0,
 				}, -- [1]
 				{
 					["monster"] = true,
 					["tipo"] = 4,
-					["nome"] = "The Lich King",
+					["nome"] = "Goroth",
 					["pets"] = {
 					},
 					["spell_cast"] = {
-						[68981] = 1,
-						[72259] = 1,
-						[72133] = 1,
-						[70541] = 1,
-						[72350] = 1,
-						[71769] = 1,
+						[232249] = 3,
+						[231363] = 2,
+						[233272] = 1,
 					},
 					["flag_original"] = 68168,
 					["last_event"] = 0,
 					["boss_fight_component"] = true,
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
+					["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
 					["classe"] = "UNKNOW",
 				}, -- [2]
 				{
@@ -2088,23 +2950,23 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["monster"] = true,
-					["debuff_uptime"] = 1,
-					["spellschool"] = 32,
+					["debuff_uptime"] = 11,
+					["spellschool"] = 4,
 					["debuff_uptime_targets"] = {
 						["Neaxa"] = {
-							["uptime"] = 1,
+							["uptime"] = 11,
 							["appliedamt"] = 0,
 							["activedamt"] = 0,
 							["actived"] = false,
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 70541,
-					["nome"] = "Infest",
+					["damage_spellid"] = 232249,
+					["nome"] = "Crashing Comet",
 					["tipo"] = 4,
-					["damage_twin"] = "The Lich King",
+					["damage_twin"] = "Goroth",
 					["boss_fight_component"] = true,
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
+					["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
 					["last_event"] = 0,
 				}, -- [3]
 				{
@@ -2119,23 +2981,23 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["monster"] = true,
-					["debuff_uptime"] = 3,
-					["spellschool"] = 32,
+					["debuff_uptime"] = 12,
+					["spellschool"] = 4,
 					["debuff_uptime_targets"] = {
 						["Neaxa"] = {
-							["uptime"] = 3,
+							["uptime"] = 12,
 							["appliedamt"] = 0,
 							["activedamt"] = 0,
 							["actived"] = false,
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 72133,
-					["nome"] = "Pain and Suffering",
+					["damage_spellid"] = 231363,
+					["nome"] = "Burning Armor",
 					["tipo"] = 4,
-					["damage_twin"] = "The Lich King",
+					["damage_twin"] = "Goroth",
 					["boss_fight_component"] = true,
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
+					["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
 					["last_event"] = 0,
 				}, -- [4]
 				{
@@ -2150,23 +3012,23 @@ _detalhes_database = {
 					["classe"] = "UNKNOW",
 					["boss_debuff"] = true,
 					["monster"] = true,
-					["debuff_uptime"] = 2,
-					["spellschool"] = 32,
+					["debuff_uptime"] = 6,
+					["spellschool"] = 1,
 					["debuff_uptime_targets"] = {
 						["Neaxa"] = {
-							["uptime"] = 2,
+							["uptime"] = 6,
 							["appliedamt"] = 0,
 							["activedamt"] = 0,
 							["actived"] = false,
 							["refreshamt"] = 0,
 						},
 					},
-					["damage_spellid"] = 72350,
-					["nome"] = "Fury of Frostmourne",
+					["damage_spellid"] = 233272,
+					["nome"] = "Shattering Star",
 					["tipo"] = 4,
-					["damage_twin"] = "The Lich King",
+					["damage_twin"] = "Goroth",
 					["boss_fight_component"] = true,
-					["serial"] = "Creature-0-3889-631-21563-36597-00004158A5",
+					["serial"] = "Vehicle-0-3767-1676-22921-115844-00004C3148",
 					["last_event"] = 0,
 				}, -- [5]
 			},
@@ -2178,18 +3040,18 @@ _detalhes_database = {
 		}, -- [5]
 		["raid_roster"] = {
 		},
-		["tempo_start"] = 1598118147,
+		["tempo_start"] = 1598828930,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 723,
+		["combat_counter"] = 748,
 		["totals"] = {
-			42324580.015321, -- [1]
-			12574.014375, -- [2]
+			689846.031304, -- [1]
+			123777.002107, -- [2]
 			{
 				0, -- [1]
-				[0] = 0.007692,
+				[0] = 0,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -2198,7 +3060,7 @@ _detalhes_database = {
 				["buff_uptime"] = 0,
 				["ress"] = 0,
 				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cooldowns_defensive"] = 1.003369,
 				["interrupt"] = 0,
 				["dispell"] = 0,
 				["cc_break"] = 0,
@@ -2216,25 +3078,25 @@ _detalhes_database = {
 		},
 		["__call"] = {
 		},
-		["data_inicio"] = "19:42:28",
-		["end_time"] = 26958.224,
+		["data_inicio"] = "01:08:05",
+		["end_time"] = 252821.499,
 		["cleu_events"] = {
 			["n"] = 1,
 		},
 		["segments_added"] = {
 			{
-				["elapsed"] = 171.5879999999997,
+				["elapsed"] = 45.77600000001257,
 				["type"] = 8,
-				["name"] = "The Lich King",
-				["clock"] = "19:42:28",
+				["name"] = "Goroth",
+				["clock"] = "01:08:05",
 			}, -- [1]
 		},
 		["totals_grupo"] = {
-			42312006.007045, -- [1]
-			12574.007719, -- [2]
+			398863.006639, -- [1]
+			123777.002107, -- [2]
 			{
 				0, -- [1]
-				[0] = 0.007692,
+				[0] = 0,
 				["alternatepower"] = 0,
 				[3] = 0,
 				[6] = 0,
@@ -2243,7 +3105,7 @@ _detalhes_database = {
 				["buff_uptime"] = 0,
 				["ress"] = 0,
 				["debuff_uptime"] = 0,
-				["cooldowns_defensive"] = 0,
+				["cooldowns_defensive"] = 1.003369,
 				["interrupt"] = 0,
 				["dispell"] = 0,
 				["cc_break"] = 0,
@@ -2252,13 +3114,13 @@ _detalhes_database = {
 		},
 		["frags"] = {
 		},
-		["data_fim"] = "19:45:16",
-		["overall_enemy_name"] = "The Lich King",
+		["data_fim"] = "01:08:51",
+		["overall_enemy_name"] = "Goroth",
 		["CombatSkillCache"] = {
 		},
 		["cleu_timeline"] = {
 		},
-		["start_time"] = 26786.636,
+		["start_time"] = 252775.723,
 		["TimeData"] = {
 			["Raid Damage Done"] = {
 			},

@@ -17,11 +17,11 @@ PasteDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -89,7 +89,7 @@ PasteDB = {
 		["Grillboost - Antonidas"] = {
 			["loaded"] = true,
 		},
-		["Grillpatrol - Blackmoore"] = {
+		["Nethenâ - Blackmoore"] = {
 			["loaded"] = true,
 		},
 		["Nexanâ - Blackmoore"] = {
@@ -101,7 +101,7 @@ PasteDB = {
 		["Nexâna - Blackmoore"] = {
 			["loaded"] = true,
 		},
-		["Nethenâ - Blackmoore"] = {
+		["Grillpatrol - Blackmoore"] = {
 			["loaded"] = true,
 		},
 		["Noxiâ - Blackmoore"] = {

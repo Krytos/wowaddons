@@ -1,94 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		" reicht doch^^", -- [1]
-		" xD", -- [2]
-		" ne, der ist zu low", -- [3]
-		"/p ich bin dirn", -- [4]
-		"let me swap", -- [5]
-		"/p bei blau anquatschen", -- [6]
+		" xD", -- [1]
+		" ne, der ist zu low", -- [2]
+		"/p bei blau anquatschen", -- [3]
+		"/cw Bejond-Malfurion thx <3", -- [4]
+		"/p hi", -- [5]
+		"/s penis", -- [6]
 		"/i das ist net M+", -- [7]
-		"/p hi", -- [8]
-		"/cw Bejond-Malfurion thx <3", -- [9]
-		"/cw Kíllermann danke dir <3", -- [10]
-		"xD", -- [11]
-		"/wa", -- [12]
-		"/p |cffa335ee|Hitem:165583::::::::120:62::3:3:4798:1507:4786:::|h[Fogbreaker, Light of the Sea]|h|r", -- [13]
-		"/p [WeakAuras: Neaxa-Blackmoore - AHK Spec]", -- [14]
-		"und, raided ihr heute?^^", -- [15]
-		"ne, der ist zu low", -- [16]
-		"/s penis", -- [17]
-		"reicht doch^^", -- [18]
+		"/p [WeakAuras: Neaxa-Blackmoore - AHK Spec]", -- [8]
+		"/p ich bin dirn", -- [9]
+		"/gnosis", -- [10]
+		"ne, der ist zu low", -- [11]
+		"/plater", -- [12]
+		"/wa", -- [13]
+		"und, raided ihr heute?^^", -- [14]
+		"/cw Kíllermann danke dir <3", -- [15]
+		"/p |cffa335ee|Hitem:165583::::::::120:62::3:3:4798:1507:4786:::|h[Fogbreaker, Light of the Sea]|h|r", -- [16]
+		"let me swap", -- [17]
+		"xD", -- [18]
 		"/roll", -- [19]
-		"/gnosis", -- [20]
+		"reicht doch^^", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"xD", -- [1]
-			"Selarity-Blackmoore", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Selarity-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			53, -- [11]
-			"Player-580-08342CCB", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc31d39Selarity|r",
-			[51] = 1555097086,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [1]
-		{
-			"^^", -- [1]
-			"Karguni-Antonidas", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Karguni-Antonidas", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			54, -- [11]
-			"Player-3686-06611203", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeKarguni-Antonidas|r",
-			[51] = 1555097088,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"jetzt", -- [1]
-			"Bejond-Malfurion", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Bejond-Malfurion", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			56, -- [11]
-			"Player-1098-08724C3B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8686ecBejond-Malfurion|r",
-			[51] = 1555097096,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [3]
 		{
 			"kommt rein", -- [1]
 			"Selarity-Blackmoore", -- [2]
@@ -110,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Selarity|r",
 			[51] = 1555097103,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [4]
+		}, -- [1]
 		{
 			"bin drin", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -132,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555097108,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [5]
+		}, -- [2]
 		{
 			"drink", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -154,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555097530,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
+		}, -- [3]
 		{
 			"leute", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -176,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555097548,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
+		}, -- [4]
 		{
 			"alle trinken ...hic!", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -198,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555097550,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
+		}, -- [5]
 		{
 			"bei blau anquatschen", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -220,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555097563,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [9]
+		}, -- [6]
 		{
 			"ohha", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -242,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555097627,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [10]
+		}, -- [7]
 		{
 			"bisschen nebelige sicht XD", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -264,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555097655,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [11]
+		}, -- [8]
 		{
 			"^^", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -286,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555097663,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [12]
+		}, -- [9]
 		{
 			"wer wird heute der neue schweinepriester?^^", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -308,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555097917,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [13]
+		}, -- [10]
 		{
 			"XD", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -330,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555097935,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [14]
+		}, -- [11]
 		{
 			"wuhuuu", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -352,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555097937,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [15]
+		}, -- [12]
 		{
 			"johuu", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -374,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555097943,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [16]
+		}, -- [13]
 		{
 			"^^", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -396,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555097954,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [17]
+		}, -- [14]
 		{
 			"vor der Brücke mache ich ein Tor", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -418,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555097969,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [18]
+		}, -- [15]
 		{
 			"oki", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -440,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555097978,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [16]
 		{
 			"jetzt grosse kunst gefragt", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -462,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098140,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [17]
 		{
 			"^^", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -484,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098148,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
+		}, -- [18]
 		{
 			"^^", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -506,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555098155,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [19]
 		{
 			"Cannon Barrage on Neaxa", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -528,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555098209,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [23]
+		}, -- [20]
 		{
 			"Cannon Barrage on Neaxa", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -550,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555098246,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [24]
+		}, -- [21]
 		{
 			"Cannon Barrage on Neaxa", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -572,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555098263,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [25]
+		}, -- [22]
 		{
 			"Kanonensperrfeuer auf Yannika", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -594,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098286,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [26]
+		}, -- [23]
 		{
 			"Cannon Barrage on Neaxa", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -616,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555098286,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [27]
+		}, -- [24]
 		{
 			"Hi. falls du |cffa335ee|Hitem:158301::::::::120:62::23:4:4819:1542:4786:5410:::|h[Ruffled Poet Blouse]|h|r nicht brauchst, würde ich mich echt drüber freuen <3", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -638,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098308,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [28]
+		}, -- [25]
 		{
 			"gz", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -660,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555098308,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [26]
 		{
 			"trade", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -682,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098324,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [30]
+		}, -- [27]
 		{
 			"|cffa335ee|Hkeystone:158923:245:2:9:0:0:0|h[Schlüsselstein: Freihafen (2)]|h|r", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -704,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098327,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [31]
+		}, -- [28]
 		{
 			":)", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -726,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098330,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
+		}, -- [29]
 		{
 			"bin dabei ", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -748,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555098337,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [30]
 		{
 			"gerne", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -770,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098340,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [34]
+		}, -- [31]
 		{
 			"^^", -- [1]
 			"Karguni-Antonidas", -- [2]
@@ -792,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeKarguni-Antonidas|r",
 			[51] = 1555098340,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [32]
 		{
 			"thx <3", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -814,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098345,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [36]
+		}, -- [33]
 		{
 			"der rest auch?", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -836,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098345,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [34]
 		{
 			"+", -- [1]
 			"Bejond-Malfurion", -- [2]
@@ -858,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff8686ecBejond-Malfurion|r",
 			[51] = 1555098350,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [35]
 		{
 			"ich net, aber danke :)", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -880,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1555098358,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [36]
 		{
 			"ok", -- [1]
 			"Yannika-Nozdormu", -- [2]
@@ -902,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Yannika-Nozdormu|r",
 			[51] = 1555098363,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [37]
 		{
 			"ich würde", -- [1]
 			"Selarity-Blackmoore", -- [2]
@@ -924,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cffc31d39Selarity|r",
 			[51] = 1555098377,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [41]
+		}, -- [38]
 		{
 			"WTS Der Ewige Palast Heroisch+Normal/ Königin Azshara Heroisch/ Mythisch 10+ 20+/Operation Mechagon Wöchentliche Kiste- 440 item", -- [1]
 			"Nerfago-Blackmoore", -- [2]
@@ -946,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNerfago|r",
 			[51] = 1570631517,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [42]
+		}, -- [39]
 		{
 			"WTS Der Ewige Palast Heroisch+Normal/ Königin Azshara Heroisch/ Mythisch 10+ 20+/Operation Mechagon Wöchentliche Kiste- 440 item", -- [1]
 			"Nerfago-Blackmoore", -- [2]
@@ -968,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNerfago|r",
 			[51] = 1570631759,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [43]
+		}, -- [40]
 		{
 			"<Oblivion Boost Community> verkauft Der Ewige Palast Heroisch um 20 Uhr. Erhaltet die \"Der Zeit voraus\" Heldentat. Operation Mechagon und M+ 10-20 Keys intime, Spezifische Keys und Armorstacks sind möglich /w me", -- [1]
 			"Fréddý-Blackmoore", -- [2]
@@ -990,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFréddý|r",
 			[51] = 1570631792,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [41]
 		{
 			"<Oblivion Boost Community> verkauft Der Ewige Palast Heroisch um 20 Uhr. Erhaltet die \"Der Zeit voraus\" Heldentat. Operation Mechagon und M+ 10-20 Keys intime, Spezifische Keys und Armorstacks sind möglich /w me", -- [1]
 			"Fréddý-Blackmoore", -- [2]
@@ -1012,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFréddý|r",
 			[51] = 1570631933,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
+		}, -- [42]
 		{
 			"<Oblivion Boost Community> verkauft Der Ewige Palast Heroisch um 20 Uhr. Erhaltet die \"Der Zeit voraus\" Heldentat. Operation Mechagon und M+ 10-20 Keys intime, Spezifische Keys und Armorstacks sind möglich /w me", -- [1]
 			"Fréddý-Blackmoore", -- [2]
@@ -1034,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFréddý|r",
 			[51] = 1570632019,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
+		}, -- [43]
 		{
 			"WTS Der Ewige Palast Heroisch+Normal/ Königin Azshara Heroisch/ Mythisch 10+ 20+/Operation Mechagon Wöchentliche Kiste- 440 item", -- [1]
 			"Nerfago-Blackmoore", -- [2]
@@ -1056,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNerfago|r",
 			[51] = 1570632243,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [47]
+		}, -- [44]
 		{
 			"<Oblivion Boost Community> verkauft Der Ewige Palast Heroisch um 20 Uhr. Erhaltet die \"Der Zeit voraus\" Heldentat. Operation Mechagon und M+ 10-20 Keys intime, Spezifische Keys und Armorstacks sind möglich /w me", -- [1]
 			"Fréddý-Blackmoore", -- [2]
@@ -1078,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cFréddý|r",
 			[51] = 1570632255,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [48]
+		}, -- [45]
 		{
 			"WTS Der Ewige Palast Heroisch+Normal/ Königin Azshara Heroisch/ Mythisch 10+ 20+/Operation Mechagon Wöchentliche Kiste- 440 item", -- [1]
 			"Nerfago-Blackmoore", -- [2]
@@ -1100,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNerfago|r",
 			[51] = 1570634340,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [49]
+		}, -- [46]
 		{
 			"|Htalent:22456|h[Firestarter]|h", -- [1]
 			"|Kq33|k", -- [2]
@@ -1122,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "Stevi2195",
 			[51] = 1570638335,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
-		}, -- [50]
+		}, -- [47]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1144,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570638433,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [51]
+		}, -- [48]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1166,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570638510,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [52]
+		}, -- [49]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1188,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570639400,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
+		}, -- [50]
 		{
 			"|cffffff00The Hanging Reef is under attack!|r", -- [1]
 			"", -- [2]
@@ -1210,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570639402,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
+		}, -- [51]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1232,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570639460,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [52]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1254,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570640406,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [53]
 		{
 			"|cffffff00The Hanging Reef is under attack!|r", -- [1]
 			"", -- [2]
@@ -1276,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570640406,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [57]
+		}, -- [54]
 		{
 			"hi", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1298,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1570640439,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [55]
 		{
 			"|cffffff00Mezzamere is under attack!|r", -- [1]
 			"", -- [2]
@@ -1320,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570640468,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [59]
+		}, -- [56]
 		{
 			"Hello allll, goodvening, ty for invite :)", -- [1]
 			"Niekkie-Bloodfeather", -- [2]
@@ -1342,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Niekkie-Bloodfeather|r",
 			[51] = 1570640518,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [57]
 		{
 			"|cffffff00Shrine of the Storm is under attack!|r", -- [1]
 			"", -- [2]
@@ -1364,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1570641267,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [58]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1386,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1575909754,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [62]
+		}, -- [59]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1408,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1575909755,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [63]
+		}, -- [60]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1430,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1575909798,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [64]
+		}, -- [61]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1452,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1575909798,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [65]
+		}, -- [62]
 		{
 			"oh jetzt rerollt er doch auf mage ! KEKW ", -- [1]
 			"|Kq15|k", -- [2]
@@ -1475,7 +1409,7 @@ ElvCharacterDB = {
 			[51] = 1582563565,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [66]
+		}, -- [63]
 		{
 			"ne^^", -- [1]
 			"|Kq15|k", -- [2]
@@ -1498,7 +1432,7 @@ ElvCharacterDB = {
 			[51] = 1582563572,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Hotarouu",
-		}, -- [67]
+		}, -- [64]
 		{
 			"|cffffff00Vigil Hill is under attack!|r", -- [1]
 			"", -- [2]
@@ -1520,7 +1454,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1582563696,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [68]
+		}, -- [65]
 		{
 			"[WeakAuras: Neaxa-Blackmoore - AHK Spec]", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1542,7 +1476,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1582565046,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [66]
 		{
 			"und, raided ihr heute?^^", -- [1]
 			"|Kq15|k", -- [2]
@@ -1565,7 +1499,7 @@ ElvCharacterDB = {
 			[51] = 1582565444,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Hotarouu",
-		}, -- [70]
+		}, -- [67]
 		{
 			"10 sind angemeldet xD", -- [1]
 			"|Kq15|k", -- [2]
@@ -1588,7 +1522,7 @@ ElvCharacterDB = {
 			[51] = 1582565705,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [71]
+		}, -- [68]
 		{
 			"reicht doch^^", -- [1]
 			"|Kq15|k", -- [2]
@@ -1611,7 +1545,7 @@ ElvCharacterDB = {
 			[51] = 1582565713,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Hotarouu",
-		}, -- [72]
+		}, -- [69]
 		{
 			"kein tank 1 heal :D ", -- [1]
 			"|Kq15|k", -- [2]
@@ -1634,7 +1568,7 @@ ElvCharacterDB = {
 			[51] = 1582565725,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [73]
+		}, -- [70]
 		{
 			"xD", -- [1]
 			"|Kq15|k", -- [2]
@@ -1657,7 +1591,7 @@ ElvCharacterDB = {
 			[51] = 1582565733,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Hotarouu",
-		}, -- [74]
+		}, -- [71]
 		{
 			"4 priester 3 shamis 2 mages ^^", -- [1]
 			"|Kq15|k", -- [2]
@@ -1680,7 +1614,7 @@ ElvCharacterDB = {
 			[51] = 1582565818,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [75]
+		}, -- [72]
 		{
 			"ein monk", -- [1]
 			"|Kq15|k", -- [2]
@@ -1703,7 +1637,7 @@ ElvCharacterDB = {
 			[51] = 1582565827,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [76]
+		}, -- [73]
 		{
 			"würdest mitm mage mitkommen ? xD", -- [1]
 			"|Kq15|k", -- [2]
@@ -1726,7 +1660,7 @@ ElvCharacterDB = {
 			[51] = 1582565861,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [77]
+		}, -- [74]
 		{
 			"ne, der ist zu low", -- [1]
 			"|Kq15|k", -- [2]
@@ -1749,7 +1683,7 @@ ElvCharacterDB = {
 			[51] = 1582565874,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Hotarouu",
-		}, -- [78]
+		}, -- [75]
 		{
 			"also raid findet statt ... raidlead zwingt die leute mit zukommen sonst kein mythic progress LEL", -- [1]
 			"|Kq15|k", -- [2]
@@ -1772,7 +1706,7 @@ ElvCharacterDB = {
 			[51] = 1582566089,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [79]
+		}, -- [76]
 		{
 			"komm mal kurz dc wenn du kannst ", -- [1]
 			"|Kq15|k", -- [2]
@@ -1795,7 +1729,7 @@ ElvCharacterDB = {
 			[51] = 1582566263,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Hotarouu",
-		}, -- [80]
+		}, -- [77]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1817,7 +1751,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1588643557,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [81]
+		}, -- [78]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1839,7 +1773,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1588788990,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [79]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1861,7 +1795,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1588788991,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [80]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1883,7 +1817,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1589464133,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [84]
+		}, -- [81]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1905,7 +1839,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1589464133,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [82]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1927,7 +1861,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1590539166,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [86]
+		}, -- [83]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1949,7 +1883,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1590539166,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [84]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1971,7 +1905,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1590539268,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [88]
+		}, -- [85]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -1993,7 +1927,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1590539269,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [89]
+		}, -- [86]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -2015,7 +1949,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1590539277,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [90]
+		}, -- [87]
 		{
 			"Gimmie dat food", -- [1]
 			"|Kq39|k", -- [2]
@@ -2038,7 +1972,7 @@ ElvCharacterDB = {
 			[51] = 1592317296,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Jado",
-		}, -- [91]
+		}, -- [88]
 		{
 			"<3", -- [1]
 			"|Kq39|k", -- [2]
@@ -2061,7 +1995,7 @@ ElvCharacterDB = {
 			[51] = 1592317305,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Jado",
-		}, -- [92]
+		}, -- [89]
 		{
 			"Kapakka 2.Stammgruppe   10/12 Müffsch sucht Verstärkung für Müffsch JOOOONGE!!  Range DDs und Heals Vorraussetzung be saftig ! /w me", -- [1]
 			"Namo-Blackmoore", -- [2]
@@ -2083,7 +2017,7 @@ ElvCharacterDB = {
 			[52] = "|cff00fe95Namo|r",
 			[51] = 1598117949,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [90]
 		{
 			"[Gino´s Söldner] verkaufen Ny´Alotha 12/12 HC um 21:00 Uhr @150k Persoloot - @250k + 1 VIP - @340k + 2 VIP- @600k + 5 VIP! N'Zoth + Mount @65k /w oder https://discord.gg/ZtvHhVE für Infos. Nur gegen Gold!", -- [1]
 			"Ginoboosst-Blackmoore", -- [2]
@@ -2105,7 +2039,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeGinoboosst|r",
 			[51] = 1598117959,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [91]
 		{
 			"Biete Lvl Boost 4k das lvl", -- [1]
 			"Foxo-Blackmoore", -- [2]
@@ -2127,7 +2061,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Foxo|r",
 			[51] = 1598117963,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [92]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -2149,7 +2083,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1598117970,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [96]
+		}, -- [93]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Neaxa-Blackmoore", -- [2]
@@ -2171,7 +2105,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Neaxa|r",
 			[51] = 1598117971,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [97]
+		}, -- [94]
 		{
 			"WTS  |cffa335ee|Hitem:175010::::::::120:73::5:7:4823:6578:6579:6545:6513:1502:4786:::|h[Bollwerk des wahnsinnigen Anhängers]|h|r", -- [1]
 			"Valakx-Blackmoore", -- [2]
@@ -2193,7 +2127,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cValakx|r",
 			[51] = 1598117971,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [95]
 		{
 			"WTS M+10-20 Keys |cffffff00|Hachievement:14145:Player-3687-09DF5126:1:3:16:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Master: Season Four]|h|r/Mechagon Hardmode/Jaina |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r/0-5 Mask Vision/|cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r 110-120 /W Me For Price", -- [1]
 			"Iccboost-Blackmoore", -- [2]
@@ -2214,6 +2148,72 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cfff38bb9Iccboost|r",
 			[51] = 1598117990,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"Verkaufe günstige Freeholdboosts sowie Vision Runs mit 0 - 5 Masken, /w mich wenn ich dein Interesse geweckt habe :D", -- [1]
+			"Donnerschall-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Donnerschall-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			424, -- [11]
+			"Player-580-08C04B5F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cDonnerschall|r",
+			[51] = 1598828037,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"NOVA verkauft auch heute wieder M+10-23 beim kauf von 2/4/6 keys gibts rabatt[+15 110k] Armorstack kostenlos und Wunschkey 10k desweiteren verkaufen wir HC/ Mythic Nyalotha / Visions 5 mask 70k und  mehr Interesse? /w me Deutscher Ansprechpartner", -- [1]
+			"Novakata-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Novakata-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			425, -- [11]
+			"Player-580-095EE446", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeNovakata|r",
+			[51] = 1598828037,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"<ICC> verkauft MYTHIC und HEROIC Nyalotha sowie JAINA und NZOTH MOUNT zu 100% bevor die Droprate bald auf 1% sinkt. Wir bieten auch  M+10-20 KEYS / PVP (RBG/ARENA) /MOUNTS /Erfolge / T3 Sets /w me für Preis und Infos <3 (nur Gold)", -- [1]
+			"Pokapoki-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Pokapoki-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			463, -- [11]
+			"Player-580-091C25D6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffc59a6cPokapoki|r",
+			[51] = 1598828694,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

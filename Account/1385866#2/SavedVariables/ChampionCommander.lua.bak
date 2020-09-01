@@ -8,10 +8,6 @@ dbBFA = {
 			["firstun"] = false,
 		},
 	},
-	["profileKeys"] = {
-		["Grillpatrol - Blackmoore"] = "Default",
-		["Nexâna - Blackmoore"] = "Default",
-	},
 	["global"] = {
 		["tutorialStep"] = 9,
 		["warn01_seen"] = 0,
@@ -19,6 +15,10 @@ dbBFA = {
 		["news"] = {
 		},
 		["warn02_seen"] = 0,
+	},
+	["profileKeys"] = {
+		["Grillpatrol - Blackmoore"] = "Default",
+		["Nexâna - Blackmoore"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -42,17 +42,17 @@ dbBFA = {
 				["PREFERHIGH"] = false,
 				["NOTROOPS"] = false,
 				["MAKEITQUICK"] = true,
-				["TROOPALERT"] = true,
 				["MAXCHAMP"] = 3,
+				["TROOPALERT"] = true,
 				["IGNOREBUSY"] = true,
 				["BASECHANCE"] = 0,
 			},
-			["showmenu"] = true,
 			["blacklist"] = {
 				[1890] = true,
 				[1910] = true,
 				[2075] = true,
 			},
+			["showmenu"] = false,
 		},
 	},
 }

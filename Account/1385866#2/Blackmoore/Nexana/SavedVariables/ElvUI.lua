@@ -2,49 +2,27 @@
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
 		" laptop mitnehmen^^", -- [1]
-		"/cw Tardex-Silvermoon br pls", -- [2]
-		"/p ty", -- [3]
-		"/played", -- [4]
-		"/cw Dáv-Shadowsong we both got trinket", -- [5]
-		"/raid lol?", -- [6]
-		"/plater", -- [7]
-		"/macro", -- [8]
-		"/p gz", -- [9]
-		"^^", -- [10]
-		"/opie", -- [11]
-		"/raid keep aggro on adds", -- [12]
-		"/wa", -- [13]
+		"/cw Dáv-Shadowsong we both got trinket", -- [2]
+		"/p gz", -- [3]
+		"/plater", -- [4]
+		"/raid hi", -- [5]
+		"/cw Tardex-Silvermoon br pls", -- [6]
+		"/wa", -- [7]
+		"/p gj", -- [8]
+		"/raid keep aggro on adds", -- [9]
+		"/roll", -- [10]
+		"/p ty", -- [11]
+		"/opie", -- [12]
+		"^^", -- [13]
 		"naja, so wiorste dich nie verbessern wenn alle wichtige info verteilt ist, aber ok^^", -- [14]
-		"/p gj", -- [15]
-		"WAs und Elvui", -- [16]
-		"/raid hi", -- [17]
+		"/p hi", -- [15]
+		"/played", -- [16]
+		"/raid lol?", -- [17]
 		"laptop mitnehmen^^", -- [18]
-		"/p hi", -- [19]
-		"/roll", -- [20]
+		"WAs und Elvui", -- [19]
+		"/macro", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"12", -- [1]
-			"Sickology-Blackmoore", -- [2]
-			"Common", -- [3]
-			"", -- [4]
-			"Sickology-Blackmoore", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			2081, -- [11]
-			"Player-580-081CD084", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffefefeSickology|r",
-			[51] = 1559488933,
-			[50] = "CHAT_MSG_SAY",
-		}, -- [1]
 		{
 			"11", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -66,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488934,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [2]
+		}, -- [1]
 		{
 			"10", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -88,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488935,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [3]
+		}, -- [2]
 		{
 			"9", -- [1]
 			"Sickology-Blackmoore", -- [2]
@@ -110,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeSickology|r",
 			[51] = 1559488936,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [4]
+		}, -- [3]
 		{
 			"ADDS ADDS ADDS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -132,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559488994,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [5]
+		}, -- [4]
 		{
 			"ADDS ADDS ADDS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -154,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559488994,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [6]
+		}, -- [5]
 		{
 			"BOSS BOSS BOSS", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -176,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489090,
 			[50] = "CHAT_MSG_RAID_WARNING",
-		}, -- [7]
+		}, -- [6]
 		{
 			"Hey, if you don't need |cffa335ee|Hitem:165919::::::::120:258::6:3:4800:1537:4786:::|h[Desecrated Blade of the Disciples]|h|r, I would very much appreciate it <3", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -198,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489119,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [8]
+		}, -- [7]
 		{
 			"need", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -220,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489132,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [9]
+		}, -- [8]
 		{
 			"Any loot you don't need?", -- [1]
 			"Emodruid-Sunstrider", -- [2]
@@ -242,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Emodruid-Sunstrider|r",
 			[51] = 1559489134,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [10]
+		}, -- [9]
 		{
 			"gratz", -- [1]
 			"Cleepy-Ravencrest", -- [2]
@@ -264,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3ec5e9Cleepy-Ravencrest|r",
 			[51] = 1559489137,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [11]
+		}, -- [10]
 		{
 			"thx bb", -- [1]
 			"Amisia-Arthas", -- [2]
@@ -286,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Amisia-Arthas|r",
 			[51] = 1559489143,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [12]
+		}, -- [11]
 		{
 			"players like limo should never ever raid again, pls just dont do it", -- [1]
 			"Trivisaurus-Blackmoore", -- [2]
@@ -308,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTrivisaurus|r",
 			[51] = 1559489144,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [13]
+		}, -- [12]
 		{
 			"ffs", -- [1]
 			"Trivisaurus-Blackmoore", -- [2]
@@ -330,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cTrivisaurus|r",
 			[51] = 1559489150,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [14]
+		}, -- [13]
 		{
 			"Thanks everyone", -- [1]
 			"Atrixe-TheVentureCo", -- [2]
@@ -352,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cAtrixe-TheVentureCo|r",
 			[51] = 1559489152,
 			[50] = "CHAT_MSG_RAID",
-		}, -- [15]
+		}, -- [14]
 		{
 			"hi, 1300 rio main and 7/9M ", -- [1]
 			"Yes-Elune", -- [2]
@@ -374,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677498,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [16]
+		}, -- [15]
 		{
 			"ty :-)", -- [1]
 			"Yes-Elune", -- [2]
@@ -396,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677515,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [17]
+		}, -- [16]
 		{
 			"hi", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -418,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677541,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [18]
+		}, -- [17]
 		{
 			"hello", -- [1]
 			"Мидрас-Гордунни", -- [2]
@@ -440,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cМидрас-Гордунни|r",
 			[51] = 1559677561,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [19]
+		}, -- [18]
 		{
 			"hi", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -462,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677563,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [20]
+		}, -- [19]
 		{
 			"hi", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -484,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677565,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [21]
+		}, -- [20]
 		{
 			"hi", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -506,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559677566,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [22]
+		}, -- [21]
 		{
 			"ty", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -528,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559677693,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
+		}, -- [22]
 		{
 			"пщ", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -550,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677757,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [24]
+		}, -- [23]
 		{
 			"go", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -572,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677761,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [25]
+		}, -- [24]
 		{
 			"big pack", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -594,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677772,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
+		}, -- [25]
 		{
 			"?", -- [1]
 			"Этшуб-Гордунни", -- [2]
@@ -616,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cЭтшуб-Гордунни|r",
 			[51] = 1559677776,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [27]
+		}, -- [26]
 		{
 			"hero ?", -- [1]
 			"Yes-Elune", -- [2]
@@ -638,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677783,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
+		}, -- [27]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -660,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559677958,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [29]
+		}, -- [28]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -682,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678324,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
+		}, -- [29]
 		{
 			"|cff71d5ff|Hspell:1044:0|h[Blessing of Freedom]|h|r cast on You!", -- [1]
 			"Yes-Elune", -- [2]
@@ -704,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678459,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [31]
+		}, -- [30]
 		{
 			"|cff71d5ff|Hspell:1044:0|h[Blessing of Freedom]|h|r cast on You!", -- [1]
 			"Yes-Elune", -- [2]
@@ -726,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678505,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [32]
+		}, -- [31]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -748,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678598,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [33]
+		}, -- [32]
 		{
 			"Cannon Barrage on Nexana", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -770,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678779,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [34]
+		}, -- [33]
 		{
 			"Vormos Iiqaath za C'toth", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -792,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678801,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [35]
+		}, -- [34]
 		{
 			"Vormos Iiqaath za C'toth", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -814,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559678841,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [36]
+		}, -- [35]
 		{
 			"Cannon Barrage on Kockata", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -836,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559678842,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [37]
+		}, -- [36]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -858,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559678917,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [38]
+		}, -- [37]
 		{
 			"heroism", -- [1]
 			"Yes-Elune", -- [2]
@@ -880,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679169,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [38]
 		{
 			":..Lust Detector:..: Kockata-Silvermoon Casted a Spell |cff71d5ff|Hspell:32182:0|h[Heroism]|h|r!", -- [1]
 			"Yes-Elune", -- [2]
@@ -902,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679176,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [39]
 		{
 			"Shark Toss on Kockata", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -924,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679244,
 			[50] = "CHAT_MSG_SAY",
-		}, -- [41]
+		}, -- [40]
 		{
 			"Reaping Now", -- [1]
 			"Yes-Elune", -- [2]
@@ -946,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679299,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [42]
+		}, -- [41]
 		{
 			"gj", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -968,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559679302,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [42]
 		{
 			"Hey, if you don't need |cffa335ee|Hitem:158314::::::::120:258::16:4:5010:42:1572:4786:::|h[Seal of Questionable Loyalties]|h|r, I would very much appreciate it <3", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -990,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679339,
 			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [44]
+		}, -- [43]
 		{
 			"i need it sry", -- [1]
 			"Kockata-Silvermoon", -- [2]
@@ -1012,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff006fdcKockata-Silvermoon|r",
 			[51] = 1559679353,
 			[50] = "CHAT_MSG_WHISPER",
-		}, -- [45]
+		}, -- [44]
 		{
 			"gz", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1034,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1559679361,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [45]
 		{
 			"ty boys", -- [1]
 			"Yes-Elune", -- [2]
@@ -1056,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679364,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [46]
 		{
 			"ty", -- [1]
 			"Мидрас-Гордунни", -- [2]
@@ -1078,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cМидрас-Гордунни|r",
 			[51] = 1559679369,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [47]
 		{
 			"and girls", -- [1]
 			"Yes-Elune", -- [2]
@@ -1100,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cfff38bb9Yes-Elune|r",
 			[51] = 1559679370,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [48]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1122,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909148,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
+		}, -- [49]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1144,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909148,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [50]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1166,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909195,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [52]
+		}, -- [51]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1188,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1575909196,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [53]
+		}, -- [52]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1210,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642163,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
+		}, -- [53]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1232,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642163,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [55]
+		}, -- [54]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1254,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642279,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [55]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1276,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642279,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [56]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1298,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588642775,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [58]
+		}, -- [57]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1320,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588787949,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [59]
+		}, -- [58]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1342,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1588787950,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [60]
+		}, -- [59]
 		{
 			"|cffffff00The Broken Front is under attack!|r", -- [1]
 			"", -- [2]
@@ -1364,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "",
 			[51] = 1588788017,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [61]
+		}, -- [60]
 		{
 			"was willst den ändern kevin^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1387,7 +1365,7 @@ ElvCharacterDB = {
 			[51] = 1588788118,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [62]
+		}, -- [61]
 		{
 			"WAs und Elvui", -- [1]
 			"|Kq10|k", -- [2]
@@ -1410,7 +1388,7 @@ ElvCharacterDB = {
 			[51] = 1588788130,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [63]
+		}, -- [62]
 		{
 			"ich will es nicht ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1433,7 +1411,7 @@ ElvCharacterDB = {
 			[51] = 1588788141,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [64]
+		}, -- [63]
 		{
 			"ich liebe classic^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1456,7 +1434,7 @@ ElvCharacterDB = {
 			[51] = 1588788149,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [65]
+		}, -- [64]
 		{
 			"interface^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1479,7 +1457,7 @@ ElvCharacterDB = {
 			[51] = 1588788157,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [66]
+		}, -- [65]
 		{
 			"naja, so wiorste dich nie verbessern wenn alle wichtige info verteilt ist, aber ok^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1502,7 +1480,7 @@ ElvCharacterDB = {
 			[51] = 1588788180,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [67]
+		}, -- [66]
 		{
 			":(", -- [1]
 			"|Kq10|k", -- [2]
@@ -1525,7 +1503,7 @@ ElvCharacterDB = {
 			[51] = 1588788188,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [68]
+		}, -- [67]
 		{
 			"mage macht jetzt 50k dps ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1548,7 +1526,7 @@ ElvCharacterDB = {
 			[51] = 1588788266,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [69]
+		}, -- [68]
 		{
 			"manchmal ^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1571,7 +1549,7 @@ ElvCharacterDB = {
 			[51] = 1588788270,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [70]
+		}, -- [69]
 		{
 			"xDD", -- [1]
 			"|Kq10|k", -- [2]
@@ -1594,7 +1572,7 @@ ElvCharacterDB = {
 			[51] = 1588788271,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Seeo",
-		}, -- [71]
+		}, -- [70]
 		{
 			"^^", -- [1]
 			"|Kq10|k", -- [2]
@@ -1617,7 +1595,7 @@ ElvCharacterDB = {
 			[51] = 1588788275,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Seeo",
-		}, -- [72]
+		}, -- [71]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1639,7 +1617,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [73]
+		}, -- [72]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1661,7 +1639,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463537,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [74]
+		}, -- [73]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1683,7 +1661,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463635,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
+		}, -- [74]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1705,7 +1683,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1589463635,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+		}, -- [75]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1727,7 +1705,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1590538452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [77]
+		}, -- [76]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -1749,7 +1727,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1590538452,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [78]
+		}, -- [77]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1771,7 +1749,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593119580,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [79]
+		}, -- [78]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1793,7 +1771,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120374,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [80]
+		}, -- [79]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1815,7 +1793,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120741,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [81]
+		}, -- [80]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1837,7 +1815,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593120857,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [82]
+		}, -- [81]
 		{
 			"Toll...ich bin auf der Arbeit...alle Patienten schlafen...und mir ist langweilig :/", -- [1]
 			"|Kq1|k", -- [2]
@@ -1860,7 +1838,7 @@ ElvCharacterDB = {
 			[51] = 1593122274,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [83]
+		}, -- [82]
 		{
 			"xD", -- [1]
 			"|Kq1|k", -- [2]
@@ -1883,7 +1861,7 @@ ElvCharacterDB = {
 			[51] = 1593122275,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [84]
+		}, -- [83]
 		{
 			"laptop mitnehmen^^", -- [1]
 			"|Kq1|k", -- [2]
@@ -1906,7 +1884,7 @@ ElvCharacterDB = {
 			[51] = 1593122286,
 			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
 			[53] = "Padeee",
-		}, -- [85]
+		}, -- [84]
 		{
 			"Kein Internet hier...", -- [1]
 			"|Kq1|k", -- [2]
@@ -1929,7 +1907,7 @@ ElvCharacterDB = {
 			[51] = 1593122303,
 			[50] = "CHAT_MSG_BN_WHISPER",
 			[53] = "Padeee",
-		}, -- [86]
+		}, -- [85]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1951,7 +1929,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593122652,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [87]
+		}, -- [86]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1973,7 +1951,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593122893,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [87]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -1995,7 +1973,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593123012,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [88]
 		{
 			"||Gallywix|| wir verkaufen: M+ 10-20 intime mit Armorstack und Key Auswahl Nyalotha 12/12 HC UND Mythic als Persoloot, mit VIP Tradern oder Lootshare. Neue Preise - Mengenrabatt möglich. Intresse oder Fragen? /w me", -- [1]
 			"Tumiblacko-Blackmoore", -- [2]
@@ -2017,7 +1995,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeTumiblacko|r",
 			[51] = 1593123135,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [89]
 		{
 			"<SavedInstances> Reset all instances", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2039,7 +2017,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1598118446,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [91]
+		}, -- [90]
 		{
 			"<SavedInstances> Icecrown Citadel has been reset.", -- [1]
 			"Nexana-Blackmoore", -- [2]
@@ -2061,7 +2039,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeNexana|r",
 			[51] = 1598118446,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [92]
+		}, -- [91]
 		{
 			"WTS Heroic Kills: <Carapace - 55k>, <N'zoth - 75k>, <Carapace & N'zoth-110k>. Experienced team with 1000+ kills. Having Runs every 30 minutes. Accepting payment on ALL realms. Your 470+ BiS Gear, Curve and Mount is waiting! /w ", -- [1]
 			"Lighthookbl-Blackmoore", -- [2]
@@ -2083,7 +2061,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeLighthookbl|r",
 			[51] = 1598118456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [92]
 		{
 			"|cffa335ee|Hitem:166705::::::::120:102::6:1:3524:::|h[Eisiger Gezeitensturm]|h|r vk das einer", -- [1]
 			"Nâzugl-Blackmoore", -- [2]
@@ -2105,7 +2083,7 @@ ElvCharacterDB = {
 			[52] = "|cfffe7b09Nâzugl|r",
 			[51] = 1598118456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [93]
 		{
 			"Verkaufe Freehold level boost 3,5k pro level mit level gear / 4,5k ohne levelgear (110-120) einzelne level möglich", -- [1]
 			"Demokritt-Blackmoore", -- [2]
@@ -2127,7 +2105,7 @@ ElvCharacterDB = {
 			[52] = "|cffc59a6cDemokritt|r",
 			[51] = 1598118456,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [94]
 		{
 			"[Gino´s Söldner] verkaufen Ny´Alotha 12/12 HC um 21:00 Uhr @150k Persoloot - @250k + 1 VIP - @340k + 2 VIP- @600k + 5 VIP! N'Zoth + Mount @65k /w oder https://discord.gg/ZtvHhVE für Infos. Nur gegen Gold!", -- [1]
 			"Ginoboosst-Blackmoore", -- [2]
@@ -2149,7 +2127,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeGinoboosst|r",
 			[51] = 1598118465,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [95]
 		{
 			"Biete Lvl Boost 4k das lvl", -- [1]
 			"Foxo-Blackmoore", -- [2]
@@ -2171,7 +2149,7 @@ ElvCharacterDB = {
 			[52] = "|cffa22fc8Foxo|r",
 			[51] = 1598118466,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [96]
 		{
 			"<Oblivion> Wir bieten euch Ny'alotha 12/12 HC JETZT Lootshare für 200k buchbar. * N'Zoth für 70k. * M+15 nur 120k. Armorstack & Wunschkey für kl. Aufpreis buchbar. * Jaina Mount für 400k. * /w me. :)", -- [1]
 			"Cutemieze-Blackmoore", -- [2]
@@ -2193,7 +2171,7 @@ ElvCharacterDB = {
 			[52] = "|cfffefefeCutemieze|r",
 			[51] = 1598118474,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [97]
 		{
 			"WTS M+10-20 Keys |cffffff00|Hachievement:14145:Player-3687-09DF5126:1:3:16:20:4294967295:4294967295:4294967295:4294967295|h[Battle for Azeroth Keystone Master: Season Four]|h|r/Mechagon Hardmode/Jaina |cff71d5ff|Hspell:289555:0|h[Glacial Tidestorm]|h|r/0-5 Mask Vision/|cff66bbff|Hjournal:0:1001:23|h[Freehold]|h|r 110-120 /W Me For Price", -- [1]
 			"Iccboost-Blackmoore", -- [2]
@@ -2214,6 +2192,28 @@ ElvCharacterDB = {
 			true, -- [17]
 			[52] = "|cfff38bb9Iccboost|r",
 			[51] = 1598118836,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"Biete Lvl Boost 4k das lvl", -- [1]
+			"Foxo-Blackmoore", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Foxo-Blackmoore", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			491, -- [11]
+			"Player-580-08343AD5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa22fc8Foxo|r",
+			[51] = 1598829031,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 	},

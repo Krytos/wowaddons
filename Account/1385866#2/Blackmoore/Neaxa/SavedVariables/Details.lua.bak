@@ -5,20 +5,851 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.006445,
+							["spec"] = 62,
+							["damage_from"] = {
+								["Dreadwing"] = true,
+							},
+							["targets"] = {
+								["Beastlord Darmac"] = 1866264,
+								["Dreadwing"] = 833816,
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["boss_fight_component"] = true,
+							["classe"] = "MAGE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 2700080.006445,
+							["colocacao"] = 1,
+							["friendlyfire"] = {
+							},
+							["dps_started"] = false,
+							["total"] = 2700080.006445,
+							["on_hold"] = false,
+							["end_time"] = 1598828407,
+							["nome"] = "Neaxa",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[30451] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 487636,
+										["g_amt"] = 0,
+										["n_max"] = 588564,
+										["targets"] = {
+											["Beastlord Darmac"] = 1605907,
+											["Dreadwing"] = 833816,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1952087,
+										["n_min"] = 370344,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 2439723,
+										["c_max"] = 487636,
+										["spellschool"] = 64,
+										["id"] = 30451,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 4,
+										["r_amt"] = 0,
+										["c_min"] = 487636,
+									},
+									[295374] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 260357,
+										["targets"] = {
+											["Beastlord Darmac"] = 260357,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 260357,
+										["n_min"] = 260357,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 260357,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 295374,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-580-0555A2EE",
+							["last_dps"] = 198127.3852689756,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 113.006445,
+							["start_time"] = 1598828393,
+							["delay"] = 0,
+							["last_event"] = 1598828407,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 113.007809,
+							["damage_from"] = {
+								["Neaxa"] = true,
+							},
+							["targets"] = {
+								["Neaxa"] = 113,
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 113.007809,
+							["monster"] = true,
+							["boss_fight_component"] = true,
+							["dps_started"] = false,
+							["end_time"] = 1598828407,
+							["friendlyfire_total"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Dreadwing",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 95,
+										["targets"] = {
+											["Neaxa"] = 95,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 95,
+										["n_min"] = 95,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 95,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+									[155030] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 18,
+										["targets"] = {
+											["Neaxa"] = 18,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 18,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 18,
+										["c_max"] = 0,
+										["spellschool"] = 4,
+										["id"] = 155030,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 1,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["total"] = 113.007809,
+							["serial"] = "Vehicle-0-3889-1205-10759-76874-00004C2F24",
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1598828404,
+							["damage_taken"] = 833816.007809,
+							["start_time"] = 1598828404,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003324,
+							["damage_from"] = {
+								["Neaxa"] = true,
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003324,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003324,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3889-1205-10759-76865-00004C2F24",
+							["nome"] = "Beastlord Darmac",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[181089] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 181089,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 2,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828407,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 1866264.003324,
+							["start_time"] = 1598828407,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [3]
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.002724,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["monster"] = true,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.002724,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.002724,
+							["classe"] = "UNKNOW",
+							["serial"] = "Creature-0-3889-1205-10759-87521-0000CC2F24",
+							["nome"] = "Iron Slag-Shaper",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[175981] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 175981,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 1,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828407,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.002724,
+							["start_time"] = 1598828407,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [4]
+						{
+							["flag_original"] = 74312,
+							["totalabsorbed"] = 0.003307,
+							["damage_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003307,
+							["on_hold"] = false,
+							["dps_started"] = false,
+							["total"] = 0.003307,
+							["classe"] = "PET",
+							["serial"] = "Creature-0-3889-1205-10759-87520-00004C2F7E",
+							["nome"] = "Animated Slag",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Neaxa"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["MISS"] = 5,
+										["total"] = 0,
+										["c_max"] = 0,
+										["spellschool"] = 1,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["m_crit"] = 0,
+										["a_amt"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["b_dmg"] = 0,
+										["n_amt"] = 0,
+										["r_amt"] = 0,
+										["c_min"] = 0,
+									}, -- [1]
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1598828435,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 0.003307,
+							["start_time"] = 1598828435,
+							["delay"] = 0,
+							["last_event"] = 1598828435,
+						}, -- [5]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 3,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["targets_overheal"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["classe"] = "MAGE",
+							["totalover"] = 0.001159,
+							["total_without_pet"] = 113.001159,
+							["total"] = 113.001159,
+							["targets_absorbs"] = {
+								["Neaxa"] = 113,
+							},
+							["heal_enemy"] = {
+							},
+							["colocacao"] = 1,
+							["on_hold"] = false,
+							["serial"] = "Player-580-0555A2EE",
+							["totalabsorb"] = 113.001159,
+							["last_hps"] = 8.291837320224912,
+							["targets"] = {
+								["Neaxa"] = 113,
+							},
+							["totalover_without_pet"] = 0.001159,
+							["healing_taken"] = 113.001159,
+							["boss_fight_component"] = true,
+							["end_time"] = 1598828407,
+							["healing_from"] = {
+								["Neaxa"] = true,
+							},
+							["nome"] = "Neaxa",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[269279] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 113,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 95,
+										["targets"] = {
+											["Neaxa"] = 113,
+										},
+										["n_min"] = 18,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 113,
+										["c_max"] = 0,
+										["id"] = 269279,
+										["targets_absorbs"] = {
+											["Neaxa"] = 113,
+										},
+										["m_healed"] = 0,
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["n_curado"] = 113,
+										["n_amt"] = 2,
+										["totaldenied"] = 0,
+										["is_shield"] = true,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["start_time"] = 1598828404,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["spec"] = 62,
+							["totaldenied"] = 0.001159,
+							["delay"] = 0,
+							["last_event"] = 1598828404,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 3,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.00277,
+							["resource"] = 0.00277,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "MAGE",
+							["passiveover"] = 0.00277,
+							["total"] = 0.00277,
+							["nome"] = "Neaxa",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 16,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.00277,
+							["last_event"] = 1598828435,
+							["spec"] = 62,
+							["tipo"] = 3,
+							["serial"] = "Player-580-0555A2EE",
+							["totalover"] = 0.00277,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 3,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[295367] = {
+										["activedamt"] = 0,
+										["id"] = 295367,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["pets"] = {
+							},
+							["classe"] = "MAGE",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[269279] = {
+										["activedamt"] = 1,
+										["id"] = 269279,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 1,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[225788] = {
+										["activedamt"] = 1,
+										["id"] = 225788,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[116267] = {
+										["activedamt"] = 1,
+										["id"] = 116267,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[1459] = {
+										["activedamt"] = 1,
+										["id"] = 1459,
+										["targets"] = {
+										},
+										["uptime"] = 14,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[295378] = {
+										["activedamt"] = 1,
+										["id"] = 295378,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[264774] = {
+										["activedamt"] = 1,
+										["id"] = 264774,
+										["targets"] = {
+										},
+										["uptime"] = 2,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["debuff_uptime"] = 2,
+							["nome"] = "Neaxa",
+							["spec"] = 62,
+							["grupo"] = true,
+							["spell_cast"] = {
+								[30451] = 4,
+								[295373] = 1,
+							},
+							["boss_fight_component"] = true,
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["buff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 66,
+							["serial"] = "Player-580-0555A2EE",
+							["last_event"] = 1598828407,
+						}, -- [1]
+						{
+							["flag_original"] = 2632,
+							["nome"] = "Iron Slag-Shaper",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[175981] = 1,
+							},
+							["last_event"] = 0,
+							["monster"] = true,
+							["serial"] = "Creature-0-3889-1205-10759-87521-0000CC2F24",
+							["classe"] = "UNKNOW",
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["nome"] = "Beastlord Darmac",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["boss_fight_component"] = true,
+							["spell_cast"] = {
+								[181089] = 2,
+							},
+							["last_event"] = 0,
+							["monster"] = true,
+							["serial"] = "Creature-0-3889-1205-10759-76865-00004C2F24",
+							["classe"] = "UNKNOW",
+						}, -- [3]
+						{
+							["flag_original"] = 68168,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+								},
+							},
+							["pets"] = {
+							},
+							["classe"] = "UNKNOW",
+							["boss_debuff"] = true,
+							["monster"] = true,
+							["debuff_uptime"] = 0,
+							["spellschool"] = 4,
+							["debuff_uptime_targets"] = {
+								["Neaxa"] = {
+									["uptime"] = 0,
+									["actived_at"] = 1598828404,
+									["appliedamt"] = 0,
+									["activedamt"] = 1,
+									["actived"] = true,
+									["refreshamt"] = 0,
+								},
+							},
+							["boss_fight_component"] = true,
+							["nome"] = "Seared Flesh",
+							["tipo"] = 4,
+							["damage_twin"] = "Dreadwing",
+							["damage_spellid"] = 155030,
+							["serial"] = "Vehicle-0-3889-1205-10759-76874-00004C2F24",
+							["last_event"] = 1598828404,
+						}, -- [4]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 3,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Neaxa"] = true,
+				},
+				["tempo_start"] = 1598828393,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["overall_added"] = true,
+				["enemy"] = "Beastlord Darmac",
+				["combat_counter"] = 735,
+				["instance_type"] = "raid",
+				["totals"] = {
+					2700193, -- [1]
+					113, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["is_boss"] = {
+					["diff_string"] = "Heroic",
+					["index"] = 1,
+					["zone"] = "Blackrock Foundry",
+					["encounter"] = "Beastlord Darmac",
+					["mapid"] = 1205,
+					["try_number"] = 1,
+					["name"] = "Beastlord Darmac",
+					["diff"] = 15,
+					["id"] = 1694,
+					["ej_instance_id"] = 457,
+					["killed"] = true,
+				},
+				["frags_need_refresh"] = true,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "00:59:54",
+				["end_time"] = 252297.75,
+				["combat_id"] = 3,
+				["cleu_timeline"] = {
+				},
+				["totals_grupo"] = {
+					2700080, -- [1]
+					113, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 0,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Neaxa"] = 113.001159,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Neaxa"] = 2700080.006445,
+						}, -- [1]
+					},
+				},
+				["frags"] = {
+					["Dreadwing"] = 1,
+				},
+				["data_fim"] = "01:00:07",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 252284.122,
+				["contra"] = "Beastlord Darmac",
+				["TimeData"] = {
+				},
+			}, -- [1]
 		},
 	},
-	["last_version"] = "v8.3.0.7336",
+	["last_version"] = "v8.3.0.7356",
 	["SoloTablesSaved"] = {
 		["Mode"] = 1,
+	},
+	["tabela_pets"] = {
 	},
 	["tabela_instancias"] = {
 	},
 	["on_death_menu"] = true,
 	["nick_tag_cache"] = {
-		["nextreset"] = 1593613253,
+		["nextreset"] = 1599413904,
 		["last_version"] = 12,
 	},
-	["last_instance_id"] = 631,
+	["last_instance_id"] = 1205,
 	["announce_interrupts"] = {
 		["enabled"] = false,
 		["whisper"] = "",
@@ -26,7 +857,7 @@ _detalhes_database = {
 		["next"] = "",
 		["custom"] = "",
 	},
-	["last_instance_time"] = 1590539284,
+	["last_instance_time"] = 1598828325,
 	["active_profile"] = "Artèmis-Antonidas",
 	["mythic_dungeon_currentsaved"] = {
 		["dungeon_name"] = "",
@@ -92,7 +923,7 @@ _detalhes_database = {
 			["showing_type"] = 4,
 			["timeline_cutoff_time"] = 3,
 			["last_segment"] = false,
-			["last_combat_id"] = 397,
+			["last_combat_id"] = 4,
 			["timeline_cutoff_delete_time"] = 3,
 			["enabled"] = true,
 			["author"] = "Details! Team",
@@ -147,7 +978,7 @@ _detalhes_database = {
 				500.0000305175781, -- [2]
 			},
 			["minimap"] = {
-				["minimapPos"] = 153.0433832066662,
+				["minimapPos"] = 147.9945444526876,
 				["radius"] = 160,
 				["hide"] = false,
 			},
@@ -158,12 +989,7 @@ _detalhes_database = {
 			["point"] = "CENTER",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["author"] = "Details! Team",
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -171,13 +997,13 @@ _detalhes_database = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["y"] = -6.103515625e-05,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
-			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -189,41 +1015,19 @@ _detalhes_database = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["author"] = "Details! Team",
+			["font_size"] = 10,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = -6.103515625e-05,
+			["use_spark"] = true,
+			["main_frame_strata"] = "LOW",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},
 	},
-	["last_day"] = "16",
-	["last_encounter"] = "The Lich King",
+	["last_day"] = "31",
+	["last_encounter"] = "Beastlord Darmac",
 	["cached_talents"] = {
-		["Player-1099-08F8F326"] = {
-			19823, -- [1]
-			19302, -- [2]
-			22166, -- [3]
-			19995, -- [4]
-			20173, -- [5]
-			22214, -- [6]
-			22170, -- [7]
-		},
-		["Player-580-0555A2EE"] = {
-			22456, -- [1]
-			22443, -- [2]
-			22447, -- [3]
-			22450, -- [4]
-			22904, -- [5]
-			23362, -- [6]
-			21633, -- [7]
-		},
-		["Player-2074-07D13360"] = {
-			17565, -- [1]
-			22176, -- [2]
-			21811, -- [3]
-			22181, -- [4]
-			22164, -- [5]
-			23191, -- [6]
-			21668, -- [7]
-		},
 	},
 	["announce_prepots"] = {
 		["enabled"] = true,
@@ -235,14 +1039,14 @@ _detalhes_database = {
 		},
 	},
 	["last_realversion"] = 141,
-	["combat_id"] = 1,
+	["combat_id"] = 4,
 	["savedStyles"] = {
 	},
 	["announce_firsthit"] = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_counter"] = 718,
+	["combat_counter"] = 737,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -253,11 +1057,419 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.010705,
+					["spec"] = 62,
+					["damage_from"] = {
+						["Dreadwing"] = true,
+					},
+					["targets"] = {
+						["Beastlord Darmac"] = 1866264,
+						["Dreadwing"] = 833816,
+					},
+					["last_event"] = 0,
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "MAGE",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 2700080.010705,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1598828407,
+					["friendlyfire_total"] = 0,
+					["on_hold"] = false,
+					["nome"] = "Neaxa",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[30451] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 487636,
+								["g_amt"] = 0,
+								["n_max"] = 588564,
+								["targets"] = {
+									["Beastlord Darmac"] = 1605907,
+									["Dreadwing"] = 833816,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 1952087,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 2439723,
+								["c_max"] = 487636,
+								["id"] = 30451,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 4,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+							[295374] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 260357,
+								["targets"] = {
+									["Beastlord Darmac"] = 260357,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 260357,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 260357,
+								["c_max"] = 0,
+								["id"] = 295374,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["total"] = 2700080.010705,
+					["serial"] = "Player-580-0555A2EE",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 113.010705,
+					["start_time"] = 1598828390,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.005990000000000001,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Neaxa"] = true,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.005990000000000001,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828407,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Beastlord Darmac",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[181089] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 181089,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 2,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 0.005990000000000001,
+					["serial"] = "Creature-0-3889-1205-10759-76865-00004C2F24",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 1866264.00599,
+					["start_time"] = 1598828404,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [2]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.009186,
+					["on_hold"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.009186,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828407,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Iron Slag-Shaper",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[175981] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 175981,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 1,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 0.009186,
+					["serial"] = "Creature-0-3889-1205-10759-87521-0000CC2F24",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.009186,
+					["start_time"] = 1598828404,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [3]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 113.010397,
+					["on_hold"] = false,
+					["damage_from"] = {
+						["Neaxa"] = true,
+					},
+					["targets"] = {
+						["Neaxa"] = 113,
+					},
+					["pets"] = {
+					},
+					["boss_fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 113.010397,
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["end_time"] = 1598828407,
+					["friendlyfire"] = {
+					},
+					["friendlyfire_total"] = 0,
+					["nome"] = "Dreadwing",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 95,
+								["targets"] = {
+									["Neaxa"] = 95,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 95,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 95,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							}, -- [1]
+							[155030] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 18,
+								["targets"] = {
+									["Neaxa"] = 18,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 18,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 18,
+								["c_max"] = 0,
+								["id"] = 155030,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["a_amt"] = 0,
+								["m_amt"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 1,
+								["r_amt"] = 0,
+								["c_min"] = 0,
+							},
+						},
+					},
+					["monster"] = true,
+					["total"] = 113.010397,
+					["serial"] = "Vehicle-0-3889-1205-10759-76874-00004C2F24",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 833816.010397,
+					["start_time"] = 1598828401,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [4]
 			},
 		}, -- [1]
 		{
 			["tipo"] = 3,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["Neaxa"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["classe"] = "MAGE",
+					["totalover"] = 0.007547,
+					["total_without_pet"] = 113.007547,
+					["total"] = 113.007547,
+					["targets_absorbs"] = {
+						["Neaxa"] = 113,
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-580-0555A2EE",
+					["totalabsorb"] = 113.007547,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Neaxa"] = 113,
+					},
+					["totalover_without_pet"] = 0.007547,
+					["healing_taken"] = 113.007547,
+					["end_time"] = 1598828407,
+					["targets_overheal"] = {
+					},
+					["start_time"] = 1598828401,
+					["nome"] = "Neaxa",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[269279] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 113,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 95,
+								["targets"] = {
+									["Neaxa"] = 113,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 0,
+								["total"] = 113,
+								["c_max"] = 0,
+								["id"] = 269279,
+								["targets_absorbs"] = {
+									["Neaxa"] = 113,
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["c_min"] = 0,
+								["m_amt"] = 0,
+								["n_curado"] = 113,
+								["n_amt"] = 2,
+								["totaldenied"] = 0,
+								["m_healed"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["boss_fight_component"] = true,
+					["heal_enemy_amt"] = 0,
+					["custom"] = 0,
+					["last_event"] = 0,
+					["spec"] = 62,
+					["totaldenied"] = 0.007547,
+					["delay"] = 0,
+					["tipo"] = 2,
+				}, -- [1]
 			},
 		}, -- [2]
 		{
@@ -268,6 +1480,170 @@ _detalhes_database = {
 		{
 			["tipo"] = 9,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[295367] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 295367,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["buff_uptime"] = 66,
+					["classe"] = "MAGE",
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[269279] = {
+								["refreshamt"] = 1,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 269279,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[225788] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 225788,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[116267] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 116267,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1459] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 1459,
+								["uptime"] = 14,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[295378] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 295378,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[264774] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 1,
+								["appliedamt"] = 1,
+								["id"] = 264774,
+								["uptime"] = 2,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["debuff_uptime"] = 2,
+					["boss_fight_component"] = true,
+					["spec"] = 62,
+					["grupo"] = true,
+					["spell_cast"] = {
+						[30451] = 4,
+						[295373] = 1,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["buff_uptime_targets"] = {
+					},
+					["tipo"] = 4,
+					["nome"] = "Neaxa",
+					["pets"] = {
+					},
+					["serial"] = "Player-580-0555A2EE",
+					["last_event"] = 0,
+				}, -- [1]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Iron Slag-Shaper",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[175981] = 1,
+					},
+					["flag_original"] = 2632,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["serial"] = "Creature-0-3889-1205-10759-87521-0000CC2F24",
+					["classe"] = "UNKNOW",
+				}, -- [2]
+				{
+					["monster"] = true,
+					["tipo"] = 4,
+					["nome"] = "Beastlord Darmac",
+					["pets"] = {
+					},
+					["spell_cast"] = {
+						[181089] = 2,
+					},
+					["flag_original"] = 68168,
+					["last_event"] = 0,
+					["boss_fight_component"] = true,
+					["serial"] = "Creature-0-3889-1205-10759-76865-00004C2F24",
+					["classe"] = "UNKNOW",
+				}, -- [3]
+				{
+					["flag_original"] = 68168,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+						},
+					},
+					["pets"] = {
+					},
+					["classe"] = "UNKNOW",
+					["boss_debuff"] = true,
+					["monster"] = true,
+					["debuff_uptime"] = 0,
+					["spellschool"] = 4,
+					["debuff_uptime_targets"] = {
+						["Neaxa"] = {
+							["uptime"] = 0,
+							["appliedamt"] = 0,
+							["activedamt"] = 1,
+							["actived"] = false,
+							["refreshamt"] = 0,
+						},
+					},
+					["damage_spellid"] = 155030,
+					["nome"] = "Seared Flesh",
+					["tipo"] = 4,
+					["damage_twin"] = "Dreadwing",
+					["boss_fight_component"] = true,
+					["serial"] = "Vehicle-0-3889-1205-10759-76874-00004C2F24",
+					["last_event"] = 0,
+				}, -- [4]
 			},
 		}, -- [4]
 		{
@@ -277,15 +1653,15 @@ _detalhes_database = {
 		}, -- [5]
 		["raid_roster"] = {
 		},
-		["tempo_start"] = 220979.403,
+		["tempo_start"] = 1598828407,
 		["last_events_tables"] = {
 		},
 		["alternate_power"] = {
 		},
-		["combat_counter"] = 716,
+		["combat_counter"] = 736,
 		["totals"] = {
-			0, -- [1]
-			0, -- [2]
+			2700193.020302, -- [1]
+			113.001159, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
@@ -308,18 +1684,29 @@ _detalhes_database = {
 		},
 		["player_last_events"] = {
 		},
+		["spells_cast_timeline"] = {
+		},
 		["frags_need_refresh"] = false,
 		["aura_timeline"] = {
 		},
 		["__call"] = {
 		},
-		["data_inicio"] = 0,
-		["end_time"] = 220979.403,
-		["spells_cast_timeline"] = {
+		["data_inicio"] = "00:59:54",
+		["end_time"] = 252297.75,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 13.62799999999697,
+				["type"] = 8,
+				["name"] = "Beastlord Darmac",
+				["clock"] = "00:59:54",
+			}, -- [1]
 		},
 		["totals_grupo"] = {
-			0, -- [1]
-			0, -- [2]
+			2700080.006445, -- [1]
+			113.001159, -- [2]
 			{
 				0, -- [1]
 				[0] = 0,
@@ -340,16 +1727,16 @@ _detalhes_database = {
 		},
 		["frags"] = {
 		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
+		["data_fim"] = "01:00:07",
+		["overall_enemy_name"] = "Beastlord Darmac",
 		["CombatSkillCache"] = {
 		},
 		["cleu_timeline"] = {
 		},
-		["start_time"] = 220979.403,
+		["start_time"] = 252284.122,
 		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
 		},
 		["PhaseData"] = {
 			{
@@ -383,16 +1770,15 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				[3] = 2,
 			},
 			["mode"] = 2,
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -414.0791778564453,
-					["x"] = 635.3651733398438,
-					["w"] = 200.0000152587891,
-					["h"] = 224.8571319580078,
+					["y"] = -395.3492279052734,
+					["x"] = 622.20703125,
+					["w"] = 212.1906585693359,
+					["h"] = 247.2061157226563,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -417,16 +1803,15 @@ _detalhes_database = {
 				1, -- [5]
 			},
 			["snap"] = {
-				1, -- [1]
 			},
 			["mode"] = 2,
 			["attribute"] = 2,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -414.0791778564453,
-					["x"] = 852.2539672851562,
-					["w"] = 233.7776489257813,
-					["h"] = 224.8571319580078,
+					["y"] = -328.8095397949219,
+					["x"] = 840.6199951171875,
+					["w"] = 224.6349334716797,
+					["h"] = 114.1268997192383,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -438,13 +1823,13 @@ _detalhes_database = {
 		}, -- [2]
 		{
 			["segment"] = 0,
-			["sub_attribute"] = 1,
+			["sub_attribute"] = 3,
 			["horizontalSnap"] = false,
 			["verticalSnap"] = false,
 			["is_open"] = false,
 			["isLocked"] = true,
 			["sub_atributo_last"] = {
-				1, -- [1]
+				3, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
@@ -456,10 +1841,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -478.1264877319336,
-					["x"] = 856.2695922851562,
-					["w"] = 219.6556243896484,
-					["h"] = 89.1738510131836,
+					["y"] = -457.3092727661133,
+					["x"] = 839.795166015625,
+					["w"] = 226.1906280517578,
+					["h"] = 111.6349258422852,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -471,7 +1856,7 @@ _detalhes_database = {
 		}, -- [3]
 	},
 	["character_data"] = {
-		["logons"] = 54,
+		["logons"] = 58,
 	},
 	["announce_cooldowns"] = {
 		["ignored_cooldowns"] = {
@@ -489,8 +1874,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 	},
 	["cached_specs"] = {
-		["Player-1099-08F8F326"] = 270,
-		["Player-580-0555A2EE"] = 63,
-		["Player-2074-07D13360"] = 65,
+		["Player-580-0555A2EE"] = 62,
 	},
 }

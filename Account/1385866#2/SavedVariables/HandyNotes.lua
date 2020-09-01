@@ -17,11 +17,11 @@ HandyNotesDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -59,9 +59,7 @@ HandyNotesDB = {
 		},
 		["Grillboost - Antonidas"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
-			["icon_alpha_minimap"] = 0.76,
-			["icon_scale_minimap"] = 1.5,
+		["Nethenâ - Blackmoore"] = {
 		},
 		["Nexanâ - Blackmoore"] = {
 		},
@@ -69,7 +67,9 @@ HandyNotesDB = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
+		["Grillpatrol - Blackmoore"] = {
+			["icon_scale_minimap"] = 1.5,
+			["icon_alpha_minimap"] = 0.76,
 		},
 		["Noxiâ - Blackmoore"] = {
 		},
@@ -97,11 +97,11 @@ HandyNotes_HandyNotesDB = {
 		["Hôrst - Ravencrest"] = "Hôrst - Ravencrest",
 		["Nexana - Blackmoore"] = "Nexana - Blackmoore",
 		["Grillboost - Antonidas"] = "Grillboost - Antonidas",
-		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
+		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
 		["Nexanâ - Blackmoore"] = "Nexanâ - Blackmoore",
 		["Lullidan - Ravencrest"] = "Lullidan - Ravencrest",
 		["Nexâna - Blackmoore"] = "Nexâna - Blackmoore",
-		["Nethenâ - Blackmoore"] = "Nethenâ - Blackmoore",
+		["Grillpatrol - Blackmoore"] = "Grillpatrol - Blackmoore",
 		["Noxiâ - Blackmoore"] = "Noxiâ - Blackmoore",
 		["Lullidan - Blackmoore"] = "Lullidan - Blackmoore",
 		["Grillock - Blackmoore"] = "Grillock - Blackmoore",
@@ -139,7 +139,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Grillboost - Antonidas"] = {
 		},
-		["Grillpatrol - Blackmoore"] = {
+		["Nethenâ - Blackmoore"] = {
 		},
 		["Nexanâ - Blackmoore"] = {
 		},
@@ -147,7 +147,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Nexâna - Blackmoore"] = {
 		},
-		["Nethenâ - Blackmoore"] = {
+		["Grillpatrol - Blackmoore"] = {
 		},
 		["Noxiâ - Blackmoore"] = {
 		},

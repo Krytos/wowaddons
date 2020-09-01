@@ -116,7 +116,7 @@ Simulationcraft: enabled
 SPTimers: disabled
 SPTimersSpellCache: disabled
 TheUndermineJournal: enabled
-TipTac: enabled
+TipTac: disabled
 TipTacItemRef: enabled
 TipTacOptions: enabled
 TipTacTalents: enabled
@@ -158,3 +158,5 @@ Gnosis: disabled
 LibDualSpec-1.0: disabled
 LoggerHead: disabled
 Sorted: disabled
+ElvUI_DTBars2: disabled
+Aptechka: enabled
